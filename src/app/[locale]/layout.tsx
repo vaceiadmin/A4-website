@@ -4,7 +4,7 @@ import Footer from "@/components/common/Footer";
 import PageTransition from "@/components/common/PageTransition";
 import { SmoothScroll } from "@/components/common/SmoothScroll";
 // import IntroAnimationGate from "@/components/common/IntroAnimationGate";
-import MainGifLoaderGate from "@/components/common/MainGifLoaderGate";
+// import MainGifLoaderGate from "@/components/common/MainGifLoaderGate";
 import ScrollToTopButton from "@/components/common/ScrollToTopButton";
 import CookieConsentBanner from "@/components/common/CookieConsentBanner";
 import SupportChat from "@/components/support-chat/SupportChat";
@@ -44,7 +44,7 @@ export default async function LocaleLayout({
         <ReduceMotionProvider>
           <ScrollProvider>
             {/* <IntroAnimationGate /> */}
-            <MainGifLoaderGate>
+            {/* <MainGifLoaderGate> */}
               <SmoothScroll>
                 <Navbar />
                 <PageTransition>{children}</PageTransition>
@@ -55,7 +55,7 @@ export default async function LocaleLayout({
                 {/* <CustomCursor /> */}
                 <CookieConsentBanner />
               </SmoothScroll>
-            </MainGifLoaderGate>
+            {/* </MainGifLoaderGate> */}
           </ScrollProvider>
         </ReduceMotionProvider>
       </I18nProvider>
