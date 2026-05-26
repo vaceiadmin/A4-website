@@ -63,7 +63,7 @@ const PlatformPowerSection = () => {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-zinc-600/10 rounded-full blur-[100px] opacity-40" />
             
             {/* Main Mockup Card (Premium Dark Glassmorphism) */}
-            <div className="relative w-full max-w-[460px] aspect-[4/5] bg-[#0F111A] backdrop-blur-2xl rounded-[2.5rem] border border-white/20 shadow-[0_40px_100px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
+            <div className="relative w-full max-w-[460px] aspect-[4/5] bg-[#09090B] backdrop-blur-2xl rounded-[2.5rem] border border-white/20 shadow-[0_40px_100px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
                {/* Subtle Interior Glow */}
                <div className="absolute inset-0 bg-gradient-to-br from-zinc-600/[0.05] to-transparent pointer-events-none" />
                {/* Mockup Header */}
@@ -133,7 +133,7 @@ const PlatformPowerSection = () => {
             </div>
 
             {/* Floating Accessory 1: Status Badge */}
-            <div className="absolute top-1/4 -right-4 lg:-right-8 p-4 rounded-2xl bg-[#1A1D2B] shadow-2xl border border-white/10 z-20 animate-bounce-slow">
+            <div className="absolute top-1/4 -right-4 lg:-right-8 p-4 rounded-2xl bg-[#18181B] shadow-2xl border border-white/10 z-20 animate-bounce-slow">
                <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-emerald-500/10 flex items-center justify-center text-emerald-400">
                     <CheckCircle2 className="w-5 h-5" />

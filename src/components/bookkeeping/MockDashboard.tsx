@@ -35,12 +35,12 @@ export default function MockDashboard() {
           <svg className="db-spark" viewBox="0 0 88 40" preserveAspectRatio="none">
             <polygon
               points="0,32 14,26 28,28 42,20 56,22 70,13 88,9 88,40 0,40"
-              fill="rgba(79,142,247,0.1)"
+              fill="rgba(161, 161, 170,0.1)"
             />
             <polyline
               points="0,32 14,26 28,28 42,20 56,22 70,13 88,9"
               fill="none"
-              stroke="#4F8EF7"
+              stroke="#A1A1AA"
               strokeWidth="1.6"
               strokeLinecap="round"
             />
@@ -211,7 +211,7 @@ export default function MockDashboard() {
             <polyline
               points="22,55 66,53 110,54 154,51 198,49 242,47"
               fill="none"
-              stroke="#4F8EF7"
+              stroke="#A1A1AA"
               strokeWidth="1.6"
             />
             {/* Expenses */}
@@ -222,12 +222,12 @@ export default function MockDashboard() {
               strokeWidth="1.6"
             />
             {/* Dots revenue */}
-            <circle cx="22" cy="55" r="2.2" fill="#4F8EF7" />
-            <circle cx="66" cy="53" r="2.2" fill="#4F8EF7" />
-            <circle cx="110" cy="54" r="2.2" fill="#4F8EF7" />
-            <circle cx="154" cy="51" r="2.2" fill="#4F8EF7" />
-            <circle cx="198" cy="49" r="2.2" fill="#4F8EF7" />
-            <circle cx="242" cy="47" r="2.2" fill="#4F8EF7" />
+            <circle cx="22" cy="55" r="2.2" fill="#A1A1AA" />
+            <circle cx="66" cy="53" r="2.2" fill="#A1A1AA" />
+            <circle cx="110" cy="54" r="2.2" fill="#A1A1AA" />
+            <circle cx="154" cy="51" r="2.2" fill="#A1A1AA" />
+            <circle cx="198" cy="49" r="2.2" fill="#A1A1AA" />
+            <circle cx="242" cy="47" r="2.2" fill="#A1A1AA" />
             {/* X labels */}
             <text x="18" y="74" fontSize="6" fill="rgba(255,255,255,0.18)" fontFamily="Inter,sans-serif">
               {t("bookkeeping.dashboard.jan")}
@@ -250,7 +250,7 @@ export default function MockDashboard() {
           </svg>
           <div className="db-chart-legend">
             <div className="db-leg">
-              <span className="db-leg-dot" style={{ background: "#4F8EF7" }}></span>
+              <span className="db-leg-dot" style={{ background: "#A1A1AA" }}></span>
               {t("bookkeeping.dashboard.revenue")}
             </div>
             <div className="db-leg">
@@ -325,7 +325,7 @@ export default function MockDashboard() {
                 className="db-rev-bar"
                 style={{
                   width: "84%",
-                  background: "linear-gradient(90deg,#4F8EF7,#7B5CF5)",
+                  background: "linear-gradient(90deg,#A1A1AA,#71717A)",
                 }}
               ></div>
             </div>
@@ -447,7 +447,7 @@ export default function MockDashboard() {
           <div className="db-vat-rows">
             <div className="db-vat-row">
               <span className="db-vat-key">{t("bookkeeping.dashboard.vatCollected")}</span>
-              <span className="db-vat-val" style={{ color: "#4F8EF7" }}>
+              <span className="db-vat-val" style={{ color: "#A1A1AA" }}>
                 €18,400
               </span>
             </div>

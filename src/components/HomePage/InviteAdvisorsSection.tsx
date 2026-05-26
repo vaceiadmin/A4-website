@@ -42,7 +42,7 @@ const InviteAdvisorsSection = () => {
             <ul className="space-y-5 mb-12 w-full">
               {bullets.map((item, index) => (
                 <li key={index} className="flex items-center gap-4 group">
-                  <div className="bg-zinc-500/10 border border-zinc-500/20 rounded-xl p-1.5 shrink-0 shadow-[0_0_15px_rgba(59,130,246,0.1)] group-hover:scale-110 group-hover:shadow-[0_0_20px_rgba(59,130,246,0.2)] transition-all">
+                  <div className="bg-zinc-500/10 border border-zinc-500/20 rounded-xl p-1.5 shrink-0 shadow-[0_0_15px_rgba(161, 161, 170,0.1)] group-hover:scale-110 group-hover:shadow-[0_0_20px_rgba(161, 161, 170,0.2)] transition-all">
                     <CheckCircle2 className="w-5 h-5 text-zinc-400" />
                   </div>
                   <span className="text-slate-300 font-bold text-lg group-hover:text-white transition-colors">{item}</span>
@@ -59,7 +59,7 @@ const InviteAdvisorsSection = () => {
 
           {/* Right Visual Side - GIF */}
           <div className="w-full lg:w-1/2 relative group">
-            <div className="relative rounded-3xl overflow-hidden bg-[#0A0A0F] border border-white/10 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.5),0_0_0_1px_rgba(255,255,255,0.05)_inset] transition-all duration-700 hover:scale-[1.02] hover:border-zinc-500/30 w-full z-10">
+            <div className="relative rounded-3xl overflow-hidden bg-[#09090B] border border-white/10 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.5),0_0_0_1px_rgba(255,255,255,0.05)_inset] transition-all duration-700 hover:scale-[1.02] hover:border-zinc-500/30 w-full z-10">
               {/* Browser Header */}
               <div className="h-10 w-full bg-[#181926] border-b border-white/5 flex items-center px-4 justify-start gap-2 relative">
                 <div className="w-3 h-3 rounded-full bg-[#ff5f56]" />

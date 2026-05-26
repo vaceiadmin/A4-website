@@ -268,7 +268,7 @@ const ValueSection = ({ isDark = false }: { isDark?: boolean }) => {
                     className={cn(
                       "w-full text-left p-6 rounded-2xl border transition-all duration-500 flex items-center gap-6 group",
                       isActive
-                        ? (isDark ? "border-zinc-500/60 bg-gradient-to-br from-white/[0.08] to-white/[0.02] shadow-[0_0_0_1px_rgba(59,130,246,0.35),0_16px_40px_-12px_rgba(37,99,235,0.25)]" : "bg-white border-zinc-500 shadow-xl shadow-zinc-500/10")
+                        ? (isDark ? "border-zinc-500/60 bg-gradient-to-br from-white/[0.08] to-white/[0.02] shadow-[0_0_0_1px_rgba(161, 161, 170,0.35),0_16px_40px_-12px_rgba(37,99,235,0.25)]" : "bg-white border-zinc-500 shadow-xl shadow-zinc-500/10")
                         : (isDark ? "border-white/10 bg-white/[0.02] hover:border-white/25 hover:bg-white/[0.05]" : "bg-white/50 border-slate-200/60 hover:bg-white hover:border-slate-300 shadow-sm")
                     )}
                   >
@@ -313,7 +313,7 @@ const ValueSection = ({ isDark = false }: { isDark?: boolean }) => {
               className={cn(
                 "relative h-full w-full overflow-hidden rounded-[2.5rem] border transition-all duration-700",
                 isDark
-                  ? "border-white/15 bg-[#0c0f18] shadow-[0_28px_70px_-20px_rgba(0,0,0,0.9),0_0_0_1px_rgba(255,255,255,0.06)_inset,0_0_60px_-10px_rgba(59,130,246,0.12)]"
+                  ? "border-white/15 bg-[#0c0f18] shadow-[0_28px_70px_-20px_rgba(0,0,0,0.9),0_0_0_1px_rgba(255,255,255,0.06)_inset,0_0_60px_-10px_rgba(161, 161, 170,0.12)]"
                   : "border-slate-200 bg-white shadow-2xl"
               )}
             >

@@ -74,7 +74,7 @@ const WLHero: React.FC<WLHeroProps> = ({
               transition={{ duration: 0.9, ease: [0.16, 1, 0.3, 1] }}
             >
               <div className="inline-flex items-center gap-3 px-5 py-2.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-white text-xs font-black tracking-[0.25em] uppercase mb-10 shadow-xl">
-                <span className="w-2.5 h-2.5 rounded-full bg-primary-blue animate-pulse shadow-[0_0_10px_rgba(59,73,230,0.8)]" />
+                <span className="w-2.5 h-2.5 rounded-full bg-primary-blue animate-pulse shadow-[0_0_10px_rgba(63, 63, 70,0.8)]" />
                 {title}
               </div>
 

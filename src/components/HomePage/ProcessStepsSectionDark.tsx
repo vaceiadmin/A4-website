@@ -235,7 +235,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 min-w-0">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center min-w-0">
           <div className="relative z-10 w-full min-w-0 lg:order-1">
-            <div className="bg-[#0F111A] rounded-[2.5rem] border border-white/20 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
+            <div className="bg-[#09090B] rounded-[2.5rem] border border-white/20 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
               <div className="p-1 sm:p-2">
                 <div className="bg-[#1A1C33]/50 rounded-[2.2rem] p-6 sm:p-8 md:p-10 relative overflow-hidden">
                   {/* Interior Glow */}
@@ -302,7 +302,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                                   {openSelectKey === field.key && (
                                     <>
                                       <div className="fixed inset-0 z-20" onClick={() => setOpenSelectKey(null)} />
-                                      <div className="absolute z-30 mt-2 w-full overflow-hidden rounded-2xl border border-white/10 bg-[#15162d] shadow-2xl py-2">
+                                      <div className="absolute z-30 mt-2 w-full overflow-hidden rounded-2xl border border-white/10 bg-[#18181B] shadow-2xl py-2">
                                         {field.options?.map((opt) => (
                                           <button
                                             key={opt}
@@ -354,7 +354,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                                   {openSelectKey === field.key && (
                                     <>
                                       <div className="fixed inset-0 z-[19]" onClick={() => setOpenSelectKey(null)} />
-                                      <div className="absolute z-[30] mt-2 w-full max-h-[300px] overflow-y-auto rounded-2xl border border-white/10 bg-[#15162d] shadow-2xl py-2">
+                                      <div className="absolute z-[30] mt-2 w-full max-h-[300px] overflow-y-auto rounded-2xl border border-white/10 bg-[#18181B] shadow-2xl py-2">
                                         {field.options?.map((opt) => {
                                           const isSelected = (formData[field.key] as string[]).includes(opt);
                                           return (

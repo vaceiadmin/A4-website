@@ -112,7 +112,7 @@ const WLPricing: React.FC<WLPricingProps> = ({
                 <div className="w-full space-y-6">
                   <button
                     onClick={onCtaClick}
-                    className="group/btn relative w-full sm:w-auto px-14 py-6 bg-primary-blue text-white rounded-3xl font-black text-xl overflow-hidden transition-all duration-500 hover:shadow-[0_25px_60px_-15px_rgba(59,73,230,0.5)] hover:-translate-y-1 active:scale-95"
+                    className="group/btn relative w-full sm:w-auto px-14 py-6 bg-primary-blue text-white rounded-3xl font-black text-xl overflow-hidden transition-all duration-500 hover:shadow-[0_25px_60px_-15px_rgba(63, 63, 70,0.5)] hover:-translate-y-1 active:scale-95"
                   >
                     <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/10 to-white/0 translate-x-[-100%] group-hover/btn:translate-x-[100%] transition-transform duration-1000" />
                     <span className="relative z-10 flex items-center justify-center gap-3">

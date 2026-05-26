@@ -127,8 +127,8 @@ export default function AuditPlatform() {
                   whileHover={!reduceMotion ? { 
                     y: -8,
                     scale: 1.02,
-                    borderColor: "rgba(59, 130, 246, 0.4)",
-                    boxShadow: "0 20px 40px -15px rgba(59, 130, 246, 0.15)"
+                    borderColor: "rgba(161, 161, 170, 0.4)",
+                    boxShadow: "0 20px 40px -15px rgba(161, 161, 170, 0.15)"
                   } : {}}
                   className="group flex flex-col gap-4 p-6 rounded-3xl bg-white border border-slate-100 shadow-sm transition-all duration-500 will-change-transform"
                 >
@@ -199,7 +199,7 @@ export default function AuditPlatform() {
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
               transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
-              className="relative aspect-square lg:aspect-[4/4] rounded-[40px] bg-white border border-slate-100 shadow-[0_40px_100px_-20px_rgba(59,130,246,0.15)] flex items-center justify-center overflow-hidden"
+              className="relative aspect-square lg:aspect-[4/4] rounded-[40px] bg-white border border-slate-100 shadow-[0_40px_100px_-20px_rgba(161, 161, 170,0.15)] flex items-center justify-center overflow-hidden"
             >
               {/* Internal Beams Container */}
               <div className="absolute inset-0 z-0 opacity-[0.4] bg-gradient-to-br from-zinc-50/20 via-transparent to-zinc-100/20" />

@@ -73,7 +73,7 @@ function AnimatedFeatureVisual({ index }: { index: number }) {
             {/* Base gradient background */}
             <div className={cn(
                 "absolute inset-0 rounded-[2.5rem]",
-                isSimple ? "bg-gradient-to-br from-[#0f172a] via-[#1e1b4b] to-[#000000]" : "bg-[#000000]"
+                isSimple ? "bg-gradient-to-br from-[#09090B] via-[#18181B] to-[#000000]" : "bg-[#000000]"
             )} />
 
             {isSimple && (
@@ -82,7 +82,7 @@ function AnimatedFeatureVisual({ index }: { index: number }) {
                     <div className="absolute bottom-[-10%] left-[-10%] w-[50%] h-[50%] bg-primary-blue/10 rounded-full blur-[50px]" />
                     {/* Fixed decorative rings */}
                     <div className="absolute top-1/2 left-1/2 w-48 h-48 -translate-x-1/2 -translate-y-1/2 rounded-full border border-white/5 opacity-40 shadow-[inset_0_0_20px_rgba(255,255,255,0.02)]" />
-                    <div className="absolute top-1/2 left-1/2 w-32 h-32 -translate-x-1/2 -translate-y-1/2 rounded-full border border-primary-blue/10 opacity-30 shadow-[0_0_15px_rgba(59,73,230,0.1)]" />
+                    <div className="absolute top-1/2 left-1/2 w-32 h-32 -translate-x-1/2 -translate-y-1/2 rounded-full border border-primary-blue/10 opacity-30 shadow-[0_0_15px_rgba(63, 63, 70,0.1)]" />
                     {/* Small static accent dot */}
                     <div className="absolute top-1/2 left-1/2 w-2 h-2 -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary-blue/60" />
                 </div>
@@ -94,7 +94,7 @@ function AnimatedFeatureVisual({ index }: { index: number }) {
                     <motion.div
                         className="absolute inset-0 rounded-[2.5rem] opacity-60"
                         style={{
-                            background: 'linear-gradient(105deg, transparent 40%, rgba(59,73,230,0.3) 50%, transparent 60%)',
+                            background: 'linear-gradient(105deg, transparent 40%, rgba(63, 63, 70,0.3) 50%, transparent 60%)',
                             backgroundSize: '200% 200%',
                         }}
                         animate={{
@@ -145,7 +145,7 @@ function AnimatedFeatureVisual({ index }: { index: number }) {
 
                     {/* Central glowing dot */}
                     <motion.div
-                        className="absolute top-1/2 left-1/2 w-3 h-3 -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary-blue shadow-[0_0_20px_rgba(59,73,230,0.8)]"
+                        className="absolute top-1/2 left-1/2 w-3 h-3 -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary-blue shadow-[0_0_20px_rgba(63, 63, 70,0.8)]"
                         animate={{
                             scale: [1, 1.5, 1],
                             opacity: [0.8, 1, 0.8],
@@ -260,7 +260,7 @@ const FeatureSection = ({ features, className = '', useGridLayout = false }: Fea
                                         as="li"
                                         className="flex items-center gap-4 text-gray text-base lg:text-lg"
                                     >
-                                        <div className="w-2 h-2 rounded-full bg-primary-blue shadow-[0_0_10px_rgba(59,73,230,0.3)] shrink-0"></div>
+                                        <div className="w-2 h-2 rounded-full bg-primary-blue shadow-[0_0_10px_rgba(63, 63, 70,0.3)] shrink-0"></div>
                                         <span>{item}</span>
                                     </FadeInUp>
                                 ))}

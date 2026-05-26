@@ -159,7 +159,7 @@ const TrustSection = () => {
                       animate={{ scale: [1, 1.05, 1] }}
                       transition={{ duration: 5, repeat: Infinity }}
                    />
-                   <circle cx="100" cy="100" r="4" fill="currentColor" className="text-zinc-500 shadow-[0_0_15px_rgba(59,130,246,0.5)]" />
+                   <circle cx="100" cy="100" r="4" fill="currentColor" className="text-zinc-500 shadow-[0_0_15px_rgba(161, 161, 170,0.5)]" />
                 </svg>
               </div>
             </div>

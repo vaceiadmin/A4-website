@@ -137,7 +137,7 @@ export default function WhatIsA4() {
                       <div className="wx-team-card">
                         <div
                           className="wx-avatar"
-                          style={{ background: "#1A2640" }}
+                          style={{ background: "#18181B" }}
                         >
                           S
                         </div>
@@ -200,8 +200,8 @@ export default function WhatIsA4() {
                       <div
                         className="wx-act-icon"
                         style={{
-                          background: "rgba(79,142,247,0.1)",
-                          color: "#4F8EF7",
+                          background: "rgba(161, 161, 170,0.1)",
+                          color: "#A1A1AA",
                         }}
                       >
                         <ArrowUp size={12} />
@@ -334,7 +334,7 @@ export default function WhatIsA4() {
                           <span className="wx-chart-leg">
                             <span
                               className="wx-chart-leg-dot"
-                              style={{ background: "#4F8EF7" }}
+                              style={{ background: "#A1A1AA" }}
                             ></span>
                             Out
                           </span>
@@ -367,12 +367,12 @@ export default function WhatIsA4() {
                           >
                             <stop
                               offset="0%"
-                              stopColor="#4F8EF7"
+                              stopColor="#A1A1AA"
                               stopOpacity="0.15"
                             />
                             <stop
                               offset="100%"
-                              stopColor="#4F8EF7"
+                              stopColor="#A1A1AA"
                               stopOpacity="0"
                             />
                           </linearGradient>
@@ -396,7 +396,7 @@ export default function WhatIsA4() {
                         <polyline
                           points="0,40 60,37 120,39 180,33 240,36 300,30"
                           fill="none"
-                          stroke="#4F8EF7"
+                          stroke="#A1A1AA"
                           strokeWidth="1.5"
                           strokeLinecap="round"
                           strokeLinejoin="round"

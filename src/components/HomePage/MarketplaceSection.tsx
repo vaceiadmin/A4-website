@@ -52,7 +52,7 @@ const MarketplaceSection = () => {
     <section className="py-24 bg-black relative overflow-hidden rounded-[48px]">
       {/* Abstract Background Decoration */}
       <div className="absolute inset-0 z-0 opacity-30">
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.1)_0,transparent_70%)]" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full bg-[radial-gradient(circle_at_center,rgba(161, 161, 170,0.1)_0,transparent_70%)]" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

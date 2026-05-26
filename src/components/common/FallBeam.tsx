@@ -71,13 +71,13 @@ const FallBeamBackground: React.FC<FallBeamBackgroundProps> = ({
     // Map Tailwind color to an RGB or RGBA value for the CSS variable
     const getColorValue = (colorClass: string): string => {
         switch (colorClass) {
-            case 'primary-blue': return 'rgba(59, 73, 230, 0.8)';
+            case 'primary-blue': return 'rgba(63, 63, 70, 0.8)';
             case 'green-400': return 'rgba(74, 222, 128, 0.8)';
             case 'zinc-400': return 'rgba(34, 211, 238, 0.8)';
             case 'zinc-400': return 'rgba(96, 165, 250, 0.8)';
             case 'red-400': return 'rgba(248, 113, 113, 0.8)';
-            case 'zinc-400': return 'rgba(59, 73, 230, 0.75)';
-            default: return 'rgba(59, 73, 230, 0.8)';
+            case 'zinc-400': return 'rgba(63, 63, 70, 0.75)';
+            default: return 'rgba(63, 63, 70, 0.8)';
         }
     };
 

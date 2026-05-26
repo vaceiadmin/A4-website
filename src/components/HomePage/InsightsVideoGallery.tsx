@@ -100,8 +100,8 @@ function InsightsVideoGalleryInner({ isDark = true }: InsightsVideoGalleryProps)
         className={cn(
           "relative overflow-hidden rounded-[2rem]",
           isDark
-            ? "border border-white/[0.1] bg-gradient-to-b from-[#11131c] via-[#0c0d12] to-[#08090c] shadow-[0_24px_80px_-24px_rgba(0,0,0,0.85),0_0_0_1px_rgba(255,255,255,0.05)_inset] before:pointer-events-none before:absolute before:inset-0 before:rounded-[2rem] before:bg-[radial-gradient(ellipse_90%_55%_at_50%_-30%,rgba(59,130,246,0.12),transparent_55%)]"
-            : "border border-slate-200/90 bg-gradient-to-b from-white via-slate-50/80 to-white shadow-[0_24px_60px_-20px_rgba(15,23,42,0.12),0_0_0_1px_rgba(255,255,255,0.9)_inset] before:pointer-events-none before:absolute before:inset-0 before:rounded-[2rem] before:bg-[radial-gradient(ellipse_90%_55%_at_50%_-20%,rgba(59,130,246,0.08),transparent_55%)]"
+            ? "border border-white/[0.1] bg-gradient-to-b from-[#11131c] via-[#0c0d12] to-[#08090c] shadow-[0_24px_80px_-24px_rgba(0,0,0,0.85),0_0_0_1px_rgba(255,255,255,0.05)_inset] before:pointer-events-none before:absolute before:inset-0 before:rounded-[2rem] before:bg-[radial-gradient(ellipse_90%_55%_at_50%_-30%,rgba(161, 161, 170,0.12),transparent_55%)]"
+            : "border border-slate-200/90 bg-gradient-to-b from-white via-slate-50/80 to-white shadow-[0_24px_60px_-20px_rgba(15,23,42,0.12),0_0_0_1px_rgba(255,255,255,0.9)_inset] before:pointer-events-none before:absolute before:inset-0 before:rounded-[2rem] before:bg-[radial-gradient(ellipse_90%_55%_at_50%_-20%,rgba(161, 161, 170,0.08),transparent_55%)]"
         )}
       >
         <div className="relative flex min-h-0 flex-col lg:flex-row">
@@ -221,8 +221,8 @@ function InsightsVideoGalleryInner({ isDark = true }: InsightsVideoGalleryProps)
                     isDark ? "focus-visible:ring-offset-[#0c0d12]" : "focus-visible:ring-offset-slate-100",
                     selected
                       ? isDark
-                        ? "bg-gradient-to-b from-zinc-500/20 to-zinc-600/10 shadow-[0_0_0_1px_rgba(59,130,246,0.55),0_12px_40px_-12px_rgba(59,130,246,0.35)]"
-                        : "bg-white shadow-[0_0_0_1px_rgba(59,130,246,0.45),0_14px_36px_-14px_rgba(37,99,235,0.25)]"
+                        ? "bg-gradient-to-b from-zinc-500/20 to-zinc-600/10 shadow-[0_0_0_1px_rgba(161, 161, 170,0.55),0_12px_40px_-12px_rgba(161, 161, 170,0.35)]"
+                        : "bg-white shadow-[0_0_0_1px_rgba(161, 161, 170,0.45),0_14px_36px_-14px_rgba(37,99,235,0.25)]"
                       : isDark
                         ? "bg-white/[0.05] hover:bg-white/[0.09] hover:shadow-[0_8px_32px_-12px_rgba(0,0,0,0.5)]"
                         : "bg-white/80 hover:bg-white hover:shadow-md"

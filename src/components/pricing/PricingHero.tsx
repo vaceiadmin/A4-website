@@ -41,7 +41,7 @@ const PricingHero = () => {
               <TextAnimation
                 text={t("hero.title")}
                 as="h1"
-                className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#1a1c35] mb-6 leading-tight tracking-tight"
+                className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#18181B] mb-6 leading-tight tracking-tight"
               />
 
               <div className="space-y-6 text-lg text-gray-600 leading-relaxed">
@@ -56,7 +56,7 @@ const PricingHero = () => {
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                         </svg>
                       </div>
-                      <span className="text-base font-medium text-[#1a1c35]">{label}</span>
+                      <span className="text-base font-medium text-[#18181B]">{label}</span>
                     </div>
                   ))}
                 </div>
@@ -84,7 +84,7 @@ const PricingHero = () => {
                       <span className="text-sm font-semibold text-[#000000]">{t("hero.card.badge")}</span>
                     </div>
 
-                    <h3 className="text-2xl font-bold text-[#1a1c35] mb-4">{t("hero.card.title")}</h3>
+                    <h3 className="text-2xl font-bold text-[#18181B] mb-4">{t("hero.card.title")}</h3>
 
                     <div className="space-y-3">
                       {cardRows.map((item, idx) => (

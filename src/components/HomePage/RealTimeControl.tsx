@@ -98,7 +98,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                 <div
                   className={cn(
                     "flex items-center justify-between gap-6 border-b px-6 py-5 sm:px-8",
-                    "bg-[#0b1220] border-white/10"
+                    "bg-[#09090B] border-white/10"
                   )}
                 >
                   <div className="flex items-center gap-3 min-w-0">
@@ -208,7 +208,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
 
                     {/* Summary */}
                     <div className="col-span-12 lg:col-span-4">
-                      <div className={cn("rounded-[2.25rem] border p-6 sm:p-7 bg-[#0b1220] border-white/10")}>
+                      <div className={cn("rounded-[2.25rem] border p-6 sm:p-7 bg-[#09090B] border-white/10")}>
                         <p className={cn("text-lg font-black text-white")}>Summary</p>
                         <p className={cn("mt-5 text-[10px] font-black uppercase tracking-[0.25em] text-slate-400")}>
                           Services selected
@@ -249,7 +249,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                         <div
                           className="absolute inset-0 pointer-events-none opacity-[0.05]"
                           style={{
-                            backgroundImage: "radial-gradient(circle at 2px 2px, #0f172a 1px, transparent 0)",
+                            backgroundImage: "radial-gradient(circle at 2px 2px, #09090B 1px, transparent 0)",
                             backgroundSize: "48px 48px",
                           }}
                         />
@@ -274,7 +274,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
               <div
                 className={cn(
                   "relative overflow-hidden rounded-[3.5rem] border shadow-3xl transition-all duration-700 group-hover:scale-[1.01]",
-                  "border-white/10 bg-[#0b1220]"
+                  "border-white/10 bg-[#09090B]"
                 )}
               >
                 {/* Simple browser chrome */}

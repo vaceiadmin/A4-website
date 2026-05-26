@@ -13,7 +13,7 @@ const CallOptionSection = ({ isDark = true }: { isDark?: boolean }) => {
     <section className={cn(
       "relative py-24 sm:py-32 overflow-hidden mb-12 sm:mb-20",
       isDark && "mx-4 sm:mx-6 lg:mx-8",
-      isDark ? "bg-[#0A0A0F] text-white rounded-[48px] border border-white/5" : "bg-white text-slate-900 rounded-[48px] border border-slate-100 shadow-xl"
+      isDark ? "bg-[#09090B] text-white rounded-[48px] border border-white/5" : "bg-white text-slate-900 rounded-[48px] border border-slate-100 shadow-xl"
     )}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12 sm:gap-20">

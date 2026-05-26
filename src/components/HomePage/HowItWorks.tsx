@@ -173,7 +173,7 @@ const HowItWorks = () => {
                   className={cn(
                     "w-full text-left group relative p-5 rounded-[2rem] transition-all duration-700 border overflow-hidden",
                     isActive
-                      ? "bg-white border-zinc-100 shadow-[0_20px_50px_-20px_rgba(59,130,246,0.15)]"
+                      ? "bg-white border-zinc-100 shadow-[0_20px_50px_-20px_rgba(161, 161, 170,0.15)]"
                       : isPast
                         ? "bg-slate-50 opacity-80 border-slate-100"
                         : "border-transparent bg-transparent hover:bg-slate-50 opacity-60"
@@ -188,7 +188,7 @@ const HowItWorks = () => {
                     <div className={cn(
                       "w-12 h-12 shrink-0 rounded-2xl flex items-center justify-center transition-all duration-700 relative",
                       isActive || isPast
-                        ? `bg-gradient-to-br ${step.color} text-white shadow-[0_5px_15px_rgba(59,130,246,0.2)]`
+                        ? `bg-gradient-to-br ${step.color} text-white shadow-[0_5px_15px_rgba(161, 161, 170,0.2)]`
                         : "bg-slate-100 text-slate-400 group-hover:text-slate-600"
                     )}>
                       <Icon className="w-6 h-6" />

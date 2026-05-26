@@ -72,7 +72,7 @@ const PricingFactors = () => {
             <TextAnimation
               text={t("factors.title")}
               as="h2"
-              className="mt-6 text-3xl md:text-5xl font-medium text-[#1a1c35] tracking-tight"
+              className="mt-6 text-3xl md:text-5xl font-medium text-[#18181B] tracking-tight"
             />
             <p className="mt-4 text-gray-600 text-lg max-w-3xl mx-auto">{t("factors.subtitle")}</p>
           </FadeInUp>
@@ -122,7 +122,7 @@ const PricingFactors = () => {
               <h3
                 className={cn(
                   "text-lg font-bold mb-2 transition-colors",
-                  selectedFactor.id === factor.id ? "text-white" : "text-[#1a1c35]"
+                  selectedFactor.id === factor.id ? "text-white" : "text-[#18181B]"
                 )}
               >
                 {factor.title}
@@ -181,7 +181,7 @@ const PricingFactors = () => {
                     <div className="text-sm font-semibold text-primary-blue mb-1">
                       {t("factors.factorLabel", { id: selectedFactor.id })}
                     </div>
-                    <h3 className="text-2xl md:text-3xl font-bold text-[#1a1c35]">{selectedFactor.title}</h3>
+                    <h3 className="text-2xl md:text-3xl font-bold text-[#18181B]">{selectedFactor.title}</h3>
                   </div>
                 </div>
 
@@ -206,7 +206,7 @@ const PricingFactors = () => {
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                         </svg>
                       </div>
-                      <span className="text-[#1a1c35] font-medium">{detail}</span>
+                      <span className="text-[#18181B] font-medium">{detail}</span>
                     </motion.div>
                   ))}
                 </div>

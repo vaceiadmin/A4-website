@@ -86,7 +86,7 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
                 >
                   <div className={cn(
                     "w-[4.5rem] h-[4.5rem] sm:w-20 sm:h-20 rounded-[1.35rem] sm:rounded-[2rem] flex items-center justify-center border transition-all duration-700 shadow-xl sm:shadow-2xl",
-                    isDark ? "bg-[#0A0A0F] border-white/10 group-active:border-primary-blue" : "bg-white border-slate-200 group-active:border-zinc-500"
+                    isDark ? "bg-[#09090B] border-white/10 group-active:border-primary-blue" : "bg-white border-slate-200 group-active:border-zinc-500"
                   )}>
                     <div className={cn(
                       "transition-all duration-700",
@@ -141,7 +141,7 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
                   >
                     <div className={cn(
                       "w-16 h-16 sm:w-20 sm:h-20 rounded-[2rem] flex items-center justify-center border transition-all duration-700 shadow-2xl",
-                      isDark ? "bg-[#0A0A0F] border-white/10 group-hover:border-primary-blue" : "bg-white border-slate-200 group-hover:border-zinc-500"
+                      isDark ? "bg-[#09090B] border-white/10 group-hover:border-primary-blue" : "bg-white border-slate-200 group-hover:border-zinc-500"
                     )}>
                       <div className={cn(
                         "transition-all duration-700 group-hover:scale-120",
@@ -170,8 +170,8 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
                 toRef={feat.ref}
                 duration={3}
                 delay={feat.delay}
-                gradientStartColor="#2563eb"
-                gradientStopColor="#60a5fa"
+                gradientStartColor="#52525B"
+                gradientStopColor="#A1A1AA"
                 pathWidth={2}
                 pathOpacity={0.15}
                 curvature={i < 2 ? -40 : 40}

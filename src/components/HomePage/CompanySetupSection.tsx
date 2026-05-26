@@ -52,7 +52,7 @@ const CompanySetupSection = () => {
 
                     {/* Card 1: What We Handle */}
                     <div className="group relative">
-                        <div className="h-full bg-[#151825] border border-white/10 p-8 rounded-[2.5rem] shadow-[0_15px_40px_-15px_rgba(0,0,0,0.4)] transition-all duration-500 hover:shadow-[0_40px_80px_-20px_rgba(0,0,0,0.5)] group-hover:-translate-y-1.5">
+                        <div className="h-full bg-[#18181B] border border-white/10 p-8 rounded-[2.5rem] shadow-[0_15px_40px_-15px_rgba(0,0,0,0.4)] transition-all duration-500 hover:shadow-[0_40px_80px_-20px_rgba(0,0,0,0.5)] group-hover:-translate-y-1.5">
                             <div className="w-14 h-14 bg-zinc-500/15 rounded-2xl flex items-center justify-center text-zinc-400 mb-6 group-hover:rotate-6 transition-transform duration-500">
                                 <svg className="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" /></svg>
                             </div>
@@ -70,7 +70,7 @@ const CompanySetupSection = () => {
 
                     {/* Card 2: What You Do */}
                     <div className="group relative">
-                        <div className="h-full bg-[#151825] border border-white/10 p-8 rounded-[2.5rem] shadow-[0_15px_40px_-15px_rgba(0,0,0,0.4)] transition-all duration-500 hover:shadow-[0_40px_80px_-20px_rgba(0,0,0,0.5)] group-hover:-translate-y-1.5">
+                        <div className="h-full bg-[#18181B] border border-white/10 p-8 rounded-[2.5rem] shadow-[0_15px_40px_-15px_rgba(0,0,0,0.4)] transition-all duration-500 hover:shadow-[0_40px_80px_-20px_rgba(0,0,0,0.5)] group-hover:-translate-y-1.5">
                             <div className="w-14 h-14 bg-white/5 rounded-2xl flex items-center justify-center text-slate-200 mb-6 group-hover:-rotate-6 transition-transform duration-500">
                                 <svg className="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-5.618 1.04" /></svg>
                             </div>

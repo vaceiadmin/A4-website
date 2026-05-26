@@ -81,7 +81,7 @@ export default function LanguageSwitcher({
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 10, scale: 0.95 }}
             transition={{ duration: 0.2 }}
-            className="absolute bottom-full right-0 mb-3 min-w-[16rem] w-max max-w-[min(22rem,calc(100vw-1.5rem))] rounded-2xl border-2 border-slate-200 bg-white p-2 shadow-[0_20px_50px_-12px_rgba(15,23,42,0.35),0_0_0_1px_rgba(59,73,230,0.12)] origin-bottom-right"
+            className="absolute bottom-full right-0 mb-3 min-w-[16rem] w-max max-w-[min(22rem,calc(100vw-1.5rem))] rounded-2xl border-2 border-slate-200 bg-white p-2 shadow-[0_20px_50px_-12px_rgba(15,23,42,0.35),0_0_0_1px_rgba(63, 63, 70,0.12)] origin-bottom-right"
           >
             <div className="flex flex-col gap-1">
               {localesForSwitcher.map((loc) => {
@@ -112,7 +112,7 @@ export default function LanguageSwitcher({
         type="button"
         onClick={() => setIsOpen(!isOpen)}
         className={cn(
-          "group flex items-center gap-2.5 rounded-full border-2 border-[#000000]/35 bg-white py-2 pl-2 pr-4 shadow-[0_12px_40px_-8px_rgba(15,23,42,0.28),0_0_0_1px_rgba(15,23,42,0.06)] transition-all duration-300 hover:border-[#000000]/60 hover:shadow-[0_16px_44px_-8px_rgba(59,73,230,0.35)]",
+          "group flex items-center gap-2.5 rounded-full border-2 border-[#000000]/35 bg-white py-2 pl-2 pr-4 shadow-[0_12px_40px_-8px_rgba(15,23,42,0.28),0_0_0_1px_rgba(15,23,42,0.06)] transition-all duration-300 hover:border-[#000000]/60 hover:shadow-[0_16px_44px_-8px_rgba(63, 63, 70,0.35)]",
           isOpen
             ? "border-[#000000] bg-slate-50 ring-4 ring-[#000000]/15"
             : ""

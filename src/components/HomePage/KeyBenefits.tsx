@@ -41,7 +41,7 @@ const KeyBenefits = ({ isDark = true }: { isDark?: boolean }) => {
                   className={cn(
                     "relative group flex flex-col sm:flex-row items-start gap-8 p-10 sm:p-14 rounded-[3rem] border transition-all duration-700",
                     isDark
-                      ? "bg-[#0A0A0F] border-white/5 hover:border-primary-blue/30"
+                      ? "bg-[#09090B] border-white/5 hover:border-primary-blue/30"
                       : "bg-slate-50 border-slate-100 hover:border-zinc-600 hover:-translate-y-1 hover:shadow-[0_28px_70px_-28px_rgba(37,99,235,0.25)] hover:bg-white",
                     i % 2 === 0 ? "sm:translate-x-0" : "sm:translate-x-12"
                   )}

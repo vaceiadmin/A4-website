@@ -197,7 +197,7 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "p-8 rounded-[2.5rem] border shadow-2xl transition-all duration-500 hover:shadow-primary-blue/5",
-                isDark ? "bg-[#0F111A] border-white/10" : "bg-white border-slate-100"
+                isDark ? "bg-[#09090B] border-white/10" : "bg-white border-slate-100"
               )}
             >
               <div className="space-y-5">
@@ -256,7 +256,7 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "relative rounded-[2.5rem] border overflow-hidden p-8 sm:p-12",
-                isDark ? "bg-[#0F111A] border-white/10" : "bg-white border-slate-200 shadow-xl"
+                isDark ? "bg-[#09090B] border-white/10" : "bg-white border-slate-200 shadow-xl"
               )}
             >
               <div className="space-y-8">

@@ -81,7 +81,7 @@ const InsightsAndResourcesSection = ({
       {/* Background glow behind title */}
       <div className={cn(
         "absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-4xl h-[400px] pointer-events-none",
-        isDark ? "bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.08)_0,transparent_60%)]" : "bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.05)_0,transparent_60%)]"
+        isDark ? "bg-[radial-gradient(circle_at_center,rgba(161, 161, 170,0.08)_0,transparent_60%)]" : "bg-[radial-gradient(circle_at_center,rgba(161, 161, 170,0.05)_0,transparent_60%)]"
       )} />
 
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -122,7 +122,7 @@ const InsightsAndResourcesSection = ({
           {resourcesList.map((item) => {
             const CardContent = (
               <div className={cn(
-                "flex flex-col h-full border rounded-3xl p-8 transition-all duration-300 group shadow-2xl hover:shadow-[0_20px_40px_-20px_rgba(59,130,246,0.15)] cursor-pointer",
+                "flex flex-col h-full border rounded-3xl p-8 transition-all duration-300 group shadow-2xl hover:shadow-[0_20px_40px_-20px_rgba(161, 161, 170,0.15)] cursor-pointer",
                 isDark ? "bg-[#0A0B10] border-white/5 hover:bg-[#0D0F18] hover:border-white/10" : "bg-slate-50 border-slate-200 hover:bg-white hover:border-zinc-200"
               )}>
                 {/* Card Header (Type & Category) */}

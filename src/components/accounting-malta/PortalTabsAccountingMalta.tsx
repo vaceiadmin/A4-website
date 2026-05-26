@@ -16,10 +16,10 @@ export default function PortalTabsAccountingMalta() {
       ({
         bank: {
           url: t(`${pt}tabs.bank.url`),
-          ambient: "radial-gradient(circle, #1F5FD9 0%, transparent 70%)",
+          ambient: "radial-gradient(circle, #52525B 0%, transparent 70%)",
           label: t(`${pt}tabs.bank.label`),
-          pillColor: "#3B78F5",
-          pillGlow: "rgba(59,120,245,.5)",
+          pillColor: "#71717A",
+          pillGlow: "rgba(113, 113, 122,.5)",
         },
         bills: {
           url: t(`${pt}tabs.bills.url`),
@@ -30,23 +30,23 @@ export default function PortalTabsAccountingMalta() {
         },
         invoices: {
           url: t(`${pt}tabs.invoices.url`),
-          ambient: "radial-gradient(circle, #3B78F5 0%, transparent 70%)",
+          ambient: "radial-gradient(circle, #71717A 0%, transparent 70%)",
           label: t(`${pt}tabs.invoices.label`),
-          pillColor: "#3B78F5",
-          pillGlow: "rgba(59,120,245,.5)",
+          pillColor: "#71717A",
+          pillGlow: "rgba(113, 113, 122,.5)",
         },
         payroll: {
           url: t(`${pt}tabs.payroll.url`),
-          ambient: "radial-gradient(circle, #7C3AED 0%, transparent 70%)",
+          ambient: "radial-gradient(circle, #71717A 0%, transparent 70%)",
           label: t(`${pt}tabs.payroll.label`),
-          pillColor: "#9855F5",
+          pillColor: "#71717A",
           pillGlow: "rgba(152,85,245,.5)",
         },
         vat: {
           url: t(`${pt}tabs.vat.url`),
-          ambient: "radial-gradient(circle, #0EA5E9 0%, transparent 70%)",
+          ambient: "radial-gradient(circle, #71717A 0%, transparent 70%)",
           label: t(`${pt}tabs.vat.label`),
-          pillColor: "#0EA5E9",
+          pillColor: "#71717A",
           pillGlow: "rgba(14,165,233,.5)",
         },
       }) as Record<TabKey, { url: string; ambient: string; label: string; pillColor: string; pillGlow: string }>,
@@ -227,7 +227,7 @@ export default function PortalTabsAccountingMalta() {
                     <div className="pn-card-title">{t(`${pt}bank.accountsTitle`)}</div>
                     <div className="pn-row">
                       <div className="pn-row-ico" style={{ background: "#EEF4FF" }}>
-                        <svg width="13" height="13" fill="none" stroke="#1F5FD9" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
+                        <svg width="13" height="13" fill="none" stroke="#52525B" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
                           <path d="M3 21h18M3 10h18M3 7l9-4 9 4M4 10v11M20 10v11M8 10v11M16 10v11" strokeLinecap="round" strokeLinejoin="round" />
                         </svg>
                       </div>
@@ -235,13 +235,13 @@ export default function PortalTabsAccountingMalta() {
                         <div className="pn-row-name">{t(`${pt}bank.row1n`)}</div>
                         <div className="pn-row-sub">{t(`${pt}bank.row1s`)}</div>
                       </div>
-                      <div className="pn-row-val" style={{ color: "#1F5FD9" }}>
+                      <div className="pn-row-val" style={{ color: "#52525B" }}>
                         {t(`${pt}bank.row1v`)}
                       </div>
                     </div>
                     <div className="pn-row">
                       <div className="pn-row-ico" style={{ background: "#F0FFF4" }}>
-                        <svg width="13" height="13" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
+                        <svg width="13" height="13" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
                           <path d="M3 21h18M3 10h18M3 7l9-4 9 4M4 10v11M20 10v11M8 10v11M16 10v11" strokeLinecap="round" strokeLinejoin="round" />
                         </svg>
                       </div>
@@ -249,7 +249,7 @@ export default function PortalTabsAccountingMalta() {
                         <div className="pn-row-name">{t(`${pt}bank.row2n`)}</div>
                         <div className="pn-row-sub">{t(`${pt}bank.row2s`)}</div>
                       </div>
-                      <div className="pn-row-val" style={{ color: "#3B78F5" }}>
+                      <div className="pn-row-val" style={{ color: "#71717A" }}>
                         {t(`${pt}bank.row2v`)}
                       </div>
                     </div>
@@ -273,21 +273,21 @@ export default function PortalTabsAccountingMalta() {
                     <svg className="spark" viewBox="0 0 240 28" preserveAspectRatio="none" aria-hidden>
                       <defs>
                         <linearGradient id={gid} x1="0" x2="0" y1="0" y2="1">
-                          <stop offset="0%" stopColor="#1F5FD9" stopOpacity=".18" />
-                          <stop offset="100%" stopColor="#1F5FD9" stopOpacity="0" />
+                          <stop offset="0%" stopColor="#52525B" stopOpacity=".18" />
+                          <stop offset="100%" stopColor="#52525B" stopOpacity="0" />
                         </linearGradient>
                       </defs>
                       <polygon points="0,22 40,18 80,20 120,12 160,14 200,7 240,4 240,28 0,28" fill={`url(#${gid})`} />
                       <polyline
                         points="0,22 40,18 80,20 120,12 160,14 200,7 240,4"
                         fill="none"
-                        stroke="#1F5FD9"
+                        stroke="#52525B"
                         strokeWidth="1.8"
                         strokeLinecap="round"
                         strokeLinejoin="round"
                       />
                     </svg>
-                    <div style={{ display: "flex", justifyContent: "space-between", marginTop: 8, fontSize: 9, color: "#9AA2B8" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", marginTop: 8, fontSize: 9, color: "#A1A1AA" }}>
                       <span>{t(`${pt}months.nov`)}</span>
                       <span>{t(`${pt}months.dec`)}</span>
                       <span>{t(`${pt}months.jan`)}</span>
@@ -391,7 +391,7 @@ export default function PortalTabsAccountingMalta() {
                   </div>
                   <div className="pn-row">
                     <div className="pn-row-ico" style={{ background: "#F0FFF4" }}>
-                      <svg width="13" height="13" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
+                      <svg width="13" height="13" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
                         <path d="M22 11.08V12a10 10 0 11-5.93-9.14" />
                         <path d="M22 4L12 14.01l-3-3" />
                       </svg>
@@ -401,7 +401,7 @@ export default function PortalTabsAccountingMalta() {
                       <div className="pn-row-sub">{t(`${pt}bills.r5s`)}</div>
                     </div>
                     <span className="pn-badge bg-green">{t(`${pt}badges.paid`)}</span>
-                    <div className="pn-row-val" style={{ color: "#3B78F5" }}>
+                    <div className="pn-row-val" style={{ color: "#71717A" }}>
                       {t(`${pt}bills.r5v`)}
                     </div>
                   </div>
@@ -415,12 +415,12 @@ export default function PortalTabsAccountingMalta() {
                   <div className="pn-banner-s">{t(`${pt}invoices.bannerS`)}</div>
                 </div>
                 <div className="pn-grid-3">
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#065F46,#3B78F5)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#065F46,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}invoices.s1l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}invoices.s1v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}invoices.s1s`)}</div>
                   </div>
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#1F5FD9,#3B78F5)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#52525B,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}invoices.s2l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}invoices.s2v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}invoices.s2s`)}</div>
@@ -435,7 +435,7 @@ export default function PortalTabsAccountingMalta() {
                   <div className="pn-card-title">{t(`${pt}invoices.openTitle`)}</div>
                   <div className="pn-row">
                     <div className="pn-row-ico" style={{ background: "#F0FFF4" }}>
-                      <svg width="13" height="13" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
+                      <svg width="13" height="13" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
                         <path d="M3 21h18M3 21V7a2 2 0 012-2h14a2 2 0 012 2v14M7 21V11m4 10V11m4 10V11" strokeLinecap="round" strokeLinejoin="round" />
                       </svg>
                     </div>
@@ -444,13 +444,13 @@ export default function PortalTabsAccountingMalta() {
                       <div className="pn-row-sub">{t(`${pt}invoices.r1s`)}</div>
                     </div>
                     <span className="pn-badge bg-blue">{t(`${pt}badges.current`)}</span>
-                    <div className="pn-row-val" style={{ color: "#1F5FD9" }}>
+                    <div className="pn-row-val" style={{ color: "#52525B" }}>
                       {t(`${pt}invoices.r1v`)}
                     </div>
                   </div>
                   <div className="pn-row">
-                    <div className="pn-row-ico" style={{ background: "#F0F4FF" }}>
-                      <svg width="13" height="13" fill="none" stroke="#1F5FD9" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
+                    <div className="pn-row-ico" style={{ background: "#FAFAFA" }}>
+                      <svg width="13" height="13" fill="none" stroke="#52525B" viewBox="0 0 24 24" strokeWidth="2" aria-hidden>
                         <path d="M3 21h18M3 21V7a2 2 0 012-2h14a2 2 0 012 2v14M7 21V11m4 10V11m4 10V11" strokeLinecap="round" strokeLinejoin="round" />
                       </svg>
                     </div>
@@ -503,17 +503,17 @@ export default function PortalTabsAccountingMalta() {
                   <div className="pn-banner-s">{t(`${pt}payroll.bannerS`)}</div>
                 </div>
                 <div className="pn-grid-3" style={{ marginBottom: 10 }}>
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#5B21B6,#7C3AED)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#5B21B6,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}payroll.s1l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}payroll.s1v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}payroll.s1s`)}</div>
                   </div>
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#1F5FD9,#3B78F5)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#52525B,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}payroll.s2l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}payroll.s2v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}payroll.s2s`)}</div>
                   </div>
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#3B78F5,#3B78F5)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#71717A,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}payroll.s3l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}payroll.s3v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}payroll.s3s`)}</div>
@@ -523,13 +523,13 @@ export default function PortalTabsAccountingMalta() {
                   <div className="pn-card-title">{t(`${pt}payroll.breakTitle`)}</div>
                   <div className="pr-donut-wrap">
                     <svg width="72" height="72" viewBox="0 0 72 72" aria-hidden>
-                      <circle cx="36" cy="36" r="28" fill="none" stroke="#EEF0F8" strokeWidth="10" />
+                      <circle cx="36" cy="36" r="28" fill="none" stroke="#F4F4F5" strokeWidth="10" />
                       <circle
                         cx="36"
                         cy="36"
                         r="28"
                         fill="none"
-                        stroke="#7C3AED"
+                        stroke="#71717A"
                         strokeWidth="10"
                         strokeDasharray="108 68"
                         strokeDashoffset="-17"
@@ -540,7 +540,7 @@ export default function PortalTabsAccountingMalta() {
                         cy="36"
                         r="28"
                         fill="none"
-                        stroke="#1F5FD9"
+                        stroke="#52525B"
                         strokeWidth="10"
                         strokeDasharray="68 108"
                         strokeDashoffset="91"
@@ -551,28 +551,28 @@ export default function PortalTabsAccountingMalta() {
                         cy="36"
                         r="28"
                         fill="none"
-                        stroke="#3B78F5"
+                        stroke="#71717A"
                         strokeWidth="10"
                         strokeDasharray="24 152"
                         strokeDashoffset="-17"
                         strokeLinecap="round"
                         transform="rotate(120 36 36)"
                       />
-                      <text x="36" y="40" textAnchor="middle" fontSize="10" fontWeight="700" fill="#1C2130" style={{ fontFamily: "var(--font-accounting-malta-outfit), system-ui, sans-serif" }}>
+                      <text x="36" y="40" textAnchor="middle" fontSize="10" fontWeight="700" fill="#18181B" style={{ fontFamily: "var(--font-accounting-malta-outfit), system-ui, sans-serif" }}>
                         {t(`${pt}payroll.donutCenter`)}
                       </text>
                     </svg>
                     <div className="pr-donut-legend">
                       <div className="pr-leg">
-                        <div className="pr-leg-dot" style={{ background: "#7C3AED" }} />
+                        <div className="pr-leg-dot" style={{ background: "#71717A" }} />
                         {t(`${pt}payroll.leg1`)}
                       </div>
                       <div className="pr-leg">
-                        <div className="pr-leg-dot" style={{ background: "#1F5FD9" }} />
+                        <div className="pr-leg-dot" style={{ background: "#52525B" }} />
                         {t(`${pt}payroll.leg2`)}
                       </div>
                       <div className="pr-leg">
-                        <div className="pr-leg-dot" style={{ background: "#3B78F5" }} />
+                        <div className="pr-leg-dot" style={{ background: "#71717A" }} />
                         {t(`${pt}payroll.leg3`)}
                       </div>
                     </div>
@@ -587,12 +587,12 @@ export default function PortalTabsAccountingMalta() {
                   <div className="pn-banner-s">{t(`${pt}vat.bannerS`)}</div>
                 </div>
                 <div className="pn-grid-3">
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#0369A1,#0EA5E9)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#0369A1,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}vat.s1l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}vat.s1v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}vat.s1s`)}</div>
                   </div>
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#3B78F5,#3B78F5)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#71717A,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}vat.s2l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}vat.s2v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}vat.s2s`)}</div>
@@ -620,7 +620,7 @@ export default function PortalTabsAccountingMalta() {
                       </div>
                     </div>
                     <div className="vt-period">
-                      <div className="vt-period-dot" style={{ background: "#3B78F5" }} />
+                      <div className="vt-period-dot" style={{ background: "#71717A" }} />
                       <div>
                         <div className="vt-period-name">{t(`${pt}vat.p2n`)}</div>
                         <div className="vt-period-date">{t(`${pt}vat.p2d`)}</div>
@@ -628,12 +628,12 @@ export default function PortalTabsAccountingMalta() {
                       <span className="pn-badge bg-green" style={{ marginLeft: "auto" }}>
                         {t(`${pt}badges.paid`)}
                       </span>
-                      <div className="vt-period-amt" style={{ color: "#3B78F5" }}>
+                      <div className="vt-period-amt" style={{ color: "#71717A" }}>
                         {t(`${pt}vat.p2a`)}
                       </div>
                     </div>
                     <div className="vt-period">
-                      <div className="vt-period-dot" style={{ background: "#3B78F5" }} />
+                      <div className="vt-period-dot" style={{ background: "#71717A" }} />
                       <div>
                         <div className="vt-period-name">{t(`${pt}vat.p3n`)}</div>
                         <div className="vt-period-date">{t(`${pt}vat.p3d`)}</div>
@@ -641,7 +641,7 @@ export default function PortalTabsAccountingMalta() {
                       <span className="pn-badge bg-green" style={{ marginLeft: "auto" }}>
                         {t(`${pt}badges.paid`)}
                       </span>
-                      <div className="vt-period-amt" style={{ color: "#3B78F5" }}>
+                      <div className="vt-period-amt" style={{ color: "#71717A" }}>
                         {t(`${pt}vat.p3a`)}
                       </div>
                     </div>

@@ -44,7 +44,7 @@ const GetStartedHero = () => {
               <GetInstantQuoteButton
                 variant="default"
                 text={t("footerCta.quoteCta")}
-                className="w-full sm:w-auto h-14 px-8 text-base font-bold shadow-[0_0_20px_rgba(59,130,246,0.5)] hover:shadow-[0_0_30px_rgba(59,130,246,0.6)] transition-all"
+                className="w-full sm:w-auto h-14 px-8 text-base font-bold shadow-[0_0_20px_rgba(161, 161, 170,0.5)] hover:shadow-[0_0_30px_rgba(161, 161, 170,0.6)] transition-all"
               />
               <button className="w-full sm:w-auto h-14 px-8 text-base font-bold text-white bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 transition-colors">
                 {t("footerCta.demoCta")}

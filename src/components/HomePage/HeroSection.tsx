@@ -82,7 +82,7 @@ const HeroSection = ({ isDark = false }: { isDark?: boolean }) => {
               className={cn(
                 "group flex w-full items-center justify-center gap-2 rounded-full border px-8 py-3.5 text-[15px] font-medium transition-all hover:scale-105 active:scale-95 sm:w-auto sm:px-10 sm:py-4",
                 isDark
-                  ? "border-gray-700 bg-[#0A0A0F]/50 text-white hover:bg-white/5 hover:border-gray-500"
+                  ? "border-gray-700 bg-[#09090B]/50 text-white hover:bg-white/5 hover:border-gray-500"
                   : "border-zinc-200/80 bg-white text-zinc-700 shadow-sm shadow-zinc-500/10 hover:bg-zinc-50/90 hover:border-zinc-300"
               )}
             >

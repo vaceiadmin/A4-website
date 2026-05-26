@@ -31,7 +31,7 @@ const ComplianceDashboardSection = () => {
 
           <div
             className={cn(
-              "relative rounded-[2.5rem] border border-white/20 bg-[#0F111A] backdrop-blur-xl p-6 sm:p-10 shadow-2xl overflow-hidden",
+              "relative rounded-[2.5rem] border border-white/20 bg-[#09090B] backdrop-blur-xl p-6 sm:p-10 shadow-2xl overflow-hidden",
               !isIPhone && !isLowPerformance && "hover:-translate-y-2 hover:border-zinc-500/30 transition-all duration-500"
             )}
           >

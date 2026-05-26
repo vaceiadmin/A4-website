@@ -9,7 +9,7 @@ import { Globe2 } from "lucide-react";
 // Helper component for premium country markers
 const CountryMarker = ({ code, className }: { code: string; className?: string }) => (
     <div className={cn(
-        "relative flex items-center justify-center w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-[#1A1D2B] shadow-2xl border border-white/20 overflow-hidden transition-all duration-300 hover:scale-125 group/flag shrink-0",
+        "relative flex items-center justify-center w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-[#18181B] shadow-2xl border border-white/20 overflow-hidden transition-all duration-300 hover:scale-125 group/flag shrink-0",
         className
     )}>
         <img

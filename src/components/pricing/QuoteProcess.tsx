@@ -78,7 +78,7 @@ const QuoteProcess = () => {
             <TextAnimation
               text={t("quoteProcess.title")}
               as="h2"
-              className="mt-6 text-3xl md:text-5xl font-medium text-[#1a1c35] tracking-tight"
+              className="mt-6 text-3xl md:text-5xl font-medium text-[#18181B] tracking-tight"
             />
             <p className="mt-4 text-gray-600 text-lg max-w-3xl mx-auto">{t("quoteProcess.subtitle")}</p>
           </FadeInUp>
@@ -118,7 +118,7 @@ const QuoteProcess = () => {
                   </div>
 
                   {/* Content */}
-                  <h3 className="text-lg font-bold text-[#1a1c35] mb-3">
+                  <h3 className="text-lg font-bold text-[#18181B] mb-3">
                     {step.title}
                   </h3>
                   <p className="text-sm text-gray-600 leading-relaxed">
@@ -146,7 +146,7 @@ const QuoteProcess = () => {
                   <span className="text-sm font-semibold text-[#000000]">{t("quoteProcess.includesBadge")}</span>
                 </div>
 
-                <h3 className="text-2xl md:text-3xl font-bold text-[#1a1c35] mb-4">{t("quoteProcess.everyTitle")}</h3>
+                <h3 className="text-2xl md:text-3xl font-bold text-[#18181B] mb-4">{t("quoteProcess.everyTitle")}</h3>
                 <p className="text-gray-600 mb-8 leading-relaxed">{t("quoteProcess.everyBody")}</p>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -164,7 +164,7 @@ const QuoteProcess = () => {
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                         </svg>
                       </div>
-                      <span className="text-sm font-medium text-[#1a1c35]">{item}</span>
+                      <span className="text-sm font-medium text-[#18181B]">{item}</span>
                     </motion.div>
                   ))}
                 </div>

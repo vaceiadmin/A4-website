@@ -75,7 +75,7 @@ const WLProcess: React.FC<WLProcessProps> = ({
                 >
                   {/* Glowing Node */}
                   <div className="relative z-10 shrink-0 hidden sm:block">
-                    <div className="w-20 h-20 rounded-3xl bg-white border border-gray-200 flex items-center justify-center text-2xl font-black text-primary-blue shadow-xl shadow-gray-200/50 group-hover:scale-110 group-hover:!bg-primary-blue group-hover:!text-white group-hover:shadow-[0_15px_30px_rgba(59,73,230,0.2)] transition-all duration-500">
+                    <div className="w-20 h-20 rounded-3xl bg-white border border-gray-200 flex items-center justify-center text-2xl font-black text-primary-blue shadow-xl shadow-gray-200/50 group-hover:scale-110 group-hover:!bg-primary-blue group-hover:!text-white group-hover:shadow-[0_15px_30px_rgba(63, 63, 70,0.2)] transition-all duration-500">
                       0{index + 1}
                     </div>
                     <div className="absolute -inset-2 bg-primary-blue opacity-0 group-hover:opacity-10 blur-xl rounded-full scale-0 group-hover:scale-100 transition-all duration-500" />

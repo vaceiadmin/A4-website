@@ -64,8 +64,8 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
           <div className="absolute inset-0 opacity-20">
             <div className="absolute inset-0" style={{
               backgroundImage: `
-                linear-gradient(rgba(59, 73, 230, 0.1) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(59, 73, 230, 0.1) 1px, transparent 1px)
+                linear-gradient(rgba(63, 63, 70, 0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(63, 63, 70, 0.1) 1px, transparent 1px)
               `,
               backgroundSize: '50px 50px',
             }} />
@@ -90,7 +90,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
               }}
               className="absolute w-1 h-1 bg-primary-blue rounded-full"
               style={{
-                boxShadow: '0 0 8px rgba(59, 73, 230, 0.8)',
+                boxShadow: '0 0 8px rgba(63, 63, 70, 0.8)',
                 willChange: 'transform, opacity',
               }}
             />
@@ -118,7 +118,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                   }}
                   className="absolute w-[200px] h-[200px] rounded-full border-2 border-primary-blue/40"
                   style={{
-                    boxShadow: '0 0 20px rgba(59, 73, 230, 0.4)',
+                    boxShadow: '0 0 20px rgba(63, 63, 70, 0.4)',
                     willChange: 'transform, opacity',
                   }}
                 />
@@ -137,7 +137,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                 }}
                 className="absolute w-[280px] h-[280px] border-2 border-primary-blue/20"
                 style={{
-                  boxShadow: isIPhone || isLowPerformance ? 'none' : '0 0 30px rgba(59, 73, 230, 0.2)',
+                  boxShadow: isIPhone || isLowPerformance ? 'none' : '0 0 30px rgba(63, 63, 70, 0.2)',
                   willChange: 'transform',
                 }}
               />
@@ -214,7 +214,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                     }}
                     className="absolute w-1.5 h-1.5 bg-primary-blue rounded-full"
                     style={{
-                      boxShadow: '0 0 10px rgba(59, 73, 230, 0.8)',
+                      boxShadow: '0 0 10px rgba(63, 63, 70, 0.8)',
                       willChange: 'transform, opacity',
                     }}
                   />
@@ -240,7 +240,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                       fill
                       priority
                       sizes="260px"
-                      className="object-contain drop-shadow-[0_0_30px_rgba(59,73,230,0.5)]"
+                      className="object-contain drop-shadow-[0_0_30px_rgba(63, 63, 70,0.5)]"
                     />
                   </div>
 
@@ -315,7 +315,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                   animate={{ width: `${progress}%` }}
                   className="relative h-full bg-linear-to-r from-primary-blue via-zinc-400 to-primary-blue rounded-full"
                   style={{
-                    boxShadow: '0 0 20px rgba(59, 73, 230, 0.8), 0 0 40px rgba(59, 73, 230, 0.4)',
+                    boxShadow: '0 0 20px rgba(63, 63, 70, 0.8), 0 0 40px rgba(63, 63, 70, 0.4)',
                   }}
                 >
                   {/* Shimmer effect on progress bar */}

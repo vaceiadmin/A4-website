@@ -45,7 +45,7 @@ const cardSurfaceMobile = (isDark: boolean) =>
   cn(
     "rounded-[1.75rem] border transition-colors overflow-visible md:overflow-hidden",
     isDark
-      ? "border-white/20 bg-gradient-to-b from-[#12141c] to-[#0a0c12] shadow-[0_16px_40px_-12px_rgba(0,0,0,0.65)] ring-1 ring-white/10"
+      ? "border-white/20 bg-gradient-to-b from-[#09090B] to-[#0a0c12] shadow-[0_16px_40px_-12px_rgba(0,0,0,0.65)] ring-1 ring-white/10"
       : "border-slate-200/90 bg-gradient-to-b from-white to-slate-50 shadow-[0_16px_40px_-16px_rgba(15,23,42,0.18)] ring-1 ring-slate-200/80"
   );
 
@@ -236,7 +236,7 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                       className={cn(
                         "flex flex-col justify-between overflow-hidden p-6 transition-all duration-500 sm:p-9 lg:p-10",
                         isDark
-                          ? "border border-white/20 bg-gradient-to-b from-[#12141c] to-[#0a0c12] shadow-[0_24px_50px_-12px_rgba(0,0,0,0.75),0_0_0_1px_rgba(255,255,255,0.06)_inset] ring-1 ring-white/10"
+                          ? "border border-white/20 bg-gradient-to-b from-[#09090B] to-[#0a0c12] shadow-[0_24px_50px_-12px_rgba(0,0,0,0.75),0_0_0_1px_rgba(255,255,255,0.06)_inset] ring-1 ring-white/10"
                           : "border border-slate-200/90 bg-gradient-to-b from-white to-slate-50 shadow-[0_28px_60px_-20px_rgba(15,23,42,0.2),0_0_0_1px_rgba(255,255,255,0.8)_inset] ring-1 ring-slate-200/80"
                       )}
                     >

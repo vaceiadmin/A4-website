@@ -36,7 +36,7 @@ const IPhoneFaqSection = () => {
           <span className="inline-block px-3 py-1 rounded-full bg-zinc-50 border border-zinc-100 text-[10px] font-bold tracking-widest text-[#000000] uppercase mb-3">
             Questions & Answers
           </span>
-          <h2 className="text-2xl font-bold text-[#1a1c35] mb-4">
+          <h2 className="text-2xl font-bold text-[#18181B] mb-4">
             Frequently Asked <span className="text-[#000000]">Questions</span>
           </h2>
           <p className="text-sm text-gray-500">
@@ -63,7 +63,7 @@ const IPhoneFaqSection = () => {
                 >
                   <span className={cn(
                     "text-[15px] font-bold transition-colors",
-                    isOpen ? "text-[#000000]" : "text-[#1a1c35]"
+                    isOpen ? "text-[#000000]" : "text-[#18181B]"
                   )}>
                     {item.question}
                   </span>
@@ -88,7 +88,7 @@ const IPhoneFaqSection = () => {
           })}
         </div>
 
-        <div className="mt-10 p-6 rounded-3xl bg-[#1a1c35] text-white text-center">
+        <div className="mt-10 p-6 rounded-3xl bg-[#18181B] text-white text-center">
           <h4 className="text-lg font-bold mb-2">Still have questions?</h4>
           <p className="text-xs text-white/70 mb-5">We are here to help you scaling your business.</p>
           <a

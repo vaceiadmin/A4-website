@@ -98,7 +98,7 @@ const SecurityComplianceCards = () => {
                   <ul className="space-y-3 mt-auto relative z-10 pt-6 border-t border-white/40">
                     {card.points.map((point, pointIndex) => (
                       <li key={pointIndex} className="flex items-start gap-3 text-sm text-gray/90">
-                        <div className="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary-blue flex-shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.6)]" />
+                        <div className="mt-1.5 w-1.5 h-1.5 rounded-full bg-primary-blue flex-shrink-0 shadow-[0_0_8px_rgba(161, 161, 170,0.6)]" />
                         <span className="leading-relaxed">{point}</span>
                       </li>
                     ))}

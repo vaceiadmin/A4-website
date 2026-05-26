@@ -77,7 +77,7 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
               whileHover={{ y: -5, scale: 1.01 }}
-              className="group relative bg-white rounded-3xl p-7 flex flex-col justify-between border border-gray-200 shadow-[0_15px_40px_-12px_rgba(0,0,0,0.08)] hover:!bg-primary-blue hover:shadow-[0_25px_50px_-12px_rgba(59,73,230,0.25)] hover:border-primary-blue/30 transition-all duration-500 min-h-[220px] overflow-hidden"
+              className="group relative bg-white rounded-3xl p-7 flex flex-col justify-between border border-gray-200 shadow-[0_15px_40px_-12px_rgba(0,0,0,0.08)] hover:!bg-primary-blue hover:shadow-[0_25px_50px_-12px_rgba(63, 63, 70,0.25)] hover:border-primary-blue/30 transition-all duration-500 min-h-[220px] overflow-hidden"
             >
               {/* Subtle top gradient line */}
               <div className="absolute top-0 left-0 w-full h-[2px] bg-gradient-to-r from-transparent via-primary-blue/20 to-transparent opacity-0 group-hover:opacity-100 group-hover:via-white/50 transition-all duration-500" />

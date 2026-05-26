@@ -136,9 +136,9 @@ const Globe = ({ className }: { className?: string }) => {
       {/* 3D Depth Overlays - Magic UI / Light Mode optimized */}
       <div className="absolute inset-0 pointer-events-none rounded-full transition-opacity duration-1000" style={{ opacity }}>
         {/* Subtle background sphere for contrast on pure white */}
-        <div className="absolute inset-[10%] rounded-full bg-slate-50 shadow-[inset_0_0_80px_rgba(59,130,246,0.08),0_0_40px_rgba(59,130,246,0.05)] border border-slate-100/50" />
+        <div className="absolute inset-[10%] rounded-full bg-slate-50 shadow-[inset_0_0_80px_rgba(161, 161, 170,0.08),0_0_40px_rgba(161, 161, 170,0.05)] border border-slate-100/50" />
         {/* Atmosphere Glow */}
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.1)_0%,transparent_70%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(161, 161, 170,0.1)_0%,transparent_70%)]" />
       </div>
 
       <canvas
