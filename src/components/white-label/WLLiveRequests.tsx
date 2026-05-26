@@ -25,7 +25,7 @@ interface WLLiveRequestsProps {
 
 const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
   sectionTitle,
-  intro = "Real-time engagement opportunities currently available on the VACEI network.",
+  intro = "Real-time engagement opportunities currently available on the A4 network.",
   badgeLabel = "Live Feed",
   updatedLabel = "Updated 2 minutes ago",
   footerNote = "Join the platform to access full details and submit proposals.",
@@ -35,7 +35,7 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
     <section className="py-24 bg-[#FAFBFF] relative overflow-hidden">
       {/* Background decoration */}
       <div className="absolute top-0 left-0 w-full h-full opacity-[0.02] pointer-events-none -z-10 bg-[url('/assets/images/grid-pattern.png')] bg-repeat" />
-      
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col lg:flex-row justify-between items-end mb-16 gap-8">
           <div className="max-w-2xl">
@@ -57,12 +57,12 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
               </p>
             </motion.div>
           </div>
-          
+
           <motion.div
-             initial={{ opacity: 0 }}
-             whileInView={{ opacity: 1 }}
-             viewport={{ once: true }}
-             className="text-sm font-bold text-primary-blue bg-primary-blue/5 px-6 py-3 rounded-2xl border border-primary-blue/10"
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            className="text-sm font-bold text-primary-blue bg-primary-blue/5 px-6 py-3 rounded-2xl border border-primary-blue/10"
           >
             {updatedLabel}
           </motion.div>
@@ -77,11 +77,11 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
               whileHover={{ y: -5, scale: 1.01 }}
-              className="group relative bg-white rounded-3xl p-7 flex flex-col justify-between border border-gray-200 shadow-[0_15px_40px_-12px_rgba(0,0,0,0.08)] hover:!bg-primary-blue hover:shadow-[0_25px_50px_-12px_rgba(59,73,230,0.25)] hover:border-primary-blue/30 transition-all duration-500 min-h-[220px] overflow-hidden"
+              className="group relative bg-white rounded-3xl p-7 flex flex-col justify-between border border-gray-200 shadow-[0_15px_40px_-12px_rgba(0,0,0,0.08)] hover:!bg-primary-blue hover:shadow-[0_25px_50px_-12px_rgba(63, 63, 70,0.25)] hover:border-primary-blue/30 transition-all duration-500 min-h-[220px] overflow-hidden"
             >
               {/* Subtle top gradient line */}
               <div className="absolute top-0 left-0 w-full h-[2px] bg-gradient-to-r from-transparent via-primary-blue/20 to-transparent opacity-0 group-hover:opacity-100 group-hover:via-white/50 transition-all duration-500" />
-              
+
               <div>
                 <div className="flex justify-between items-start mb-4">
                   <div className="flex items-center gap-3">
@@ -105,7 +105,7 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
                     </div>
                   )}
                 </div>
-                
+
                 <div className="mt-5 pl-[52px]">
                   <div className="text-[10px] font-black text-primary-blue/60 uppercase tracking-widest mb-1 group-hover:!text-white/50 transition-colors">
                     Service Required
@@ -116,7 +116,7 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
                   </div>
                 </div>
               </div>
-              
+
               {request.type && (
                 <div className="mt-6 pt-4 border-t border-gray-100 group-hover:!border-white/20 text-[13px] font-medium text-gray/60 group-hover:!text-white/80 flex items-center gap-2 transition-colors">
                   <Circle className="w-1.5 h-1.5 fill-current text-primary-blue group-hover:!text-white" />
@@ -126,7 +126,7 @@ const WLLiveRequests: React.FC<WLLiveRequestsProps> = ({
             </motion.div>
           ))}
         </div>
-        
+
         <div className="mt-16 text-center">
           <p className="text-gray/50 text-sm font-medium whitespace-pre-line">
             {footerNote}

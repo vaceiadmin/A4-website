@@ -25,10 +25,10 @@ const principleIcons = [
   <ShieldAlert key="s" className="w-5 h-5" />,
 ];
 const principleColors = [
-  "bg-blue-500/10 text-blue-600",
+  "bg-zinc-500/10 text-zinc-600",
   "bg-primary-blue/10 text-primary-blue",
-  "bg-cyan-500/10 text-cyan-600",
-  "bg-sky-500/10 text-sky-600",
+  "bg-zinc-500/10 text-zinc-600",
+  "bg-zinc-500/10 text-zinc-600",
 ];
 
 export default function AuditPlatform() {
@@ -60,13 +60,13 @@ export default function AuditPlatform() {
       >
       {/* Background Decorative Elements */}
       <div className="absolute inset-0 z-0 pointer-events-none">
-        <div className="absolute top-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-blue-200 to-transparent opacity-30" />
-        <div className="absolute -top-[10%] -left-[5%] w-[40%] h-[40%] bg-blue-50 rounded-full blur-[100px] opacity-60" />
-        <div className="absolute bottom-[10%] -right-[5%] w-[35%] h-[40%] bg-blue-50 rounded-full blur-[100px] opacity-60" />
+        <div className="absolute top-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-zinc-200 to-transparent opacity-30" />
+        <div className="absolute -top-[10%] -left-[5%] w-[40%] h-[40%] bg-zinc-50 rounded-full blur-[100px] opacity-60" />
+        <div className="absolute bottom-[10%] -right-[5%] w-[35%] h-[40%] bg-zinc-50 rounded-full blur-[100px] opacity-60" />
 
         {/* Subtle Grid */}
         <div className="absolute inset-0 opacity-[0.03]" style={{
-          backgroundImage: `radial-gradient(#3b49e6 0.5px, transparent 0.5px)`,
+          backgroundImage: `radial-gradient(#000000 0.5px, transparent 0.5px)`,
           backgroundSize: '24px 24px'
         }} />
       </div>
@@ -81,10 +81,10 @@ export default function AuditPlatform() {
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
-              className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 border border-blue-100 mb-6"
+              className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-zinc-50 border border-zinc-100 mb-6"
             >
-              <CheckCircle2 className="w-4 h-4 text-blue-600" />
-              <span className="text-xs font-bold uppercase tracking-widest text-blue-700">{t("auditPlatform.badge")}</span>
+              <CheckCircle2 className="w-4 h-4 text-zinc-600" />
+              <span className="text-xs font-bold uppercase tracking-widest text-zinc-700">{t("auditPlatform.badge")}</span>
             </motion.div>
 
             <motion.div
@@ -127,8 +127,8 @@ export default function AuditPlatform() {
                   whileHover={!reduceMotion ? { 
                     y: -8,
                     scale: 1.02,
-                    borderColor: "rgba(59, 130, 246, 0.4)",
-                    boxShadow: "0 20px 40px -15px rgba(59, 130, 246, 0.15)"
+                    borderColor: "rgba(161, 161, 170, 0.4)",
+                    boxShadow: "0 20px 40px -15px rgba(161, 161, 170, 0.15)"
                   } : {}}
                   className="group flex flex-col gap-4 p-6 rounded-3xl bg-white border border-slate-100 shadow-sm transition-all duration-500 will-change-transform"
                 >
@@ -140,7 +140,7 @@ export default function AuditPlatform() {
                     {principle.icon}
                   </motion.div>
                   <div>
-                    <h3 className="text-base font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors duration-300">
+                    <h3 className="text-base font-bold text-slate-900 mb-2 group-hover:text-zinc-600 transition-colors duration-300">
                       {principle.title}
                     </h3>
                     <p className="text-sm text-slate-500 leading-relaxed font-normal">
@@ -180,11 +180,11 @@ export default function AuditPlatform() {
               transition={{ duration: 0.8, delay: 0.8, ease: [0.16, 1, 0.3, 1] }}
               className="flex flex-wrap gap-5 w-full sm:w-auto"
             >
-              <GetInstantQuoteButton className="h-[56px] px-8 text-base shadow-xl shadow-blue-600/10 hover:shadow-blue-600/25 transition-shadow duration-500" />
+              <GetInstantQuoteButton className="h-[56px] px-8 text-base shadow-xl shadow-zinc-600/10 hover:shadow-zinc-600/25 transition-shadow duration-500" />
 
               <LocalizedLink
                 href="/portal/client-portal"
-                className="group flex items-center justify-center gap-2 rounded-full border border-slate-200 bg-white px-8 py-3 text-base font-bold text-slate-900 shadow-sm transition-all duration-500 hover:border-blue-400 hover:text-blue-600 hover:shadow-md h-[56px]"
+                className="group flex items-center justify-center gap-2 rounded-full border border-slate-200 bg-white px-8 py-3 text-base font-bold text-slate-900 shadow-sm transition-all duration-500 hover:border-zinc-400 hover:text-zinc-600 hover:shadow-md h-[56px]"
               >
                 <span>{t("auditPlatform.clientPortalCta")}</span>
                 <ArrowUpRight className="w-5 h-5 transition-transform duration-500 group-hover:translate-x-1 group-hover:-translate-y-1" />
@@ -199,15 +199,15 @@ export default function AuditPlatform() {
               whileInView={{ opacity: 1, scale: 1 }}
               viewport={{ once: true }}
               transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
-              className="relative aspect-square lg:aspect-[4/4] rounded-[40px] bg-white border border-slate-100 shadow-[0_40px_100px_-20px_rgba(59,130,246,0.15)] flex items-center justify-center overflow-hidden"
+              className="relative aspect-square lg:aspect-[4/4] rounded-[40px] bg-white border border-slate-100 shadow-[0_40px_100px_-20px_rgba(161, 161, 170,0.15)] flex items-center justify-center overflow-hidden"
             >
               {/* Internal Beams Container */}
-              <div className="absolute inset-0 z-0 opacity-[0.4] bg-gradient-to-br from-blue-50/20 via-transparent to-blue-100/20" />
+              <div className="absolute inset-0 z-0 opacity-[0.4] bg-gradient-to-br from-zinc-50/20 via-transparent to-zinc-100/20" />
               <AuditPlatformBeam className="w-full h-full relative z-10" />
 
               {/* Ambient decoration — tucked right on mobile to clear diagram nodes */}
-              <div className="pointer-events-none absolute bottom-6 right-1.5 z-20 flex max-w-[calc(100%-0.75rem)] items-center gap-2 rounded-2xl border border-blue-100 bg-white/90 p-3 shadow-lg backdrop-blur-md animate-bounce-subtle sm:bottom-8 sm:right-3 sm:gap-3 sm:p-4 lg:bottom-10 lg:right-10">
-                <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-blue-600 sm:h-8 sm:w-8">
+              <div className="pointer-events-none absolute bottom-6 right-1.5 z-20 flex max-w-[calc(100%-0.75rem)] items-center gap-2 rounded-2xl border border-zinc-100 bg-white/90 p-3 shadow-lg backdrop-blur-md animate-bounce-subtle sm:bottom-8 sm:right-3 sm:gap-3 sm:p-4 lg:bottom-10 lg:right-10">
+                <div className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-zinc-600 sm:h-8 sm:w-8">
                   <CheckCircle2 className="h-3.5 w-3.5 text-white sm:h-4 sm:w-4" />
                 </div>
                 <span className="text-[10px] font-bold leading-tight text-slate-800 sm:text-xs">
@@ -220,7 +220,7 @@ export default function AuditPlatform() {
             <motion.div
               animate={{ rotate: 360 }}
               transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
-              className="absolute -top-10 -right-10 w-24 h-24 border border-blue-200/50 rounded-full border-dashed"
+              className="absolute -top-10 -right-10 w-24 h-24 border border-zinc-200/50 rounded-full border-dashed"
             />
           </div>
         </div>

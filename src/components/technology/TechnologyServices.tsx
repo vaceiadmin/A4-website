@@ -155,7 +155,7 @@ const TechnologyServices = () => {
 
                 <p className="text-white text-sm md:text-base lg:text-lg leading-relaxed text-center relative z-10 pt-2 pb-2">
                   Good firms rely on experience. Great firms rely on structure.
-                  VACEI exists to make that structure visible, auditable, and
+                  A4 exists to make that structure visible, auditable, and
                   scalable
                 </p>
 
@@ -193,8 +193,8 @@ const TechnologyServices = () => {
                 {/* Header with Icon */}
                 <div className="flex flex-col items-center mb-4">
                   <div className="relative mb-3">
-                    <FileText className="w-8 h-8 text-blue-600" />
-                    <div className="absolute -top-1 -right-1 w-5 h-5 bg-blue-600 rounded-full flex items-center justify-center">
+                    <FileText className="w-8 h-8 text-zinc-600" />
+                    <div className="absolute -top-1 -right-1 w-5 h-5 bg-zinc-600 rounded-full flex items-center justify-center">
                       <span className="text-white text-xs font-bold">+</span>
                     </div>
                   </div>
@@ -217,7 +217,7 @@ const TechnologyServices = () => {
                   </div>
                   <div className="w-full h-2 bg-gray-200 rounded-full overflow-hidden">
                     <div
-                      className="h-full bg-blue-600 rounded-full"
+                      className="h-full bg-zinc-600 rounded-full"
                       style={{ width: "100%" }}
                     ></div>
                   </div>
@@ -283,7 +283,7 @@ const TechnologyServices = () => {
                     <p className="text-xs text-gray">Success</p>
                   </div>
                   <div className="flex flex-col items-center">
-                    <div className="w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center mb-1">
+                    <div className="w-12 h-12 bg-zinc-500 rounded-full flex items-center justify-center mb-1">
                       <Clock className="w-6 h-6 text-white" />
                     </div>
                     <p className="text-xs lg:text-sm font-semibold text-heading">
@@ -308,7 +308,7 @@ const TechnologyServices = () => {
                     {/* Left: Advance text recognition */}
                     <div className="flex flex-col items-center z-10">
                       <div className="bg-gray-100 rounded-lg p-2 mb-1 flex items-center justify-center">
-                        <Brain className="w-5 h-5 text-blue-600" />
+                        <Brain className="w-5 h-5 text-zinc-600" />
                       </div>
                       <p className="text-xs text-gray leading-tight text-center max-w-[100px]">
                         Advance text recognition
@@ -328,8 +328,8 @@ const TechnologyServices = () => {
 
                     {/* Center: Super fast Processing */}
                     <div className="flex flex-col items-center z-10">
-                      <div className="w-10 h-10 bg-blue-100 rounded-lg flex items-center justify-center mb-1">
-                        <Zap className="w-5 h-5 text-blue-600" />
+                      <div className="w-10 h-10 bg-zinc-100 rounded-lg flex items-center justify-center mb-1">
+                        <Zap className="w-5 h-5 text-zinc-600" />
                       </div>
                       <p className="text-xs text-gray text-center leading-tight">
                         Super fast
@@ -342,7 +342,7 @@ const TechnologyServices = () => {
                     {/* Right: Structure preservation */}
                     <div className="flex flex-col items-center z-10">
                       <div className="bg-gray-100 rounded-lg p-2 mb-1 flex items-center justify-center">
-                        <Building2 className="w-5 h-5 text-blue-600" />
+                        <Building2 className="w-5 h-5 text-zinc-600" />
                       </div>
                       <p className="text-xs text-gray leading-tight text-center max-w-[100px]">
                         Structure preservation

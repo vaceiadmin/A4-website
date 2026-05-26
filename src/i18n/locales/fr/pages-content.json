@@ -1,20 +1,27 @@
 {
   "about": {
-    "pageHeader": { "title": "À Propos", "breadcrumbs": [ { "label": "À Propos" } ] },
+    "pageHeader": {
+      "title": "À Propos",
+      "breadcrumbs": [
+        {
+          "label": "À Propos"
+        }
+      ]
+    },
     "features": [
       {
         "title": "Un cabinet moderne de comptabilité, d'audit et de services aux entreprises",
-        "description": "VACEI est un cabinet professionnel de comptabilité, d'audit et de services aux entreprises structuré autour d'une plateforme numérique.",
-        "paragraph": "Nous fournissons des services de comptabilité, de conformité, de gestion d'entreprise et d'audit de bout en bout en combinant des professionnels expérimentés avec des flux de travail disciplinés et une technologie adaptée.\n\nVACEI n'est ni un produit logiciel ni une place de marché. Nous sommes un cabinet qui fait le travail pour vous, s'appuyant sur un portail client sécurisé et structuré."
+        "description": "A4 est un cabinet professionnel de comptabilité, d'audit et de services aux entreprises structuré autour d'une plateforme numérique.",
+        "paragraph": "Nous fournissons des services de comptabilité, de conformité, de gestion d'entreprise et d'audit de bout en bout en combinant des professionnels expérimentés avec des flux de travail disciplinés et une technologie adaptée.\n\nA4 n'est ni un produit logiciel ni une place de marché. Nous sommes un cabinet qui fait le travail pour vous, s'appuyant sur un portail client sécurisé et structuré."
       },
       {
-        "title": "Pourquoi VACEI a été créé",
+        "title": "Pourquoi A4 a été créé",
         "description": "Les services professionnels traditionnels s'appuient fortement sur les e-mails, les feuilles de calcul et des outils fragmentés. Cela entraîne souvent des inefficacités, une visibilité limitée et des risques opérationnels inutiles.",
-        "paragraph": "VACEI a été conçu pour moderniser la prestation des services de comptabilité et d'audit, sans compromis sur la responsabilité professionnelle ou la qualité.\n\nNotre approche met l'accent sur la structure, la visibilité et la responsabilité, soutenue par une technologie qui favorise une meilleure prestation plutôt que de remplacer le jugement professionnel."
+        "paragraph": "A4 a été conçu pour moderniser la prestation des services de comptabilité et d'audit, sans compromis sur la responsabilité professionnelle ou la qualité.\n\nNotre approche met l'accent sur la structure, la visibilité et la responsabilité, soutenue par une technologie qui favorise une meilleure prestation plutôt que de remplacer le jugement professionnel."
       }
     ],
     "serviceFeatures": {
-      "title": "Ce qui différencie VACEI",
+      "title": "Ce qui différencie A4",
       "subtitle": "Demandez un devis clair et précis pour votre entreprise.",
       "groups": [
         {
@@ -50,7 +57,7 @@
       "mission": {
         "title": "Notre Mission",
         "paragraphs": [
-          "La mission de VACEI est de fournir des services de comptabilité, d'audit et de services aux entreprises de manière structurée, transparente et responsable.",
+          "La mission de A4 est de fournir des services de comptabilité, d'audit et de services aux entreprises de manière structurée, transparente et responsable.",
           "Nous éliminons la fragmentation, l'incertitude et l'inefficacité de la prestation de services professionnels en associant des équipes expérimentées avec des méthodes de travail claires et des systèmes dédiés.",
           "Notre priorité est de réaliser le travail correctement, dans les délais et conformément aux normes professionnelles et réglementaires, tout en offrant aux clients une visibilité totale sans lourdeur opérationnelle."
         ]
@@ -60,21 +67,37 @@
         "paragraphs": [
           "Notre vision est de redéfinir la manière dont les services professionnels de comptabilité et d'audit sont fournis dans un environnement moderne et numérique.",
           "Nous envisageons un avenir où des méthodes de travail structurées, des responsabilités claires et une technologie intégrée offrent aux clients une visibilité en temps réel plutôt que des mises à jour réactives.",
-          "VACEI construit cet avenir en alignant les personnes, les processus et la technologie dans un modèle de prestation intégré qui soutient les professionnels sans remplacer leur jugement."
+          "A4 construit cet avenir en alignant les personnes, les processus et la technologie dans un modèle de prestation intégré qui soutient les professionnels sans remplacer leur jugement."
         ]
       }
     }
   },
   "contact": {
-    "pageHeader": { "title": "Nous Contacter", "breadcrumbs": [ { "label": "Nous Contacter" } ] },
+    "pageHeader": {
+      "title": "Nous Contacter",
+      "breadcrumbs": [
+        {
+          "label": "Nous Contacter"
+        }
+      ]
+    },
     "form": {
       "badge": "Prendre contact",
       "title": "Envoyez-nous un message",
       "description": "Partagez quelques détails sur ce que vous recherchez et notre équipe reviendra vers vous avec les prochaines étapes.",
       "fields": {
-        "name": { "label": "Nom Complet", "placeholder": "Votre nom" },
-        "email": { "label": "Adresse E-mail", "placeholder": "votre.email@exemple.com" },
-        "message": { "label": "Message", "placeholder": "Votre message" }
+        "name": {
+          "label": "Nom Complet",
+          "placeholder": "Votre nom"
+        },
+        "email": {
+          "label": "Adresse E-mail",
+          "placeholder": "votre.email@exemple.com"
+        },
+        "message": {
+          "label": "Message",
+          "placeholder": "Votre message"
+        }
       },
       "submit": "Envoyer",
       "submitting": "Envoi en cours...",
@@ -96,9 +119,21 @@
     "info": {
       "title": "Informations de contact",
       "description": "Vous préférez l'e-mail, un appel rapide ou une discussion en personne ? Choisissez ce qui vous convient le mieux.",
-      "email": { "label": "E-mail", "value": "info@vacei.com" },
-      "phone": { "label": "Téléphone", "values": [ "+356 77142418", "+44 07400 487907" ] },
-      "address": { "label": "Adresse", "value": "A4, Triq San Giljan, San Gwann, Malte." },
+      "email": {
+        "label": "E-mail",
+        "value": "info@A4.com"
+      },
+      "phone": {
+        "label": "Téléphone",
+        "values": [
+          "+356 77142418",
+          "+44 07400 487907"
+        ]
+      },
+      "address": {
+        "label": "Adresse",
+        "value": "A4, Triq San Giljan, San Gwann, Malte."
+      },
       "cta": {
         "title": "Vous préférez discuter ?",
         "button": "Réserver un appel gratuit de 15 minutes"
@@ -106,25 +141,46 @@
     }
   },
   "quote": {
-    "pageHeader": { "title": "Obtenir un Devis", "breadcrumbs": [ { "label": "Obtenir un Devis" } ] }
+    "pageHeader": {
+      "title": "Obtenir un Devis",
+      "breadcrumbs": [
+        {
+          "label": "Obtenir un Devis"
+        }
+      ]
+    }
   },
   "pricing": {
-    "pageHeader": { "title": "Tarifs", "breadcrumbs": [ { "label": "Tarifs" } ] }
+    "pageHeader": {
+      "title": "Tarifs",
+      "breadcrumbs": [
+        {
+          "label": "Tarifs"
+        }
+      ]
+    }
   },
   "faq": {
-    "pageHeader": { "title": "FAQ", "breadcrumbs": [ { "label": "FAQ" } ] },
+    "pageHeader": {
+      "title": "FAQ",
+      "breadcrumbs": [
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
     "accordion": [
       {
         "title": "Clarification",
-        "content": "VACEI est un cabinet de comptabilité, d'audit et de services aux entreprises qui fournit ses services via une plateforme numérique structurée. Les clients interagissent via un portail unique tandis que nos équipes gèrent la prestation, les revues et la conformité en interne."
+        "content": "A4 est un cabinet de comptabilité, d'audit et de services aux entreprises qui fournit ses services via une plateforme numérique structurée. Les clients interagissent via un portail unique tandis que nos équipes gèrent la prestation, les revues et la conformité en interne."
       },
       {
         "title": "Dois-je utiliser un logiciel de comptabilité ou d'audit spécifique ?",
-        "content": "Non, vous n'avez pas besoin d'utiliser de logiciel spécifique. VACEI fournit une plateforme numérique complète où tous vos services sont gérés. Les clients interagissent via notre portail unique, et nos équipes s'occupent de tous les aspects techniques en interne."
+        "content": "Non, vous n'avez pas besoin d'utiliser de logiciel spécifique. A4 fournit une plateforme numérique complète où tous vos services sont gérés. Les clients interagissent via notre portail unique, et nos équipes s'occupent de tous les aspects techniques en interne."
       },
       {
-        "title": "À qui s'adresse VACEI ?",
-        "content": "VACEI est conçu pour les entreprises de toutes tailles ayant besoin de services structurés. Que vous soyez une startup, une entreprise en croissance ou une société établie, notre plateforme facilite la gestion efficace de vos besoins financiers et de conformité."
+        "title": "À qui s'adresse A4 ?",
+        "content": "A4 est conçu pour les entreprises de toutes tailles ayant besoin de services structurés. Que vous soyez une startup, une entreprise en croissance ou une société établie, notre plateforme facilite la gestion efficace de vos besoins financiers et de conformité."
       }
     ],
     "categories": [
@@ -133,12 +189,12 @@
         "titleHighlight": "Prestation",
         "questions": [
           {
-            "question": "Quels services VACEI fournit-il ?",
-            "answer": "VACEI fournit des services de comptabilité, de tenue de livres, de TVA, de paie, d'audit et des services connexes aux entreprises."
+            "question": "Quels services A4 fournit-il ?",
+            "answer": "A4 fournit des services de comptabilité, de tenue de livres, de TVA, de paie, d'audit et des services connexes aux entreprises."
           },
           {
-            "question": "Comment VACEI gère-t-il les échéances et les livrables ?",
-            "answer": "VACEI utilise des flux de travail structurés et des portails internes pour gérer toutes les échéances. Chaque mission a des délais clairs visibles via le Portail Client."
+            "question": "Comment A4 gère-t-il les échéances et les livrables ?",
+            "answer": "A4 utilise des flux de travail structurés et des portails internes pour gérer toutes les échéances. Chaque mission a des délais clairs visibles via le Portail Client."
           },
           {
             "question": "Aurais-je une équipe dédiée ?",
@@ -155,7 +211,7 @@
             "answer": "Les documents sont téléchargés de manière sécurisée via le Portail Client, où les demandes et les soumissions sont suivies en un seul endroit."
           },
           {
-            "question": "Comment communiquer avec mon équipe VACEI ?",
+            "question": "Comment communiquer avec mon équipe A4 ?",
             "answer": "La communication se fait via le Portail Client, où vous pouvez envoyer des messages et suivre toutes les interactions avec votre équipe dédiée."
           }
         ]
@@ -165,11 +221,11 @@
         "titleHighlight": "Portails",
         "questions": [
           {
-            "question": "VACEI utilise-t-il la technologie dans ses services ?",
-            "answer": "Oui. VACEI utilise des portails et des outils internes pour gérer les flux de travail, les revues et les contrôles qualité, améliorant ainsi l'efficacité et la traçabilité."
+            "question": "A4 utilise-t-il la technologie dans ses services ?",
+            "answer": "Oui. A4 utilise des portails et des outils internes pour gérer les flux de travail, les revues et les contrôles qualité, améliorant ainsi l'efficacité et la traçabilité."
           },
           {
-            "question": "Les cabinets peuvent-ils accéder à la technologie de VACEI ?",
+            "question": "Les cabinets peuvent-ils accéder à la technologie de A4 ?",
             "answer": "Certains composants de notre environnement technologique peuvent être mis à disposition via des partenariats ou des licences. Contactez-nous pour en savoir plus."
           }
         ]
@@ -191,56 +247,193 @@
     ]
   },
   "cookie-policy": {
-    "pageHeader": { "title": "Politique relative aux Cookies", "breadcrumbs": [ { "label": "Politique relative aux Cookies" } ] },
+    "pageHeader": {
+      "title": "Politique relative aux Cookies",
+      "breadcrumbs": [
+        {
+          "label": "Politique relative aux Cookies"
+        }
+      ]
+    },
     "intro": "Cette politique relative aux cookies explique comment nous utilisons les cookies et les technologies similaires sur ce site web.",
     "sections": [
-      { "heading": "1. Que sont les cookies ?", "body": "Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez un site web. Ils aident le site à reconnaître votre appareil et à stocker des informations sur vos préférences ou actions passées. Certains sont essentiels au fonctionnement du site, d'autres servent à améliorer les performances ou analyser l'utilisation." },
-      { "heading": "2. Comment nous utilisons les cookies", "paragraphs": [ "Nous utilisons des cookies pour soutenir le fonctionnement de ce site et de nos portails, pour comprendre l'utilisation qu'en font les visiteurs et pour améliorer la présentation des informations. Dans certains cas, ils nous aident à mémoriser vos choix (langue, région).", "Nous cherchons à utiliser les cookies de manière mesurée, au service d'une expérience structurée et professionnelle, plutôt que du suivi pour le suivi." ] },
-      { "heading": "3. Types de cookies utilisés", "intro": "Les cookies utilisés peuvent évoluer, mais ils appartiennent généralement aux catégories suivantes :", "list": [ { "label": "Cookies strictement nécessaires", "text": "– requis pour le bon fonctionnement du site et des zones sécurisées. Ils ne peuvent pas être désactivés." }, { "label": "Cookies de performance et d'analyse", "text": "– nous aident à comprendre l'interaction des visiteurs avec nos pages pour améliorer la navigation." }, { "label": "Cookies de fonctionnalité", "text": "– permettent au site de mémoriser vos préférences pour offrir une expérience personnalisée." }, { "label": "Cookies de sécurité et de session", "text": "– soutiennent la connexion sécurisée et protègent les comptes contre les accès non autorisés." } ] },
-      { "heading": "4. Cookies tiers", "paragraphs": [ "Outre nos propres cookies, nous pouvons utiliser des cookies tiers fournis par des prestataires de confiance pour l'analyse, le suivi des performances, le contenu intégré ou l'intégration d'autres outils utilisés pour fournir et maintenir nos services.", "Lorsque des cookies tiers sont utilisés, ces tiers peuvent collecter des informations sur vos activités en ligne dans le temps et sur différents sites web, conformément à leurs propres politiques en matière de confidentialité et de cookies. Nous cherchons à ne travailler qu'avec des fournisseurs dont les pratiques sont compatibles avec un environnement de services professionnels." ] },
-      { "heading": "5. Gestion des cookies", "paragraphs": [ "Vous pouvez contrôler et gérer les cookies de plusieurs façons. La plupart des navigateurs permettent de consulter les cookies stockés sur votre appareil, de les supprimer, de bloquer certains types ou de les limiter à certains sites. La procédure varie selon le navigateur ; consultez l'aide ou les paramètres du vôtre pour des instructions à jour.", "Si vous choisissez de bloquer ou de supprimer certains cookies, certaines parties du site ou du portail peuvent ne pas fonctionner comme prévu et vous pourriez ne pas accéder à certaines fonctionnalités ou zones sécurisées." ] },
-      { "heading": "6. Relation avec notre Politique de Confidentialité", "body": "Les informations collectées via les cookies et technologies similaires peuvent être combinées à d'autres données que nous détenons sur vous, par exemple des informations fournies lors du remplissage d'un formulaire, d'une demande de devis ou de l'utilisation d'un portail client. Notre utilisation de ces informations est décrite plus en détail dans notre Politique de Confidentialité, à lire conjointement avec la présente politique relative aux cookies." },
-      { "heading": "7. Mises à jour", "paragraphs": [ "Nous pouvons mettre à jour cette politique relative aux cookies de temps à autre, par exemple pour refléter l'évolution des cookies utilisés, des réglementations applicables ou de notre technologie et nos services. Lorsque nous apportons des modifications substantielles, nous ajusterons la date d'effet ci-dessous et, le cas échéant, fournirons un avis complémentaire." ], "lastUpdatedLabel": "Dernière mise à jour :" }
+      {
+        "heading": "1. Que sont les cookies ?",
+        "body": "Les cookies sont de petits fichiers texte placés sur votre appareil lorsque vous visitez un site web. Ils aident le site à reconnaître votre appareil et à stocker des informations sur vos préférences ou actions passées. Certains sont essentiels au fonctionnement du site, d'autres servent à améliorer les performances ou analyser l'utilisation."
+      },
+      {
+        "heading": "2. Comment nous utilisons les cookies",
+        "paragraphs": [
+          "Nous utilisons des cookies pour soutenir le fonctionnement de ce site et de nos portails, pour comprendre l'utilisation qu'en font les visiteurs et pour améliorer la présentation des informations. Dans certains cas, ils nous aident à mémoriser vos choix (langue, région).",
+          "Nous cherchons à utiliser les cookies de manière mesurée, au service d'une expérience structurée et professionnelle, plutôt que du suivi pour le suivi."
+        ]
+      },
+      {
+        "heading": "3. Types de cookies utilisés",
+        "intro": "Les cookies utilisés peuvent évoluer, mais ils appartiennent généralement aux catégories suivantes :",
+        "list": [
+          {
+            "label": "Cookies strictement nécessaires",
+            "text": "– requis pour le bon fonctionnement du site et des zones sécurisées. Ils ne peuvent pas être désactivés."
+          },
+          {
+            "label": "Cookies de performance et d'analyse",
+            "text": "– nous aident à comprendre l'interaction des visiteurs avec nos pages pour améliorer la navigation."
+          },
+          {
+            "label": "Cookies de fonctionnalité",
+            "text": "– permettent au site de mémoriser vos préférences pour offrir une expérience personnalisée."
+          },
+          {
+            "label": "Cookies de sécurité et de session",
+            "text": "– soutiennent la connexion sécurisée et protègent les comptes contre les accès non autorisés."
+          }
+        ]
+      },
+      {
+        "heading": "4. Cookies tiers",
+        "paragraphs": [
+          "Outre nos propres cookies, nous pouvons utiliser des cookies tiers fournis par des prestataires de confiance pour l'analyse, le suivi des performances, le contenu intégré ou l'intégration d'autres outils utilisés pour fournir et maintenir nos services.",
+          "Lorsque des cookies tiers sont utilisés, ces tiers peuvent collecter des informations sur vos activités en ligne dans le temps et sur différents sites web, conformément à leurs propres politiques en matière de confidentialité et de cookies. Nous cherchons à ne travailler qu'avec des fournisseurs dont les pratiques sont compatibles avec un environnement de services professionnels."
+        ]
+      },
+      {
+        "heading": "5. Gestion des cookies",
+        "paragraphs": [
+          "Vous pouvez contrôler et gérer les cookies de plusieurs façons. La plupart des navigateurs permettent de consulter les cookies stockés sur votre appareil, de les supprimer, de bloquer certains types ou de les limiter à certains sites. La procédure varie selon le navigateur ; consultez l'aide ou les paramètres du vôtre pour des instructions à jour.",
+          "Si vous choisissez de bloquer ou de supprimer certains cookies, certaines parties du site ou du portail peuvent ne pas fonctionner comme prévu et vous pourriez ne pas accéder à certaines fonctionnalités ou zones sécurisées."
+        ]
+      },
+      {
+        "heading": "6. Relation avec notre Politique de Confidentialité",
+        "body": "Les informations collectées via les cookies et technologies similaires peuvent être combinées à d'autres données que nous détenons sur vous, par exemple des informations fournies lors du remplissage d'un formulaire, d'une demande de devis ou de l'utilisation d'un portail client. Notre utilisation de ces informations est décrite plus en détail dans notre Politique de Confidentialité, à lire conjointement avec la présente politique relative aux cookies."
+      },
+      {
+        "heading": "7. Mises à jour",
+        "paragraphs": [
+          "Nous pouvons mettre à jour cette politique relative aux cookies de temps à autre, par exemple pour refléter l'évolution des cookies utilisés, des réglementations applicables ou de notre technologie et nos services. Lorsque nous apportons des modifications substantielles, nous ajusterons la date d'effet ci-dessous et, le cas échéant, fournirons un avis complémentaire."
+        ],
+        "lastUpdatedLabel": "Dernière mise à jour :"
+      }
     ]
   },
   "coming-soon": {
     "badge": "En cours de travail",
     "title": "Cette page sera bientôt disponible",
-    "description": "Nous finalisons les détails de cette section de la plateforme VACEI. En attendant, explorez nos produits existants ou demandez un devis clair.",
+    "description": "Nous finalisons les détails de cette section de la plateforme A4. En attendant, explorez nos produits existants ou demandez un devis clair.",
     "viewAiReview": "Voir AI Review"
   },
   "resources": {
-    "pageHeader": { "title": "Ressources", "breadcrumbs": [ { "label": "Ressources" } ] },
+    "pageHeader": {
+      "title": "Ressources",
+      "breadcrumbs": [
+        {
+          "label": "Ressources"
+        }
+      ]
+    },
     "visit": "Visiter",
     "links": [
-      { "label": "Insights", "href": "/insights", "description": "Articles sur la comptabilité, l'audit, la conformité et la croissance." },
-      { "label": "Comment ça marche", "href": "/how-it-works", "description": "Un portail. Une équipe. Tout est géré." },
-      { "label": "À propos de VACEI", "href": "/about", "description": "Notre histoire et notre approche." },
-      { "label": "FAQs", "href": "/faq", "description": "Questions fréquemment posées." },
-      { "label": "Sécurité & Conformité", "href": "/security-compliance", "description": "Comment nous sécurisons vos données." },
-      { "label": "Devis Instantané", "href": "/quote", "description": "Demandez un devis clair pour votre entreprise." },
-      { "label": "CPE & Podcast", "href": "/cpe", "description": "Formation continue et perspectives." }
+      {
+        "label": "Insights",
+        "href": "/insights",
+        "description": "Articles sur la comptabilité, l'audit, la conformité et la croissance."
+      },
+      {
+        "label": "Comment ça marche",
+        "href": "/how-it-works",
+        "description": "Un portail. Une équipe. Tout est géré."
+      },
+      {
+        "label": "À propos de A4",
+        "href": "/about",
+        "description": "Notre histoire et notre approche."
+      },
+      {
+        "label": "FAQs",
+        "href": "/faq",
+        "description": "Questions fréquemment posées."
+      },
+      {
+        "label": "Sécurité & Conformité",
+        "href": "/security-compliance",
+        "description": "Comment nous sécurisons vos données."
+      },
+      {
+        "label": "Devis Instantané",
+        "href": "/quote",
+        "description": "Demandez un devis clair pour votre entreprise."
+      },
+      {
+        "label": "CPE & Podcast",
+        "href": "/cpe",
+        "description": "Formation continue et perspectives."
+      }
     ]
   },
   "how-it-works": {
-    "pageHeader": { "title": "Comment ça marche", "breadcrumbs": [ { "label": "Comment ça marche" } ] },
+    "pageHeader": {
+      "title": "Comment ça marche",
+      "breadcrumbs": [
+        {
+          "label": "Comment ça marche"
+        }
+      ]
+    },
     "steps": [
-      { "id": "step-1", "number": "01.", "title": "Parlez-nous de votre entreprise", "description": "Répondez à quelques questions sur vos besoins et votre situation actuelle pour nous permettre de comprendre vos attentes.", "image": "/assets/images/Tell Us About Your Business.png" },
-      { "id": "step-2", "number": "02.", "title": "Recevez un devis clair", "description": "Vous recevrez un devis détaillé par e-mail précisant les services, les tarifs, les délais et les prochaines étapes. Sans engagement.", "image": "/assets/images/Receive a Quote.png" },
-      { "id": "step-3", "number": "03.", "title": "Onboarding et migration des données", "description": "Une fois accepté, nous gérons la configuration de votre compte et la migration des données nécessaires sans que vous ayez à préparer de systèmes.", "image": "/assets/images/Onboarding and Data Migration.png" },
-      { "id": "step-4", "number": "04.", "title": "Équipe VACEI dédiée assignée", "description": "Une équipe dédiée devient votre point de contact principal et responsable de la prestation de vos services.", "image": "/assets/images/Dedicated VACEI Team Assigned.png" },
-      { "id": "step-5", "number": "05.", "title": "Travail livré via le Portail Client", "description": "Tout est géré via votre portail sécurisé : téléchargement de documents, suivi des tâches, communication et accès aux rapports.", "image": "/assets/images/Work Delivered via Client Portal (1).png" }
+      {
+        "id": "step-1",
+        "number": "01.",
+        "title": "Parlez-nous de votre entreprise",
+        "description": "Répondez à quelques questions sur vos besoins et votre situation actuelle pour nous permettre de comprendre vos attentes.",
+        "image": "/assets/images/Tell Us About Your Business.png"
+      },
+      {
+        "id": "step-2",
+        "number": "02.",
+        "title": "Recevez un devis clair",
+        "description": "Vous recevrez un devis détaillé par e-mail précisant les services, les tarifs, les délais et les prochaines étapes. Sans engagement.",
+        "image": "/assets/images/Receive a Quote.png"
+      },
+      {
+        "id": "step-3",
+        "number": "03.",
+        "title": "Onboarding et migration des données",
+        "description": "Une fois accepté, nous gérons la configuration de votre compte et la migration des données nécessaires sans que vous ayez à préparer de systèmes.",
+        "image": "/assets/images/Onboarding and Data Migration.png"
+      },
+      {
+        "id": "step-4",
+        "number": "04.",
+        "title": "Équipe A4 dédiée assignée",
+        "description": "Une équipe dédiée devient votre point de contact principal et responsable de la prestation de vos services.",
+        "image": "/assets/images/Dedicated A4 Team Assigned.png"
+      },
+      {
+        "id": "step-5",
+        "number": "05.",
+        "title": "Travail livré via le Portail Client",
+        "description": "Tout est géré via votre portail sécurisé : téléchargement de documents, suivi des tâches, communication et accès aux rapports.",
+        "image": "/assets/images/Work Delivered via Client Portal (1).png"
+      }
     ],
     "ongoingSupport": {
       "title": "Soutien continu et visibilité",
-      "p1": "VACEI continue de gérer vos services de manière continue.",
+      "p1": "A4 continue de gérer vos services de manière continue.",
       "p2": "La plateforme suit les échéances et les progrès, vous offrant une visibilité constante sur vos obligations comptables, fiscales et d'audit.",
       "imageAltBg": "Arrière-plan soutien continu",
       "imageAltOverlay": "Superposition progrès projet"
     }
   },
   "insights": {
-    "pageHeader": { "title": "Insights", "breadcrumbs": [ { "label": "Insights" } ] },
+    "pageHeader": {
+      "title": "Insights",
+      "breadcrumbs": [
+        {
+          "label": "Insights"
+        }
+      ]
+    },
     "subtitle": "Réflexions structurées sur la comptabilité, l'audit, la conformité et le développement professionnel.",
     "searchPlaceholder": "Rechercher des articles...",
     "allTopics": "Tous les sujets",
@@ -256,7 +449,7 @@
     "article": {
       "linkCopied": "Lien copié dans le presse-papiers !",
       "writtenBy": "Rédigé par",
-      "teamLine": "Équipe Insights VACEI",
+      "teamLine": "Équipe Insights A4",
       "published": "Publié",
       "readingTime": "Temps de lecture",
       "shareInsight": "Partager l'insight",
@@ -265,7 +458,7 @@
       "needAuditBody": "Échangez avec des auditeurs agréés et simplifiez votre conformité.",
       "getStarted": "Commencer",
       "relatedTitle": "Autres insights",
-      "relatedSubtitle": "Plus de réflexions structurées de l'équipe VACEI sur la croissance professionnelle et la conformité.",
+      "relatedSubtitle": "Plus de réflexions structurées de l'équipe A4 sur la croissance professionnelle et la conformité.",
       "viewAllInsights": "Voir tous les insights",
       "defaultTag": "Insight",
       "tagsHeading": "Mots-clés"
@@ -285,10 +478,17 @@
     "viewAllArticles": "Voir tous les articles"
   },
   "technology": {
-    "pageHeader": { "title": "Notre Technologie", "breadcrumbs": [ { "label": "Notre Technologie" } ] },
+    "pageHeader": {
+      "title": "Notre Technologie",
+      "breadcrumbs": [
+        {
+          "label": "Notre Technologie"
+        }
+      ]
+    },
     "overview": {
       "title": "Notre Technologie",
-      "p1": "VACEI fournit des services de comptabilité et d'audit via un environnement numérique structuré conçu pour soutenir la précision, la cohérence et la qualité.",
+      "p1": "A4 fournit des services de comptabilité et d'audit via un environnement numérique structuré conçu pour soutenir la précision, la cohérence et la qualité.",
       "p2": "Il regroupe la planification, la documentation, les preuves, la communication, les revues et la validation dans un flux de travail structuré, garantissant que les audits sont réalisés de manière efficace et cohérente. Notre technologie n'est pas une offre de produit distincte et ne remplace pas le jugement professionnel. Elle existe pour soutenir le travail de nos équipes, réduire les frictions et garantir que le travail est livré de manière contrôlée, transparente et conforme aux normes professionnelles.",
       "p3": "Les clients interagissent via un Portail Client unique. En coulisses, nos équipes de comptabilité et d'audit utilisent des portails et outils internes spécialisés pour gérer les flux de travail, les revues, la documentation et la conformité.",
       "backgroundAlt": "Fond technologique",
@@ -309,7 +509,7 @@
       "closingText": "Les flux de travail sont structurés pour que les tâches soient accomplies dans le bon ordre, avec des responsabilités claires et un progrès visible à chaque étape.",
       "bottomTitle": "Notre Technologie",
       "bottomDescription": "Documents, tâches, échéances et communication en un seul endroit.",
-      "quoteText": "Les bons cabinets comptent sur l'expérience. Les excellents cabinets comptent sur la structure. VACEI existe pour rendre cette structure visible, auditable et évolutive."
+      "quoteText": "Les bons cabinets comptent sur l'expérience. Les excellents cabinets comptent sur la structure. A4 existe pour rendre cette structure visible, auditable et évolutive."
     },
     "component": {
       "badge": "TECHNOLOGIE",
@@ -323,7 +523,7 @@
         },
         {
           "title": "Portail Comptable",
-          "description": "Le portail interne utilisé par les équipes comptables de VACEI pour gérer les flux mensuels, les écritures, les revues, la TVA, la paie et les intégrations."
+          "description": "Le portail interne utilisé par les équipes comptables de A4 pour gérer les flux mensuels, les écritures, les revues, la TVA, la paie et les intégrations."
         },
         {
           "title": "Portail d'Audit",
@@ -337,7 +537,7 @@
     },
     "regulated": {
       "title": "Conçu pour les environnements réglementés",
-      "intro": "Toute la technologie utilisée par VACEI est conçue pour soutenir :",
+      "intro": "Toute la technologie utilisée par A4 est conçue pour soutenir :",
       "features": [
         "Accès et permissions basés sur les rôles",
         "Flux de travail et approbations contrôlés",
@@ -351,40 +551,76 @@
       },
       "handleTitle": "Nous manipulons avec soin",
       "workspaceCards": [
-        { "title": "Comptabilité", "description": "Livres mensuels, rapprochements et rapports", "status": "En attente", "links": ["Ouvrir l'espace", "Ouvrir"] },
-        { "title": "Documentation", "description": "Coffre-fort documentaire central et demandes", "links": ["Ouvrir", "Ouvrir l'espace"] },
-        { "title": "Espace comptable", "description": "Coffre-fort documentaire central et demandes", "links": ["Ouvrir", "Ouvrir l'espace"] },
-        { "title": "Espace d'audit", "description": "Mission, PBC, requêtes, rapports", "links": ["Ouvrir", "Ouvrir l'espace"] }
+        {
+          "title": "Comptabilité",
+          "description": "Livres mensuels, rapprochements et rapports",
+          "status": "En attente",
+          "links": [
+            "Ouvrir l'espace",
+            "Ouvrir"
+          ]
+        },
+        {
+          "title": "Documentation",
+          "description": "Coffre-fort documentaire central et demandes",
+          "links": [
+            "Ouvrir",
+            "Ouvrir l'espace"
+          ]
+        },
+        {
+          "title": "Espace comptable",
+          "description": "Coffre-fort documentaire central et demandes",
+          "links": [
+            "Ouvrir",
+            "Ouvrir l'espace"
+          ]
+        },
+        {
+          "title": "Espace d'audit",
+          "description": "Mission, PBC, requêtes, rapports",
+          "links": [
+            "Ouvrir",
+            "Ouvrir l'espace"
+          ]
+        }
       ]
     }
   },
   "partners": {
-    "pageHeader": { "title": "Devenir Partenaire VACEI", "breadcrumbs": [ { "label": "Partenaires" } ] },
-    "collaborationTitle": "Devenir Partenaire VACEI",
+    "pageHeader": {
+      "title": "Devenir Partenaire A4",
+      "breadcrumbs": [
+        {
+          "label": "Partenaires"
+        }
+      ]
+    },
+    "collaborationTitle": "Devenir Partenaire A4",
     "collaborationSubtitle": "Découvrez comment nous pouvons travailler ensemble pour offrir de meilleurs services de comptabilité, d'audit et de conformité à vos clients.",
     "learnMore": "En Savoir Plus",
     "models": [
       {
         "title": "Prestation de Services",
-        "description": "Référez des clients à VACEI pour une prestation structurée de comptabilité et d'audit, gérée via notre portail sécurisé.",
+        "description": "Référez des clients à A4 pour une prestation structurée de comptabilité et d'audit, gérée via notre portail sécurisé.",
         "link": "/partners/service-delivery",
         "iconIndex": 0
       },
       {
         "title": "Solutions en Marque Blanche",
-        "description": "Lancez votre propre plateforme personnalisée alimentée par la technologie et le modèle de prestation de VACEI.",
+        "description": "Lancez votre propre plateforme personnalisée alimentée par la technologie et le modèle de prestation de A4.",
         "link": "/white-label-platform",
         "iconIndex": 1
       },
       {
         "title": "Intégration Technologique",
-        "description": "Intégrez vos outils ou services existants à la plateforme VACEI pour une expérience client fluide.",
+        "description": "Intégrez vos outils ou services existants à la plateforme A4 pour une expérience client fluide.",
         "link": "/partners/technology-support",
         "iconIndex": 2
       },
       {
         "title": "Programme de Revendeurs",
-        "description": "Rejoignez notre réseau de partenaires et consultants qui aident les cabinets à adopter et bénéficier de la plateforme VACEI.",
+        "description": "Rejoignez notre réseau de partenaires et consultants qui aident les cabinets à adopter et bénéficier de la plateforme A4.",
         "link": "/partners/reseller-program",
         "iconIndex": 3
       }
@@ -421,26 +657,31 @@
       "pageHeader": {
         "title": "Programme Revendeurs",
         "breadcrumbs": [
-          { "label": "Partenaires", "href": "/partners" },
-          { "label": "Programme Revendeurs" }
+          {
+            "label": "Partenaires",
+            "href": "/partners"
+          },
+          {
+            "label": "Programme Revendeurs"
+          }
         ]
       },
       "hero": {
-        "title": "Vendez VACEI. Nous livrons la plateforme. Vous gagnez.",
-        "description": "Le programme permet aux professionnels qualifiés de présenter des clients à VACEI et de percevoir des commissions sur des missions réussies, sans exercer de services réglementés ni gérer l'exécution.",
+        "title": "Vendez A4. Nous livrons la plateforme. Vous gagnez.",
+        "description": "Le programme permet aux professionnels qualifiés de présenter des clients à A4 et de percevoir des commissions sur des missions réussies, sans exercer de services réglementés ni gérer l'exécution.",
         "cta": "Candidater comme revendeur"
       },
       "sections": [
         {
-          "title": "Ce qu'est VACEI",
+          "title": "Ce qu'est A4",
           "content": [
-            "VACEI est une plateforme de délivrance pour les workflows comptables et d'audit. Elle fournit l'infrastructure derrière ces services.",
-            "VACEI combine des workflows structurés, une interaction client sécurisée, une documentation de qualité audit, des contrôles internes et une aide à la revue assistée par la technologie.",
-            "VACEI n'est pas un cabinet et ne détient pas de mandats clients. C'est une plateforme qui soutient une prestation conforme."
+            "A4 est une plateforme de délivrance pour les workflows comptables et d'audit. Elle fournit l'infrastructure derrière ces services.",
+            "A4 combine des workflows structurés, une interaction client sécurisée, une documentation de qualité audit, des contrôles internes et une aide à la revue assistée par la technologie.",
+            "A4 n'est pas un cabinet et ne détient pas de mandats clients. C'est une plateforme qui soutient une prestation conforme."
           ]
         },
         {
-          "title": "Ce que VACEI n'est pas",
+          "title": "Ce que A4 n'est pas",
           "content": [
             "Pour lever toute ambiguïté : ce n'est pas un SaaS grand public, pas un outil comptable en self-service, pas un remplaçant des professionnels.",
             "La plateforme ne supprime pas la responsabilité professionnelle. Elle vise un usage professionnel encadré."
@@ -448,7 +689,9 @@
         },
         {
           "title": "À qui s'adresse le programme",
-          "content": [ "Pour les professionnels qui travaillent avec des entreprises ayant besoin d'un accompagnement structuré en comptabilité, audit ou conformité." ],
+          "content": [
+            "Pour les professionnels qui travaillent avec des entreprises ayant besoin d'un accompagnement structuré en comptabilité, audit ou conformité."
+          ],
           "list": [
             "Consultants en stratégie et management",
             "Fiduciaires et sociétés de services",
@@ -460,17 +703,19 @@
         {
           "title": "Rôle des revendeurs",
           "content": [
-            "Les revendeurs identifient des clients adaptés, les orientent vers VACEI, facilitent l'échange commercial initial, puis transfèrent la livraison à VACEI ou un partenaire agréé.",
+            "Les revendeurs identifient des clients adaptés, les orientent vers A4, facilitent l'échange commercial initial, puis transfèrent la livraison à A4 ou un partenaire agréé.",
             "Ils ne réalisent pas de travail comptable ou d'audit, n'accèdent pas aux données au-delà de l'onboarding commercial et ne portent pas la responsabilité professionnelle ou réglementaire."
           ]
         },
         {
           "title": "Déroulement",
-          "content": [ "Un processus clair et structuré." ],
+          "content": [
+            "Un processus clair et structuré."
+          ],
           "list": [
             "Le revendeur présente le client via le canal convenu.",
-            "VACEI évalue la pertinence, le périmètre et la juridiction et onboard le client.",
-            "Les services sont délivrés avec les workflows VACEI par VACEI ou un partenaire agréé.",
+            "A4 évalue la pertinence, le périmètre et la juridiction et onboard le client.",
+            "Les services sont délivrés avec les workflows A4 par A4 ou un partenaire agréé.",
             "Une fois la mission établie, la commission revendeur s'applique selon les termes convenus."
           ]
         },
@@ -478,7 +723,7 @@
           "title": "Ce qui peut être revendu",
           "content": [
             "Introduction de clients nécessitant des workflows comptables, reporting, gestion documentaire, missions d'audit, contrôles, portails clients sécurisés et suivi des échéances.",
-            "VACEI peut aussi aider la revue grâce à des contrôles documentaires assistés et des indicateurs de risque pour les professionnels, sans remplacer leur jugement."
+            "A4 peut aussi aider la revue grâce à des contrôles documentaires assistés et des indicateurs de risque pour les professionnels, sans remplacer leur jugement."
           ]
         },
         {
@@ -492,7 +737,7 @@
           "title": "Pourquoi nous rejoindre",
           "content": [
             "Rôles clairs, pas de charge opérationnelle lourde, pas d'exposition réglementaire directe, crédibilité renforcée par la plateforme.",
-            "VACEI gère la complexité ; le revendeur se concentre sur la relation et la croissance."
+            "A4 gère la complexité ; le revendeur se concentre sur la relation et la croissance."
           ]
         },
         {
@@ -508,8 +753,13 @@
       "pageHeader": {
         "title": "Partenariats de prestation",
         "breadcrumbs": [
-          { "label": "Partenaires", "href": "/partners" },
-          { "label": "Prestation de services" }
+          {
+            "label": "Partenaires",
+            "href": "/partners"
+          },
+          {
+            "label": "Prestation de services"
+          }
         ]
       },
       "hero": {
@@ -521,7 +771,7 @@
         {
           "title": "Collaboration structurée",
           "content": [
-            "VACEI travaille avec des partenaires sélectionnés pour soutenir l'exécution de missions comptables, d'audit et assimilées via des processus contrôlés.",
+            "A4 travaille avec des partenaires sélectionnés pour soutenir l'exécution de missions comptables, d'audit et assimilées via des processus contrôlés.",
             "Le partenariat s'inscrit dans un cadre de livraison clair tout en respectant les normes professionnelles et la qualité attendue."
           ]
         },
@@ -529,13 +779,15 @@
           "title": "Objectif",
           "content": [
             "Permettre une exécution cohérente, transparente et bien pilotée.",
-            "VACEI fournit workflows, portails et structure opérationnelle ; les partenaires opèrent dans ce cadre selon les périmètres convenus.",
+            "A4 fournit workflows, portails et structure opérationnelle ; les partenaires opèrent dans ce cadre selon les périmètres convenus.",
             "Ce n'est pas de l'externalisation ad hoc : c'est une collaboration long terme fondée sur la confiance et la discipline de processus."
           ]
         },
         {
           "title": "Pour qui",
-          "content": [ "Compétences, agréments et expérience adaptés à la juridiction et au périmètre." ],
+          "content": [
+            "Compétences, agréments et expérience adaptés à la juridiction et au périmètre."
+          ],
           "list": [
             "Cabinets comptables et d'audit",
             "Professionnels agréés",
@@ -547,7 +799,7 @@
           "title": "Comment ça fonctionne",
           "content": [
             "Approche documentée dès le départ : périmètre, rôles et responsabilités clarifiés.",
-            "Planification et exécution via les workflows VACEI pour traçabilité et propriété claire.",
+            "Planification et exécution via les workflows A4 pour traçabilité et propriété claire.",
             "Communication client et documents via la plateforme ; revues et clôture selon les procédures convenues et les normes."
           ]
         },
@@ -555,7 +807,7 @@
           "title": "Rôles et responsabilités",
           "content": [
             "Les partenaires exécutent les missions dans leur champ défini.",
-            "VACEI fournit l'infrastructure, la structure de workflow et les contrôles opérationnels.",
+            "A4 fournit l'infrastructure, la structure de workflow et les contrôles opérationnels.",
             "Répartition sans chevauchement ni zones grises pour une responsabilité claire."
           ]
         },
@@ -564,13 +816,13 @@
           "content": [
             "Contrôle qualité central : workflows, étapes de revue et approbations définis.",
             "Documentation structurée pour auditabilité et conformité.",
-            "VACEI peut effectuer des contrôles qualité sur les missions portées par les partenaires."
+            "A4 peut effectuer des contrôles qualité sur les missions portées par les partenaires."
           ]
         },
         {
           "title": "Technologie et portails",
           "content": [
-            "Les partenaires utilisent la technologie VACEI pour exécution et supervision.",
+            "Les partenaires utilisent la technologie A4 pour exécution et supervision.",
             "Accès aux portails clients et outils internes pour planning, dossiers de travail, requêtes, revue et signature.",
             "La technologie soutient le jugement professionnel, ne le remplace pas."
           ]
@@ -585,7 +837,7 @@
         {
           "title": "Évaluation",
           "content": [
-            "Évaluation des partenaires sur références professionnelles, maturité opérationnelle, expérience et alignement qualité VACEI.",
+            "Évaluation des partenaires sur références professionnelles, maturité opérationnelle, expérience et alignement qualité A4.",
             "Garantit des standards cohérents sur la plateforme."
           ]
         }
@@ -595,12 +847,17 @@
       "pageHeader": {
         "title": "Support d'intégration technologique",
         "breadcrumbs": [
-          { "label": "Partenaires", "href": "/partners" },
-          { "label": "Support technologique" }
+          {
+            "label": "Partenaires",
+            "href": "/partners"
+          },
+          {
+            "label": "Support technologique"
+          }
         ]
       },
       "hero": {
-        "title": "Travailler avec VACEI",
+        "title": "Travailler avec A4",
         "description": "Pour les organisations qui souhaitent améliorer la façon dont leurs systèmes actuels soutiennent la livraison comptable, audit ou conformité.",
         "cta": "Lancer une discussion"
       },
@@ -608,7 +865,7 @@
         {
           "title": "Expertise structurée sur vos systèmes",
           "content": [
-            "VACEI aide les organisations qui exploitent déjà leurs propres systèmes et veulent plus de structure, de cohérence et de contrôle.",
+            "A4 aide les organisations qui exploitent déjà leurs propres systèmes et veulent plus de structure, de cohérence et de contrôle.",
             "Sans remplacer toute la plateforme : accompagnement processus, alignement des workflows et mise en œuvre technique à côté de vos outils."
           ]
         },
@@ -622,7 +879,9 @@
         },
         {
           "title": "Pour qui",
-          "content": [ "Pour ceux qui veulent progresser sans tout bouleverser." ],
+          "content": [
+            "Pour ceux qui veulent progresser sans tout bouleverser."
+          ],
           "list": [
             "Cabinets avec systèmes internes",
             "Organisations sur plateformes sur mesure ou tierces",
@@ -631,7 +890,7 @@
           ]
         },
         {
-          "title": "Comment VACEI aide",
+          "title": "Comment A4 aide",
           "content": [
             "Équipe technique et processus dédiée.",
             "Revue des systèmes, cartographie des workflows, identification des écarts, mise en place de processus structurés dans votre environnement.",
@@ -640,7 +899,9 @@
         },
         {
           "title": "Périmètre",
-          "content": [ "Peut couvrir notamment :" ],
+          "content": [
+            "Peut couvrir notamment :"
+          ],
           "list": [
             "Conception de workflows et standardisation",
             "Structuration des tâches et responsabilités",
@@ -654,7 +915,7 @@
           "title": "Rôles et maîtrise",
           "content": [
             "L'organisation garde le contrôle de ses systèmes, données et prestation.",
-            "VACEI ne prend pas la propriété de la technologie ni les décisions de livraison, et limite l'accès aux données au nécessaire.",
+            "A4 ne prend pas la propriété de la technologie ni les décisions de livraison, et limite l'accès aux données au nécessaire.",
             "Rôle conseil et technique, centré sur l'activation plutôt que l'opération au quotidien."
           ]
         },
@@ -662,7 +923,7 @@
           "title": "Données et gouvernance",
           "content": [
             "Les données restent dans l'environnement de l'organisation.",
-            "Accès, permissions et sécurité selon vos politiques et la réglementation. VACEI opère dans des limites et confidentialité convenues."
+            "Accès, permissions et sécurité selon vos politiques et la réglementation. A4 opère dans des limites et confidentialité convenues."
           ]
         },
         {
@@ -685,8 +946,13 @@
       "pageHeader": {
         "title": "Marque blanche & accès technologique",
         "breadcrumbs": [
-          { "label": "Partenaires", "href": "/partners" },
-          { "label": "Marque blanche" }
+          {
+            "label": "Partenaires",
+            "href": "/partners"
+          },
+          {
+            "label": "Marque blanche"
+          }
         ]
       },
       "hero": {
@@ -697,7 +963,7 @@
       "experience": {
         "client": {
           "title": "Expérience client marque blanche",
-          "description": "Interfaces aux couleurs du partenaire ; portail sécurisé reflétant l'identité du cabinet. Pas de référence visible à VACEI.",
+          "description": "Interfaces aux couleurs du partenaire ; portail sécurisé reflétant l'identité du cabinet. Pas de référence visible à A4.",
           "cta": "Explorer les solutions portail client"
         },
         "audit": {
@@ -707,7 +973,7 @@
         }
       },
       "workingWith": {
-        "title": "Travailler avec VACEI",
+        "title": "Travailler avec A4",
         "description": "Pour les cabinets qui valorisent la livraison structurée, les workflows maîtrisés et la clarté opérationnelle. Discutons de vos besoins."
       },
       "sections": [
@@ -715,13 +981,15 @@
           "title": "Objectif marque blanche et accès",
           "content": [
             "Fournir une plateforme prête à l'emploi sans concevoir ni maintenir des systèmes complexes en interne.",
-            "VACEI fournit l'infrastructure et la logique de workflow ; le partenaire applique son branding et livre sous son nom.",
+            "A4 fournit l'infrastructure et la logique de workflow ; le partenaire applique son branding et livre sous son nom.",
             "Pour la cohérence, la visibilité et le contrôle sur les missions."
           ]
         },
         {
           "title": "Pour qui",
-          "content": [ "Agréments, qualifications et gouvernance adaptés à votre juridiction." ],
+          "content": [
+            "Agréments, qualifications et gouvernance adaptés à votre juridiction."
+          ],
           "list": [
             "Cabinets comptables",
             "Cabinets d'audit",
@@ -733,7 +1001,7 @@
           "title": "Accès technologique et déploiement",
           "content": [
             "Peut inclure des composants sélectionnés déployés en usage interne.",
-            "Le partenaire garde le contrôle opérationnel et la responsabilité d'usage. VACEI n'intervient pas dans les décisions de prestation sauf accord.",
+            "Le partenaire garde le contrôle opérationnel et la responsabilité d'usage. A4 n'intervient pas dans les décisions de prestation sauf accord.",
             "Le modèle dépend du périmètre, de la juridiction et de la structure du partenariat."
           ]
         },
@@ -741,7 +1009,7 @@
           "title": "Données et maîtrise",
           "content": [
             "Le partenaire conserve la maîtrise des données clients et missions.",
-            "VACEI fournit l'infrastructure sans revendiquer les relations clients ni la responsabilité professionnelle.",
+            "A4 fournit l'infrastructure sans revendiquer les relations clients ni la responsabilité professionnelle.",
             "Traitement des données selon termes convenus et exigences réglementaires."
           ]
         },
@@ -764,11 +1032,18 @@
     }
   },
   "security-compliance": {
-    "pageHeader": { "title": "Sécurité & Conformité", "breadcrumbs": [ { "label": "Sécurité & Conformité" } ] },
+    "pageHeader": {
+      "title": "Sécurité & Conformité",
+      "breadcrumbs": [
+        {
+          "label": "Sécurité & Conformité"
+        }
+      ]
+    },
     "cards": [
       {
         "title": "Sécurité des données",
-        "description": "VACEI traite la sécurité des données comme une exigence opérationnelle fondamentale.",
+        "description": "A4 traite la sécurité des données comme une exigence opérationnelle fondamentale.",
         "points": [
           "Contrôles d'accès basés sur les rôles",
           "Stockage sécurisé des documents",
@@ -788,7 +1063,7 @@
       },
       {
         "title": "Conformité et normes professionnelles",
-        "description": "VACEI évolue dans les cadres professionnels et réglementaires applicables aux services comptables et d'audit.",
+        "description": "A4 évolue dans les cadres professionnels et réglementaires applicables aux services comptables et d'audit.",
         "points": [
           "Flux internes alignés sur les normes professionnelles",
           "Contrôles qualité intégrés aux processus de prestation",
@@ -816,25 +1091,32 @@
       },
       {
         "title": "Responsabilité du client",
-        "description": "Les clients restent propriétaires de leurs données et responsables de l'exactitude des informations fournies. VACEI soutient la revue, l'organisation et la conformité mais repose sur des données client ponctuelles et fiables."
+        "description": "Les clients restent propriétaires de leurs données et responsables de l'exactitude des informations fournies. A4 soutient la revue, l'organisation et la conformité mais repose sur des données client ponctuelles et fiables."
       },
       {
         "title": "Amélioration continue",
-        "description": "VACEI examine et améliore en continu ses processus internes pour répondre à l'évolution des exigences réglementaires, de sécurité et professionnelles."
+        "description": "A4 examine et améliore en continu ses processus internes pour répondre à l'évolution des exigences réglementaires, de sécurité et professionnelles."
       }
     ]
   },
   "cpe": {
-    "pageHeader": { "title": "CPE & Podcast", "breadcrumbs": [ { "label": "CPE" } ] },
+    "pageHeader": {
+      "title": "CPE & Podcast",
+      "breadcrumbs": [
+        {
+          "label": "CPE"
+        }
+      ]
+    },
     "overview": {
       "badge": "CPE & Podcast",
       "title": "Vue d'ensemble",
-      "subtitle": "VACEI est conçu pour un démarrage simple et une collaboration fluide. De la première prise de contact à la prestation continue, tout suit un processus clair et structuré."
+      "subtitle": "A4 est conçu pour un démarrage simple et une collaboration fluide. De la première prise de contact à la prestation continue, tout suit un processus clair et structuré."
     },
     "cards": [
       {
         "title": "CPE",
-        "description": "VACEI propose des sessions structurées de formation professionnelle continue centrées sur des sujets pratiques et pertinents."
+        "description": "A4 propose des sessions structurées de formation professionnelle continue centrées sur des sujets pratiques et pertinents."
       },
       {
         "title": "Sessions à venir",
@@ -852,7 +1134,7 @@
     "podcast": {
       "badge": "Notre podcast",
       "title": "Podcast",
-      "subtitle": "Le podcast VACEI propose des conversations sur la pratique professionnelle, la régulation et les opérations.",
+      "subtitle": "Le podcast A4 propose des conversations sur la pratique professionnelle, la régulation et les opérations.",
       "rows": {
         "episodes": {
           "label": "Épisodes",
@@ -867,13 +1149,20 @@
           "description": "Les professionnels intéressés peuvent soumettre une demande pour participer en tant qu'invité."
         }
       },
-      "bottomCta": "En savoir plus sur la façon dont VACEI accompagne les entreprises en comptabilité, audit et conformité."
+      "bottomCta": "En savoir plus sur la façon dont A4 accompagne les entreprises en comptabilité, audit et conformité."
     }
   },
   "careers": {
-    "pageHeader": { "title": "Carrières", "breadcrumbs": [ { "label": "Carrières" } ] },
+    "pageHeader": {
+      "title": "Carrières",
+      "breadcrumbs": [
+        {
+          "label": "Carrières"
+        }
+      ]
+    },
     "benefits": {
-      "title": "Pourquoi VACEI ?",
+      "title": "Pourquoi A4 ?",
       "subtitle": "Nous construisons plus que de simples logiciels ; nous construisons des carrières. Rejoignez une équipe où votre travail compte et où votre croissance est une priorité.",
       "features": [
         {
@@ -937,7 +1226,7 @@
     },
     "openPositions": {
       "title": "Postes Ouverts",
-      "subtitle": "Prêt à avoir un impact ? Explorez nos opportunités actuelles et trouvez votre prochain rôle chez VACEI.",
+      "subtitle": "Prêt à avoir un impact ? Explorez nos opportunités actuelles et trouvez votre prochain rôle chez A4.",
       "applyNow": "Postuler Maintenant",
       "jobs": [
         {
@@ -976,7 +1265,14 @@
     }
   },
   "our-team": {
-    "pageHeader": { "title": "Notre Équipe", "breadcrumbs": [ { "label": "Notre Équipe" } ] },
+    "pageHeader": {
+      "title": "Notre Équipe",
+      "breadcrumbs": [
+        {
+          "label": "Notre Équipe"
+        }
+      ]
+    },
     "grid": {
       "title": "Rencontrez Nos Experts",
       "subtitle": "Notre équipe diversifiée de professionnels se consacre à simplifier votre parcours professionnel.",
@@ -1016,7 +1312,7 @@
     "values": {
       "title": "Guidés par nos",
       "titleAccent": "Valeurs",
-      "description": "Chez VACEI, nous pensons que la technologie doit au service de l'humain et ne pas compliquer sa vie. Nos valeurs fondamentales guident chaque décision que nous prenons, garantissant un impact significatif pour nos clients.",
+      "description": "Chez A4, nous pensons que la technologie doit au service de l'humain et ne pas compliquer sa vie. Nos valeurs fondamentales guident chaque décision que nous prenons, garantissant un impact significatif pour nos clients.",
       "cta": "Joignez-vous à notre aventure",
       "items": [
         {
@@ -1035,25 +1331,51 @@
     }
   },
   "terms-and-conditions": {
-    "pageHeader": { "title": "Conditions Générales", "breadcrumbs": [ { "label": "Conditions Générales" } ] }
+    "pageHeader": {
+      "title": "Conditions Générales",
+      "breadcrumbs": [
+        {
+          "label": "Conditions Générales"
+        }
+      ]
+    }
   },
   "privacy-policy": {
-    "pageHeader": { "title": "Politique de Confidentialité", "breadcrumbs": [ { "label": "Politique de Confidentialité" } ] }
+    "pageHeader": {
+      "title": "Politique de Confidentialité",
+      "breadcrumbs": [
+        {
+          "label": "Politique de Confidentialité"
+        }
+      ]
+    }
   },
   "ai-review": {
-    "pageHeader": { "title": "Revue IA", "breadcrumbs": [ { "label": "Revue IA" } ] },
+    "pageHeader": {
+      "title": "Revue IA",
+      "breadcrumbs": [
+        {
+          "label": "Revue IA"
+        }
+      ]
+    },
     "hero": {
       "title": "Revue des états financiers conçue par des auditeurs",
-      "p1": "VACEI AI Review est un outil de revue conçu par des auditeurs, conçu pour soutenir la revue des états financiers.",
+      "p1": "A4 AI Review est un outil de revue conçu par des auditeurs, conçu pour soutenir la revue des états financiers.",
       "p2": "La revue des états financiers prend du temps. Et même les équipes expérimentées peuvent manquer de petits détails.",
-      "p3": "VACEI AI Review maintient un processus de revue structuré, ciblé et fiable, sans remplacer le jugement professionnel."
+      "p3": "A4 AI Review maintient un processus de revue structuré, ciblé et fiable, sans remplacer le jugement professionnel."
     },
     "demo": {
       "file_ready": "Fichier prêt pour l'analyse",
-      "file_name": "Vacei Audit LTD - Draft FS...",
+      "file_name": "A4 Audit LTD - Draft FS...",
       "categories_title": "Sélectionner les catégories de test",
       "categories": [
-        "Rapport d'audit", "Bilan", "Infos générales", "Notes & Politiques", "Présentation", "Tous les tests"
+        "Rapport d'audit",
+        "Bilan",
+        "Infos générales",
+        "Notes & Politiques",
+        "Présentation",
+        "Tous les tests"
       ],
       "btn_generate": "Générer le rapport d'analyse",
       "upload_title": "Télécharger les états financiers",
@@ -1082,17 +1404,57 @@
       "ctaLabel": "Explorer le portail client",
       "bottomTitle": "Revue IA",
       "bottomDescription": "Documents, tâches, échéances et communications en un seul endroit.",
-      "quoteText": "Les bonnes entreprises comptent sur l'expérience. Les excellentes entreprises comptent sur la structure. VACEI existe pour rendre cette structure visible, auditable et évolutive."
+      "quoteText": "Les bonnes entreprises comptent sur l'expérience. Les excellentes entreprises comptent sur la structure. A4 existe pour rendre cette structure visible, auditable et évolutive."
     },
     "serviceFeatures": {
       "title": "Toute l'activité de conseil est organisée et accessible en un seul endroit",
       "subtitle": "Demandez un devis clair et précis pour votre entreprise",
       "groups": [
-        { "title": "Pour qui", "items": [ "Sociétés opérationnelles nécessitant une comptabilité continue", "Entreprises en croissance nécessitant des rapports financiers structurés", "Équipes de direction ayant besoin de visibilité sur la performance", "Entreprises se préparant à un audit ou une expansion" ] },
-        { "title": "Ce que vous obtenez", "items": [ "Espace sécurisé pour documents, demandes et communications", "Périmètres et délais clairs pour chaque mission", "Rapports structurés alignés sur votre rythme", "Point de coordination unique pour comptabilité et audit" ] },
-        { "title": "Résultats", "items": [ "Moins d'allers-retours grâce à des flux de travail disciplinés", "Meilleure visibilité sur le statut et les échéances", "Préparation à l'audit facilitée par des dossiers organisés", "Décisions plus sûres grâce à des insights financiers structurés" ] },
-        { "title": "Prestation", "items": [ "Flux de travail structurés gérés via des portails internes", "Revues qualité alignées sur les normes professionnelles", "Historique traçable des documents et communications", "Responsabilités claires pour chaque tâche" ] },
-        { "title": "Gouvernance", "items": [ "Responsabilités définies entre les équipes et parties prenantes", "Pratiques de documentation et d'archivage cohérentes", "Contrôles soutenant la préparation à l'audit", "Voie d'escalade transparentes en cas de problème" ] }
+        {
+          "title": "Pour qui",
+          "items": [
+            "Sociétés opérationnelles nécessitant une comptabilité continue",
+            "Entreprises en croissance nécessitant des rapports financiers structurés",
+            "Équipes de direction ayant besoin de visibilité sur la performance",
+            "Entreprises se préparant à un audit ou une expansion"
+          ]
+        },
+        {
+          "title": "Ce que vous obtenez",
+          "items": [
+            "Espace sécurisé pour documents, demandes et communications",
+            "Périmètres et délais clairs pour chaque mission",
+            "Rapports structurés alignés sur votre rythme",
+            "Point de coordination unique pour comptabilité et audit"
+          ]
+        },
+        {
+          "title": "Résultats",
+          "items": [
+            "Moins d'allers-retours grâce à des flux de travail disciplinés",
+            "Meilleure visibilité sur le statut et les échéances",
+            "Préparation à l'audit facilitée par des dossiers organisés",
+            "Décisions plus sûres grâce à des insights financiers structurés"
+          ]
+        },
+        {
+          "title": "Prestation",
+          "items": [
+            "Flux de travail structurés gérés via des portails internes",
+            "Revues qualité alignées sur les normes professionnelles",
+            "Historique traçable des documents et communications",
+            "Responsabilités claires pour chaque tâche"
+          ]
+        },
+        {
+          "title": "Gouvernance",
+          "items": [
+            "Responsabilités définies entre les équipes et parties prenantes",
+            "Pratiques de documentation et d'archivage cohérentes",
+            "Contrôles soutenant la préparation à l'audit",
+            "Voie d'escalade transparentes en cas de problème"
+          ]
+        }
       ]
     },
     "output": {
@@ -1101,11 +1463,19 @@
       "subheading": "En quelques minutes, un rapport de revue structuré est généré.",
       "report_features": {
         "title": "Le rapport est :",
-        "items": ["Clair", "Actionnable", "Facile à traiter"]
+        "items": [
+          "Clair",
+          "Actionnable",
+          "Facile à traiter"
+        ]
       },
       "marking_features": {
         "title": "Chaque élément est marqué :",
-        "items": ["Confirmé", "Divulgué", "Signalé pour revue"]
+        "items": [
+          "Confirmé",
+          "Divulgué",
+          "Signalé pour revue"
+        ]
       },
       "footer_text": "Ceci permet aux équipes de résoudre les problèmes efficacement et avec confiance.",
       "demo_result": {
@@ -1140,7 +1510,7 @@
       },
       {
         "title": "Efficacité de la Revue",
-        "description": "VACEI AI Review optimise le flux de travail de revue pour les équipes d'audit.",
+        "description": "A4 AI Review optimise le flux de travail de revue pour les équipes d'audit.",
         "bullets": [
           "Sortie de revue standardisée",
           "Piste d'audit claire des tests effectués",
@@ -1151,11 +1521,11 @@
     "video_benefits": [
       {
         "title": "Soutien au jugement professionnel",
-        "description": "VACEI AI Review est conçu pour soutenir, et non remplacer, le jugement professionnel. Il réduit les contrôles manuels et met en évidence les points d'attention, tandis que toutes les conclusions et décisions restent du ressort de l'équipe professionnelle."
+        "description": "A4 AI Review est conçu pour soutenir, et non remplacer, le jugement professionnel. Il réduit les contrôles manuels et met en évidence les points d'attention, tandis que toutes les conclusions et décisions restent du ressort de l'équipe professionnelle."
       },
       {
         "title": "Conçu pour une revue de niveau audit",
-        "description": "VACEI AI Review reflète la pensée de style audit et les flux de travail pratiques de revue. Il est conçu pour soutenir : la précision, l'exhaustivité, la cohérence et la présentation professionnelle."
+        "description": "A4 AI Review reflète la pensée de style audit et les flux de travail pratiques de revue. Il est conçu pour soutenir : la précision, l'exhaustivité, la cohérence et la présentation professionnelle."
       },
       {
         "title": "Solutions innovantes",
@@ -1164,24 +1534,46 @@
     ]
   },
   "white-label-platform": {
-    "pageHeader": { "title": "Plateforme marque blanche", "breadcrumbs": [ { "label": "Marque blanche" } ] },
+    "pageHeader": {
+      "title": "Plateforme marque blanche",
+      "breadcrumbs": [
+        {
+          "label": "Marque blanche"
+        }
+      ]
+    },
     "hero": {
-      "title": "Plateforme VACEI en marque blanche",
+      "title": "Plateforme A4 en marque blanche",
       "subtitle": "Lancez votre portail client à votre marque",
       "overview": "Offrez un espace numérique entièrement marqué pour la comptabilité, l'audit, le juridique et la conformité sous votre cabinet. Maîtrisez l'expérience et la relation. Scalabilité sans chaos opérationnel.",
       "cta": "Demander une démo",
       "secondaryCta": "Voir la plateforme",
-      "previewAlt": "Aperçu du tableau de bord VACEI marque blanche"
+      "previewAlt": "Aperçu du tableau de bord A4 marque blanche"
     },
     "whatYouGet": {
       "badge": "L'essentiel",
       "title": "Ce que vous obtenez",
       "items": [
-        { "title": "Plateforme entièrement marquée", "description": "Logo, couleurs et domaine pour une expérience fluide." },
-        { "title": "Portails clients", "description": "Portails sécurisés dédiés à chaque entité cliente." },
-        { "title": "Pilotage des missions", "description": "Workflows de bout en bout pour les services professionnels." },
-        { "title": "Demandes de documents", "description": "Suivi et collecte rationalisés des pièces clients." },
-        { "title": "Calendrier conformité", "description": "Suivi des dépôts et échéances réglementaires." }
+        {
+          "title": "Plateforme entièrement marquée",
+          "description": "Logo, couleurs et domaine pour une expérience fluide."
+        },
+        {
+          "title": "Portails clients",
+          "description": "Portails sécurisés dédiés à chaque entité cliente."
+        },
+        {
+          "title": "Pilotage des missions",
+          "description": "Workflows de bout en bout pour les services professionnels."
+        },
+        {
+          "title": "Demandes de documents",
+          "description": "Suivi et collecte rationalisés des pièces clients."
+        },
+        {
+          "title": "Calendrier conformité",
+          "description": "Suivi des dépôts et échéances réglementaires."
+        }
       ]
     },
     "howItWorks": {
@@ -1189,28 +1581,58 @@
       "title": "Comment ça marche",
       "description": "Nous avons découpé l'onboarding marque blanche en phases simples.",
       "steps": [
-        { "title": "Lancer votre plateforme", "description": "Configuration du domaine et application de votre charte." },
-        { "title": "Onboarding clients", "description": "Invitation vers des espaces digitaux sécurisés dédiés." },
-        { "title": "Piloter les services", "description": "Livrer comptabilité, audit, juridique et conformité efficacement." }
+        {
+          "title": "Lancer votre plateforme",
+          "description": "Configuration du domaine et application de votre charte."
+        },
+        {
+          "title": "Onboarding clients",
+          "description": "Invitation vers des espaces digitaux sécurisés dédiés."
+        },
+        {
+          "title": "Piloter les services",
+          "description": "Livrer comptabilité, audit, juridique et conformité efficacement."
+        }
       ]
     },
     "whyChoose": {
-      "badge": "Avantage VACEI",
+      "badge": "Avantage A4",
       "title": "Pourquoi la marque blanche",
       "items": [
-        { "title": "Scalabilité", "description": "Étendez l'offre sans explosion opérationnelle." },
-        { "title": "Identité de marque", "description": "Relation et couleurs sous votre marque." },
-        { "title": "Efficacité", "description": "Workflows pensés pour les services professionnels." }
+        {
+          "title": "Scalabilité",
+          "description": "Étendez l'offre sans explosion opérationnelle."
+        },
+        {
+          "title": "Identité de marque",
+          "description": "Relation et couleurs sous votre marque."
+        },
+        {
+          "title": "Efficacité",
+          "description": "Workflows pensés pour les services professionnels."
+        }
       ]
     },
     "useCases": {
       "badge": "Polyvalent",
       "title": "Cas d'usage",
       "items": [
-        { "title": "Cabinets comptables", "description": "Tenue et obligations fiscales via votre portail." },
-        { "title": "Cabinets d'audit", "description": "Mission structurée et gestion documentaire." },
-        { "title": "Cabinets juridiques", "description": "Partage sécurisé et gestion des dossiers." },
-        { "title": "Acteurs conformité", "description": "Suivi réglementaire et déclarations multi-entités." }
+        {
+          "title": "Cabinets comptables",
+          "description": "Tenue et obligations fiscales via votre portail."
+        },
+        {
+          "title": "Cabinets d'audit",
+          "description": "Mission structurée et gestion documentaire."
+        },
+        {
+          "title": "Cabinets juridiques",
+          "description": "Partage sécurisé et gestion des dossiers."
+        },
+        {
+          "title": "Acteurs conformité",
+          "description": "Suivi réglementaire et déclarations multi-entités."
+        }
       ]
     },
     "pricing": {
@@ -1236,7 +1658,7 @@
     "finalCta": {
       "badge": "L'avenir",
       "title": "Transformez votre cabinet",
-      "subtitle": "VACEI marque blanche fait de votre cabinet une plateforme de services digitale scalable, sans construire la technologie from scratch. Demandez une démo.",
+      "subtitle": "A4 marque blanche fait de votre cabinet une plateforme de services digitale scalable, sans construire la technologie from scratch. Demandez une démo.",
       "cta": "Planifier une démo"
     }
   },
@@ -1309,26 +1731,49 @@
         {
           "title": "Comptes bancaires",
           "rows": [
-            { "label": "Épargne", "value": "€800,22", "note": "Récemment mis à jour" },
-            { "label": "Courant", "value": "€1 456,00", "note": "Récemment mis à jour" }
+            {
+              "label": "Épargne",
+              "value": "€800,22",
+              "note": "Récemment mis à jour"
+            },
+            {
+              "label": "Courant",
+              "value": "€1 456,00",
+              "note": "Récemment mis à jour"
+            }
           ]
         },
         {
           "title": "Cartes",
           "rows": [
-            { "label": "Visa", "value": "€0,00", "note": "Récemment mis à jour" },
-            { "label": "Courant", "value": "-€157,75", "note": "Récemment mis à jour" }
+            {
+              "label": "Visa",
+              "value": "€0,00",
+              "note": "Récemment mis à jour"
+            },
+            {
+              "label": "Courant",
+              "value": "-€157,75",
+              "note": "Récemment mis à jour"
+            }
           ]
         }
       ]
     }
   },
   "portal/accounting-portal": {
-    "pageHeader": { "title": "Portail comptable", "breadcrumbs": [ { "label": "Portail comptable" } ] },
+    "pageHeader": {
+      "title": "Portail comptable",
+      "breadcrumbs": [
+        {
+          "label": "Portail comptable"
+        }
+      ]
+    },
     "overview1": {
-      "heading": "Comment VACEI assure des services comptables structurés et fiables",
+      "heading": "Comment A4 assure des services comptables structurés et fiables",
       "paragraphs": [
-        "Le portail comptable VACEI est l'environnement utilisé par nos équipes pour la tenue, le reporting, la TVA et la paie de manière structurée et contrôlée.",
+        "Le portail comptable A4 est l'environnement utilisé par nos équipes pour la tenue, le reporting, la TVA et la paie de manière structurée et contrôlée.",
         "Il regroupe flux mensuels, documents, revues et intégrations dans un seul système pour travailler efficacement tout en garantissant exactitude, cohérence et responsabilité.",
         "Les clients passent par le portail client. L'exécution comptable et les contrôles internes sont gérés dans le portail comptable."
       ]
@@ -1347,7 +1792,7 @@
       "closingText": "Les flux sont structurés pour enchaîner les tâches dans le bon ordre, avec des responsabilités claires et une visibilité sur l'avancement.",
       "bottomTitle": "Portail comptable",
       "bottomDescription": "Documents, tâches, échéances et communication au même endroit.",
-      "quoteText": "Les bons cabinets comptent sur l'expérience. Les grands, sur la structure. VACEI rend cette structure visible, auditable et scalable.",
+      "quoteText": "Les bons cabinets comptent sur l'expérience. Les grands, sur la structure. A4 rend cette structure visible, auditable et scalable.",
       "workflowHeading": "Flux comptable mensuel",
       "workflowDescription": "Tenue, rapprochements, TVA et paie sont gérés par des processus contrôlés et dans le bon ordre."
     },
@@ -1389,7 +1834,7 @@
       "sections": [
         {
           "title": "Environnement intégré de prestation",
-          "intro": "En gérant la comptabilité dans un environnement structuré unique, VACEI assure :",
+          "intro": "En gérant la comptabilité dans un environnement structuré unique, A4 assure :",
           "bullets": [
             "Une livraison mensuelle cohérente",
             "Moins de travail manuel et de doublons",
@@ -1402,7 +1847,7 @@
           "title": "Pour les cabinets et partenaires",
           "intro": "Le portail comptable est aussi disponible pour les cabinets souhaitant le même niveau de structure, de discipline et de contrôles internes.",
           "bullets": [
-            "S'associer à VACEI pour la prestation comptable",
+            "S'associer à A4 pour la prestation comptable",
             "Déployer le portail dans leurs opérations pour soutenir les équipes internes"
           ],
           "footer": "Conçu pour les cabinets qui valorisent efficacité et transparence."
@@ -1413,13 +1858,27 @@
       "accounting": {
         "requestsTitle": "Demandes / tâches",
         "requestRows": [
-          { "label": "Traitement budgétaire", "date": "jeu. 12 juin" },
-          { "label": "Traitement paie", "date": "jeu. 12 juin" },
-          { "label": "Système TVA", "date": "jeu. 12 juin" }
+          {
+            "label": "Traitement budgétaire",
+            "date": "jeu. 12 juin"
+          },
+          {
+            "label": "Traitement paie",
+            "date": "jeu. 12 juin"
+          },
+          {
+            "label": "Système TVA",
+            "date": "jeu. 12 juin"
+          }
         ],
         "open": "Ouvrir",
         "vatTitle": "Périodes de TVA",
-        "vatPeriods": ["T1 2025", "T2 2025", "T3 2025", "T4 2025"],
+        "vatPeriods": [
+          "T1 2025",
+          "T2 2025",
+          "T3 2025",
+          "T4 2025"
+        ],
         "status": "Statut",
         "view": "Voir",
         "missingTitle": "Éléments manquants",
@@ -1433,10 +1892,27 @@
       "integrated": {
         "preparedListTitle": "Liste des éléments préparés",
         "preparedRows": [
-          { "label": "Plan comptable", "date": "12 janv. 2026", "color": "#3b49e6" },
-          { "label": "Écritures", "date": "12 janv. 2026", "color": "#F59E0B", "active": true },
-          { "label": "Compte de résultat", "date": "12 janv. 2026", "color": "#10B981" },
-          { "label": "Revue des flux de trésorerie", "date": "12 janv. 2026", "color": "#3b49e6" }
+          {
+            "label": "Plan comptable",
+            "date": "12 janv. 2026",
+            "color": "#000000"
+          },
+          {
+            "label": "Écritures",
+            "date": "12 janv. 2026",
+            "color": "#F59E0B",
+            "active": true
+          },
+          {
+            "label": "Compte de résultat",
+            "date": "12 janv. 2026",
+            "color": "#10B981"
+          },
+          {
+            "label": "Revue des flux de trésorerie",
+            "date": "12 janv. 2026",
+            "color": "#000000"
+          }
         ],
         "spendWeek": "Dépenses cette semaine",
         "partnershipTitle": "Répartition partenaires",
@@ -1445,11 +1921,18 @@
     }
   },
   "portal/audit-portal": {
-    "pageHeader": { "title": "Portail d'audit", "breadcrumbs": [ { "label": "Portail d'audit" } ] },
+    "pageHeader": {
+      "title": "Portail d'audit",
+      "breadcrumbs": [
+        {
+          "label": "Portail d'audit"
+        }
+      ]
+    },
     "overview1": {
-      "heading": "Comment VACEI réalise des audits structurés et de haute qualité",
+      "heading": "Comment A4 réalise des audits structurés et de haute qualité",
       "paragraphs": [
-        "Le portail d'audit VACEI est l'environnement où nos équipes gèrent les missions de bout en bout.",
+        "Le portail d'audit A4 est l'environnement où nos équipes gèrent les missions de bout en bout.",
         "Planification, documentation, preuves, communication, revues et signature s'inscrivent dans un flux structuré, efficace, cohérent et conforme aux normes.",
         "Les clients utilisent le portail client.",
         "L'exécution de l'audit et le contrôle qualité ont lieu dans le portail d'audit."
@@ -1468,7 +1951,7 @@
       "closingText": "La planification est orientée risques et alignée sur les ISA, avec des procédures adaptées au client et à la mission.",
       "bottomTitle": "Portail d'audit",
       "bottomDescription": "Documents, tâches, échéances et communication au même endroit.",
-      "quoteText": "Les bons cabinets comptent sur l'expérience. Les grands, sur la structure. VACEI rend cette structure visible, auditable et scalable.",
+      "quoteText": "Les bons cabinets comptent sur l'expérience. Les grands, sur la structure. A4 rend cette structure visible, auditable et scalable.",
       "workflowHeading": "Flux d'audit structuré",
       "workflowDescription": "Planification, documentation, preuves et revues dans un environnement structuré pour un audit efficace et conforme."
     },
@@ -1513,7 +1996,7 @@
       "titleLine1": "Infrastructure qualité & conformité",
       "titleLine2": "avancée.",
       "subtitle": "Normes",
-      "description": "VACEI fournit l'infrastructure et les contrôles pour des missions d'audit professionnelles de haute qualité.",
+      "description": "A4 fournit l'infrastructure et les contrôles pour des missions d'audit professionnelles de haute qualité.",
       "features": [
         {
           "title": "ISQM et management qualité",
@@ -1548,19 +2031,19 @@
       "sections": [
         {
           "title": "Un environnement, maîtrise de bout en bout",
-          "intro": "En gérant les audits dans un environnement structuré unique, VACEI assure :",
+          "intro": "En gérant les audits dans un environnement structuré unique, A4 assure :",
           "bullets": [
             "Exécution et documentation cohérentes",
             "Qualité et conformité solides",
             "Collaboration efficace équipes et clients"
           ],
-          "footer": "C'est ainsi que VACEI livre des audits structurés, transparents et évolutifs."
+          "footer": "C'est ainsi que A4 livre des audits structurés, transparents et évolutifs."
         },
         {
           "title": "Pour les cabinets et partenaires",
           "intro": "Le portail d'audit est aussi disponible pour les cabinets souhaitant le même niveau de structure, contrôle qualité et discipline de flux.",
           "bullets": [
-            "S'associer à VACEI pour la prestation d'audit",
+            "S'associer à A4 pour la prestation d'audit",
             "Déployer le portail pour soutenir les équipes internes"
           ],
           "footer": "Pour les cabinets qui valorisent clarté et excellence."
@@ -1573,7 +2056,12 @@
         "colItem": "Élément",
         "colStatus": "Statut",
         "colAction": "Action",
-        "pbcRows": ["Confirmation bancaire", "Contrat de prêt", "Balance de vérification", "Grand livre"],
+        "pbcRows": [
+          "Confirmation bancaire",
+          "Contrat de prêt",
+          "Balance de vérification",
+          "Grand livre"
+        ],
         "statusMissing": "Manquant",
         "upload": "Téléverser",
         "extendTbTitle": "Étendre la balance",
@@ -1582,23 +2070,55 @@
         "tbColAdj": "Ajustements",
         "tbColExtended": "Balance étendue",
         "tbRows": [
-          { "label": "Assurance", "v1": "1 098", "v2": "0", "v3": "1 098" },
-          { "label": "Frais bancaires", "v1": "360", "v2": "0", "v3": "320" },
-          { "label": "Intérêts payés", "v1": "550", "v2": "0", "v3": "0" },
-          { "label": "Ventes", "v1": "360", "v2": "0", "v3": "980" },
-          { "label": "Résultat", "v1": "118 932", "v2": "0", "v3": "-33 353" }
+          {
+            "label": "Assurance",
+            "v1": "1 098",
+            "v2": "0",
+            "v3": "1 098"
+          },
+          {
+            "label": "Frais bancaires",
+            "v1": "360",
+            "v2": "0",
+            "v3": "320"
+          },
+          {
+            "label": "Intérêts payés",
+            "v1": "550",
+            "v2": "0",
+            "v3": "0"
+          },
+          {
+            "label": "Ventes",
+            "v1": "360",
+            "v2": "0",
+            "v3": "980"
+          },
+          {
+            "label": "Résultat",
+            "v1": "118 932",
+            "v2": "0",
+            "v3": "-33 353"
+          }
         ]
       }
     }
   },
   "portal/client-portal": {
-    "pageHeader": { "title": "Portail client", "breadcrumbs": [ { "label": "Portail client" } ] },
+    "pageHeader": {
+      "title": "Portail client",
+      "breadcrumbs": [
+        {
+          "label": "Portail client"
+        }
+      ]
+    },
     "overview": {
       "heading": "Un tableau de bord pour tout",
       "paragraphs": [
-        "Le portail client VACEI offre un tableau de bord sécurisé pour l'ensemble de vos services.",
+        "Le portail client A4 offre un tableau de bord sécurisé pour l'ensemble de vos services.",
         "De la comptabilité et la conformité au corporate et à l'audit, tout est au même endroit.",
-        "Chaque client dispose d'une équipe VACEI dédiée. Elle assure la prestation, répond aux questions et suit l'avancement. Toute la communication passe par le portail."
+        "Chaque client dispose d'une équipe A4 dédiée. Elle assure la prestation, répond aux questions et suit l'avancement. Toute la communication passe par le portail."
       ]
     },
     "feature": {
@@ -1612,7 +2132,7 @@
         "Voir l'en attente, le complété ou en retard",
         "Garder vos documents organisés et accessibles"
       ],
-      "closingText": "Les documents restent organisés et accessibles pour votre équipe et VACEI.",
+      "closingText": "Les documents restent organisés et accessibles pour votre équipe et A4.",
       "bottomTitle": "Portail client",
       "bottomDescription": "Documents, tâches, échéances et communication au même endroit."
     },
@@ -1627,7 +2147,7 @@
           "id": "cp-step-1",
           "number": "01.",
           "title": "Chat et planification d'appels",
-          "description": "Échangez directement avec votre équipe VACEI via la messagerie intégrée. Les appels et réunions se planifient dans le portail, moins d'e-mails allers-retours.",
+          "description": "Échangez directement avec votre équipe A4 via la messagerie intégrée. Les appels et réunions se planifient dans le portail, moins d'e-mails allers-retours.",
           "image": "/assets/images/Chat and Call Scheduling.png"
         },
         {
@@ -1682,24 +2202,73 @@
     }
   },
   "partners/reseller-program": {
-    "pageHeader": { "title": "Programme revendeurs", "breadcrumbs": [ { "label": "Programme revendeurs" } ] }
+    "pageHeader": {
+      "title": "Programme revendeurs",
+      "breadcrumbs": [
+        {
+          "label": "Programme revendeurs"
+        }
+      ]
+    }
   },
   "partners/service-delivery": {
-    "pageHeader": { "title": "Partenariats de prestation", "breadcrumbs": [ { "label": "Prestation" } ] }
+    "pageHeader": {
+      "title": "Partenariats de prestation",
+      "breadcrumbs": [
+        {
+          "label": "Prestation"
+        }
+      ]
+    }
   },
   "partners/technology-support": {
-    "pageHeader": { "title": "Support intégration technologique", "breadcrumbs": [ { "label": "Support techno" } ] }
+    "pageHeader": {
+      "title": "Support intégration technologique",
+      "breadcrumbs": [
+        {
+          "label": "Support techno"
+        }
+      ]
+    }
   },
   "partners/white-label": {
-    "pageHeader": { "title": "Marque blanche & accès techno", "breadcrumbs": [ { "label": "Marque blanche" } ] }
+    "pageHeader": {
+      "title": "Marque blanche & accès techno",
+      "breadcrumbs": [
+        {
+          "label": "Marque blanche"
+        }
+      ]
+    }
   },
   "partners/white-label/audit-portal": {
-    "pageHeader": { "title": "Portail audit marque blanche", "breadcrumbs": [ { "label": "Portail audit MB" } ] }
+    "pageHeader": {
+      "title": "Portail audit marque blanche",
+      "breadcrumbs": [
+        {
+          "label": "Portail audit MB"
+        }
+      ]
+    }
   },
   "partners/white-label/client-portal": {
-    "pageHeader": { "title": "Portail client marque blanche", "breadcrumbs": [ { "label": "Portail client MB" } ] }
+    "pageHeader": {
+      "title": "Portail client marque blanche",
+      "breadcrumbs": [
+        {
+          "label": "Portail client MB"
+        }
+      ]
+    }
   },
   "services/[slug]": {
-    "pageHeaderFallback": { "title": "Services", "breadcrumbs": [ { "label": "Services" } ] }
+    "pageHeaderFallback": {
+      "title": "Services",
+      "breadcrumbs": [
+        {
+          "label": "Services"
+        }
+      ]
+    }
   }
 }

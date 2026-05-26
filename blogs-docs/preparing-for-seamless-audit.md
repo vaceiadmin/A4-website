@@ -2,7 +2,7 @@
 title: "How to prepare your business for a seamless audit"
 date: "2026-04-06"
 excerpt: "Discover the exact documents, workflows, and timelines required to navigate the audit process without friction."
-author: "VACEI Insights Team"
+author: "A4 Insights Team"
 featuredImage: "https://images.unsplash.com/photo-1454165833267-035f121d10d1?auto=format&fit=crop&q=80&w=2070"
 tags: ["Audit", "Accounting", "Compliance"]
 ---
@@ -37,7 +37,7 @@ Prepare notes for any contingent liabilities, related party transactions, or sig
 
 ## Leveraging Technology
 
-Modern platforms like VACEI allow you to invite your auditors directly into a structured workspace. Instead of hundreds of emails with attachments like `Final_Invoice_v2_UPDATED.pdf`, you can provide:
+Modern platforms like A4 allow you to invite your auditors directly into a structured workspace. Instead of hundreds of emails with attachments like `Final_Invoice_v2_UPDATED.pdf`, you can provide:
 
 *   **Direct Access**: Give auditors read-only access to specific folders.
 *   **Structured Queries**: Manage audit queries inside the platform with clear ownership and status tracking.
@@ -48,4 +48,4 @@ Modern platforms like VACEI allow you to invite your auditors directly into a st
 A seamless audit is the result of 12 months of disciplined organization, not 2 weeks of intense preparation. By treating compliance as a continuous system rather than an annual event, you not only satisfy your auditors but gain deeper, clearer insights into your own business's health.
 
 ---
-*Ready to streamline your next audit? [Create your VACEI workspace](/) and invite your advisors today.*
+*Ready to streamline your next audit? [Create your A4 workspace](/) and invite your advisors today.*

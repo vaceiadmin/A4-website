@@ -19,9 +19,9 @@ const HowItWorks = () => {
       const list = Array.isArray(raw) ? raw : [];
       const icons = [ClipboardList, Network, LayoutDashboard];
       const colors = [
-        "from-blue-600 to-blue-800",
-        "from-blue-500 to-blue-700",
-        "from-blue-700 to-slate-800",
+        "from-zinc-600 to-zinc-800",
+        "from-zinc-500 to-zinc-700",
+        "from-zinc-700 to-slate-800",
       ];
       return list.map((s, i) => ({
         title: s.title,
@@ -113,10 +113,10 @@ const HowItWorks = () => {
       {/* Premium Background elements */}
       <div className="absolute inset-0 z-0">
         <div
-          className="absolute top-0 left-1/4 w-[50%] h-[50%] bg-blue-50 rounded-full blur-[160px]"
+          className="absolute top-0 left-1/4 w-[50%] h-[50%] bg-zinc-50 rounded-full blur-[160px]"
         />
         <div
-          className="absolute bottom-0 right-1/4 w-[50%] h-[50%] bg-blue-50 rounded-full blur-[160px]"
+          className="absolute bottom-0 right-1/4 w-[50%] h-[50%] bg-zinc-50 rounded-full blur-[160px]"
         />
 
         {/* Abstract Data Lines */}
@@ -135,7 +135,7 @@ const HowItWorks = () => {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center mb-20">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-50 border border-blue-100 text-blue-600 text-xs font-bold uppercase tracking-widest mb-6">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-50 border border-zinc-100 text-zinc-600 text-xs font-bold uppercase tracking-widest mb-6">
             <Sparkles className="w-3.5 h-3.5" />
             <span>{t("howItWorks.badge")}</span>
           </div>
@@ -173,7 +173,7 @@ const HowItWorks = () => {
                   className={cn(
                     "w-full text-left group relative p-5 rounded-[2rem] transition-all duration-700 border overflow-hidden",
                     isActive
-                      ? "bg-white border-blue-100 shadow-[0_20px_50px_-20px_rgba(59,130,246,0.15)]"
+                      ? "bg-white border-zinc-100 shadow-[0_20px_50px_-20px_rgba(161, 161, 170,0.15)]"
                       : isPast
                         ? "bg-slate-50 opacity-80 border-slate-100"
                         : "border-transparent bg-transparent hover:bg-slate-50 opacity-60"
@@ -188,7 +188,7 @@ const HowItWorks = () => {
                     <div className={cn(
                       "w-12 h-12 shrink-0 rounded-2xl flex items-center justify-center transition-all duration-700 relative",
                       isActive || isPast
-                        ? `bg-gradient-to-br ${step.color} text-white shadow-[0_5px_15px_rgba(59,130,246,0.2)]`
+                        ? `bg-gradient-to-br ${step.color} text-white shadow-[0_5px_15px_rgba(161, 161, 170,0.2)]`
                         : "bg-slate-100 text-slate-400 group-hover:text-slate-600"
                     )}>
                       <Icon className="w-6 h-6" />
@@ -210,7 +210,7 @@ const HowItWorks = () => {
                           {step.title}
                         </h4>
                         {isActive && (
-                          <div className="text-blue-500">
+                          <div className="text-zinc-500">
                             <Sparkles className="w-5 h-5 animate-pulse" />
                           </div>
                         )}
@@ -261,7 +261,7 @@ const HowItWorks = () => {
                       onClick={togglePlay}
                       className="w-24 h-24 rounded-full bg-white/10 border border-white/20 backdrop-blur-xl flex items-center justify-center text-white shadow-2xl group/play"
                     >
-                      <div className="w-16 h-16 rounded-full bg-white flex items-center justify-center text-blue-600 shadow-[0_0_30px_rgba(255,255,255,0.4)] transition-all duration-500 group-hover/play:scale-105 group-hover/play:shadow-[0_0_50px_rgba(255,255,255,0.6)]">
+                      <div className="w-16 h-16 rounded-full bg-white flex items-center justify-center text-zinc-600 shadow-[0_0_30px_rgba(255,255,255,0.4)] transition-all duration-500 group-hover/play:scale-105 group-hover/play:shadow-[0_0_50px_rgba(255,255,255,0.6)]">
                         <Play className="w-8 h-8 fill-current ml-1" />
                       </div>
                     </button>
@@ -271,7 +271,7 @@ const HowItWorks = () => {
                 <div className="absolute inset-x-0 bottom-0 z-30 p-6 flex flex-col gap-4 transition-all duration-500 group-hover:translate-y-0 translate-y-2 opacity-0 group-hover:opacity-100">
                   <div className="w-full h-1 bg-white/20 rounded-full overflow-hidden relative">
                     <div
-                      className="absolute inset-y-0 left-0 bg-blue-500"
+                      className="absolute inset-y-0 left-0 bg-zinc-500"
                       style={{ width: `${progress}%` }}
                     />
                   </div>

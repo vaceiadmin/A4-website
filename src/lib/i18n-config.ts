@@ -5,11 +5,11 @@ export const defaultLocale: Locale = "en";
 /** All supported locales in the floating language switcher (including English). */
 export const localesForSwitcher: readonly Locale[] = [...locales];
 
-export const LOCALE_COOKIE = "VACEI_LOCALE";
-export const LOCALE_STORAGE_KEY = "vacei_locale";
+export const LOCALE_COOKIE = "A4_LOCALE";
+export const LOCALE_STORAGE_KEY = "A4_locale";
 
 /** Request header set by middleware for root layout / html lang */
-export const LOCALE_HEADER = "x-vacei-locale";
+export const LOCALE_HEADER = "x-A4-locale";
 
 /** DeepL API language codes (for scripts) */
 export const deeplTargetLanguages: Record<Locale, string> = {

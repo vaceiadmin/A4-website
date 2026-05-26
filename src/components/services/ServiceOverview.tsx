@@ -28,7 +28,7 @@ const ServiceOverview = ({
           {!isIPhone && !isLowPerformance && (
             <>
               <div className="pointer-events-none absolute -top-24 -left-16 w-72 h-72 bg-primary-blue/5 blur-3xl" />
-              <div className="pointer-events-none absolute -bottom-28 -right-10 w-80 h-80 bg-blue-200/20 blur-3xl" />
+              <div className="pointer-events-none absolute -bottom-28 -right-10 w-80 h-80 bg-zinc-200/20 blur-3xl" />
             </>
           )}
 

@@ -1,16 +1,16 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { 
-  Users, 
-  Monitor, 
-  BookOpen, 
-  RefreshCw, 
-  FileText, 
-  BarChart3, 
-  PieChart, 
-  Building2, 
-  ClipboardCheck, 
+import {
+  Users,
+  Monitor,
+  BookOpen,
+  RefreshCw,
+  FileText,
+  BarChart3,
+  PieChart,
+  Building2,
+  ClipboardCheck,
   MessageSquare,
   Check,
   ArrowUp,
@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
-export default function WhatIsVacei() {
+export default function WhatIsA4() {
   const { t } = useTranslation("services");
   const [activeTab, setActiveTab] = useState<"team" | "portal">("team");
   const [animateBars, setAnimateBars] = useState(false);
@@ -38,10 +38,10 @@ export default function WhatIsVacei() {
       <div className="wx-inner">
         {/* Header */}
         <div className="wx-header">
-          <span className="wx-eyebrow">{t("bookkeeping.whatIsVacei.eyebrow")}</span>
-          <h2 className="wx-heading">{t("bookkeeping.whatIsVacei.title")}</h2>
+          <span className="wx-eyebrow">{t("bookkeeping.whatIsA4.eyebrow")}</span>
+          <h2 className="wx-heading">{t("bookkeeping.whatIsA4.title")}</h2>
           <p className="wx-sub">
-            {t("bookkeeping.whatIsVacei.subtitle")}
+            {t("bookkeeping.whatIsA4.subtitle")}
           </p>
         </div>
 
@@ -51,29 +51,26 @@ export default function WhatIsVacei() {
             className={`wx-toggle-btn ${activeTab === "team" ? "active" : ""}`}
             onClick={() => setActiveTab("team")}
           >
-            <span className="wx-toggle-icon"><Users size={16} /></span> {t("bookkeeping.whatIsVacei.btnTeam")}
+            <span className="wx-toggle-icon"><Users size={16} /></span> {t("bookkeeping.whatIsA4.btnTeam")}
           </button>
           <div
-            className={`wx-toggle-track ${
-              activeTab === "portal" ? "right" : ""
-            }`}
+            className={`wx-toggle-track ${activeTab === "portal" ? "right" : ""
+              }`}
             onClick={() =>
               setActiveTab(activeTab === "team" ? "portal" : "team")
             }
           >
             <div
-              className={`wx-toggle-pill ${
-                activeTab === "portal" ? "right" : ""
-              }`}
+              className={`wx-toggle-pill ${activeTab === "portal" ? "right" : ""
+                }`}
             ></div>
           </div>
           <button
-            className={`wx-toggle-btn ${
-              activeTab === "portal" ? "active" : ""
-            }`}
+            className={`wx-toggle-btn ${activeTab === "portal" ? "active" : ""
+              }`}
             onClick={() => setActiveTab("portal")}
           >
-            <span className="wx-toggle-icon"><Monitor size={16} /></span> {t("bookkeeping.whatIsVacei.btnPortal")}
+            <span className="wx-toggle-icon"><Monitor size={16} /></span> {t("bookkeeping.whatIsA4.btnPortal")}
           </button>
         </div>
 
@@ -85,39 +82,39 @@ export default function WhatIsVacei() {
             style={{ display: activeTab === "team" ? "grid" : "none" }}
           >
             <div className="wx-panel-left">
-              <div className="wx-panel-badge team-badge">{t("bookkeeping.whatIsVacei.teamBadge")}</div>
-              <h3 className="wx-panel-h" dangerouslySetInnerHTML={{ __html: t("bookkeeping.whatIsVacei.teamTitle") }}>
+              <div className="wx-panel-badge team-badge">{t("bookkeeping.whatIsA4.teamBadge")}</div>
+              <h3 className="wx-panel-h" dangerouslySetInnerHTML={{ __html: t("bookkeeping.whatIsA4.teamTitle") }}>
               </h3>
               <p className="wx-panel-p">
-                {t("bookkeeping.whatIsVacei.teamDesc")}
+                {t("bookkeeping.whatIsA4.teamDesc")}
               </p>
               <ul className="wx-feature-list">
                 <li>
-                  <span className="wx-feat-icon team-icon"><BookOpen size={18} className="text-blue-500" /></span>
+                  <span className="wx-feat-icon team-icon"><BookOpen size={18} className="text-zinc-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.teamList1Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.teamList1Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.teamList1Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.teamList1Desc")}</span>
                   </div>
                 </li>
                 <li>
-                  <span className="wx-feat-icon team-icon"><RefreshCw size={18} className="text-blue-500" /></span>
+                  <span className="wx-feat-icon team-icon"><RefreshCw size={18} className="text-zinc-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.teamList2Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.teamList2Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.teamList2Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.teamList2Desc")}</span>
                   </div>
                 </li>
                 <li>
-                  <span className="wx-feat-icon team-icon"><FileText size={18} className="text-blue-500" /></span>
+                  <span className="wx-feat-icon team-icon"><FileText size={18} className="text-zinc-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.teamList3Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.teamList3Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.teamList3Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.teamList3Desc")}</span>
                   </div>
                 </li>
                 <li>
-                  <span className="wx-feat-icon team-icon"><BarChart3 size={18} className="text-blue-500" /></span>
+                  <span className="wx-feat-icon team-icon"><BarChart3 size={18} className="text-zinc-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.teamList4Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.teamList4Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.teamList4Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.teamList4Desc")}</span>
                   </div>
                 </li>
               </ul>
@@ -140,7 +137,7 @@ export default function WhatIsVacei() {
                       <div className="wx-team-card">
                         <div
                           className="wx-avatar"
-                          style={{ background: "#1A2640" }}
+                          style={{ background: "#18181B" }}
                         >
                           S
                         </div>
@@ -203,8 +200,8 @@ export default function WhatIsVacei() {
                       <div
                         className="wx-act-icon"
                         style={{
-                          background: "rgba(79,142,247,0.1)",
-                          color: "#4F8EF7",
+                          background: "rgba(161, 161, 170,0.1)",
+                          color: "#A1A1AA",
                         }}
                       >
                         <ArrowUp size={12} />
@@ -238,40 +235,40 @@ export default function WhatIsVacei() {
           >
             <div className="wx-panel-left">
               <div className="wx-panel-badge portal-badge">
-                {t("bookkeeping.whatIsVacei.portalBadge")}
+                {t("bookkeeping.whatIsA4.portalBadge")}
               </div>
-              <h3 className="wx-panel-h" dangerouslySetInnerHTML={{ __html: t("bookkeeping.whatIsVacei.portalTitle") }}>
+              <h3 className="wx-panel-h" dangerouslySetInnerHTML={{ __html: t("bookkeeping.whatIsA4.portalTitle") }}>
               </h3>
               <p className="wx-panel-p">
-                {t("bookkeeping.whatIsVacei.portalDesc")}
+                {t("bookkeeping.whatIsA4.portalDesc")}
               </p>
               <ul className="wx-feature-list">
                 <li>
                   <span className="wx-feat-icon portal-icon"><PieChart size={18} className="text-green-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.portalList1Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.portalList1Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.portalList1Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.portalList1Desc")}</span>
                   </div>
                 </li>
                 <li>
                   <span className="wx-feat-icon portal-icon"><Building2 size={18} className="text-green-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.portalList2Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.portalList2Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.portalList2Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.portalList2Desc")}</span>
                   </div>
                 </li>
                 <li>
                   <span className="wx-feat-icon portal-icon"><ClipboardCheck size={18} className="text-green-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.portalList3Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.portalList3Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.portalList3Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.portalList3Desc")}</span>
                   </div>
                 </li>
                 <li>
                   <span className="wx-feat-icon portal-icon"><MessageSquare size={18} className="text-green-500" /></span>
                   <div>
-                    <strong>{t("bookkeeping.whatIsVacei.portalList4Title")}</strong>
-                    <span>{t("bookkeeping.whatIsVacei.portalList4Desc")}</span>
+                    <strong>{t("bookkeeping.whatIsA4.portalList4Title")}</strong>
+                    <span>{t("bookkeeping.whatIsA4.portalList4Desc")}</span>
                   </div>
                 </li>
               </ul>
@@ -337,7 +334,7 @@ export default function WhatIsVacei() {
                           <span className="wx-chart-leg">
                             <span
                               className="wx-chart-leg-dot"
-                              style={{ background: "#4F8EF7" }}
+                              style={{ background: "#A1A1AA" }}
                             ></span>
                             Out
                           </span>
@@ -370,12 +367,12 @@ export default function WhatIsVacei() {
                           >
                             <stop
                               offset="0%"
-                              stopColor="#4F8EF7"
+                              stopColor="#A1A1AA"
                               stopOpacity="0.15"
                             />
                             <stop
                               offset="100%"
-                              stopColor="#4F8EF7"
+                              stopColor="#A1A1AA"
                               stopOpacity="0"
                             />
                           </linearGradient>
@@ -399,7 +396,7 @@ export default function WhatIsVacei() {
                         <polyline
                           points="0,40 60,37 120,39 180,33 240,36 300,30"
                           fill="none"
-                          stroke="#4F8EF7"
+                          stroke="#A1A1AA"
                           strokeWidth="1.5"
                           strokeLinecap="round"
                           strokeLinejoin="round"
@@ -482,21 +479,21 @@ export default function WhatIsVacei() {
             <div className="wx-combined-eq">
               <div className="wx-eq-pill team-pill">
                 <span className="wx-eq-pill-icon"><Users size={16} /></span>
-                <span>{t("bookkeeping.whatIsVacei.btnTeam")}</span>
+                <span>{t("bookkeeping.whatIsA4.btnTeam")}</span>
               </div>
               <div className="wx-eq-operator">+</div>
               <div className="wx-eq-pill portal-pill">
                 <span className="wx-eq-pill-icon"><Monitor size={16} /></span>
-                <span>{t("bookkeeping.whatIsVacei.btnPortal")}</span>
+                <span>{t("bookkeeping.whatIsA4.btnPortal")}</span>
               </div>
               <div className="wx-eq-operator">=</div>
-              <div className="wx-eq-pill vacei-pill">VACEI</div>
+              <div className="wx-eq-pill A4-pill">A4</div>
             </div>
             <p className="wx-combined-desc">
-              {t("bookkeeping.whatIsVacei.combinedDesc")}
+              {t("bookkeeping.whatIsA4.combinedDesc")}
             </p>
             <div className="wx-quote">
-              {t("bookkeeping.whatIsVacei.combinedQuote")}
+              {t("bookkeeping.whatIsA4.combinedQuote")}
             </div>
           </div>
         </div>

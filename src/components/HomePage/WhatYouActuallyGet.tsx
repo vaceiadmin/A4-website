@@ -45,7 +45,7 @@ const cardSurfaceMobile = (isDark: boolean) =>
   cn(
     "rounded-[1.75rem] border transition-colors overflow-visible md:overflow-hidden",
     isDark
-      ? "border-white/20 bg-gradient-to-b from-[#12141c] to-[#0a0c12] shadow-[0_16px_40px_-12px_rgba(0,0,0,0.65)] ring-1 ring-white/10"
+      ? "border-white/20 bg-gradient-to-b from-[#09090B] to-[#0a0c12] shadow-[0_16px_40px_-12px_rgba(0,0,0,0.65)] ring-1 ring-white/10"
       : "border-slate-200/90 bg-gradient-to-b from-white to-slate-50 shadow-[0_16px_40px_-16px_rgba(15,23,42,0.18)] ring-1 ring-slate-200/80"
   );
 
@@ -74,14 +74,14 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
         isDark && "mx-4 sm:mx-6 lg:mx-8",
         isDark
           ? "bg-[#05050A] text-white shadow-2xl"
-          : "border border-slate-100 bg-[#FAFBFF] text-slate-900 shadow-xl shadow-blue-500/5"
+          : "border border-slate-100 bg-[#FAFBFF] text-slate-900 shadow-xl shadow-zinc-500/5"
       )}
     >
       {/* Background Decor */}
       <div
         className={cn(
           "pointer-events-none absolute right-0 top-0 h-[800px] w-[800px] rounded-full opacity-20 blur-[150px]",
-          isDark ? "bg-blue-600/10" : "bg-blue-400/5"
+          isDark ? "bg-zinc-600/10" : "bg-zinc-400/5"
         )}
       />
 
@@ -94,11 +94,11 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                 <div
                   className={cn(
                     "inline-flex items-center gap-2 rounded-full border px-4 py-1.5",
-                    isDark ? "border-white/10 bg-white/5" : "border-blue-100 bg-blue-50"
+                    isDark ? "border-white/10 bg-white/5" : "border-zinc-100 bg-zinc-50"
                   )}
                 >
-                  <span className="h-2 w-2 animate-pulse rounded-full bg-blue-500" />
-                  <span className="text-[10px] font-black uppercase tracking-widest text-blue-500">
+                  <span className="h-2 w-2 animate-pulse rounded-full bg-zinc-500" />
+                  <span className="text-[10px] font-black uppercase tracking-widest text-zinc-500">
                     {t("whatYouGet.badge")}
                   </span>
                 </div>
@@ -142,8 +142,8 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                       className={cn(
                         "pointer-events-none absolute left-6 right-6 top-0 h-[2px] rounded-full sm:left-10 sm:right-10",
                         isDark
-                          ? "bg-gradient-to-r from-transparent via-blue-500/45 to-transparent"
-                          : "bg-gradient-to-r from-transparent via-blue-500/35 to-transparent"
+                          ? "bg-gradient-to-r from-transparent via-zinc-500/45 to-transparent"
+                          : "bg-gradient-to-r from-transparent via-zinc-500/35 to-transparent"
                       )}
                       aria-hidden
                     />
@@ -153,8 +153,8 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                         className={cn(
                           "flex h-12 w-12 shrink-0 items-center justify-center rounded-xl shadow-md md:h-14 md:w-14 md:rounded-2xl",
                           isDark
-                            ? "bg-blue-500/15 text-blue-300 ring-1 ring-blue-400/25"
-                            : "bg-blue-50 text-blue-600 shadow-sm ring-1 ring-blue-100"
+                            ? "bg-zinc-500/15 text-zinc-300 ring-1 ring-zinc-400/25"
+                            : "bg-zinc-50 text-zinc-600 shadow-sm ring-1 ring-zinc-100"
                         )}
                       >
                         <WhatYouGetGlyph icon={Icon} size="sm" />
@@ -186,8 +186,8 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                             className={cn(
                               "flex h-7 w-7 items-center justify-center rounded-full text-[10px] font-black sm:h-8 sm:w-8 sm:text-xs",
                               isDark
-                                ? "bg-blue-500/15 text-blue-300 ring-1 ring-blue-500/30"
-                                : "bg-blue-100 text-blue-700"
+                                ? "bg-zinc-500/15 text-zinc-300 ring-1 ring-zinc-500/30"
+                                : "bg-zinc-100 text-zinc-700"
                             )}
                           >
                             {i < 9 ? `0${i + 1}` : i + 1}
@@ -214,7 +214,7 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "pointer-events-none absolute inset-[-12%] rounded-[3rem] blur-[80px]",
-                isDark ? "bg-blue-500/12" : "bg-blue-400/20"
+                isDark ? "bg-zinc-500/12" : "bg-zinc-400/20"
               )}
             />
 
@@ -236,7 +236,7 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                       className={cn(
                         "flex flex-col justify-between overflow-hidden p-6 transition-all duration-500 sm:p-9 lg:p-10",
                         isDark
-                          ? "border border-white/20 bg-gradient-to-b from-[#12141c] to-[#0a0c12] shadow-[0_24px_50px_-12px_rgba(0,0,0,0.75),0_0_0_1px_rgba(255,255,255,0.06)_inset] ring-1 ring-white/10"
+                          ? "border border-white/20 bg-gradient-to-b from-[#09090B] to-[#0a0c12] shadow-[0_24px_50px_-12px_rgba(0,0,0,0.75),0_0_0_1px_rgba(255,255,255,0.06)_inset] ring-1 ring-white/10"
                           : "border border-slate-200/90 bg-gradient-to-b from-white to-slate-50 shadow-[0_28px_60px_-20px_rgba(15,23,42,0.2),0_0_0_1px_rgba(255,255,255,0.8)_inset] ring-1 ring-slate-200/80"
                       )}
                     >
@@ -244,8 +244,8 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                         className={cn(
                           "pointer-events-none absolute left-10 right-10 top-0 h-[3px] rounded-full",
                           isDark
-                            ? "bg-gradient-to-r from-transparent via-blue-500/50 to-transparent"
-                            : "bg-gradient-to-r from-transparent via-blue-500/40 to-transparent"
+                            ? "bg-gradient-to-r from-transparent via-zinc-500/50 to-transparent"
+                            : "bg-gradient-to-r from-transparent via-zinc-500/40 to-transparent"
                         )}
                         aria-hidden
                       />
@@ -253,8 +253,8 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                         className={cn(
                           "mb-7 flex h-16 w-16 items-center justify-center rounded-2xl shadow-md",
                           isDark
-                            ? "bg-blue-500/15 text-blue-300 ring-1 ring-blue-400/25"
-                            : "bg-blue-50 text-blue-600 ring-1 ring-blue-100 shadow-sm"
+                            ? "bg-zinc-500/15 text-zinc-300 ring-1 ring-zinc-400/25"
+                            : "bg-zinc-50 text-zinc-600 ring-1 ring-zinc-100 shadow-sm"
                         )}
                       >
                         <WhatYouGetGlyph icon={Icon} size="lg" />
@@ -289,8 +289,8 @@ const WhatYouActuallyGet = ({ isDark = true }: { isDark?: boolean }) => {
                           className={cn(
                             "flex h-8 w-8 items-center justify-center rounded-full text-xs font-black",
                             isDark
-                              ? "bg-blue-500/15 text-blue-300 ring-1 ring-blue-500/30"
-                              : "bg-blue-100 text-blue-700"
+                              ? "bg-zinc-500/15 text-zinc-300 ring-1 ring-zinc-500/30"
+                              : "bg-zinc-100 text-zinc-700"
                           )}
                         >
                           {i < 9 ? `0${i + 1}` : i + 1}

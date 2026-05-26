@@ -100,7 +100,7 @@ const ProcessStepsSection = () => {
     updateCadence: "",
     phone: "",
   })
-  
+
   const [error, setError] = useState("")
   const [submitted, setSubmitted] = useState(false)
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -112,7 +112,7 @@ const ProcessStepsSection = () => {
 
   const validateStep = () => {
     for (const field of step.fields) {
-      if (field.key === "additionalDetails") continue 
+      if (field.key === "additionalDetails") continue
 
       if (field.type === "multiselect") {
         const val = formData[field.key] as string[]
@@ -165,7 +165,7 @@ const ProcessStepsSection = () => {
       setError(msg)
       return
     }
-    
+
     setError("")
     setSubmitError(null)
 
@@ -216,10 +216,10 @@ const ProcessStepsSection = () => {
       className="w-full relative overflow-hidden py-12 sm:py-16 lg:py-20 scroll-mt-20 isolate bg-[#FAFBFF]"
     >
       <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden">
-        <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-blue-50/50 rounded-full blur-[120px] -mr-48 -mt-48" />
-        <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-blue-50/40 rounded-full blur-[100px] -ml-32 -mb-32" />
+        <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-zinc-50/50 rounded-full blur-[120px] -mr-48 -mt-48" />
+        <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-zinc-50/40 rounded-full blur-[100px] -ml-32 -mb-32" />
         <div className="absolute inset-0 opacity-[0.03]" style={{
-          backgroundImage: `radial-gradient(#3b49e6 0.5px, transparent 0.5px)`,
+          backgroundImage: `radial-gradient(#000000 0.5px, transparent 0.5px)`,
           backgroundSize: '32px 32px'
         }} />
       </div>
@@ -239,7 +239,7 @@ const ProcessStepsSection = () => {
                               <div className={cn(
                                 "w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold transition-all duration-500",
                                 idx <= currentStep
-                                  ? "bg-blue-600 text-white shadow-lg shadow-blue-500/30"
+                                  ? "bg-zinc-600 text-white shadow-lg shadow-zinc-500/30"
                                   : "bg-white border border-slate-200 text-slate-400"
                               )}>
                                 {idx + 1}
@@ -248,7 +248,7 @@ const ProcessStepsSection = () => {
                             {idx < formSteps.length - 1 && (
                               <div className={cn(
                                 "h-px grow mx-4 transition-colors duration-700",
-                                idx < currentStep ? "bg-blue-600" : "bg-slate-200"
+                                idx < currentStep ? "bg-zinc-600" : "bg-slate-200"
                               )} />
                             )}
                           </React.Fragment>
@@ -273,13 +273,13 @@ const ProcessStepsSection = () => {
                               <label className="text-sm font-bold text-slate-700 block ml-1">
                                 {field.label} {field.key === "additionalDetails" ? "" : <span className="text-red-500">*</span>}
                               </label>
-                              
+
                               {field.type === "select" ? (
                                 <div className="relative">
                                   <button
                                     type="button"
                                     onClick={() => setOpenSelectKey((prev) => (prev === field.key ? null : field.key))}
-                                    className="w-full h-14 rounded-2xl border border-slate-200 bg-white px-5 text-left text-sm font-semibold text-slate-900 shadow-sm transition-all hover:border-blue-300 focus:outline-none focus:ring-4 focus:ring-blue-600/5"
+                                    className="w-full h-14 rounded-2xl border border-slate-200 bg-white px-5 text-left text-sm font-semibold text-slate-900 shadow-sm transition-all hover:border-zinc-300 focus:outline-none focus:ring-4 focus:ring-zinc-600/5"
                                   >
                                     <span className={formData[field.key] ? "text-slate-900" : "text-slate-400"}>
                                       {(formData[field.key] as string) || field.placeholder}
@@ -300,7 +300,7 @@ const ProcessStepsSection = () => {
                                             onClick={() => { handleChange(field.key, opt); setOpenSelectKey(null); }}
                                             className={cn(
                                               "flex w-full px-5 py-3 text-sm font-medium transition-colors",
-                                              (formData[field.key] as string) === opt ? "bg-blue-50 text-blue-700" : "text-slate-600 hover:bg-slate-50"
+                                              (formData[field.key] as string) === opt ? "bg-zinc-50 text-zinc-700" : "text-slate-600 hover:bg-slate-50"
                                             )}
                                           >
                                             {opt}
@@ -315,14 +315,14 @@ const ProcessStepsSection = () => {
                                   <button
                                     type="button"
                                     onClick={() => setOpenSelectKey((prev) => (prev === field.key ? null : field.key))}
-                                    className="w-full min-h-[56px] py-3 rounded-2xl border border-slate-200 bg-white px-5 text-left text-sm font-semibold text-slate-900 shadow-sm transition-all hover:border-blue-300 focus:outline-none focus:ring-4 focus:ring-blue-600/5 pr-12 flex flex-wrap gap-2 items-center"
+                                    className="w-full min-h-[56px] py-3 rounded-2xl border border-slate-200 bg-white px-5 text-left text-sm font-semibold text-slate-900 shadow-sm transition-all hover:border-zinc-300 focus:outline-none focus:ring-4 focus:ring-zinc-600/5 pr-12 flex flex-wrap gap-2 items-center"
                                   >
                                     {(formData[field.key] as string[]).length > 0 ? (
                                       (formData[field.key] as string[]).map((selected) => (
-                                        <div key={selected} className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-xs font-bold border border-blue-100 flex items-center gap-1 z-20">
+                                        <div key={selected} className="bg-zinc-50 text-zinc-700 px-3 py-1 rounded-full text-xs font-bold border border-zinc-100 flex items-center gap-1 z-20">
                                           {selected}
-                                          <div 
-                                            className="w-4 h-4 rounded-full hover:bg-blue-200 inline-flex items-center justify-center cursor-pointer transition-colors"
+                                          <div
+                                            className="w-4 h-4 rounded-full hover:bg-zinc-200 inline-flex items-center justify-center cursor-pointer transition-colors"
                                             onClick={(e) => {
                                               e.stopPropagation();
                                               const arr = formData[field.key] as string[];
@@ -358,12 +358,12 @@ const ProcessStepsSection = () => {
                                               }}
                                               className={cn(
                                                 "flex w-full items-center justify-between px-5 py-3 text-sm font-medium transition-colors",
-                                                isSelected ? "bg-blue-50 text-blue-700" : "text-slate-600 hover:bg-slate-50"
+                                                isSelected ? "bg-zinc-50 text-zinc-700" : "text-slate-600 hover:bg-slate-50"
                                               )}
                                             >
                                               <span>{opt}</span>
                                               {isSelected && (
-                                                <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" /></svg>
+                                                <svg className="w-4 h-4 text-zinc-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" /></svg>
                                               )}
                                             </button>
                                           )
@@ -378,7 +378,7 @@ const ProcessStepsSection = () => {
                                   onChange={(e) => handleChange(field.key, e.target.value)}
                                   placeholder={field.placeholder}
                                   rows={field.rows}
-                                  className="w-full bg-white border border-slate-200 rounded-2xl px-5 py-4 text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-600/5 focus:border-blue-400 transition-all font-medium min-h-[100px] resize-none"
+                                  className="w-full bg-white border border-slate-200 rounded-2xl px-5 py-4 text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-4 focus:ring-zinc-600/5 focus:border-zinc-400 transition-all font-medium min-h-[100px] resize-none"
                                 />
                               ) : (
                                 <input
@@ -386,7 +386,7 @@ const ProcessStepsSection = () => {
                                   value={formData[field.key] as string}
                                   onChange={(e) => handleChange(field.key, e.target.value)}
                                   placeholder={field.placeholder}
-                                  className="w-full h-14 bg-white border border-slate-200 rounded-2xl px-5 text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-4 focus:ring-blue-600/5 focus:border-blue-400 transition-all font-medium"
+                                  className="w-full h-14 bg-white border border-slate-200 rounded-2xl px-5 text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-4 focus:ring-zinc-600/5 focus:border-zinc-400 transition-all font-medium"
                                 />
                               )}
                             </div>
@@ -401,7 +401,7 @@ const ProcessStepsSection = () => {
                           <p className="text-sm font-bold text-red-700">{error}</p>
                         </div>
                       )}
-                      
+
                       {submitError && (
                         <div className="mt-6 p-4 rounded-xl bg-red-50 border border-red-100 flex items-center gap-3">
                           <div className="w-5 h-5 rounded-full bg-red-100 flex items-center justify-center text-red-600 shrink-0 uppercase font-black text-[10px]">!</div>
@@ -423,13 +423,13 @@ const ProcessStepsSection = () => {
                           <button
                             type="submit"
                             disabled={isSubmitting}
-                            className="grow h-14 rounded-2xl bg-blue-600 text-white font-black uppercase tracking-widest text-xs shadow-xl shadow-blue-600/20 transition-all hover:bg-blue-700 hover:shadow-blue-600/40 active:scale-[0.98] disabled:opacity-70 flex items-center justify-center gap-3"
+                            className="grow h-14 rounded-2xl bg-zinc-600 text-white font-black uppercase tracking-widest text-xs shadow-xl shadow-zinc-600/20 transition-all hover:bg-zinc-700 hover:shadow-zinc-600/40 active:scale-[0.98] disabled:opacity-70 flex items-center justify-center gap-3"
                           >
                             {isSubmitting && <div className="w-4 h-4 border-2 border-white/20 border-t-white rounded-full animate-spin" />}
                             {isSubmitting ? "Processing..." : (step.primaryLabel || "Next Step")}
                           </button>
                         </div>
-                        
+
 
                       </div>
                     </form>
@@ -442,7 +442,7 @@ const ProcessStepsSection = () => {
                       <p className="text-slate-500 font-medium max-w-sm mx-auto mb-10">
                         We've received your request. Our team will review the details and get back to you within 24 hours.
                       </p>
-                      
+
                       <div className="flex flex-col sm:flex-row gap-4 w-full">
                         <button
                           onClick={() => { setSubmitted(false); setCurrentStep(0); setFormData({ name: "", email: "", message: "", service: [], additionalDetails: "", communicationChannel: "", updateCadence: "", phone: "" }); }}
@@ -450,9 +450,9 @@ const ProcessStepsSection = () => {
                         >
                           New Request
                         </button>
-                        <a 
-                          href="https://devclient.vacei.com/onboarding" 
-                          className="flex-1 flex items-center justify-center h-14 rounded-2xl bg-blue-600 text-white font-bold tracking-wide text-sm shadow-xl shadow-blue-600/20 border border-blue-500 transition-all hover:bg-blue-700"
+                        <a
+                          href="https://devclient.A4.com/onboarding"
+                          className="flex-1 flex items-center justify-center h-14 rounded-2xl bg-zinc-600 text-white font-bold tracking-wide text-sm shadow-xl shadow-zinc-600/20 border border-zinc-500 transition-all hover:bg-zinc-700"
                         >
                           Register Now
                         </a>
@@ -466,10 +466,10 @@ const ProcessStepsSection = () => {
 
           <div className="relative lg:pl-10 h-full flex flex-col justify-center lg:order-2">
             <div className="mb-10">
-              <h2 className="text-sm font-black text-blue-600 uppercase tracking-[0.2em] mb-4">Workflow Progress</h2>
+              <h2 className="text-sm font-black text-zinc-600 uppercase tracking-[0.2em] mb-4">Workflow Progress</h2>
               <h3 className="text-4xl sm:text-5xl font-black text-slate-900 tracking-tight leading-[1.1]">
                 Real-time <br className="hidden sm:block" />
-                <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-blue-800">Onboarding State</span>
+                <span className="text-transparent bg-clip-text bg-linear-to-r from-zinc-600 to-zinc-800">Onboarding State</span>
               </h3>
             </div>
 
@@ -484,14 +484,14 @@ const ProcessStepsSection = () => {
                     className={cn(
                       "group relative rounded-3xl p-5 sm:p-6 transition-all duration-500 border",
                       isActive
-                        ? "bg-white border-blue-100 shadow-[0_20px_40px_-15px_rgba(37,99,235,0.12)] scale-[1.02] z-20"
+                        ? "bg-white border-zinc-100 shadow-[0_20px_40px_-15px_rgba(37,99,235,0.12)] scale-[1.02] z-20"
                         : "bg-slate-50/50 border-transparent opacity-60 hover:opacity-80"
                     )}
                   >
                     <div className="flex items-start gap-5">
                       <div className={cn(
                         "w-12 h-12 rounded-2xl flex items-center justify-center shrink-0 transition-all duration-500",
-                        isActive ? "bg-blue-600 text-white rotate-3 shadow-lg shadow-blue-500/40" :
+                        isActive ? "bg-zinc-600 text-white rotate-3 shadow-lg shadow-zinc-500/40" :
                           isPast ? "bg-green-100 text-green-600" : "bg-white text-slate-400"
                       )}>
                         {isPast ? (
@@ -510,7 +510,7 @@ const ProcessStepsSection = () => {
                             {s.title}
                           </h4>
                           {isActive && (
-                            <span className="flex h-2 w-2 rounded-full bg-blue-600 animate-pulse" />
+                            <span className="flex h-2 w-2 rounded-full bg-zinc-600 animate-pulse" />
                           )}
                         </div>
                         {(isActive || isPast) && (
@@ -522,7 +522,7 @@ const ProcessStepsSection = () => {
                     </div>
 
                     {isActive && (
-                      <div className="absolute -left-2 top-1/2 -translate-y-1/2 w-1 h-12 bg-blue-600 rounded-full shadow-[0_0_15px_rgba(37,99,235,0.8)] lg:block hidden" />
+                      <div className="absolute -left-2 top-1/2 -translate-y-1/2 w-1 h-12 bg-zinc-600 rounded-full shadow-[0_0_15px_rgba(37,99,235,0.8)] lg:block hidden" />
                     )}
                   </div>
                 )
@@ -531,20 +531,20 @@ const ProcessStepsSection = () => {
 
             <div className="mt-12 p-8 rounded-[2rem] bg-linear-to-br from-slate-900 to-slate-800 text-white relative overflow-hidden">
               <div className="relative z-10">
-                <p className="text-blue-400 text-xs font-black uppercase tracking-widest mb-2">Platform Power</p>
+                <p className="text-zinc-400 text-xs font-black uppercase tracking-widest mb-2">Platform Power</p>
                 <p className="text-lg font-bold leading-snug">
                   Experience the future of <br />corporate management.
                 </p>
               </div>
-              <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500/10 rounded-full -mr-16 -mt-16 blur-2xl" />
+              <div className="absolute top-0 right-0 w-32 h-32 bg-zinc-500/10 rounded-full -mr-16 -mt-16 blur-2xl" />
             </div>
 
             <div className="mt-6">
-              <a 
-                href="https://devclient.vacei.com/onboarding" 
-                className="group relative flex w-full items-center justify-center h-16 rounded-[1.5rem] bg-white border-2 border-slate-200 text-slate-900 font-black tracking-wide text-sm transition-all hover:bg-slate-50 hover:border-blue-300 overflow-hidden"
+              <a
+                href="https://devclient.A4.com/onboarding"
+                className="group relative flex w-full items-center justify-center h-16 rounded-[1.5rem] bg-white border-2 border-slate-200 text-slate-900 font-black tracking-wide text-sm transition-all hover:bg-slate-50 hover:border-zinc-300 overflow-hidden"
               >
-                <div className="absolute inset-0 w-full h-full bg-linear-to-r from-blue-50 to-blue-100 opacity-0 group-hover:opacity-100 transition-opacity" />
+                <div className="absolute inset-0 w-full h-full bg-linear-to-r from-zinc-50 to-zinc-100 opacity-0 group-hover:opacity-100 transition-opacity" />
                 <span className="relative z-10 uppercase flex items-center gap-3">
                   Register Directly
                   <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>

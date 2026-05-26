@@ -36,8 +36,8 @@ const WLCTASection: React.FC<WLCTASectionProps> = ({
           scheme={5}
           speed={1.4}
           intensity={1.5}
-          colors={["#3b49e6", "#4a5feb", "#5b6ef5", "#3b49e6", "#2f3bc4", "#2536a8"]}
-          darkNavyColor="#3b49e6"
+          colors={["#000000", "#111111", "#111111", "#000000", "#111111", "#000000"]}
+          darkNavyColor="#000000"
           showCursor={false}
         />
         {/* Deepen the top for the V-shape transition */}

@@ -600,10 +600,10 @@ export const servicesData: ServiceData[] = [
           Ongoing Accounting &amp; Finance support for your business – from bookkeeping to senior financial oversight.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI manages accounting, reporting, and CFO support so your numbers stay accurate, timely, and clear.
+          A4 manages accounting, reporting, and CFO support so your numbers stay accurate, timely, and clear.
         </p>
         <p className="mb-6 text-gray leading-[26px]">
-          Work is fully managed by VACEI and delivered through your client portal.
+          Work is fully managed by A4 and delivered through your client portal.
         </p>
       </>
     ),
@@ -634,7 +634,7 @@ export const servicesData: ServiceData[] = [
           Ongoing support for your business tax, payroll, and statutory filings.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI manages VAT, payroll, registrations, and key deadlines so obligations are handled correctly and on time.
+          A4 manages VAT, payroll, registrations, and key deadlines so obligations are handled correctly and on time.
         </p>
         <p className="text-gray leading-[26px]">
           Everything is coordinated through your client portal for clear tracking and peace of mind.
@@ -669,11 +669,11 @@ export const servicesData: ServiceData[] = [
           financial reviews.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI delivers audits through a clear, organised process that provides
+          A4 delivers audits through a clear, organised process that provides
           visibility, predictable timelines and documented outcomes.
         </p>
         <p className="text-gray leading-[26px]">
-          Audit work is coordinated by VACEI and supported by structured
+          Audit work is coordinated by A4 and supported by structured
           workflows through the platform, minimizing disruption to your operations.
         </p>
       </>
@@ -705,7 +705,7 @@ export const servicesData: ServiceData[] = [
           Ongoing corporate services for Malta companies, including registered office and statutory support.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI keeps your company maintained, compliant, and documented throughout the year.
+          A4 keeps your company maintained, compliant, and documented throughout the year.
         </p>
         <p className="mb-6 text-gray leading-[26px]">
           All work is delivered through a structured process and client portal.
@@ -739,7 +739,7 @@ export const servicesData: ServiceData[] = [
           Support for businesses that operate in regulated environments or require formal licences.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI manages licence applications, renewals, and key regulatory submissions with authorities.
+          A4 manages licence applications, renewals, and key regulatory submissions with authorities.
         </p>
         <p className="mb-6 text-gray leading-[26px]">
           Work is delivered through clear, structured workflows.
@@ -773,7 +773,7 @@ export const servicesData: ServiceData[] = [
           Advisory &amp; Growth support for businesses beyond day-to-day compliance.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI helps you plan, grow, and navigate key decisions with financial and regulatory aspects aligned.
+          A4 helps you plan, grow, and navigate key decisions with financial and regulatory aspects aligned.
         </p>
         <p className="mb-6 text-gray leading-[26px]">
           Work is delivered alongside your core accounting, tax, corporate, and audit setup for consistency.
@@ -807,7 +807,7 @@ export const servicesData: ServiceData[] = [
           Project-based support for changes to your company’s legal, ownership, or management structure.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI prepares documentation, coordinates filings, and ensures each change is compliant and properly recorded.
+          A4 prepares documentation, coordinates filings, and ensures each change is compliant and properly recorded.
         </p>
         <p className="mb-6 text-gray leading-[26px]">
           This is separate from ongoing Corporate (CSP) Services and handled as a defined project.
@@ -841,7 +841,7 @@ export const servicesData: ServiceData[] = [
           Support for companies that are closing, restructuring, or no longer operating.
         </p>
         <p className="mb-6 text-gray leading-[26px]">
-          VACEI manages the liquidation or wind-down process so statutory requirements and filings are completed correctly.
+          A4 manages the liquidation or wind-down process so statutory requirements and filings are completed correctly.
         </p>
       </>
     ),
@@ -872,10 +872,10 @@ export const servicesData: ServiceData[] = [
           Support for designing and managing international business structures.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI helps you set up and coordinate group structures, entities, and banking in a compliant, tax-aware way.
+          A4 helps you set up and coordinate group structures, entities, and banking in a compliant, tax-aware way.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          Work is coordinated through the VACEI portal so you can see and manage cross-border structures in one place.
+          Work is coordinated through the A4 portal so you can see and manage cross-border structures in one place.
         </p>
       </>
     ),
@@ -910,7 +910,7 @@ export const servicesData: ServiceData[] = [
           Support for structuring, banking, and compliance around crypto and digital asset activity.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI helps you align crypto holdings with lawful tax structuring, banking access, and compliance requirements.
+          A4 helps you align crypto holdings with lawful tax structuring, banking access, and compliance requirements.
         </p>
       </>
     ),
@@ -945,13 +945,13 @@ export const servicesData: ServiceData[] = [
           Preparation support so your records and documentation are ready before the audit starts.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI reviews records, documentation, and processes so audits are smoother, faster, and less disruptive.
+          A4 reviews records, documentation, and processes so audits are smoother, faster, and less disruptive.
         </p>
       </>
     ),
     featuresSection: {
       title: "What we cover in audit readiness",
-      subtitle: "Prepare for audit using one structured process coordinated through the VACEI portal.",
+      subtitle: "Prepare for audit using one structured process coordinated through the A4 portal.",
       features: auditReadinessFeatures,
     },
     primaryCtaText: "Prepare for Audit",
@@ -980,7 +980,7 @@ export const servicesData: ServiceData[] = [
           Group &amp; Consolidation support for businesses with multiple entities.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI coordinates group reporting, intercompany alignment, and consolidation so information is consistent and usable.
+          A4 coordinates group reporting, intercompany alignment, and consolidation so information is consistent and usable.
         </p>
       </>
     ),
@@ -1015,7 +1015,7 @@ export const servicesData: ServiceData[] = [
           Support for accessing and maintaining reliable banking and payment solutions.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI prepares documentation, coordinates onboarding, and supports ongoing banking and payments requirements.
+          A4 prepares documentation, coordinates onboarding, and supports ongoing banking and payments requirements.
         </p>
       </>
     ),
@@ -1050,7 +1050,7 @@ export const servicesData: ServiceData[] = [
           Support for defined corporate transactions such as ownership changes, restructurings, and other one-off events.
         </p>
         <p className="mb-4 text-gray leading-[26px]">
-          VACEI coordinates documentation, filings, and stakeholders so each transaction is executed accurately and clearly.
+          A4 coordinates documentation, filings, and stakeholders so each transaction is executed accurately and clearly.
         </p>
       </>
     ),

@@ -115,14 +115,14 @@ const ServicesSection = () => {
         <section id="services" className="w-full bg-[#F8FAFC] py-24 sm:py-32 relative overflow-hidden rounded-[48px]">
             {/* Abstract Background Decoration */}
             <div className="absolute inset-0 z-0 pointer-events-none opacity-40">
-                <div className="absolute top-[20%] left-[-10%] w-[500px] h-[500px] bg-blue-50 rounded-full blur-[120px]" />
-                <div className="absolute bottom-[20%] right-[-10%] w-[500px] h-[500px] bg-blue-50 rounded-full blur-[120px]" />
+                <div className="absolute top-[20%] left-[-10%] w-[500px] h-[500px] bg-zinc-50 rounded-full blur-[120px]" />
+                <div className="absolute bottom-[20%] right-[-10%] w-[500px] h-[500px] bg-zinc-50 rounded-full blur-[120px]" />
             </div>
 
             <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col lg:flex-row items-start lg:items-end justify-between mb-20 gap-10">
                     <div className="max-w-2xl">
-                        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-50 border border-blue-100 text-[10px] font-black tracking-widest text-blue-600 uppercase mb-6">
+                        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-zinc-50 border border-zinc-100 text-[10px] font-black tracking-widest text-zinc-600 uppercase mb-6">
                             {t("servicesSection.badge")}
                         </div>
                         <SectionTitleHero
@@ -144,7 +144,7 @@ const ServicesSection = () => {
                                 onClick={() => { setActiveTab(tab); setCurrentIndex(0); }}
                                 className={cn(
                                     "relative px-8 py-3 rounded-xl text-sm font-black tracking-wider transition-all duration-300",
-                                    activeTab === tab ? "text-white bg-blue-600 shadow-[0_5px_15px_rgba(37,99,235,0.2)]" : "text-slate-400 hover:text-slate-600"
+                                    activeTab === tab ? "text-white bg-zinc-600 shadow-[0_5px_15px_rgba(37,99,235,0.2)]" : "text-slate-400 hover:text-slate-600"
                                 )}
                             >
                                 <span className="relative z-10 uppercase">{tab === "services" ? t("servicesSection.tabServices") : t("servicesSection.tabProducts")}</span>
@@ -162,10 +162,10 @@ const ServicesSection = () => {
                                     key={`${item.id}-${activeTab}-${idx}`}
                                     className="w-full max-w-[380px] group"
                                 >
-                                    <div className="relative shadow-lg h-[560px] rounded-[3rem] bg-white border border-slate-200/60 overflow-hidden transition-all duration-700 hover:border-blue-500/30 hover:shadow-[0_50px_100px_-20px_rgba(0,0,0,0.08)] group-hover:-translate-y-3">
+                                    <div className="relative shadow-lg h-[560px] rounded-[3rem] bg-white border border-slate-200/60 overflow-hidden transition-all duration-700 hover:border-zinc-500/30 hover:shadow-[0_50px_100px_-20px_rgba(0,0,0,0.08)] group-hover:-translate-y-3">
                                         {/* Header area with subtle glassmorphism */}
                                         <div className="h-[52%] relative  flex items-center justify-center p-8 bg-slate-50/30 border-b border-slate-100">
-                                            <div className="absolute inset-0 bg-blue-50/10 opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
+                                            <div className="absolute inset-0 bg-zinc-50/10 opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
                                             {activeTab === "services" ? (
                                                 <div className="flex flex-wrap justify-center gap-3 relative z-10">
                                                     {item.featureTitles?.map((f, i) => (
@@ -186,11 +186,11 @@ const ServicesSection = () => {
                                         {/* Content */}
                                         <div className="absolute inset-x-0 bottom-0 p-8 pt-20 bg-white">
                                             {item.badge && (
-                                                <span className="inline-block px-2 py-1 rounded-md bg-blue-50 text-blue-600 text-[10px] font-black uppercase tracking-widest mb-4 border border-blue-100">
+                                                <span className="inline-block px-2 py-1 rounded-md bg-zinc-50 text-zinc-600 text-[10px] font-black uppercase tracking-widest mb-4 border border-zinc-100">
                                                     {item.badge}
                                                 </span>
                                             )}
-                                            <h3 className="text-2xl font-black text-slate-900 mb-3 group-hover:text-blue-600 transition-colors">
+                                            <h3 className="text-2xl font-black text-slate-900 mb-3 group-hover:text-zinc-600 transition-colors">
                                                 {item.title}
                                             </h3>
                                             <p className="text-slate-500 text-sm font-medium leading-relaxed mb-8 line-clamp-2">
@@ -200,10 +200,10 @@ const ServicesSection = () => {
 
                                             <LocalizedLink
                                                 href={item.link}
-                                                className="group/btn inline-flex items-center gap-4 text-[11px] font-black uppercase tracking-[0.2em] text-slate-400 group-hover:text-blue-600 transition-all duration-500"
+                                                className="group/btn inline-flex items-center gap-4 text-[11px] font-black uppercase tracking-[0.2em] text-slate-400 group-hover:text-zinc-600 transition-all duration-500"
                                             >
                                                 {t("servicesSection.explorePhase")}
-                                                <div className="w-12 h-12 rounded-2xl bg-slate-50 border border-slate-200 flex items-center justify-center group-hover:bg-blue-600 group-hover:border-blue-500 group-hover:text-white group-hover:scale-110 group-hover:rotate-6 shadow-sm transition-all duration-500">
+                                                <div className="w-12 h-12 rounded-2xl bg-slate-50 border border-slate-200 flex items-center justify-center group-hover:bg-zinc-600 group-hover:border-zinc-500 group-hover:text-white group-hover:scale-110 group-hover:rotate-6 shadow-sm transition-all duration-500">
                                                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M14 5l7 7-7 7m7-7H3" /></svg>
                                                 </div>
                                             </LocalizedLink>
@@ -221,7 +221,7 @@ const ServicesSection = () => {
                                                     <p className="text-slate-600 font-medium mb-8">{item.subtitle}</p>
                                                     <LocalizedLink
                                                         href={item.link}
-                                                        className="w-full py-5 rounded-2xl bg-blue-600 text-white font-black uppercase tracking-widest text-xs text-center hover:bg-blue-500 transition-all shadow-[0_10px_30px_rgba(37,99,235,0.3)]"
+                                                        className="w-full py-5 rounded-2xl bg-zinc-600 text-white font-black uppercase tracking-widest text-xs text-center hover:bg-zinc-500 transition-all shadow-[0_10px_30px_rgba(37,99,235,0.3)]"
                                                     >
                                                         {t("servicesSection.launchDashboard")}
                                                     </LocalizedLink>
@@ -238,7 +238,7 @@ const ServicesSection = () => {
                     <div className="absolute top-1/2 -translate-y-1/2 left-[-20px] lg:left-[-60px] z-20">
                         <button
                             onClick={prevSlide}
-                            className="w-12 h-12 lg:w-16 lg:h-16 rounded-full bg-white border border-slate-100 text-slate-400 flex items-center justify-center hover:bg-blue-600 hover:border-blue-500 hover:text-white transition-all shadow-xl backdrop-blur-md"
+                            className="w-12 h-12 lg:w-16 lg:h-16 rounded-full bg-white border border-slate-100 text-slate-400 flex items-center justify-center hover:bg-zinc-600 hover:border-zinc-500 hover:text-white transition-all shadow-xl backdrop-blur-md"
                         >
                             <svg className="w-5 h-5 lg:w-6 lg:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
                         </button>
@@ -246,7 +246,7 @@ const ServicesSection = () => {
                     <div className="absolute top-1/2 -translate-y-1/2 right-[-20px] lg:right-[-60px] z-20">
                         <button
                             onClick={nextSlide}
-                            className="w-12 h-12 lg:w-16 lg:h-16 rounded-full bg-white border border-slate-100 text-slate-400 flex items-center justify-center hover:bg-blue-600 hover:border-blue-500 hover:text-white transition-all shadow-xl backdrop-blur-md"
+                            className="w-12 h-12 lg:w-16 lg:h-16 rounded-full bg-white border border-slate-100 text-slate-400 flex items-center justify-center hover:bg-zinc-600 hover:border-zinc-500 hover:text-white transition-all shadow-xl backdrop-blur-md"
                         >
                             <svg className="w-5 h-5 lg:w-6 lg:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
                         </button>

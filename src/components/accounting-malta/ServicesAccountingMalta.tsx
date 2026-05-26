@@ -20,7 +20,7 @@ export default function ServicesAccountingMalta() {
         <div className="svc-grid">
           <div className="svc-card">
             <div className="svc-ico si-b">
-              <svg width="17" height="17" fill="none" stroke="#4F86FF" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <svg width="17" height="17" fill="none" stroke="#A1A1AA" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                 <path d="M9 12h6M9 16h3M9 8h6M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
               </svg>
             </div>
@@ -29,7 +29,7 @@ export default function ServicesAccountingMalta() {
           </div>
           <div className="svc-card">
             <div className="svc-ico si-t">
-              <svg width="17" height="17" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <svg width="17" height="17" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                 <circle cx="12" cy="12" r="10" />
                 <circle cx="12" cy="12" r="6" />
                 <circle cx="12" cy="12" r="2" />
@@ -49,7 +49,7 @@ export default function ServicesAccountingMalta() {
           </div>
           <div className="svc-card">
             <div className="svc-ico si-b">
-              <svg width="17" height="17" fill="none" stroke="#4F86FF" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <svg width="17" height="17" fill="none" stroke="#A1A1AA" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                 <rect x="2" y="3" width="20" height="14" rx="2" />
                 <path d="M8 21h8M12 17v4" />
               </svg>
@@ -59,7 +59,7 @@ export default function ServicesAccountingMalta() {
           </div>
           <div className="svc-card">
             <div className="svc-ico si-t">
-              <svg width="17" height="17" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <svg width="17" height="17" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                 <circle cx="11" cy="11" r="8" />
                 <path d="M21 21l-4.35-4.35" />
               </svg>

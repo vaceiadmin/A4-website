@@ -63,7 +63,7 @@ export default function ToggleHowAccountingMalta() {
               <ul className="feat-list">
                 <li className="feat-li">
                   <span className="feat-ico fi-b">
-                    <svg width="16" height="16" fill="none" stroke="#1F5FD9" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#52525B" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M9 12h6M9 16h3M9 8h6M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                     </svg>
                   </span>
@@ -74,7 +74,7 @@ export default function ToggleHowAccountingMalta() {
                 </li>
                 <li className="feat-li">
                   <span className="feat-ico fi-b">
-                    <svg width="16" height="16" fill="none" stroke="#1F5FD9" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#52525B" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
                     </svg>
                   </span>
@@ -85,7 +85,7 @@ export default function ToggleHowAccountingMalta() {
                 </li>
                 <li className="feat-li">
                   <span className="feat-ico fi-b">
-                    <svg width="16" height="16" fill="none" stroke="#1F5FD9" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#52525B" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z" />
                       <path d="M14 2v6h6M16 13H8M16 17H8M10 9H8" />
                     </svg>
@@ -97,7 +97,7 @@ export default function ToggleHowAccountingMalta() {
                 </li>
                 <li className="feat-li">
                   <span className="feat-ico fi-b">
-                    <svg width="16" height="16" fill="none" stroke="#1F5FD9" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#52525B" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M22 11.08V12a10 10 0 11-5.93-9.14" />
                       <path d="M22 4L12 14.01l-3-3" />
                     </svg>
@@ -146,7 +146,7 @@ export default function ToggleHowAccountingMalta() {
                   <div className="mp-section-label">{t(`${p}miniTeamSection`)}</div>
                   <div className="mp-team-list">
                     <div className="mp-team-row">
-                      <div className="mp-av" style={{ background: "linear-gradient(135deg,#1F5FD9,#3B78F5)" }}>
+                      <div className="mp-av" style={{ background: "linear-gradient(135deg,#52525B,#71717A)" }}>
                         S
                       </div>
                       <div className="mp-team-info">
@@ -156,7 +156,7 @@ export default function ToggleHowAccountingMalta() {
                       <div className="mp-status-dot green" />
                     </div>
                     <div className="mp-team-row">
-                      <div className="mp-av" style={{ background: "linear-gradient(135deg,#3B78F5,#3B78F5)" }}>
+                      <div className="mp-av" style={{ background: "linear-gradient(135deg,#71717A,#71717A)" }}>
                         J
                       </div>
                       <div className="mp-team-info">
@@ -166,7 +166,7 @@ export default function ToggleHowAccountingMalta() {
                       <div className="mp-status-dot green" />
                     </div>
                     <div className="mp-team-row">
-                      <div className="mp-av" style={{ background: "linear-gradient(135deg,#7C3AED,#A855F7)" }}>
+                      <div className="mp-av" style={{ background: "linear-gradient(135deg,#71717A,#71717A)" }}>
                         L
                       </div>
                       <div className="mp-team-info">
@@ -182,17 +182,17 @@ export default function ToggleHowAccountingMalta() {
                   </div>
                   <div className="mp-activity">
                     <div className="mp-act-row">
-                      <span className="mp-act-dot" style={{ background: "#3B78F5" }} />
+                      <span className="mp-act-dot" style={{ background: "#71717A" }} />
                       <span>{t(`${p}act1`)}</span>
                       <span className="mp-act-time">{t(`${p}today`)}</span>
                     </div>
                     <div className="mp-act-row">
-                      <span className="mp-act-dot" style={{ background: "#3B78F5" }} />
+                      <span className="mp-act-dot" style={{ background: "#71717A" }} />
                       <span>{t(`${p}act2`)}</span>
                       <span className="mp-act-time">{t(`${p}actTimeApr22`)}</span>
                     </div>
                     <div className="mp-act-row">
-                      <span className="mp-act-dot" style={{ background: "#A855F7" }} />
+                      <span className="mp-act-dot" style={{ background: "#71717A" }} />
                       <span>{t(`${p}act3`)}</span>
                       <span className="mp-act-time">{t(`${p}actTimeApr18`)}</span>
                     </div>
@@ -218,7 +218,7 @@ export default function ToggleHowAccountingMalta() {
               <ul className="feat-list">
                 <li className="feat-li">
                   <span className="feat-ico fi-t">
-                    <svg width="16" height="16" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M18 20V10M12 20V4M6 20v-6" />
                     </svg>
                   </span>
@@ -229,7 +229,7 @@ export default function ToggleHowAccountingMalta() {
                 </li>
                 <li className="feat-li">
                   <span className="feat-ico fi-t">
-                    <svg width="16" height="16" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M22 19a2 2 0 01-2 2H4a2 2 0 01-2-2V5a2 2 0 012-2h5l2 3h9a2 2 0 012 2z" />
                     </svg>
                   </span>
@@ -240,7 +240,7 @@ export default function ToggleHowAccountingMalta() {
                 </li>
                 <li className="feat-li">
                   <span className="feat-ico fi-t">
-                    <svg width="16" height="16" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
                     </svg>
                   </span>
@@ -251,7 +251,7 @@ export default function ToggleHowAccountingMalta() {
                 </li>
                 <li className="feat-li">
                   <span className="feat-ico fi-t">
-                    <svg width="16" height="16" fill="none" stroke="#3B78F5" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <svg width="16" height="16" fill="none" stroke="#71717A" viewBox="0 0 24 24" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
                       <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z" />
                     </svg>
                   </span>
@@ -302,7 +302,7 @@ export default function ToggleHowAccountingMalta() {
                   <div className="mp-kpi-row">
                     <div className="mp-kpi">
                       <div className="mp-kpi-l">{t(`${p}kpiOwed`)}</div>
-                      <div className="mp-kpi-v" style={{ color: "#3B78F5" }}>
+                      <div className="mp-kpi-v" style={{ color: "#71717A" }}>
                         €24,310
                       </div>
                     </div>
@@ -323,21 +323,21 @@ export default function ToggleHowAccountingMalta() {
                     <div className="mp-bar-row">
                       <span>{t(`${p}cfIncome`)}</span>
                       <div className="mp-track">
-                        <div className="mp-fill" style={{ width: "100%", background: "#3B78F5" }} />
+                        <div className="mp-fill" style={{ width: "100%", background: "#71717A" }} />
                       </div>
                       <span>100%</span>
                     </div>
                     <div className="mp-bar-row">
                       <span>{t(`${p}cfAmount`)}</span>
                       <div className="mp-track">
-                        <div className="mp-fill" style={{ width: "65%", background: "#3B78F5" }} />
+                        <div className="mp-fill" style={{ width: "65%", background: "#71717A" }} />
                       </div>
                       <span>65%</span>
                     </div>
                     <div className="mp-bar-row">
                       <span>{t(`${p}cfVatDue`)}</span>
                       <div className="mp-track">
-                        <div className="mp-fill" style={{ width: "0%", background: "#A855F7" }} />
+                        <div className="mp-fill" style={{ width: "0%", background: "#71717A" }} />
                       </div>
                       <span>0%</span>
                     </div>
@@ -378,7 +378,7 @@ export default function ToggleHowAccountingMalta() {
               {t(`${p}eqPortal`)}
             </div>
             <span className="eq-plus">=</span>
-            <div className="eq-chip ec-ink">VACEI</div>
+            <div className="eq-chip ec-ink">A4</div>
           </div>
           <p className="eq-sub">{t(`${p}eqSub`)}</p>
           <div className="eq-quote">{t(`${p}eqQuote`)}</div>

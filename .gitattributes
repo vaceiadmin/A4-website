@@ -7,7 +7,7 @@ public/assets/videos/*.mp4 filter=lfs diff=lfs merge=lfs -text
 # Plain Git blobs (not LFS) — small files or ones that must exist on hosts without Git LFS (e.g. Vercel if LFS is off)
 public/assets/videos/banner-gip-2-new.mp4 -filter -diff -merge
 public/assets/videos/hero-banner-v1.mp4 -filter -diff -merge
-public/assets/videos/Vacei*X2V2.mp4 -filter -diff -merge
+public/assets/videos/A4*X2V2.mp4 -filter -diff -merge
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text

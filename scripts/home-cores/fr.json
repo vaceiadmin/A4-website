@@ -22,7 +22,11 @@
       "Support direct"
     ],
     "trustStrip": "Une équipe. Une plateforme. Tout est pris en charge.",
-    "trustPillLabels": ["Une équipe", "Une plateforme", "Tout est pris en charge"]
+    "trustPillLabels": [
+      "Une équipe",
+      "Une plateforme",
+      "Tout est pris en charge"
+    ]
   },
   "interactiveBlock": {
     "title": "Créez votre compte en 2 minutes",
@@ -86,7 +90,7 @@
     "title": "Un système piloté — pas seulement des services déconnectés",
     "badge": "Écosystème numérique",
     "highlight": "Tout est pris en charge.",
-    "cardBody": "Entièrement intégré à votre espace VACEI pour la visibilité et le contrôle.",
+    "cardBody": "Entièrement intégré à votre espace A4 pour la visibilité et le contrôle.",
     "cardMeta": "Service modulaire",
     "items": [
       "Équipe dédiée à votre entreprise",
@@ -142,7 +146,7 @@
     "columnHeadingLine1": "Simple.",
     "columnMid": "Structuré.",
     "columnHeadingAccent": "Rapide.",
-    "columnBody": "Suivez ces étapes pour basculer la gestion de votre entreprise vers VACEI.",
+    "columnBody": "Suivez ces étapes pour basculer la gestion de votre entreprise vers A4.",
     "back": "Retour",
     "submitting": "Envoi...",
     "nextStepFallback": "Étape suivante",
@@ -168,9 +172,18 @@
         "title": "Parlez-nous de vous",
         "subtitle": "Décrivez brièvement vos besoins.",
         "fields": {
-          "name": { "label": "Nom complet", "placeholder": "Votre nom" },
-          "email": { "label": "E-mail professionnel", "placeholder": "email@entreprise.com" },
-          "message": { "label": "Présentation de l’entreprise", "placeholder": "Décrivez brièvement votre activité..." }
+          "name": {
+            "label": "Nom complet",
+            "placeholder": "Votre nom"
+          },
+          "email": {
+            "label": "E-mail professionnel",
+            "placeholder": "email@entreprise.com"
+          },
+          "message": {
+            "label": "Présentation de l’entreprise",
+            "placeholder": "Décrivez brièvement votre activité..."
+          }
         },
         "primaryLabel": "Suivant : services"
       },
@@ -178,8 +191,14 @@
         "title": "Choisir les services",
         "subtitle": "Quel domaine de votre activité doit être piloté ?",
         "fields": {
-          "service": { "label": "Services requis", "placeholder": "Sélectionnez un ou plusieurs..." },
-          "additionalDetails": { "label": "Exigences spécifiques", "placeholder": "Juridictions ou complexité particulières ?" }
+          "service": {
+            "label": "Services requis",
+            "placeholder": "Sélectionnez un ou plusieurs..."
+          },
+          "additionalDetails": {
+            "label": "Exigences spécifiques",
+            "placeholder": "Juridictions ou complexité particulières ?"
+          }
         },
         "primaryLabel": "Suivant : contact"
       },
@@ -187,15 +206,34 @@
         "title": "Derniers détails",
         "subtitle": "Comment souhaitez-vous être contacté ?",
         "fields": {
-          "communicationChannel": { "label": "Canal préféré", "placeholder": "E-mail/WhatsApp/Appel" },
-          "updateCadence": { "label": "Fréquence des mises à jour", "placeholder": "Hebdo/Mensuel/Sur demande" },
-          "phone": { "label": "WhatsApp/Téléphone", "placeholder": "+33..." }
+          "communicationChannel": {
+            "label": "Canal préféré",
+            "placeholder": "E-mail/WhatsApp/Appel"
+          },
+          "updateCadence": {
+            "label": "Fréquence des mises à jour",
+            "placeholder": "Hebdo/Mensuel/Sur demande"
+          },
+          "phone": {
+            "label": "WhatsApp/Téléphone",
+            "placeholder": "+33..."
+          }
         },
         "primaryLabel": "Envoyer la demande de devis"
       }
     },
-    "communicationOptions": ["E-mail", "WhatsApp", "Appel", "Visio"],
-    "updateOptions": ["Hebdomadaire", "Bihebdomadaire", "Mensuel", "Temps réel"]
+    "communicationOptions": [
+      "E-mail",
+      "WhatsApp",
+      "Appel",
+      "Visio"
+    ],
+    "updateOptions": [
+      "Hebdomadaire",
+      "Bihebdomadaire",
+      "Mensuel",
+      "Temps réel"
+    ]
   },
   "globalDelivery": {
     "badge": "Portée mondiale",
@@ -263,7 +301,7 @@
       "Coffre documentaire partagé",
       "Historique d’activité complet"
     ],
-    "videoAlt": "Invitation d’un conseil dans l’espace VACEI",
+    "videoAlt": "Invitation d’un conseil dans l’espace A4",
     "cta": "Ouvrir votre portail"
   },
   "conversion": {
@@ -286,19 +324,23 @@
     "badge": "Portée internationale",
     "titleLine1": "Une passerelle structurée ",
     "titleHighlight": "vers l’Europe.",
-    "body": "VACEI offre l’environnement numérique pour les entreprises internationales et les fondateurs qui veulent créer, gérer et développer leurs opérations européennes en toute confiance.",
-    "chips": ["27 pays", "API unifiée", "Experts locaux"],
-    "hubAlt": "Hub VACEI"
+    "body": "A4 offre l’environnement numérique pour les entreprises internationales et les fondateurs qui veulent créer, gérer et développer leurs opérations européennes en toute confiance.",
+    "chips": [
+      "27 pays",
+      "API unifiée",
+      "Experts locaux"
+    ],
+    "hubAlt": "Hub A4"
   },
   "workspaceEntry": {
     "sectionTitleLine1": "Un espace de travail pour votre entreprise —",
     "sectionTitleHighlight": "et tous vos services",
-    "sectionBody": "La comptabilité, l’audit, le juridique et la conformité ne devraient pas être éclatés.\n\nVACEI centralise tout sur une plateforme structurée — services, documents et échéances au même endroit.\n\nPas d’e-mails interminables. Pas de fichiers éparpillés. Pas d’incertitude.",
+    "sectionBody": "La comptabilité, l’audit, le juridique et la conformité ne devraient pas être éclatés.\n\nA4 centralise tout sur une plateforme structurée — services, documents et échéances au même endroit.\n\nPas d’e-mails interminables. Pas de fichiers éparpillés. Pas d’incertitude.",
     "activeEntities": "Entités actives",
     "card1TitleBefore": "Votre entreprise — ",
     "card1TitleAccent": "parfaitement organisée",
     "card1Body": "Créez un espace de travail et gérez tout au même endroit.\n\nVos services, documents et conseils sont structurés via une seule plateforme — contrôle total sans complexité.",
-    "card1CoordinationNote": "Tous les services sont coordonnés par VACEI et délivrés via un réseau de cabinets de confiance.",
+    "card1CoordinationNote": "Tous les services sont coordonnés par A4 et délivrés via un réseau de cabinets de confiance.",
     "whatYouCanDo": "Ce que vous pouvez faire",
     "card1Bullets": [
       "Visibilité complète sur les missions",
@@ -329,13 +371,17 @@
     "viewAll": "Voir toutes les ressources",
     "watchVideo": "Voir la vidéo",
     "readMore": "Lire la suite",
-    "videoModalEyebrow": "Insights VACEI",
+    "videoModalEyebrow": "Insights A4",
     "videoModalHint": "Sélectionnez une vidéo",
     "videoNowPlaying": "Lecture en cours",
     "videoModalCloseAria": "Fermer la vidéo",
     "videoPlaylist": [
-      { "title": "L’entreprise moderne" },
-      { "title": "Comment l’IA améliore réellement l’équilibre vie pro / vie perso" }
+      {
+        "title": "L’entreprise moderne"
+      },
+      {
+        "title": "Comment l’IA améliore réellement l’équilibre vie pro / vie perso"
+      }
     ],
     "resources": [
       {
@@ -347,7 +393,7 @@
       {
         "type": "Vidéo",
         "category": "Insights",
-        "title": "Deux courtes vidéos Vacei",
+        "title": "Deux courtes vidéos A4",
         "desc": "Ce qui peut se gripper lorsqu’une entreprise mise sur la taille sans les fondations adaptées, et comment l’IA peut soulager concrètement les équipes : choisissez une vidéo dans la playlist ci-dessous."
       },
       {

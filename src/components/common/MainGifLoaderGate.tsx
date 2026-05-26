@@ -42,7 +42,7 @@ export default function MainGifLoaderGate({ children }: Props) {
     <div className="fixed inset-0 z-9999 bg-black">
       <video
         ref={videoRef}
-        className="h-screen w-screen object-cover"
+        className="h-screen w-screen object-cover grayscale"
         autoPlay
         muted
         playsInline

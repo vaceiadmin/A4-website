@@ -24,7 +24,7 @@ const STATIC_INSIGHTS: BlogPost[] = [
     content: '',
     readingTime: '8 min read',
     tags: ['Bookkeeping', 'Software', 'Malta'],
-    author: 'VACEI Team',
+    author: 'A4 Team',
   },
 ];
 
@@ -54,7 +54,7 @@ const BlogListing: React.FC<BlogListingProps> = ({ blogs }) => {
   // Filter blogs based on search and tag
   const filteredBlogs = mergedBlogs.filter(blog => {
     const matchesSearch = blog.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                         blog.excerpt.toLowerCase().includes(searchTerm.toLowerCase());
+      blog.excerpt.toLowerCase().includes(searchTerm.toLowerCase());
     const matchesTag = !selectedTag || blog.tags?.includes(selectedTag);
     return matchesSearch && matchesTag;
   });
@@ -173,15 +173,15 @@ const BlogListing: React.FC<BlogListingProps> = ({ blogs }) => {
                         {format(new Date(blog.date), 'MMM dd, yyyy')}
                       </div>
                     </div>
-                    
+
                     <h2 className="text-xl font-bold text-text-heading mb-3 group-hover:text-white transition-colors duration-300 line-clamp-2 font-sans">
                       {blog.title}
                     </h2>
-                    
+
                     <p className="text-text-gray text-sm leading-relaxed mb-6 line-clamp-3 group-hover:text-white/80 transition-colors duration-300 font-sans">
                       {blog.excerpt}
                     </p>
-                    
+
                     <div className="mt-auto flex items-center justify-between pt-6 border-t border-gray-50 group-hover:border-white/10 transition-colors duration-300">
                       <div className="flex flex-col">
                         <span className="text-sm font-bold text-text-heading group-hover:text-white transition-colors duration-300 font-sans">{blog.author}</span>

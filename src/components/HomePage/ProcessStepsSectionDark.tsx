@@ -109,7 +109,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
     updateCadence: "",
     phone: "",
   })
-  
+
   const [error, setError] = useState("")
   const [submitted, setSubmitted] = useState(false)
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -121,7 +121,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
 
   const validateStep = () => {
     for (const field of step.fields) {
-      if (field.key === "additionalDetails") continue 
+      if (field.key === "additionalDetails") continue
 
       if (field.type === "multiselect") {
         const val = formData[field.key] as string[]
@@ -174,7 +174,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
       setError(msg)
       return
     }
-    
+
     setError("")
     setSubmitError(null)
 
@@ -224,22 +224,22 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
       ref={bgRef}
       className={cn(
         "w-full max-w-[100%] relative overflow-x-clip overflow-y-visible py-12 sm:py-16 lg:py-20 scroll-mt-20 isolate mx-4 sm:mx-6 lg:mx-8 mb-12 sm:mb-20 rounded-[48px]",
-        isDark ? "bg-[#05050A] text-white shadow-2xl" : "bg-[#FAFBFF] text-slate-900 border border-slate-100 shadow-xl shadow-blue-500/5"
+        isDark ? "bg-[#05050A] text-white shadow-2xl" : "bg-[#FAFBFF] text-slate-900 border border-slate-100 shadow-xl shadow-zinc-500/5"
       )}
     >
       <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden">
         <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-primary-blue/10 rounded-full blur-[120px] -mr-48 -mt-48" />
-        <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-blue-500/10 rounded-full blur-[100px] -ml-32 -mb-32" />
+        <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-zinc-500/10 rounded-full blur-[100px] -ml-32 -mb-32" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 min-w-0">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center min-w-0">
           <div className="relative z-10 w-full min-w-0 lg:order-1">
-            <div className="bg-[#0F111A] rounded-[2.5rem] border border-white/20 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
+            <div className="bg-[#09090B] rounded-[2.5rem] border border-white/20 shadow-[0_40px_80px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
               <div className="p-1 sm:p-2">
                 <div className="bg-[#1A1C33]/50 rounded-[2.2rem] p-6 sm:p-8 md:p-10 relative overflow-hidden">
                   {/* Interior Glow */}
-                  <div className="absolute inset-0 bg-gradient-to-br from-blue-600/[0.03] to-transparent pointer-events-none" />
+                  <div className="absolute inset-0 bg-gradient-to-br from-zinc-600/[0.03] to-transparent pointer-events-none" />
                   {!submitted ? (
                     <form onSubmit={handleSubmit} className="flex flex-col h-full min-h-[520px]">
                       <div className="flex items-center justify-between mb-10 px-2">
@@ -283,7 +283,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                               <label className="text-sm font-bold text-slate-300 block ml-1">
                                 {field.label} {field.key === "additionalDetails" ? "" : <span className="text-red-400">*</span>}
                               </label>
-                              
+
                               {field.type === "select" ? (
                                 <div className="relative">
                                   <button
@@ -302,7 +302,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                                   {openSelectKey === field.key && (
                                     <>
                                       <div className="fixed inset-0 z-20" onClick={() => setOpenSelectKey(null)} />
-                                      <div className="absolute z-30 mt-2 w-full overflow-hidden rounded-2xl border border-white/10 bg-[#15162d] shadow-2xl py-2">
+                                      <div className="absolute z-30 mt-2 w-full overflow-hidden rounded-2xl border border-white/10 bg-[#18181B] shadow-2xl py-2">
                                         {field.options?.map((opt) => (
                                           <button
                                             key={opt}
@@ -329,9 +329,9 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                                   >
                                     {(formData[field.key] as string[]).length > 0 ? (
                                       (formData[field.key] as string[]).map((selected) => (
-                                        <div key={selected} className="bg-primary-blue/20 text-blue-300 px-3 py-1 rounded-full text-xs font-bold border border-primary-blue/30 flex items-center gap-1 z-20">
+                                        <div key={selected} className="bg-primary-blue/20 text-zinc-300 px-3 py-1 rounded-full text-xs font-bold border border-primary-blue/30 flex items-center gap-1 z-20">
                                           {selected}
-                                          <div 
+                                          <div
                                             className="w-4 h-4 rounded-full hover:bg-primary-blue/40 inline-flex items-center justify-center cursor-pointer transition-colors"
                                             onClick={(e) => {
                                               e.stopPropagation();
@@ -354,7 +354,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                                   {openSelectKey === field.key && (
                                     <>
                                       <div className="fixed inset-0 z-[19]" onClick={() => setOpenSelectKey(null)} />
-                                      <div className="absolute z-[30] mt-2 w-full max-h-[300px] overflow-y-auto rounded-2xl border border-white/10 bg-[#15162d] shadow-2xl py-2">
+                                      <div className="absolute z-[30] mt-2 w-full max-h-[300px] overflow-y-auto rounded-2xl border border-white/10 bg-[#18181B] shadow-2xl py-2">
                                         {field.options?.map((opt) => {
                                           const isSelected = (formData[field.key] as string[]).includes(opt);
                                           return (
@@ -411,7 +411,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                           <p className="text-sm font-bold text-red-400">{error}</p>
                         </div>
                       )}
-                      
+
                       {submitError && (
                         <div className="mt-6 p-4 rounded-xl bg-red-500/10 border border-red-500/20 flex items-center gap-3">
                           <div className="w-5 h-5 rounded-full bg-red-500/20 flex items-center justify-center text-red-500 shrink-0 uppercase font-black text-[10px]">!</div>
@@ -439,7 +439,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                             {isSubmitting ? t("processSteps.submitting") : (step.primaryLabel || t("processSteps.nextStepFallback"))}
                           </button>
                         </div>
-                        
+
 
                       </div>
                     </form>
@@ -452,7 +452,7 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                       <p className="text-slate-400 font-medium max-w-sm mx-auto mb-10">
                         {t("processSteps.success.body")}
                       </p>
-                      
+
                       <div className="flex flex-col sm:flex-row gap-4 w-full">
                         <button
                           onClick={() => { setSubmitted(false); setCurrentStep(0); setFormData({ name: "", email: "", message: "", service: [], additionalDetails: "", communicationChannel: "", updateCadence: "", phone: "" }); }}
@@ -460,8 +460,8 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
                         >
                           {t("processSteps.success.newRequest")}
                         </button>
-                        <a 
-                          href="https://devclient.vacei.com/onboarding" 
+                        <a
+                          href="https://devclient.A4.com/onboarding"
                           className="flex-1 flex items-center justify-center h-14 rounded-2xl bg-white text-[#050510] font-bold tracking-wide text-sm shadow-xl shadow-white/10 transition-all hover:bg-slate-200"
                         >
                           {t("processSteps.success.registerNow")}
@@ -551,9 +551,9 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
               })}
             </div>
 
-            <div className="mt-12 p-8 rounded-[2rem] bg-gradient-to-br from-blue-50 to-blue-100/50 border border-blue-100 text-slate-900 relative overflow-hidden">
+            <div className="mt-12 p-8 rounded-[2rem] bg-gradient-to-br from-zinc-50 to-zinc-100/50 border border-zinc-100 text-slate-900 relative overflow-hidden">
               <div className="relative z-10">
-                <p className="text-blue-600 text-xs font-black uppercase tracking-widest mb-2">{t("processSteps.platformPowerLabel")}</p>
+                <p className="text-zinc-600 text-xs font-black uppercase tracking-widest mb-2">{t("processSteps.platformPowerLabel")}</p>
                 <p className="text-lg font-bold leading-snug text-slate-800">
                   {t("processSteps.platformPowerLine1")} <br />
                   {t("processSteps.platformPowerLine2")}
@@ -563,11 +563,11 @@ const ProcessStepsSectionDark = ({ isDark = false }: { isDark?: boolean }) => {
             </div>
 
             <div className="mt-6">
-              <a 
-                href="https://devclient.vacei.com/onboarding" 
+              <a
+                href="https://devclient.A4.com/onboarding"
                 className="group relative flex w-full items-center justify-center h-16 rounded-[1.5rem] bg-slate-900 border border-slate-800 text-white font-black tracking-wide text-sm transition-all hover:bg-slate-800 hover:border-primary-blue/50 overflow-hidden shadow-lg"
               >
-                <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-primary-blue/10 to-blue-600/10 opacity-0 group-hover:opacity-100 transition-opacity" />
+                <div className="absolute inset-0 w-full h-full bg-gradient-to-r from-primary-blue/10 to-zinc-600/10 opacity-0 group-hover:opacity-100 transition-opacity" />
                 <span className="relative z-10 uppercase flex items-center gap-3">
                   {t("processSteps.registerDirectly")}
                   <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform text-primary-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>

@@ -9,7 +9,7 @@ import {
   resolvePreferredLocale,
 } from "@/lib/locale-resolution";
 
-const SESSION_COOKIE = "vacei_session";
+const SESSION_COOKIE = "A4_session";
 
 function getLocaleFromPath(pathname: string): Locale | null {
   const seg = pathname.split("/").filter(Boolean)[0];

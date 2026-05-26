@@ -20,18 +20,18 @@ const GetStartedHero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="relative overflow-hidden rounded-3xl bg-[#030712] border border-white/5 shadow-2xl">
           {/* Dynamic Background Elements */}
-          <div className="absolute top-0 left-1/4 w-96 h-96 bg-blue-600/10 blur-[100px] -z-10" />
-          <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-blue-600/10 blur-[100px] -z-10" />
+          <div className="absolute top-0 left-1/4 w-96 h-96 bg-zinc-600/10 blur-[100px] -z-10" />
+          <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-zinc-600/10 blur-[100px] -z-10" />
           <div className="absolute inset-0 bg-[url('https://grainy-gradients.vercel.app/noise.svg')] opacity-20 mix-blend-overlay pointer-events-none" />
 
           <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-16 sm:py-20 lg:py-24 max-w-4xl mx-auto">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 text-[10px] font-black uppercase tracking-widest mb-8">
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-zinc-500/10 border border-zinc-500/20 text-zinc-400 text-[10px] font-black uppercase tracking-widest mb-8">
               {t("footerCta.badge")}
             </div>
 
             <h2 className="text-4xl sm:text-5xl lg:text-7xl font-black text-white tracking-tight leading-[1.1] mb-8">
               {t("footerCta.titleLine1")} <br />
-              <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-400 via-blue-500 to-blue-600">
+              <span className="text-transparent bg-clip-text bg-linear-to-r from-zinc-400 via-zinc-500 to-zinc-600">
                 {t("footerCta.titleHighlight")}
               </span>
             </h2>
@@ -44,7 +44,7 @@ const GetStartedHero = () => {
               <GetInstantQuoteButton
                 variant="default"
                 text={t("footerCta.quoteCta")}
-                className="w-full sm:w-auto h-14 px-8 text-base font-bold shadow-[0_0_20px_rgba(59,130,246,0.5)] hover:shadow-[0_0_30px_rgba(59,130,246,0.6)] transition-all"
+                className="w-full sm:w-auto h-14 px-8 text-base font-bold shadow-[0_0_20px_rgba(161, 161, 170,0.5)] hover:shadow-[0_0_30px_rgba(161, 161, 170,0.6)] transition-all"
               />
               <button className="w-full sm:w-auto h-14 px-8 text-base font-bold text-white bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 transition-colors">
                 {t("footerCta.demoCta")}

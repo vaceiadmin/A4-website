@@ -133,7 +133,7 @@ export default function ChatModal({ open, onClose, onRestart }: ChatModalProps) 
       >
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-100 bg-gray-50/80">
           <div className="flex items-center gap-2">
-            <div className="w-9 h-9 rounded-full bg-[#1e2040] flex items-center justify-center text-white">
+            <div className="w-9 h-9 rounded-full bg-[#111111] flex items-center justify-center text-white">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path
                   strokeLinecap="round"
@@ -166,7 +166,7 @@ export default function ChatModal({ open, onClose, onRestart }: ChatModalProps) 
               <div
                 className={`max-w-[85%] rounded-2xl px-4 py-2.5 ${
                   msg.role === "user"
-                    ? "rounded-br-md bg-[#1e2040] text-white"
+                    ? "rounded-br-md bg-[#111111] text-white"
                     : "rounded-bl-md bg-gray-100 text-gray-900"
                 }`}
               >
@@ -186,7 +186,7 @@ export default function ChatModal({ open, onClose, onRestart }: ChatModalProps) 
             <button
               type="button"
               onClick={onRestart}
-              className="w-full py-3 rounded-xl bg-[#1e2040] hover:bg-[#2a2d55] text-white font-semibold text-sm transition-colors"
+              className="w-full py-3 rounded-xl bg-[#111111] hover:bg-[#222222] text-white font-semibold text-sm transition-colors"
             >
               {t("supportChat.startNewChat")}
             </button>
@@ -200,12 +200,12 @@ export default function ChatModal({ open, onClose, onRestart }: ChatModalProps) 
                 onChange={(e) => setInput(e.target.value)}
                 disabled={botTyping}
                 placeholder={t("supportChat.inputPlaceholder")}
-                className="flex-1 px-4 py-3 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#1e2040]/30 focus:border-[#1e2040] disabled:opacity-60 text-sm"
+                className="flex-1 px-4 py-3 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#111111]/30 focus:border-[#111111] disabled:opacity-60 text-sm"
               />
               <button
                 type="submit"
                 disabled={botTyping || !input.trim()}
-                className="px-4 py-3 rounded-xl bg-[#1e2040] hover:bg-[#2a2d55] text-white disabled:opacity-60 transition-colors"
+                className="px-4 py-3 rounded-xl bg-[#111111] hover:bg-[#222222] text-white disabled:opacity-60 transition-colors"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19l9 2-9-18-9 2 9 18z" />

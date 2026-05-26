@@ -51,9 +51,9 @@ export async function POST(req: NextRequest) {
     }
 
     await getTransport().sendMail({
-      from: `"VACEI Website" <${process.env.SMTP_FROM || process.env.SMTP_USER}>`,
+      from: `"A4 Website" <${process.env.SMTP_FROM || process.env.SMTP_USER}>`,
       to: toAddress,
-      subject: subject || `New contact from ${name || "VACEI website"}`,
+      subject: subject || `New contact from ${name || "A4 website"}`,
       replyTo: email,
       text: `
 Name: ${name || "N/A"}

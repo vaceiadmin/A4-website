@@ -42,7 +42,7 @@ const WLPricing: React.FC<WLPricingProps> = ({
       {/* Premium Background Elements */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden">
         <div className="absolute top-0 left-1/4 w-[800px] h-[800px] bg-primary-blue/5 rounded-full blur-[140px] opacity-40 animate-pulse" />
-        <div className="absolute bottom-[-10%] right-[-5%] w-[600px] h-[600px] bg-blue-500/10 rounded-full blur-[120px] opacity-30" />
+        <div className="absolute bottom-[-10%] right-[-5%] w-[600px] h-[600px] bg-zinc-500/10 rounded-full blur-[120px] opacity-30" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
@@ -112,7 +112,7 @@ const WLPricing: React.FC<WLPricingProps> = ({
                 <div className="w-full space-y-6">
                   <button
                     onClick={onCtaClick}
-                    className="group/btn relative w-full sm:w-auto px-14 py-6 bg-primary-blue text-white rounded-3xl font-black text-xl overflow-hidden transition-all duration-500 hover:shadow-[0_25px_60px_-15px_rgba(59,73,230,0.5)] hover:-translate-y-1 active:scale-95"
+                    className="group/btn relative w-full sm:w-auto px-14 py-6 bg-primary-blue text-white rounded-3xl font-black text-xl overflow-hidden transition-all duration-500 hover:shadow-[0_25px_60px_-15px_rgba(63, 63, 70,0.5)] hover:-translate-y-1 active:scale-95"
                   >
                     <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/10 to-white/0 translate-x-[-100%] group-hover/btn:translate-x-[100%] transition-transform duration-1000" />
                     <span className="relative z-10 flex items-center justify-center gap-3">
@@ -149,7 +149,7 @@ const WLPricing: React.FC<WLPricingProps> = ({
                         transition={{ delay: idx * 0.05 }}
                         className="flex items-center gap-4 text-gray/70 font-bold group/item"
                       >
-                        <div className="w-8 h-8 shrink-0 rounded-xl bg-gradient-to-br from-primary-blue to-blue-700 text-white flex items-center justify-center p-2 shadow-lg shadow-primary-blue/30 group-hover/item:scale-110 transition-all duration-300">
+                        <div className="w-8 h-8 shrink-0 rounded-xl bg-gradient-to-br from-primary-blue to-zinc-700 text-white flex items-center justify-center p-2 shadow-lg shadow-primary-blue/30 group-hover/item:scale-110 transition-all duration-300">
                           <Check strokeWidth={3} className="w-full h-full" />
                         </div>
                         <span className="text-[17px] group-hover/item:text-text-dark transition-colors duration-300 leading-tight">

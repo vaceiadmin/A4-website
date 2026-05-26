@@ -57,7 +57,7 @@ export function getBlogBySlug(slug: string): BlogPost | null {
             readingTime: `${readingTime} min read`,
             featuredImage: data.featuredImage,
             tags: data.tags || [],
-            author: data.author || 'VACEI Team'
+            author: data.author || 'A4 Team'
         } as BlogPost;
     } catch (error) {
         console.error(`Error processing blog ${slug}:`, error);
@@ -93,7 +93,7 @@ export function getAllBlogs(): BlogPost[] {
                     readingTime: `${readingTime} min read`,
                     featuredImage: data.featuredImage,
                     tags: data.tags || [],
-                    author: data.author || 'VACEI Team'
+                    author: data.author || 'A4 Team'
                 } as BlogPost;
             } catch (error) {
                 console.error(`Error processing blog ${slug}:`, error);

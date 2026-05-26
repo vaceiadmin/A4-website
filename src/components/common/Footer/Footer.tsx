@@ -8,7 +8,7 @@ import LocalizedLink from '@/components/common/LocalizedLink'
 import { stripLocaleFromPathname } from '@/lib/localized-path'
 import GetStartedHero from './GetStartedHero'
 
-const Logo = '/assets/images/Logo.png'
+const Logo = '/assets/images/a4-logo-new.webp'
 
 const Footer = () => {
   const pathname = usePathname()
@@ -63,7 +63,7 @@ const Footer = () => {
               <div className="flex items-center justify-center">
                 <Image
                   src={Logo}
-                  alt="VACEI"
+                  alt="A4"
                   width={120}
                   height={56}
                   className="object-contain"
@@ -77,7 +77,7 @@ const Footer = () => {
 
             <div className="flex items-center gap-4 pt-2">
               <a
-                href="https://www.linkedin.com/company/officialvacei/"
+                href="https://www.linkedin.com/company/officialA4/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 flex items-center justify-center bg-primary-blue rounded-full text-white transition-colors"
@@ -115,8 +115,8 @@ const Footer = () => {
                 </LocalizedLink>
               </li>
               <li>
-                <LocalizedLink href="/#why-vacei" className="text-sm text-gray hover:text-primary-blue transition-colors">
-                  {t('footer.whyVacei')}
+                <LocalizedLink href="/#why-A4" className="text-sm text-gray hover:text-primary-blue transition-colors">
+                  {t('footer.whyA4')}
                 </LocalizedLink>
               </li>
             </ul>
@@ -224,8 +224,8 @@ const Footer = () => {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
                 </span>
-                <a href="mailto:info@vacei.com" className="text-sm text-gray hover:text-primary-blue transition-colors">
-                  info@vacei.com
+                <a href="mailto:info@A4.com" className="text-sm text-gray hover:text-primary-blue transition-colors">
+                  info@A4.com
                 </a>
               </li>
               <li className="flex items-center gap-2">

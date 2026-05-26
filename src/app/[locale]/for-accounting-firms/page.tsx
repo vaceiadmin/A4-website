@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Page moved | VACEI",
+  title: "Page moved | A4",
   robots: {
     index: false,
     follow: true,

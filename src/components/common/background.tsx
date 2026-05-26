@@ -461,7 +461,7 @@ class WebGLApp {
         if (scheme === 1 || scheme === 6 || scheme === 7 || scheme === 8 || scheme === 5) {
             const bgHex = this.props.darkNavyColor ? parseInt(this.props.darkNavyColor.replace("#", ""), 16) : 0x0a0e27;
             this.scene.background = new THREE.Color(bgHex);
-            const darkRgb = hexToRgb(this.props.darkNavyColor || "#0a0e27");
+            const darkRgb = hexToRgb(this.props.darkNavyColor || "#09090B");
             if (darkRgb) uniforms.uDarkNavy.value.set(darkRgb.r, darkRgb.g, darkRgb.b);
             uniforms.uGradientSize.value = 0.45;
             uniforms.uGradientCount.value = 12.0;
@@ -474,7 +474,7 @@ class WebGLApp {
         } else {
             const bgHex = this.props.darkNavyColor ? parseInt(this.props.darkNavyColor.replace("#", ""), 16) : 0x0a0e27;
             this.scene.background = new THREE.Color(bgHex);
-            const darkRgb = hexToRgb(this.props.darkNavyColor || "#0a0e27");
+            const darkRgb = hexToRgb(this.props.darkNavyColor || "#09090B");
             if (darkRgb) uniforms.uDarkNavy.value.set(darkRgb.r, darkRgb.g, darkRgb.b);
             uniforms.uGradientSize.value = 1.0;
             uniforms.uGradientCount.value = 6.0;

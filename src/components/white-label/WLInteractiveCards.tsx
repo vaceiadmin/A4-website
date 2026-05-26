@@ -59,7 +59,7 @@ const WLInteractiveCards: React.FC<WLInteractiveCardsProps> = ({
                 className="relative group h-full"
               >
                 {/* 3D-like elevated card structure */}
-                <div className="relative h-full p-10 bg-white rounded-[2.5rem] shadow-xl shadow-gray-200/60 border border-gray-200/80 group-hover:!bg-primary-blue group-hover:shadow-[0_40px_80px_rgba(59,73,230,0.1)] group-hover:border-primary-blue/30 transition-all duration-500 overflow-hidden flex flex-col items-center text-center">
+                <div className="relative h-full p-10 bg-white rounded-[2.5rem] shadow-xl shadow-gray-200/60 border border-gray-200/80 group-hover:!bg-primary-blue group-hover:shadow-[0_40px_80px_rgba(63, 63, 70,0.1)] group-hover:border-primary-blue/30 transition-all duration-500 overflow-hidden flex flex-col items-center text-center">
                   
                   {/* Glowing Border Trace Effect */}
                   <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-transparent via-white/40 to-transparent scale-x-0 group-hover:scale-x-100 transition-transform duration-700" />

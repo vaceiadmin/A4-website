@@ -14,7 +14,7 @@ const ComplianceDashboardSection = () => {
     <section className="w-full py-16 sm:py-20 md:py-24 lg:py-28 bg-[#FAFBFF] rounded-[48px]">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         {/* Background Glow */}
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full bg-blue-400/10 rounded-full blur-[120px] pointer-events-none" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full bg-zinc-400/10 rounded-full blur-[120px] pointer-events-none" />
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center relative z-10">
           <div>
@@ -31,12 +31,12 @@ const ComplianceDashboardSection = () => {
 
           <div
             className={cn(
-              "relative rounded-[2.5rem] border border-white/20 bg-[#0F111A] backdrop-blur-xl p-6 sm:p-10 shadow-2xl overflow-hidden",
-              !isIPhone && !isLowPerformance && "hover:-translate-y-2 hover:border-blue-500/30 transition-all duration-500"
+              "relative rounded-[2.5rem] border border-white/20 bg-[#09090B] backdrop-blur-xl p-6 sm:p-10 shadow-2xl overflow-hidden",
+              !isIPhone && !isLowPerformance && "hover:-translate-y-2 hover:border-zinc-500/30 transition-all duration-500"
             )}
           >
             {/* Interior Glow */}
-            <div className="absolute inset-0 bg-gradient-to-br from-blue-600/[0.05] to-transparent pointer-events-none" />
+            <div className="absolute inset-0 bg-gradient-to-br from-zinc-600/[0.05] to-transparent pointer-events-none" />
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8">
               <div>
                 <p className="text-[10px] font-black tracking-[0.2em] uppercase text-slate-500 mb-2">

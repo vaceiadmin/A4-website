@@ -1,18 +1,18 @@
 {
   "meta": {
-    "pageTitle": "VACEI — Servizi di contabilità a Malta",
-    "pageDescription": "Contabilità professionale a Malta. Team dedicato. Piena visibilità finanziaria tramite il portale VACEI."
+    "pageTitle": "A4 — Servizi di contabilità a Malta",
+    "pageDescription": "Contabilità professionale a Malta. Team dedicato. Piena visibilità finanziaria tramite il portale A4."
   },
   "hero": {
     "tag": "Servizi di contabilità — Malta",
     "titleLine1": "Contabilità a Malta",
     "titleItalic1": "Precisa, strutturata",
     "titleItalic2": "e sempre aggiornata",
-    "sub": "VACEI offre alle aziende maltesi servizi di contabilità professionale — con team dedicato e portale clienti strutturato con visibilità finanziaria in tempo reale.",
+    "sub": "A4 offre alle aziende maltesi servizi di contabilità professionale — con team dedicato e portale clienti strutturato con visibilità finanziaria in tempo reale.",
     "btnPrimary": "Richiedi una proposta di contabilità →",
     "btnLine": "Come funziona",
     "note": "Crea il tuo account, accedi al portale e richiedi la proposta su misura in pochi minuti.",
-    "portalChromeTitle": "VACEI — Portale contabilità",
+    "portalChromeTitle": "A4 — Portale contabilità",
     "portalUser": "Rose · CLIENTE",
     "portalBannerGreeting": "Buon pomeriggio, Rose!",
     "portalBannerSub": "Ecco la panoramica finanziaria e l’attività dei tuoi conti oggi.",
@@ -50,7 +50,7 @@
     "t5": "Supportato da A4 Services, Malta"
   },
   "why": {
-    "tag": "Perché VACEI",
+    "tag": "Perché A4",
     "titleLine1": "Contabilità fatta bene —",
     "titleItalic": "non solo registrata",
     "sub": "Team dedicato, visibilità in tempo reale e portale strutturato — costruiti intorno alla tua azienda a Malta dal primo giorno.",
@@ -58,7 +58,7 @@
     "stat2Label": "Conformità IVA Malta — depositata con precisione, sempre",
     "stat3Label": "Tutto in un unico posto — niente email, niente PDF",
     "stat4Label": "Accesso live alla posizione finanziaria, sempre",
-    "a4Txt": "La contabilità VACEI a Malta è erogata tramite <strong>A4 Services</strong> — uno studio consolidato con competenza locale, normativa e supervisione professionale in ogni incarico.",
+    "a4Txt": "La contabilità A4 a Malta è erogata tramite <strong>A4 Services</strong> — uno studio consolidato con competenza locale, normativa e supervisione professionale in ogni incarico.",
     "badge1": "Registrato a Malta",
     "badge2": "Conforme MIA"
   },
@@ -66,7 +66,7 @@
     "kicker": "Riconciliazione assistita dall’IA",
     "titleLine1": "Ogni transazione",
     "titleItalic": "riconosciuta e categorizzata",
-    "p": "Il team VACEI usa l’IA per identificare i merchant, mappare le categorie e segnalare anomalie — libri puliti senza sforzo manuale.",
+    "p": "Il team A4 usa l’IA per identificare i merchant, mappare le categorie e segnalare anomalie — libri puliti senza sforzo manuale.",
     "feat1": "Merchant identificati automaticamente dai testi bancari",
     "feat2": "Transazioni mappate su conti e codici IVA corretti",
     "feat3": "Eccezioni riviste e corrette dal commercialista",
@@ -80,18 +80,33 @@
     "chipSupplies": "Ufficio e forniture",
     "chipLedger": "Servizi professionali",
     "txns": {
-      "bolt": { "meta": "Trasporti · ride sharing · Malta", "label": "Viaggi e trasporti" },
-      "wolt": { "meta": "Consegna cibo · pasti", "label": "Pasti e rappresentanza" },
-      "xero": { "meta": "Software contabile · Abbonamento", "label": "Software e abbonamenti" },
-      "amazon": { "meta": "Forniture · e-commerce", "label": "Ufficio e forniture" },
-      "deloitte": { "meta": "Servizi professionali · Advisory", "label": "Servizi professionali" }
+      "bolt": {
+        "meta": "Trasporti · ride sharing · Malta",
+        "label": "Viaggi e trasporti"
+      },
+      "wolt": {
+        "meta": "Consegna cibo · pasti",
+        "label": "Pasti e rappresentanza"
+      },
+      "xero": {
+        "meta": "Software contabile · Abbonamento",
+        "label": "Software e abbonamenti"
+      },
+      "amazon": {
+        "meta": "Forniture · e-commerce",
+        "label": "Ufficio e forniture"
+      },
+      "deloitte": {
+        "meta": "Servizi professionali · Advisory",
+        "label": "Servizi professionali"
+      }
     }
   },
   "toggle": {
-    "tag": "Come funziona VACEI",
-    "title": "Capire la contabilità con VACEI, in modo semplice",
-    "lead": "VACEI unisce team contabile dedicato e portale strutturato — piena visibilità sulla posizione finanziaria in ogni momento.",
-    "ariaTablist": "Come funziona VACEI",
+    "tag": "Come funziona A4",
+    "title": "Capire la contabilità con A4, in modo semplice",
+    "lead": "A4 unisce team contabile dedicato e portale strutturato — piena visibilità sulla posizione finanziaria in ogni momento.",
+    "ariaTablist": "Come funziona A4",
     "tabTeam": "Il tuo team contabile",
     "tabPortal": "Il tuo portale",
     "teamBadge": "Il tuo team contabile dedicato",
@@ -106,7 +121,7 @@
     "teamFeat3Desc": "Dichiarazioni IVA preparate e inviate con precisione e puntualità.",
     "teamFeat4Title": "Bilanci di gestione",
     "teamFeat4Desc": "Insight mensili chiari sulla performance finanziaria.",
-    "miniTeamChrome": "Portale VACEI — Il tuo team",
+    "miniTeamChrome": "Portale A4 — Il tuo team",
     "miniTeamSection": "Il tuo team contabile",
     "recentActivity": "Attività recente",
     "act1": "Contabilità di aprile completata",
@@ -117,7 +132,7 @@
     "portalBadge": "Il tuo portale clienti",
     "portalH": "Vedi le tue finanze.",
     "portalH2": "In qualsiasi momento.",
-    "portalP": "Accedi al portale VACEI e vedi il quadro completo — crediti, debiti, saldo bancario e attività del team. Senza attese.",
+    "portalP": "Accedi al portale A4 e vedi il quadro completo — crediti, debiti, saldo bancario e attività del team. Senza attese.",
     "portalFeat1Title": "Dashboard finanziaria live",
     "portalFeat1Desc": "Posizione in tempo reale, sempre aggiornata.",
     "portalFeat2Title": "Liquidità e saldi",
@@ -126,7 +141,7 @@
     "portalFeat3Desc": "Posizione IVA e scadenze imminenti in modo chiaro.",
     "portalFeat4Title": "Comunicazione diretta",
     "portalFeat4Desc": "Messaggia il team contabile dal portale.",
-    "miniOverviewChrome": "Portale VACEI — Panoramica",
+    "miniOverviewChrome": "Portale A4 — Panoramica",
     "kpiOwed": "Crediti",
     "kpiYouOwe": "Debiti",
     "kpiBank": "Banca",
@@ -146,7 +161,7 @@
     "tag": "Cosa ottieni",
     "titleLine1": "Non solo uno studio contabile.",
     "titleLine2": "Un servizio finanziario strutturato.",
-    "lead": "VACEI combina team dedicato e portale strutturato — visibilità completa senza rincorrere scadenze o ritardi.",
+    "lead": "A4 combina team dedicato e portale strutturato — visibilità completa senza rincorrere scadenze o ritardi.",
     "c1Title": "Contabilità esternalizzata",
     "c1Desc": "Ogni transazione registrata e riconciliata con precisione — in continuo, senza il tuo intervento.",
     "c2Title": "Bilanci di gestione",
@@ -165,7 +180,7 @@
     "title": "Tre passi verso una contabilità migliore",
     "lead": "Niente onboarding lungo o moduli complessi. Operativo in minuti.",
     "s1Title": "Crea il tuo account",
-    "s1Desc": "Accedi subito al portale VACEI. La dashboard sicura è attiva dall’iscrizione.",
+    "s1Desc": "Accedi subito al portale A4. La dashboard sicura è attiva dall’iscrizione.",
     "s1Micro": "Meno di 2 minuti →",
     "s2Title": "Richiedi la proposta",
     "s2Desc": "Raccontaci attività e bisogni — proposta su misura nel portale.",
@@ -185,7 +200,7 @@
     "check5": "Andamenti nel tempo",
     "check6": "Posizione IVA e prossime scadenze",
     "note": "Chiaro. Strutturato. Sempre aggiornato.",
-    "miniChrome": "Portale VACEI — Stato finanziario",
+    "miniChrome": "Portale A4 — Stato finanziario",
     "sectionLabel": "Stato finanziario",
     "phase1": "Contabilità — aprile 2026",
     "phase2": "Riconciliazione bancaria",
@@ -200,16 +215,16 @@
   "pricing": {
     "tag": "Prezzi",
     "title": "Prezzi trasparenti per la contabilità",
-    "lead": "Inizia con ciò di cui hai bisogno e scala man mano che la tua attività cresce. Tutti i pacchetti includono l'accesso al portale VACEI.",
+    "lead": "Inizia con ciò di cui hai bisogno e scala man mano che la tua attività cresce. Tutti i pacchetti includono l'accesso al portale A4.",
     "hotBadge": "Il più popolare",
-    "p1Name": "Vacei Basic",
+    "p1Name": "A4 Basic",
     "p1Desc": "Per piccole imprese che necessitano di registrazioni pulite e supporto di base.",
     "p1Price": "da €140/mese",
     "p1From": "Escl. IVA",
     "p1f1": "Registrazioni pulite",
     "p1f2": "Supporto di base",
-    "p1f3": "Accesso al portale VACEI",
-    "p2Name": "Vacei Core",
+    "p1f3": "Accesso al portale A4",
+    "p2Name": "A4 Core",
     "p2Desc": "Per imprese attive che necessitano di tenuta della contabilità, supporto IVA, riconciliazioni, monitoraggio delle scadenze e revisione contabile.",
     "p2Price": "da €350/mese",
     "p2From": "Escl. IVA",
@@ -217,8 +232,8 @@
     "p2f2": "Riconciliazioni bancarie",
     "p2f3": "Monitoraggio delle scadenze",
     "p2f4": "Revisione contabile",
-    "p2f5": "Accesso al portale VACEI",
-    "p3Name": "Vacei Finance Office",
+    "p2f5": "Accesso al portale A4",
+    "p3Name": "A4 Finance Office",
     "p3Desc": "Per imprese in crescita che necessitano di contabilità, buste paga, reporting gestionale, consulenza, supporto al flusso di cassa e assistenza prioritaria.",
     "p3Price": "da €700/mese",
     "p3From": "Escl. IVA",
@@ -226,25 +241,25 @@
     "p3f2": "Reporting gestionale",
     "p3f3": "Consulenza e assistenza prioritaria",
     "p3f4": "Supporto al flusso di cassa",
-    "foot": "Tutti i prezzi escludono l'IVA. Tutti i pacchetti includono l'accesso al portale VACEI. Il prezzo finale dipende dal volume delle transazioni, dal numero di entità, dalla complessità dell'IVA e dai requisiti di reporting.",
+    "foot": "Tutti i prezzi escludono l'IVA. Tutti i pacchetti includono l'accesso al portale A4. Il prezzo finale dipende dal volume delle transazioni, dal numero di entità, dalla complessità dell'IVA e dai requisiti di reporting.",
     "footLink": "Richiedi una proposta su misura →"
   },
   "supported": {
     "badge": "Competenza locale",
-    "titleLine1": "Powered by VACEI.",
+    "titleLine1": "Powered by A4.",
     "titleLine2": "Supportato da A4 Services.",
     "p1": "Per i clienti maltesi, le operazioni contabili sono erogate in partnership con <strong>A4 Services</strong> — studio consolidato di contabilità e servizi societari.",
-    "p2": "Ottieni tecnologia e visibilità immediata della piattaforma VACEI, con competenza locale e rigore compliance di A4 Services."
+    "p2": "Ottieni tecnologia e visibilità immediata della piattaforma A4, con competenza locale e rigore compliance di A4 Services."
   },
   "testimonial": {
-    "quote": "VACEI ha cambiato come gestiamo le finanze. Un portale con posizione live e un team che gestisce tutto dietro le quinte è incredibile.",
+    "quote": "A4 ha cambiato come gestiamo le finanze. Un portale con posizione live e un team che gestisce tutto dietro le quinte è incredibile.",
     "author": "Direttore — Agenzia tecnologica, Malta"
   },
   "cta": {
     "tag": "Pronti a iniziare?",
     "titleLine1": "Contabilità moderna per",
     "titleLine2": "aziende ambiziose.",
-    "p": "Unisciti alle aziende che si affidano a VACEI per libri contabili ordinati, conformità e chiarezza finanziaria.",
+    "p": "Unisciti alle aziende che si affidano a A4 per libri contabili ordinati, conformità e chiarezza finanziaria.",
     "btnPrimary": "Avvia configurazione",
     "btnSecondary": "Come funziona",
     "note": "Nessun impegno per l’accesso iniziale al portale."
@@ -254,16 +269,34 @@
       "kickerMid": "Tutto in un unico posto",
       "h2": "Le tue finanze, ",
       "h2Span": "pienamente connesse",
-      "p": "Ogni aspetto delle finanze aziendali — visibile, strutturato e gestito dal team VACEI tramite un solo portale."
+      "p": "Ogni aspetto delle finanze aziendali — visibile, strutturato e gestito dal team A4 tramite un solo portale."
     },
     "ariaTablist": "Aree del portale",
-    "chrome": { "live": "Live", "user": "Rose · CLIENTE" },
+    "chrome": {
+      "live": "Live",
+      "user": "Rose · CLIENTE"
+    },
     "tabs": {
-      "bank": { "label": "Conti bancari", "url": "portal.vacei.com / conti-bancari" },
-      "bills": { "label": "Fatture e spese", "url": "portal.vacei.com / fatture-spese" },
-      "invoices": { "label": "Fatture", "url": "portal.vacei.com / fatture" },
-      "payroll": { "label": "Paghe", "url": "portal.vacei.com / paghe" },
-      "vat": { "label": "IVA", "url": "portal.vacei.com / iva" }
+      "bank": {
+        "label": "Conti bancari",
+        "url": "portal.A4.com / conti-bancari"
+      },
+      "bills": {
+        "label": "Fatture e spese",
+        "url": "portal.A4.com / fatture-spese"
+      },
+      "invoices": {
+        "label": "Fatture",
+        "url": "portal.A4.com / fatture"
+      },
+      "payroll": {
+        "label": "Paghe",
+        "url": "portal.A4.com / paghe"
+      },
+      "vat": {
+        "label": "IVA",
+        "url": "portal.A4.com / iva"
+      }
     },
     "badges": {
       "overdue": "Scaduto",
@@ -272,6 +305,13 @@
       "current": "In regola",
       "paymentDue": "Pagamento dovuto"
     },
-    "months": { "nov": "nov", "dec": "dic", "jan": "gen", "feb": "feb", "mar": "mar", "apr": "apr" }
+    "months": {
+      "nov": "nov",
+      "dec": "dic",
+      "jan": "gen",
+      "feb": "feb",
+      "mar": "mar",
+      "apr": "apr"
+    }
   }
 }

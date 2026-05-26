@@ -16,8 +16,8 @@ const ConversionSection = ({ isDark = false }: { isDark?: boolean }) => {
     )}>
       {/* Background Effects */}
       <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-4xl aspect-square bg-blue-600/20 blur-[160px] rounded-full animate-pulse-slow" />
-        <div className="absolute top-0 right-0 w-96 h-96 bg-purple-600/10 blur-[120px] rounded-full" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-4xl aspect-square bg-zinc-600/20 blur-[160px] rounded-full animate-pulse-slow" />
+        <div className="absolute top-0 right-0 w-96 h-96 bg-zinc-600/10 blur-[120px] rounded-full" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
@@ -25,7 +25,7 @@ const ConversionSection = ({ isDark = false }: { isDark?: boolean }) => {
           <div className="space-y-6">
             <h2 className="text-4xl lg:text-5xl font-black tracking-tighter leading-[0.9] uppercase">
               {t("conversion.title").split(" ").slice(0, 3).join(" ")} <br />
-              <span className="font-bodoni italic text-blue-600 lowercase tracking-tight">
+              <span className="font-bodoni italic text-zinc-600 lowercase tracking-tight">
                 {t("conversion.title").split(" ").slice(3).join(" ")}
               </span>
             </h2>
@@ -40,7 +40,7 @@ const ConversionSection = ({ isDark = false }: { isDark?: boolean }) => {
           <div className="pt-8 flex flex-col items-center gap-8">
             <LocalizedLink
               href="/quote"
-              className="relative group inline-flex items-center justify-center gap-4 rounded-full bg-primary-blue text-white px-16 py-7 text-[16px] font-black uppercase tracking-[0.2em] shadow-2xl shadow-blue-500/40 transition-all hover:scale-110 active:scale-95 overflow-hidden"
+              className="relative group inline-flex items-center justify-center gap-4 rounded-full bg-primary-blue text-white px-16 py-7 text-[16px] font-black uppercase tracking-[0.2em] shadow-2xl shadow-zinc-500/40 transition-all hover:scale-110 active:scale-95 overflow-hidden"
             >
               <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-500" />
               <span className="relative z-10">{t("conversion.cta")}</span>

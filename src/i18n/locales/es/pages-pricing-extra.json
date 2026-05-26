@@ -3,7 +3,7 @@
     "hero": {
       "badge": "Precios Transparentes",
       "title": "Justo, Transparente y a su Medida",
-      "p1": "En VACEI, no creemos en precios únicos para todos. Cada negocio es único y su precio debe reflejar el trabajo real involucrado.",
+      "p1": "En A4, no creemos en precios únicos para todos. Cada negocio es único y su precio debe reflejar el trabajo real involucrado.",
       "p2": "Proporcionamos presupuestos a medida basados en el alcance, la complejidad y los requisitos, sin costes ocultos y sin compromiso.",
       "checklist": [
         "Sin Paquetes Fijos",
@@ -25,7 +25,7 @@
     "factors": {
       "badge": "Factores de Precios",
       "title": "Cómo se Determinamos los Precios",
-      "subtitle": "Los precios en VACEI se basan en una evaluación estructurada de varios factores. Estos factores nos permiten definir el alcance claramente y evitar sorpresas.",
+      "subtitle": "Los precios en A4 se basan en una evaluación estructurada de varios factores. Estos factores nos permiten definir el alcance claramente y evitar sorpresas.",
       "keyInsight": "Información Clave",
       "factorLabel": "Factor {{id}}",
       "viewingFactor": "Viendo Factor {{current}} de {{total}}",
@@ -222,7 +222,7 @@
       ],
       "includesBadge": "Qué está Incluido",
       "everyTitle": "Cada Presupuesto Detalla",
-      "everyBody": "Una vez revisada la información inicial, VACEI proporciona un presupuesto claro que garantiza la transparencia total antes de empezar cualquier trabajo.",
+      "everyBody": "Una vez revisada la información inicial, A4 proporciona un presupuesto claro que garantiza la transparencia total antes de empezar cualquier trabajo.",
       "quoteIncludes": [
         "Servicios incluidos",
         "Alcance acordado",
@@ -240,7 +240,7 @@
     "whatToExpect": {
       "badge": "Nuestro Compromiso",
       "title": "Qué Esperar",
-      "subtitle": "Al trabajar con VACEI, nuestro objetivo es asegurar que el precio refleje el trabajo y siga siendo previsible.",
+      "subtitle": "Al trabajar con A4, nuestro objetivo es asegurar que el precio refleje el trabajo y siga siendo previsible.",
       "items": [
         {
           "title": "Charlas de precios claras por adelantado",

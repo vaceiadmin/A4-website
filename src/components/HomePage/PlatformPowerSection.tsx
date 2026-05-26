@@ -20,11 +20,11 @@ const PlatformPowerSection = () => {
           
           {/* Left Content */}
           <div className="w-full lg:w-1/2">
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-500/10 text-blue-400 text-[10px] font-black uppercase tracking-widest border border-blue-500/20 mb-8">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-500/10 text-zinc-400 text-[10px] font-black uppercase tracking-widest border border-zinc-500/20 mb-8">
                 {t("platformPower.badge")}
             </div>
             <h2 className="text-4xl md:text-6xl font-black text-white mb-8 leading-[1.1] tracking-tight">
-              {t("platformPower.titleLine1")}<span className="text-blue-400">{t("platformPower.titleHighlight")}</span>
+              {t("platformPower.titleLine1")}<span className="text-zinc-400">{t("platformPower.titleHighlight")}</span>
             </h2>
             <p className="text-lg text-slate-400 mb-10 font-medium leading-relaxed">
               {t("platformPower.body")}
@@ -33,7 +33,7 @@ const PlatformPowerSection = () => {
             <div className="space-y-5 mb-12">
               {highlights.map((item, i) => (
                 <div key={i} className="flex items-start gap-4">
-                  <div className="mt-1 w-6 h-6 rounded-full bg-blue-500/10 flex items-center justify-center text-blue-400 shrink-0">
+                  <div className="mt-1 w-6 h-6 rounded-full bg-zinc-500/10 flex items-center justify-center text-zinc-400 shrink-0">
                     <CheckCircle2 className="w-4 h-4" />
                   </div>
                   <p className="text-slate-300 font-bold text-base leading-tight mt-1">{item}</p>
@@ -44,7 +44,7 @@ const PlatformPowerSection = () => {
             <div className="flex flex-col sm:flex-row gap-4">
               <GetInstantQuoteButton
                 text={t("platformPower.createWorkspaceCta")}
-                className="h-[56px] px-10 shadow-xl shadow-blue-600/20"
+                className="h-[56px] px-10 shadow-xl shadow-zinc-600/20"
               />
               <GetInstantQuoteButton
                 variant="custom"
@@ -52,7 +52,7 @@ const PlatformPowerSection = () => {
                 bgColor="rgba(255,255,255,0.05)"
                 textColor="white"
                 borderColor="rgba(255,255,255,0.1)"
-                className="h-[56px] px-8 hover:bg-white/10 hover:border-blue-400/50"
+                className="h-[56px] px-8 hover:bg-white/10 hover:border-zinc-400/50"
               />
             </div>
           </div>
@@ -60,16 +60,16 @@ const PlatformPowerSection = () => {
           {/* Right Visual Mockup */}
           <div className="w-full lg:w-1/2 relative h-[500px] lg:h-[600px] flex items-center justify-center">
             {/* Background Glow */}
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-blue-600/10 rounded-full blur-[100px] opacity-40" />
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-zinc-600/10 rounded-full blur-[100px] opacity-40" />
             
             {/* Main Mockup Card (Premium Dark Glassmorphism) */}
-            <div className="relative w-full max-w-[460px] aspect-[4/5] bg-[#0F111A] backdrop-blur-2xl rounded-[2.5rem] border border-white/20 shadow-[0_40px_100px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
+            <div className="relative w-full max-w-[460px] aspect-[4/5] bg-[#09090B] backdrop-blur-2xl rounded-[2.5rem] border border-white/20 shadow-[0_40px_100px_-20px_rgba(0,0,0,0.6)] overflow-hidden">
                {/* Subtle Interior Glow */}
-               <div className="absolute inset-0 bg-gradient-to-br from-blue-600/[0.05] to-transparent pointer-events-none" />
+               <div className="absolute inset-0 bg-gradient-to-br from-zinc-600/[0.05] to-transparent pointer-events-none" />
                {/* Mockup Header */}
                <div className="p-6 border-b border-white/5 flex items-center justify-between bg-white/5">
                   <div className="flex items-center gap-3">
-                    <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center text-white">
+                    <div className="w-8 h-8 rounded-lg bg-zinc-600 flex items-center justify-center text-white">
                       <ShieldCheck className="w-4 h-4" />
                     </div>
                     <span className="font-black text-white tracking-tight text-sm">{t("platformPower.workspaceLabel")}</span>
@@ -86,7 +86,7 @@ const PlatformPowerSection = () => {
                  {/* Active Engagement Item */}
                  <div className="p-4 rounded-2xl bg-white/5 border border-white/5 flex items-center justify-between group/item hover:bg-white/10 transition-colors">
                     <div className="flex items-center gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-slate-800 border border-white/10 flex items-center justify-center text-blue-400">
+                      <div className="w-10 h-10 rounded-xl bg-slate-800 border border-white/10 flex items-center justify-center text-zinc-400">
                         <FileText className="w-5 h-5" />
                       </div>
                       <div>
@@ -107,7 +107,7 @@ const PlatformPowerSection = () => {
                       { icon: <Users className="w-3.5 h-3.5" />, text: t("platformPower.notif2"), time: t("platformPower.notif2Time") },
                     ].map((notif, i) => (
                       <div key={i} className="flex items-start gap-3">
-                        <div className="w-7 h-7 rounded-lg bg-blue-500/10 flex items-center justify-center text-blue-400 shrink-0">
+                        <div className="w-7 h-7 rounded-lg bg-zinc-500/10 flex items-center justify-center text-zinc-400 shrink-0">
                           {notif.icon}
                         </div>
                         <div className="flex-1">
@@ -122,10 +122,10 @@ const PlatformPowerSection = () => {
                  <div className="relative pt-4 text-white">
                     <div className="flex items-end justify-between mb-2">
                        <p className="text-xs font-black">{t("platformPower.docCompliance")}</p>
-                       <p className="text-xs font-black text-blue-400">85%</p>
+                       <p className="text-xs font-black text-zinc-400">85%</p>
                     </div>
                     <div className="w-full h-2 bg-white/5 rounded-full overflow-hidden">
-                       <div className="w-[85%] h-full bg-blue-600 rounded-full" />
+                       <div className="w-[85%] h-full bg-zinc-600 rounded-full" />
                     </div>
                     <p className="mt-2 text-[10px] text-slate-500 font-medium italic">{t("platformPower.syncHint")}</p>
                  </div>
@@ -133,7 +133,7 @@ const PlatformPowerSection = () => {
             </div>
 
             {/* Floating Accessory 1: Status Badge */}
-            <div className="absolute top-1/4 -right-4 lg:-right-8 p-4 rounded-2xl bg-[#1A1D2B] shadow-2xl border border-white/10 z-20 animate-bounce-slow">
+            <div className="absolute top-1/4 -right-4 lg:-right-8 p-4 rounded-2xl bg-[#18181B] shadow-2xl border border-white/10 z-20 animate-bounce-slow">
                <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-emerald-500/10 flex items-center justify-center text-emerald-400">
                     <CheckCircle2 className="w-5 h-5" />
@@ -148,7 +148,7 @@ const PlatformPowerSection = () => {
              {/* Floating Accessory 2: Document Preview */}
              <div className="absolute bottom-1/4 -left-4 lg:-left-8 p-3 rounded-2xl bg-white shadow-2xl z-20">
                <div className="flex items-center gap-3 pr-4">
-                  <div className="w-10 h-10 rounded-xl bg-blue-50 flex items-center justify-center text-blue-600">
+                  <div className="w-10 h-10 rounded-xl bg-zinc-50 flex items-center justify-center text-zinc-600">
                     <FileText className="w-5 h-5" />
                   </div>
                   <div>

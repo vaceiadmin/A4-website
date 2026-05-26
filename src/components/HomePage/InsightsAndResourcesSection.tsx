@@ -25,7 +25,7 @@ const InsightsVideoGallery = dynamic(
 
 const typeColorClass: Record<string, string> = {
   emerald: "text-emerald-400",
-  blue: "text-blue-400",
+  blue: "text-zinc-400",
   purple: "text-primary-blue",
 };
 
@@ -54,11 +54,11 @@ const InsightsAndResourcesSection = ({
             : "text-emerald-600"
           : color === "blue"
             ? isDark
-              ? "text-blue-400"
-              : "text-blue-600"
+              ? "text-zinc-400"
+              : "text-zinc-600"
             : isDark
               ? "text-primary-blue"
-              : "text-blue-600";
+              : "text-zinc-600";
 
       return {
         slug: blog.slug,
@@ -81,7 +81,7 @@ const InsightsAndResourcesSection = ({
       {/* Background glow behind title */}
       <div className={cn(
         "absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-4xl h-[400px] pointer-events-none",
-        isDark ? "bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.08)_0,transparent_60%)]" : "bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.05)_0,transparent_60%)]"
+        isDark ? "bg-[radial-gradient(circle_at_center,rgba(161, 161, 170,0.08)_0,transparent_60%)]" : "bg-[radial-gradient(circle_at_center,rgba(161, 161, 170,0.05)_0,transparent_60%)]"
       )} />
 
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -89,7 +89,7 @@ const InsightsAndResourcesSection = ({
         <div className="text-center max-w-3xl mx-auto mb-16">
           <div className={cn(
             "inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-widest border mb-6",
-            isDark ? "bg-blue-500/10 text-blue-400 border-blue-500/20" : "bg-blue-50 text-blue-600 border-blue-100"
+            isDark ? "bg-zinc-500/10 text-zinc-400 border-zinc-500/20" : "bg-zinc-50 text-zinc-600 border-zinc-100"
           )}>
             {t("insightsResources.badge")}
           </div>
@@ -122,8 +122,8 @@ const InsightsAndResourcesSection = ({
           {resourcesList.map((item) => {
             const CardContent = (
               <div className={cn(
-                "flex flex-col h-full border rounded-3xl p-8 transition-all duration-300 group shadow-2xl hover:shadow-[0_20px_40px_-20px_rgba(59,130,246,0.15)] cursor-pointer",
-                isDark ? "bg-[#0A0B10] border-white/5 hover:bg-[#0D0F18] hover:border-white/10" : "bg-slate-50 border-slate-200 hover:bg-white hover:border-blue-200"
+                "flex flex-col h-full border rounded-3xl p-8 transition-all duration-300 group shadow-2xl hover:shadow-[0_20px_40px_-20px_rgba(161, 161, 170,0.15)] cursor-pointer",
+                isDark ? "bg-[#0A0B10] border-white/5 hover:bg-[#0D0F18] hover:border-white/10" : "bg-slate-50 border-slate-200 hover:bg-white hover:border-zinc-200"
               )}>
                 {/* Card Header (Type & Category) */}
                 <div className="flex items-center gap-4 mb-6">
@@ -137,7 +137,7 @@ const InsightsAndResourcesSection = ({
                     <span
                       className={cn(
                         "text-[10px] font-black uppercase tracking-widest",
-                        typeColorClass[item.color as string] ?? "text-blue-400"
+                        typeColorClass[item.color as string] ?? "text-zinc-400"
                       )}
                     >
                       {item.type}
@@ -154,7 +154,7 @@ const InsightsAndResourcesSection = ({
                 {/* Card Content */}
                 <h3 className={cn(
                     "text-xl font-bold mb-3 transition-colors",
-                    isDark ? "text-white group-hover:text-blue-400" : "text-slate-900 group-hover:text-blue-600"
+                    isDark ? "text-white group-hover:text-zinc-400" : "text-slate-900 group-hover:text-zinc-600"
                 )}>
                   {item.title}
                 </h3>
@@ -168,7 +168,7 @@ const InsightsAndResourcesSection = ({
                 {/* Card Footer */}
                 <div className={cn(
                     "mt-auto flex items-center gap-2 text-sm font-bold transition-colors",
-                    isDark ? "text-slate-300 group-hover:text-white" : "text-slate-500 group-hover:text-blue-600"
+                    isDark ? "text-slate-300 group-hover:text-white" : "text-slate-500 group-hover:text-zinc-600"
                 )}>
                   {t("insightsResources.readMore")}
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
@@ -192,7 +192,7 @@ const InsightsAndResourcesSection = ({
             href="/insights"
             className={cn(
                 "inline-flex items-center gap-2 text-sm font-bold transition-colors px-6 py-3 rounded-xl border",
-                isDark ? "text-blue-400 hover:text-blue-300 bg-blue-500/10 hover:bg-blue-500/20 border-blue-500/20" : "bg-blue-50 text-blue-600 hover:bg-blue-100 border-blue-100"
+                isDark ? "text-zinc-400 hover:text-zinc-300 bg-zinc-500/10 hover:bg-zinc-500/20 border-zinc-500/20" : "bg-zinc-50 text-zinc-600 hover:bg-zinc-100 border-zinc-100"
             )}
           >
             {t("insightsResources.viewAll")}{" "}

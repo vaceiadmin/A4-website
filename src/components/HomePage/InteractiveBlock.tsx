@@ -160,7 +160,7 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
       ref={sectionRef}
       className={cn(
         "relative py-24 sm:py-32 overflow-hidden mt-12 mx-4 sm:mx-6 lg:mx-8 mb-12  rounded-[48px]",
-        isDark ? "bg-[#05050A] text-white shadow-2xl" : "bg-white text-slate-900 border border-slate-100 shadow-xl shadow-blue-500/5"
+        isDark ? "bg-[#05050A] text-white shadow-2xl" : "bg-white text-slate-900 border border-slate-100 shadow-xl shadow-zinc-500/5"
       )}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -182,7 +182,7 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
                     key={i}
                     className={cn(
                       "flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider border",
-                      isDark ? "bg-white/5 border-white/10 text-white/70" : "bg-blue-50 border-blue-100 text-blue-600"
+                      isDark ? "bg-white/5 border-white/10 text-white/70" : "bg-zinc-50 border-zinc-100 text-zinc-600"
                     )}
                   >
                     {i === 0 && <Clock className="w-3.5 h-3.5" />}
@@ -197,7 +197,7 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "p-8 rounded-[2.5rem] border shadow-2xl transition-all duration-500 hover:shadow-primary-blue/5",
-                isDark ? "bg-[#0F111A] border-white/10" : "bg-white border-slate-100"
+                isDark ? "bg-[#09090B] border-white/10" : "bg-white border-slate-100"
               )}
             >
               <div className="space-y-5">
@@ -230,11 +230,11 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
 
                 <a
                   ref={ctaRef}
-                  href="https://client.vacei.com/onboarding"
+                  href="https://client.A4.com/onboarding"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={cn(
-                    "relative z-1 w-full h-14 rounded-2xl bg-primary-blue text-white font-black uppercase tracking-widest text-xs flex items-center justify-center gap-3 transition-colors hover:bg-blue-600 shadow-lg shadow-blue-500/25 will-change-transform"
+                    "relative z-1 w-full h-14 rounded-2xl bg-primary-blue text-white font-black uppercase tracking-widest text-xs flex items-center justify-center gap-3 transition-colors hover:bg-zinc-600 shadow-lg shadow-zinc-500/25 will-change-transform"
                   )}
                 >
                   {t("interactiveBlock.cta")}
@@ -249,19 +249,19 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "absolute -inset-4 rounded-[3rem] blur-3xl opacity-20 pointer-events-none",
-                isDark ? "bg-primary-blue" : "bg-blue-400"
+                isDark ? "bg-primary-blue" : "bg-zinc-400"
               )}
             />
 
             <div
               className={cn(
                 "relative rounded-[2.5rem] border overflow-hidden p-8 sm:p-12",
-                isDark ? "bg-[#0F111A] border-white/10" : "bg-white border-slate-200 shadow-xl"
+                isDark ? "bg-[#09090B] border-white/10" : "bg-white border-slate-200 shadow-xl"
               )}
             >
               <div className="space-y-8">
                 <div className="flex items-center gap-4">
-                  <div className="w-12 h-12 rounded-2xl bg-blue-500/10 flex items-center justify-center text-primary-blue">
+                  <div className="w-12 h-12 rounded-2xl bg-zinc-500/10 flex items-center justify-center text-primary-blue">
                     <Clock className="w-6 h-6" />
                   </div>
                   <div>
@@ -285,7 +285,7 @@ const InteractiveBlock = ({ isDark = false }: { isDark?: boolean }) => {
                     href="/contact"
                     className={cn(
                       "inline-flex items-center gap-2 text-sm font-black uppercase tracking-widest transition-colors",
-                      isDark ? "text-white hover:text-primary-blue" : "text-slate-900 hover:text-blue-600"
+                      isDark ? "text-white hover:text-primary-blue" : "text-slate-900 hover:text-zinc-600"
                     )}
                   >
                     {t("interactiveBlock.secondaryCta")}

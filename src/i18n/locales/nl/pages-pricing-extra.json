@@ -3,7 +3,7 @@
     "hero": {
       "badge": "Transparante Prijzen",
       "title": "Eerlijk, Transparant en op Uw Maat",
-      "p1": "Bij VACEI geloven wij niet in prijzen die voor iedereen gelijk zijn. Elke onderneming is uniek en uw prijs moet het feitelijk uitgevoerde werk weerspiegelen.",
+      "p1": "Bij A4 geloven wij niet in prijzen die voor iedereen gelijk zijn. Elke onderneming is uniek en uw prijs moet het feitelijk uitgevoerde werk weerspiegelen.",
       "p2": "Wij verstrekken offertes op maat, gebaseerd op de omvang, complexiteit en vereisten — zonder verborgen kosten en zonder verplichting om door te gaan.",
       "checklist": [
         "Geen vaste pakketten",
@@ -25,7 +25,7 @@
     "factors": {
       "badge": "Prijsfactoren",
       "title": "Hoe de Prijs Wordt Bepaald",
-      "subtitle": "De tarifering bij VACEI is gebaseerd op een gestructureerde beoordeling van diverse factoren. Deze factoren stellen ons in staat de reikwijdte helder te definiëren en verrassingen achteraf te voorkomen.",
+      "subtitle": "De tarifering bij A4 is gebaseerd op een gestructureerde beoordeling van diverse factoren. Deze factoren stellen ons in staat de reikwijdte helder te definiëren en verrassingen achteraf te voorkomen.",
       "keyInsight": "Belangrijk Inzicht",
       "factorLabel": "Factor {{id}}",
       "viewingFactor": "Bekijk Factor {{current}} van {{total}}",
@@ -222,7 +222,7 @@
       ],
       "includesBadge": "Wat is Inbegrepen",
       "everyTitle": "Elke Offerte Bevat",
-      "everyBody": "Na review van de initiële informatie verstrekt VACEI een heldere offerte, wat volledige transparantie garandeert vóór aanvang van het werk.",
+      "everyBody": "Na review van de initiële informatie verstrekt A4 een heldere offerte, wat volledige transparantie garandeert vóór aanvang van het werk.",
       "quoteIncludes": [
         "Inbegrepen diensten",
         "Overeengekomen reikwijdte",
@@ -240,7 +240,7 @@
     "whatToExpect": {
       "badge": "Onze Toezegging",
       "title": "Wat Kan U Verwachten",
-      "subtitle": "Ons doel bij samenwerking met VACEI is dat de prijs het werk weerspiegelt en voorspelbaar blijft.",
+      "subtitle": "Ons doel bij samenwerking met A4 is dat de prijs het werk weerspiegelt en voorspelbaar blijft.",
       "items": [
         {
           "title": "Heldere prijsgesprekken vooraf",

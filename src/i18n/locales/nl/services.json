@@ -2,14 +2,18 @@
   "accounting-finance": {
     "title": "Boekhouding & Financiën",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Boekhouding & Financiën" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Boekhouding & Financiën"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Doorlopende ondersteuning op het gebied van Boekhouding & Financiën voor uw onderneming – van administratie tot senior financieel toezicht.",
-      "VACEI beheert de boekhouding, rapportage en CFO-ondersteuning, zodat uw cijfers nauwkeurig, tijdig en helder blijven.",
-      "Het werk wordt volledig door VACEI beheerd en geleverd via uw cliëntenportaal."
+      "A4 beheert de boekhouding, rapportage en CFO-ondersteuning, zodat uw cijfers nauwkeurig, tijdig en helder blijven.",
+      "Het werk wordt volledig door A4 beheerd en geleverd via uw cliëntenportaal."
     ],
     "featuresSection": {
       "title": "Wat wij dekken in Boekhouding & Financiën",
@@ -46,13 +50,17 @@
   "tax-compliance": {
     "title": "Belasting & Compliance",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Belasting & Compliance" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Belasting & Compliance"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Doorlopende ondersteuning voor uw vennootschapsbelasting, loonadministratie en wettelijke deponeringen.",
-      "VACEI beheert btw, loonadministratie, registraties en belangrijke deadlines zodat verplichtingen correct en op tijd worden afgehandeld.",
+      "A4 beheert btw, loonadministratie, registraties en belangrijke deadlines zodat verplichtingen correct en op tijd worden afgehandeld.",
       "Alles wordt gecoördineerd via uw cliëntenportaal voor heldere opvolging en gemoedsrust."
     ],
     "featuresSection": {
@@ -101,14 +109,18 @@
   "audit-assurance": {
     "title": "Audit & Assurance",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Audit & Assurance" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Audit & Assurance"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Audit- en Assurance-diensten omvatten wettelijke audits en gestructureerde financiële reviews.",
-      "VACEI levert audits via een helder, georganiseerd proces dat inzicht, voorspelbare tijdlijnen en gedocumenteerde resultaten biedt.",
-      "Auditwerk wordt gecoördineerd door VACEI en ondersteund door gestructureerde werkstromen via het platform, waardoor verstoring van uw operatie tot een minimum wordt beperkt."
+      "A4 levert audits via een helder, georganiseerd proces dat inzicht, voorspelbare tijdlijnen en gedocumenteerde resultaten biedt.",
+      "Auditwerk wordt gecoördineerd door A4 en ondersteund door gestructureerde werkstromen via het platform, waardoor verstoring van uw operatie tot een minimum wordt beperkt."
     ],
     "featuresSection": {
       "title": "Gestructureerde audit- en assurance-diensten",
@@ -156,13 +168,17 @@
   "corporate-csp-services": {
     "title": "Zakelijke & CSP Diensten",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Zakelijke & CSP Diensten" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Zakelijke & CSP Diensten"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Doorlopende zakelijke diensten voor bedrijven in Malta, inclusief statutaire zetel en wettelijke ondersteuning.",
-      "VACEI zorgt dat uw bedrijf het hele jaar door actueel, compliant en gedocumenteerd blijft.",
+      "A4 zorgt dat uw bedrijf het hele jaar door actueel, compliant en gedocumenteerd blijft.",
       "Al het werk wordt geleverd via een gestructureerd proces en cliëntenportaal."
     ],
     "featuresSection": {
@@ -210,13 +226,17 @@
   "regulated-licensing": {
     "title": "Gereguleerd & Licenties",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Gereguleerd & Licenties" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Gereguleerd & Licenties"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Ondersteuning voor bedrijven die opereren in gereguleerde omgevingen of formele licenties nodig hebben.",
-      "VACEI beheert licentieaanvragen, verlengingen en belangrijke wettelijke indieningen bij autoriteiten.",
+      "A4 beheert licentieaanvragen, verlengingen en belangrijke wettelijke indieningen bij autoriteiten.",
       "Werk wordt geleverd via heldere, gestructureerde werkstromen."
     ],
     "featuresSection": {
@@ -265,13 +285,17 @@
   "advisory-growth": {
     "title": "Advisory & Groei",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Advisory & Groei" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Advisory & Groei"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Advisory & Groei ondersteuning voor bedrijven bovenop de dagelijkse compliance.",
-      "VACEI helpt u plannen, groeien en navigeren bij belangrijke beslissingen, waarbij financiële en reglementaire aspecten op één lijn worden gebracht.",
+      "A4 helpt u plannen, groeien en navigeren bij belangrijke beslissingen, waarbij financiële en reglementaire aspecten op één lijn worden gebracht.",
       "Het werk wordt geleverd naast uw vaste boekhoud-, fiscale en audit-setup voor maximale consistentie."
     ],
     "featuresSection": {
@@ -310,13 +334,17 @@
   "company-structure-corporate-changes": {
     "title": "Bedrijfsstructuur & Statutaire Wijzigingen",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Bedrijfsstructuur & Wijzigingen" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Bedrijfsstructuur & Wijzigingen"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Projectmatige ondersteuning bij wijzigingen in de juridische, eigendoms- of bestuursstructuur van uw bedrijf.",
-      "VACEI bereidt documentatie voor, coördineert indieningen en zorgt dat elke wijziging compliant en correct wordt vastgelegd.",
+      "A4 bereidt documentatie voor, coördineert indieningen en zorgt dat elke wijziging compliant en correct wordt vastgelegd.",
       "Dit staat los van doorlopende Zakelijke Diensten en wordt als afzonderlijk project behandeld."
     ],
     "featuresSection": {
@@ -354,13 +382,17 @@
   "liquidation-wind-down": {
     "title": "Liquidatie & Afwikkeling",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Liquidatie & Afwikkeling" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Liquidatie & Afwikkeling"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Ondersteuning voor bedrijven die sluiten, herstructureren of niet langer operatief zijn.",
-      "VACEI beheert het liquidatie- of afwikkelingsproces zodat wettelijke eisen en indieningen correct worden voltooid."
+      "A4 beheert het liquidatie- of afwikkelingsproces zodat wettelijke eisen en indieningen correct worden voltooid."
     ],
     "featuresSection": {
       "title": "Volledige liquidatie- en afwikkelingsdiensten",
@@ -408,14 +440,18 @@
   "international-business-structuring-expansion": {
     "title": "Internationale Bedrijfsstructuren",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Internationale Bedrijfsstructuren" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Internationale Bedrijfsstructuren"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Ondersteuning bij het ontwerpen en beheren van internationale bedrijfsstructuren.",
-      "VACEI helpt u bij het opzetten en coördineren van groepsstructuren, entiteiten en banking op een conforme manier.",
-      "Alles wordt gecoördineerd via het VACEI-portaal zodat u grensoverschrijdende structuren op één plek beheert."
+      "A4 helpt u bij het opzetten en coördineren van groepsstructuren, entiteiten en banking op een conforme manier.",
+      "Alles wordt gecoördineerd via het A4-portaal zodat u grensoverschrijdende structuren op één plek beheert."
     ],
     "featuresSection": {
       "title": "Onze internationale structureringsdiensten",
@@ -479,13 +515,17 @@
   "crypto-digital-assets": {
     "title": "Crypto & Digitale Activa",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Crypto & Digitale Activa" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Crypto & Digitale Activa"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Ondersteuning bij structurering, banking en compliance rond crypto en digitale activa.",
-      "VACEI helpt u cryptobezit in lijn te brengen met wettige belastingstructuren, banktoegang en compliance-eisen."
+      "A4 helpt u cryptobezit in lijn te brengen met wettige belastingstructuren, banktoegang en compliance-eisen."
     ],
     "featuresSection": {
       "title": "Crypto & digitale activa structureringsdiensten",
@@ -529,17 +569,21 @@
   "audit-readiness": {
     "title": "Audit-gereedheid",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Audit-gereedheid" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Audit-gereedheid"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Voorbereidingssteun zodat uw administratie en documentatie klaar zijn voordat de audit begint.",
-      "VACEI beoordeelt dossiers, documenten en processen zodat audits soepeler, sneller en met minder verstoring verlopen."
+      "A4 beoordeelt dossiers, documenten en processen zodat audits soepeler, sneller en met minder verstoring verlopen."
     ],
     "featuresSection": {
       "title": "Wat wij dekken in audit-gereedheid",
-      "subtitle": "Bereid u voor op de audit met een gestructureerd proces via het VACEI-portaal.",
+      "subtitle": "Bereid u voor op de audit met een gestructureerd proces via het A4-portaal.",
       "features": [
         {
           "title": "Financiële dossiers",
@@ -597,13 +641,17 @@
   "group-consolidation": {
     "title": "Groep & Consolidatie",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Groep & Consolidatie" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Groep & Consolidatie"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Groep & Consolidatie ondersteuning voor bedrijven met meerdere entiteiten.",
-      "VACEI coördineert groepsrapportage, intercompany afstemming en consolidatie zodat informatie bruikbaar is."
+      "A4 coördineert groepsrapportage, intercompany afstemming en consolidatie zodat informatie bruikbaar is."
     ],
     "featuresSection": {
       "title": "Wat wij dekken in groep & consolidatie",
@@ -656,13 +704,17 @@
   "banking-payments-support": {
     "title": "Support bij Banken & Betalingen",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Support bij Banken & Betalingen" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Support bij Banken & Betalingen"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Ondersteuning voor het verkrijgen en behouden van betrouwbare bank- en betaaloplossingen.",
-      "VACEI bereidt documentatie voor, coördineert onboarding en ondersteunt bij doorlopende bankzaken."
+      "A4 bereidt documentatie voor, coördineert onboarding en ondersteunt bij doorlopende bankzaken."
     ],
     "featuresSection": {
       "title": "Wat wij dekken in support banken & betalingen",
@@ -724,13 +776,17 @@
   "corporate-transactions": {
     "title": "Zakelijke Transacties",
     "breadcrumbs": [
-      { "label": "Diensten" },
-      { "label": "Zakelijke Transacties" }
+      {
+        "label": "Diensten"
+      },
+      {
+        "label": "Zakelijke Transacties"
+      }
     ],
     "descriptionHeading": "Wat het is",
     "descriptionParagraphs": [
       "Ondersteuning bij zakelijke transacties zoals eigendomswijzigingen en herstructureringen.",
-      "VACEI coördineert documentatie, indieningen en stakeholders voor een accuraat verloop."
+      "A4 coördineert documentatie, indieningen en stakeholders voor een accuraat verloop."
     ],
     "featuresSection": {
       "title": "Wat wij dekken in zakelijke transacties",
@@ -751,17 +807,17 @@
     "videoLabel": "Service-overzichtsvideo",
     "videoPlaceholder": "Gereserveerde ruimte voor een korte, stille video in lus. De opmaak blijft in balans als er nog geen video is.",
     "ctaTitle": "Klaar om uw workflow te stroomlijnen?",
-    "ctaBody": "Start vandaag met VACEI en ervaar een gestructureerd delivery-platform.",
+    "ctaBody": "Start vandaag met A4 en ervaar een gestructureerd delivery-platform.",
     "ctaButton": "Aan de slag"
   },
   "bookkeeping": {
-    "pageTitle": "VACEI — Boekhouding voor Bedrijven in Malta",
-    "pageDescription": "Besteed uw boekhouding in Malta uit. VACEI geeft bedrijven in Malta realtime inzicht in hun financiën, met een toegewijd boekhoudteam.",
+    "pageTitle": "A4 — Boekhouding voor Bedrijven in Malta",
+    "pageDescription": "Besteed uw boekhouding in Malta uit. A4 geeft bedrijven in Malta realtime inzicht in hun financiën, met een toegewijd boekhoudteam.",
     "hero": {
       "eyebrow": "Boekhouding voor bedrijven in Malta — één platform",
       "title": "Besteed Uw Boekhouding Uit —",
       "titleEm": "Behoud de Controle",
-      "subtitle": "VACEI geeft bedrijven in Malta realtime inzicht in hun financiën, met een toegewijd boekhoudteam dat het werk achter de schermen afhandelt.",
+      "subtitle": "A4 geeft bedrijven in Malta realtime inzicht in hun financiën, met een toegewijd boekhoudteam dat het werk achter de schermen afhandelt.",
       "btnPrimary": "Aan de slag & Offerte aanvragen →",
       "btnOutline": "Bekijk Eerst de Demo",
       "ctaHint": "Maak uw account aan, open uw portaal en vraag binnen enkele minuten een offerte op maat aan."
@@ -772,10 +828,10 @@
       "item3": "Btw & compliance ondersteuning",
       "item4": "Ondersteund door A4 Services, accountants in Malta"
     },
-    "whatIsVacei": {
-      "eyebrow": "Hoe VACEI werkt",
-      "title": "Een eenvoudige manier om VACEI te begrijpen",
-      "subtitle": "VACEI combineert een toegewijd boekhoudteam met een krachtig cliëntenportaal — voor volledig inzicht in uw financiële positie.",
+    "whatIsA4": {
+      "eyebrow": "Hoe A4 werkt",
+      "title": "Een eenvoudige manier om A4 te begrijpen",
+      "subtitle": "A4 combineert een toegewijd boekhoudteam met een krachtig cliëntenportaal — voor volledig inzicht in uw financiële positie.",
       "btnTeam": "Uw Team",
       "btnPortal": "Uw Portaal",
       "teamBadge": "Uw Toegewijde Team",
@@ -805,7 +861,7 @@
     },
     "video": {
       "eyebrow": "Bekijk Hoe Het Werkt",
-      "title": "Zie hoe VACEI in de praktijk werkt",
+      "title": "Zie hoe A4 in de praktijk werkt",
       "desc": "Begrijp hoe uw boekhouding wordt beheerd, hoe uw portaal werkt en hoe u volledig inzicht krijgt in uw zakelijke financiën in Malta.",
       "point1": "Zie hoe documenten worden geüpload en verwerkt",
       "point2": "Begrijp hoe uw dashboard realtime inzicht biedt",
@@ -817,7 +873,7 @@
       "eyebrow": "Wat U Daadwerkelijk Krijgt",
       "title1": "Niet zomaar boekhouden.",
       "title2": "Een duidelijkere manier om uw financiën te beheren.",
-      "desc": "VACEI combineert een toegewijd boekhoudteam met een gestructureerd cliëntenportaal — voor constant inzicht in uw financiële positie. Geen updates najagen. Niet wachten op rapporten.",
+      "desc": "A4 combineert een toegewijd boekhoudteam met een gestructureerd cliëntenportaal — voor constant inzicht in uw financiële positie. Geen updates najagen. Niet wachten op rapporten.",
       "card1Title": "Uitbestede Boekhouding",
       "card1Desc": "Elke transactie doorlopend vastgelegd, afgestemd en nauwkeurig bijgehouden.",
       "card2Title": "Managementrapportages",
@@ -836,7 +892,7 @@
       "title": "Drie stappen naar een betere boekhouding",
       "desc": "Geen langdurige onboarding. Geen complexe formulieren. Geen onnodige telefoontjes.",
       "step1Title": "Maak uw account aan",
-      "step1Desc": "Krijg direct toegang tot uw VACEI portaal.",
+      "step1Desc": "Krijg direct toegang tot uw A4 portaal.",
       "step1Micro": "Duurt minder dan 2 minuten →",
       "step2Title": "Vraag uw offerte aan",
       "step2Desc": "Vertel ons over uw bedrijf en wat u nodig heeft — ontvang een voorstel op maat in uw portaal.",
@@ -867,15 +923,15 @@
       "whatsIncluded": "Wat is inbegrepen",
       "bestFor": "Beste voor",
       "viewAll": "Bekijk Alle Functies",
-      "notes1": "Alle pakketten zijn inclusief toegang tot uw VACEI portaal, waar u documenten kunt uploaden, taken kunt volgen, communiceren en uw financiële positie kunt inzien.",
+      "notes1": "Alle pakketten zijn inclusief toegang tot uw A4 portaal, waar u documenten kunt uploaden, taken kunt volgen, communiceren en uw financiële positie kunt inzien.",
       "notes2": "De definitieve prijs hangt af van het transactievolume, aantal bankrekeningen, btw-complexiteit, payroll en rapportagebehoeften.",
-      "notes3": "Voor klanten in Malta wordt VACEI ondersteund door A4 Services, een gevestigd audit- en accountantskantoor in Malta.",
+      "notes3": "Voor klanten in Malta wordt A4 ondersteund door A4 Services, een gevestigd audit- en accountantskantoor in Malta.",
       "ctaTitle": "Niet zeker welk pakket het beste past?",
       "ctaDesc": "Maak uw account aan, vraag een offerte, en we zullen het juiste ondersteuningsniveau voor uw bedrijf aanbevelen.",
       "ctaBtn": "Aan de slag & Offerte Aanvragen →",
       "pkg0": {
-        "label": "Vacei Basic",
-        "title": "Vacei Basic",
+        "label": "A4 Basic",
+        "title": "A4 Basic",
         "pos": "Voor kleine bedrijven die behoefte hebben aan schone boekingen en basis ondersteuning.",
         "desc": "Voor kleine bedrijven die behoefte hebben aan schone boekingen en basis ondersteuning.",
         "bestFor": "Kleine bedrijven die behoefte hebben aan schone boekingen en basis ondersteuning.",
@@ -884,12 +940,12 @@
         "inc1": "Schone boekingen",
         "inc2": "Basis ondersteuning",
         "inc3": "Document Upload Center",
-        "inc4": "Toegang tot VACEI-portal",
+        "inc4": "Toegang tot A4-portal",
         "inc5": "Maandelijkse boekhoud-update"
       },
       "pkg1": {
-        "label": "Vacei Core",
-        "title": "Vacei Core",
+        "label": "A4 Core",
+        "title": "A4 Core",
         "pos": "Voor actieve bedrijven die boekhouding, btw-ondersteuning, aansluitingen, deadline-tracking en accountantscontrole nodig hebben.",
         "desc": "Voor actieve bedrijven die boekhouding, btw-ondersteuning, aansluitingen, deadline-tracking en accountantscontrole nodig hebben.",
         "bestFor": "Actieve bedrijven die boekhouding, btw-ondersteuning, aansluitingen, deadline-tracking en accountantscontrole nodig hebben.",
@@ -902,11 +958,11 @@
         "inc5": "Live bankkoppeling",
         "inc6": "Realtime dashboard",
         "inc7": "Maandelijkse saldo-evaluatie",
-        "inc8": "Toegang tot VACEI-portal"
+        "inc8": "Toegang tot A4-portal"
       },
       "pkg2": {
-        "label": "Vacei Finance Office",
-        "title": "Vacei Finance Office",
+        "label": "A4 Finance Office",
+        "title": "A4 Finance Office",
         "pos": "Voor groeiende bedrijven die boekhouding, loonadministratie, managementrapportage, advies, cashflow-ondersteuning en prioritaire assistentie nodig hebben.",
         "desc": "Voor groeiende bedrijven die boekhouding, loonadministratie, managementrapportage, advies, cashflow-ondersteuning en prioritaire assistentie nodig hebben.",
         "bestFor": "Groeiende bedrijven die boekhouding, loonadministratie, managementrapportage, advies, cashflow-ondersteuning en prioritaire assistentie nodig hebben.",
@@ -918,16 +974,16 @@
         "inc4": "Cashflow-ondersteuning",
         "inc5": "BTW-positie evaluatie",
         "inc6": "Maandelijkse samenvatting",
-        "inc7": "Toegang tot VACEI-portal"
+        "inc7": "Toegang tot A4-portal"
       }
     },
     "credibility": {
       "title": "Ondersteund door A4 Services",
-      "p1": "Voor klanten in Malta wordt VACEI ondersteund door A4 Services, een gevestigd audit- en accountantskantoor in Malta.",
-      "p2": "Dit brengt professioneel toezicht, lokale ervaring en bekendheid met de regelgeving in Malta — terwijl VACEI uw belangrijkste portaal en service-ervaring blijft."
+      "p1": "Voor klanten in Malta wordt A4 ondersteund door A4 Services, een gevestigd audit- en accountantskantoor in Malta.",
+      "p2": "Dit brengt professioneel toezicht, lokale ervaring en bekendheid met de regelgeving in Malta — terwijl A4 uw belangrijkste portaal en service-ervaring blijft."
     },
     "testimonial": {
-      "quote": "\"Ik weet nu eindelijk precies waar mijn bedrijf staat, elke dag weer. VACEI heeft het giswerk weggenomen en me elke week uren teruggegeven.\"",
+      "quote": "\"Ik weet nu eindelijk precies waar mijn bedrijf staat, elke dag weer. A4 heeft het giswerk weggenomen en me elke week uren teruggegeven.\"",
       "author": "— Ondernemer in Malta"
     },
     "finalCta": {

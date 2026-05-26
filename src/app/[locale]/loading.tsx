@@ -9,7 +9,7 @@ export default function RootLoading() {
       <div className="flex flex-col items-center gap-4">
         <div className="relative w-16 h-16">
           <Image
-            src="/assets/images/Logo.png"
+            src="/assets/images/a4-logo-new.webp"
             alt="Loading..."
             fill
             priority

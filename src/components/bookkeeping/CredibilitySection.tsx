@@ -38,7 +38,7 @@ export default function CredibilitySection() {
             flexShrink: 0,
           }}
         >
-          <Building size={24} className="text-blue-500" />
+          <Building size={24} className="text-zinc-500" />
         </div>
         <div>
           <div

@@ -73,12 +73,12 @@ const QuoteProcess = () => {
           <FadeInUp>
             <SectionBadge
               text={t("quoteProcess.badge")}
-              className="bg-white border border-blue-100 text-[#3b49e6] shadow-sm"
+              className="bg-white border border-zinc-100 text-[#000000] shadow-sm"
             />
             <TextAnimation
               text={t("quoteProcess.title")}
               as="h2"
-              className="mt-6 text-3xl md:text-5xl font-medium text-[#1a1c35] tracking-tight"
+              className="mt-6 text-3xl md:text-5xl font-medium text-[#18181B] tracking-tight"
             />
             <p className="mt-4 text-gray-600 text-lg max-w-3xl mx-auto">{t("quoteProcess.subtitle")}</p>
           </FadeInUp>
@@ -88,7 +88,7 @@ const QuoteProcess = () => {
         <div className="mb-20">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 relative">
             {/* Connection Line (Desktop) */}
-            <div className="hidden lg:block absolute top-12 left-0 right-0 h-0.5 bg-gradient-to-r from-blue-200/50 via-blue-300/50 to-blue-200/50" style={{ width: 'calc(100% - 8rem)', left: '4rem' }} />
+            <div className="hidden lg:block absolute top-12 left-0 right-0 h-0.5 bg-gradient-to-r from-zinc-200/50 via-zinc-300/50 to-zinc-200/50" style={{ width: 'calc(100% - 8rem)', left: '4rem' }} />
             
             {steps.map((step, index) => (
               <motion.div
@@ -106,19 +106,19 @@ const QuoteProcess = () => {
                 )}>
                   {/* Number Badge */}
                   <div className={cn(
-                    "absolute -top-4 left-6 w-12 h-12 rounded-xl bg-[#3b49e6] flex items-center justify-center text-white font-bold shadow-lg shadow-blue-500/30 transition-transform duration-300",
+                    "absolute -top-4 left-6 w-12 h-12 rounded-xl bg-[#000000] flex items-center justify-center text-white font-bold shadow-lg shadow-zinc-500/30 transition-transform duration-300",
                     !isIPhone && !isLowPerformance && "group-hover:scale-110"
                   )}>
                     {step.number}
                   </div>
 
                   {/* Icon */}
-                  <div className="mt-8 mb-4 w-12 h-12 rounded-lg bg-blue-50 flex items-center justify-center text-[#3b49e6] border border-blue-100">
+                  <div className="mt-8 mb-4 w-12 h-12 rounded-lg bg-zinc-50 flex items-center justify-center text-[#000000] border border-zinc-100">
                     {step.icon}
                   </div>
 
                   {/* Content */}
-                  <h3 className="text-lg font-bold text-[#1a1c35] mb-3">
+                  <h3 className="text-lg font-bold text-[#18181B] mb-3">
                     {step.title}
                   </h3>
                   <p className="text-sm text-gray-600 leading-relaxed">
@@ -133,20 +133,20 @@ const QuoteProcess = () => {
         {/* Quote Includes Section */}
         <FadeInUp delay={0.3}>
           <div className={cn(
-            "border border-white/60 rounded-3xl p-8 md:p-12 shadow-2xl shadow-blue-100/30",
+            "border border-white/60 rounded-3xl p-8 md:p-12 shadow-2xl shadow-zinc-100/30",
             isIPhone || isLowPerformance ? "bg-white" : "bg-gradient-to-br from-white/80 to-white/60 backdrop-blur-xl"
           )}>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               {/* Left: Content */}
               <div>
-                <div className="inline-flex items-center gap-2 px-4 py-2 bg-blue-50 border border-blue-100 rounded-full mb-6">
+                <div className="inline-flex items-center gap-2 px-4 py-2 bg-zinc-50 border border-zinc-100 rounded-full mb-6">
                   <svg className="w-4 h-4 text-primary-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <span className="text-sm font-semibold text-[#3b49e6]">{t("quoteProcess.includesBadge")}</span>
+                  <span className="text-sm font-semibold text-[#000000]">{t("quoteProcess.includesBadge")}</span>
                 </div>
 
-                <h3 className="text-2xl md:text-3xl font-bold text-[#1a1c35] mb-4">{t("quoteProcess.everyTitle")}</h3>
+                <h3 className="text-2xl md:text-3xl font-bold text-[#18181B] mb-4">{t("quoteProcess.everyTitle")}</h3>
                 <p className="text-gray-600 mb-8 leading-relaxed">{t("quoteProcess.everyBody")}</p>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -159,12 +159,12 @@ const QuoteProcess = () => {
                       transition={{ delay: idx * 0.1 }}
                       className="flex items-center gap-3"
                     >
-                      <div className="w-6 h-6 rounded-full bg-[#3b49e6] flex items-center justify-center shrink-0">
+                      <div className="w-6 h-6 rounded-full bg-[#000000] flex items-center justify-center shrink-0">
                         <svg className="w-3.5 h-3.5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
                         </svg>
                       </div>
-                      <span className="text-sm font-medium text-[#1a1c35]">{item}</span>
+                      <span className="text-sm font-medium text-[#18181B]">{item}</span>
                     </motion.div>
                   ))}
                 </div>
@@ -208,8 +208,8 @@ const QuoteProcess = () => {
                 {/* Decorative Elements */}
                 {!isIPhone && !isLowPerformance && (
                   <>
-                    <div className="absolute -top-6 -right-6 w-32 h-32 bg-blue-200/30 rounded-full blur-2xl -z-10" />
-                    <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-blue-200/30 rounded-full blur-2xl -z-10" />
+                    <div className="absolute -top-6 -right-6 w-32 h-32 bg-zinc-200/30 rounded-full blur-2xl -z-10" />
+                    <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-zinc-200/30 rounded-full blur-2xl -z-10" />
                   </>
                 )}
               </div>
@@ -223,8 +223,8 @@ const QuoteProcess = () => {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           className={cn(
-            "mt-12 border border-blue-100 rounded-2xl p-6 flex items-start gap-4",
-            isIPhone || isLowPerformance ? "bg-blue-50" : "bg-blue-50/50 backdrop-blur-sm"
+            "mt-12 border border-zinc-100 rounded-2xl p-6 flex items-start gap-4",
+            isIPhone || isLowPerformance ? "bg-zinc-50" : "bg-zinc-50/50 backdrop-blur-sm"
           )}
         >
           <div className="w-10 h-10 rounded-lg bg-primary-blue/10 flex items-center justify-center shrink-0">

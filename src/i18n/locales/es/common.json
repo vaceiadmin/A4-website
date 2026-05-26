@@ -1,5 +1,5 @@
 {
-  "brand": "VACEI",
+  "brand": "A4",
   "glossary": {
     "getInstantQuote": "Obtener Presupuesto Instantáneo",
     "bookDemo": "Reservar una Demo",
@@ -55,13 +55,13 @@
       "bookkeeping": "Contabilidad",
       "accountingMalta": "Contabilidad Malta",
       "howItWorks": "Cómo funciona",
-      "about": "Sobre VACEI",
+      "about": "Sobre A4",
       "faqs": "FAQs",
       "contact": "Contacto",
       "security": "Seguridad y Cumplimiento"
     },
     "sidebar": {
-      "description": "VACEI es una firma moderna de servicios corporativos, contabilidad y auditoría construida en torno a una plataforma digital estructurada. Gestionamos el trabajo de principio a fin, utilizando nuestra propia tecnología para ofrecer claridad, velocidad y visibilidad.",
+      "description": "A4 es una firma moderna de servicios corporativos, contabilidad y auditoría construida en torno a una plataforma digital estructurada. Gestionamos el trabajo de principio a fin, utilizando nuestra propia tecnología para ofrecer claridad, velocidad y visibilidad.",
       "quickActions": "Acciones rápidas",
       "requestQuoteTitle": "Solicitar presupuesto",
       "requestQuoteSubtitle": "Comparta sus requisitos en pocos pasos.",
@@ -74,13 +74,13 @@
     }
   },
   "footer": {
-    "tagline": "VACEI es el espacio de trabajo digital estructurado donde las empresas y los fundadores gestionan servicios profesionales, cumplimiento y flujos de trabajo en un entorno seguro.",
+    "tagline": "A4 es el espacio de trabajo digital estructurado donde las empresas y los fundadores gestionan servicios profesionales, cumplimiento y flujos de trabajo en un entorno seguro.",
     "platform": "Plataforma",
     "overview": "Aperitivo",
     "howItWorks": "Cómo funciona",
     "pricing": "Precios",
     "security": "Seguridad y Cumplimiento",
-    "whyVacei": "Por qué VACEI",
+    "whyA4": "Por qué A4",
     "services": "Servicios",
     "corporate": "Servicios Corporativos",
     "audit": "Auditoría y Assurance",
@@ -89,7 +89,7 @@
     "legal": "Servicios Legales",
     "vatPayroll": "IVA y Nómina",
     "company": "Empresa",
-    "about": "Sobre VACEI",
+    "about": "Sobre A4",
     "faqs": "FAQs",
     "insights": "Insights",
     "whiteLabelLanding": "Plataforma White-Label",
@@ -97,11 +97,11 @@
     "contact": "Contacte con nosotros",
     "cpePodcast": "CPE y Podcast",
     "contactUs": "Contacto",
-    "disclaimer": "Los servicios profesionales a través de VACEI se prestan mediante una red de firmas profesionales verificadas. VACEI proporciona el entorno digital para gestionar estos encargos de forma eficiente y segura.",
+    "disclaimer": "Los servicios profesionales a través de A4 se prestan mediante una red de firmas profesionales verificadas. A4 proporciona el entorno digital para gestionar estos encargos de forma eficiente y segura.",
     "terms": "Términos y Condiciones",
     "privacy": "Política de Privacidad",
     "cookies": "Política de Cookies",
-    "copyright": "© 2026 What VACEI Is. Todos los derechos reservados."
+    "copyright": "© 2026 What A4 Is. Todos los derechos reservados."
   },
   "pageHeader": {
     "home": "Inicio"
@@ -119,7 +119,7 @@
     "botAskName": "Genial, ¿a qué nombre debemos dirigir nuestra respuesta?",
     "botAskEmail": "¡Gracias! ¿Cuál es el mejor correo para contactarle?",
     "botSuccess": "Gracias por su tiempo. Nuestro equipo revisará esta conversación y se pondrá en contacto lo antes posible.",
-    "botErrorSend": "No pudimos enviar su solicitud. Inténtelo de nuevo o escriba a info@vacei.com.",
+    "botErrorSend": "No pudimos enviar su solicitud. Inténtelo de nuevo o escriba a info@A4.com.",
     "submitErrorFailed": "Error al enviar.",
     "startNewChat": "Nuevo chat",
     "inputPlaceholder": "Escriba un mensaje…"

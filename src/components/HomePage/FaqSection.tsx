@@ -19,8 +19,8 @@ const FaqSection = () => {
     <section id="faq" className="relative w-full py-24 lg:py-32 bg-background overflow-hidden flex items-center min-h-[90vh] lg:min-h-[100vh] rounded-t-[48px] z-20">
       {/* Background Decorative Elements */}
       <div className="absolute inset-0 z-0 pointer-events-none">
-        <div className="absolute top-0 left-1/4 w-[50%] h-[50%] bg-blue-50 rounded-full blur-[160px]" />
-        <div className="absolute bottom-0 right-1/4 w-[50%] h-[50%] bg-blue-50 rounded-full blur-[160px]" />
+        <div className="absolute top-0 left-1/4 w-[50%] h-[50%] bg-zinc-50 rounded-full blur-[160px]" />
+        <div className="absolute bottom-0 right-1/4 w-[50%] h-[50%] bg-zinc-50 rounded-full blur-[160px]" />
         <div className="absolute inset-0 opacity-[0.03] mix-blend-overlay">
           <Image src="/assets/images/Noise.png" alt="Noise" fill className="object-cover" />
         </div>
@@ -32,12 +32,12 @@ const FaqSection = () => {
           {/* Left: Content & Accordion */}
           <div className="lg:col-span-5 order-2 lg:order-1">
             <div>
-              <span className="inline-flex items-center px-3 py-1.5 rounded-full bg-blue-50 border border-blue-100 text-blue-600 text-[10px] font-black uppercase tracking-widest mb-6">
+              <span className="inline-flex items-center px-3 py-1.5 rounded-full bg-zinc-50 border border-zinc-100 text-zinc-600 text-[10px] font-black uppercase tracking-widest mb-6">
                 {t("faqSection.badge")}
               </span>
               <h2 className="text-4xl md:text-6xl lg:text-7xl font-black text-slate-900 tracking-tight leading-[1.1] mb-6">
                 {t("faqSection.title")} <br />
-                <span className="text-blue-600">
+                <span className="text-zinc-600">
                     {t("faqSection.titleHighlight")}
                 </span>
               </h2>
@@ -56,8 +56,8 @@ const FaqSection = () => {
                     className={cn(
                       "group cursor-pointer rounded-2xl p-5 lg:p-6 transition-all duration-300 border relative overflow-hidden",
                       isOpen 
-                        ? "bg-white border-blue-200 shadow-2xl" 
-                        : "bg-white/50 border-slate-200/50 hover:border-blue-200 hover:bg-white"
+                        ? "bg-white border-zinc-200 shadow-2xl" 
+                        : "bg-white/50 border-slate-200/50 hover:border-zinc-200 hover:bg-white"
                     )}
                   >
                     <div className="flex items-center justify-between">
@@ -70,7 +70,7 @@ const FaqSection = () => {
                       <div
                         className={cn(
                             "transition-all duration-300",
-                            isOpen ? "text-blue-600 rotate-180" : "text-slate-400"
+                            isOpen ? "text-zinc-600 rotate-180" : "text-slate-400"
                         )}
                       >
                         <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -108,7 +108,7 @@ const FaqSection = () => {
               <div className="absolute top-10 -right-4 lg:right-0 w-[220px] lg:w-[280px] rounded-3xl bg-white border border-slate-100 p-6 shadow-[0_32px_64px_-16px_rgba(0,0,0,0.1)] z-20">
                 <div className="flex flex-col gap-3">
                   <div className="flex items-center justify-between">
-                    <span className="text-[9px] font-black tracking-widest text-blue-600 uppercase">{t("faqSection.healthLabel")}</span>
+                    <span className="text-[9px] font-black tracking-widest text-zinc-600 uppercase">{t("faqSection.healthLabel")}</span>
                     <div className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse" />
                   </div>
                   <div className="text-2xl lg:text-3xl font-black text-slate-900 tracking-tight">€ 23,691.29</div>
@@ -121,7 +121,7 @@ const FaqSection = () => {
                       <div 
                         key={i} 
                         style={{ height: `${h}%` }}
-                        className="flex-1 bg-blue-100 rounded-full" 
+                        className="flex-1 bg-zinc-100 rounded-full" 
                       />
                     ))}
                   </div>
@@ -159,13 +159,13 @@ const FaqSection = () => {
               {/* Contact Pill */}
               <div className="absolute top-[55%] left-1/2 -translate-x-1/2 -translate-y-1/2 z-20 lg:ml-28">
                 <div className="bg-white/95 backdrop-blur-xl border border-slate-200 rounded-full py-3.5 px-6 flex items-center gap-4 shadow-[0_20px_50px_rgba(0,0,0,0.1)]">
-                   <div className="h-9 w-9 rounded-full bg-blue-600 flex items-center justify-center shadow-lg shadow-blue-500/20">
+                   <div className="h-9 w-9 rounded-full bg-zinc-600 flex items-center justify-center shadow-lg shadow-zinc-500/20">
                       <svg className="w-4 h-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                         </svg>
                       </div>
                    <div className="flex flex-col">
-                      <span className="text-[8px] font-black text-blue-600 tracking-[0.2em] uppercase mb-0.5">{t("faqSection.supportLabel")}</span>
+                      <span className="text-[8px] font-black text-zinc-600 tracking-[0.2em] uppercase mb-0.5">{t("faqSection.supportLabel")}</span>
                       <span className="text-sm font-black text-slate-900 tracking-wide">+356 77142418</span>
                       <span className="text-sm font-black text-slate-900 tracking-wide">+44 07400 487907</span>
                 </div>

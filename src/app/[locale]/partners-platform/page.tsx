@@ -39,7 +39,7 @@ const PartnersPlatformPage = () => {
   const howItWorks = [
     {
       id: 1,
-      title: "Join the VACEI Platform",
+      title: "Join the A4 Platform",
       description: "Set up your firm profile and service areas.",
     },
     {
@@ -49,13 +49,13 @@ const PartnersPlatformPage = () => {
     },
     {
       id: 3,
-      title: "Deliver Through VACEI",
+      title: "Deliver Through A4",
       description: "Manage documents, workflows, and service delivery in one system.",
     },
     {
       id: 4,
       title: "Access the Network",
-      description: "Expand your capabilities through the VACEI Network when additional expertise is required.",
+      description: "Expand your capabilities through the A4 Network when additional expertise is required.",
     },
   ];
 
@@ -78,7 +78,7 @@ const PartnersPlatformPage = () => {
       id: 3,
       title: "Capture More Opportunities",
       description:
-        "Receive your clients’ requests directly and expand your services through trusted partners or the VACEI Network when needed.",
+        "Receive your clients’ requests directly and expand your services through trusted partners or the A4 Network when needed.",
       icon: TrendingUp,
     },
   ];
@@ -124,7 +124,7 @@ const PartnersPlatformPage = () => {
 
   const pricingFeatures = [
     "Full client workspaces",
-    "Access to the VACEI Network",
+    "Access to the A4 Network",
     "Built-in audit tools",
     "Built-in accounting tools",
     "Document and request management",
@@ -136,8 +136,8 @@ const PartnersPlatformPage = () => {
     <main className="min-h-screen bg-white">
       <WLHero
         title="Partner Platform"
-        subtitle="Run your firm on VACEI — and access new client opportunities"
-        overview="Receive your clients’ service requests directly through your portal. Handle them internally, allocate them to a trusted partner, or access the VACEI Network for additional expertise — all while remaining in control of the client relationship."
+        subtitle="Run your firm on A4 — and access new client opportunities"
+        overview="Receive your clients’ service requests directly through your portal. Handle them internally, allocate them to a trusted partner, or access the A4 Network for additional expertise — all while remaining in control of the client relationship."
         trustLine="Join a curated global network of professional firms — powered by a structured platform"
         ctaText="Book a Demo"
         secondaryCtaText="Apply to Join"
@@ -153,9 +153,9 @@ const PartnersPlatformPage = () => {
         <div className="relative z-10">
           <WLLiveRequests
             badgeLabel="Live Opportunities"
-            sectionTitle="Opportunities Across the VACEI Network"
+            sectionTitle="Opportunities Across the A4 Network"
             intro={
-              "A snapshot of service needs across the VACEI Network.\n\nOpportunities are accessed in a controlled way — ensuring firms maintain ownership of their clients while expanding their reach when needed."
+              "A snapshot of service needs across the A4 Network.\n\nOpportunities are accessed in a controlled way — ensuring firms maintain ownership of their clients while expanding their reach when needed."
             }
             requests={liveRequests}
           />
@@ -184,7 +184,7 @@ const PartnersPlatformPage = () => {
                 className="text-lg text-gray/80 font-medium leading-relaxed space-y-4 text-left sm:text-center"
               >
                 <p>Your firm remains in control of every client relationship.</p>
-                <p>All service requests from your clients come directly to you. You decide how they are handled — whether internally, through a trusted partner, or via the VACEI Network.</p>
+                <p>All service requests from your clients come directly to you. You decide how they are handled — whether internally, through a trusted partner, or via the A4 Network.</p>
                 <p className="font-black text-text-dark pt-2">Nothing is routed externally unless you choose.</p>
               </motion.div>
             </div>
@@ -199,7 +199,7 @@ const PartnersPlatformPage = () => {
           <WLBentoGrid
             sectionSubtitle="Platform capabilities"
             sectionTitle="Built to Run Your Firm"
-            sectionDescription="VACEI is not just a portal — it is where your firm delivers its services."
+            sectionDescription="A4 is not just a portal — it is where your firm delivers its services."
             items={capabilities}
           />
 
@@ -214,7 +214,7 @@ const PartnersPlatformPage = () => {
                 viewport={{ once: true }}
                 className="text-4xl sm:text-5xl font-black text-text-dark tracking-tight mb-8"
               >
-                Powered by the VACEI Network
+                Powered by the A4 Network
               </motion.h2>
               <motion.p
                 initial={{ opacity: 0, y: 16 }}
@@ -223,7 +223,7 @@ const PartnersPlatformPage = () => {
                 className="text-lg text-gray/80 font-medium leading-relaxed whitespace-pre-line"
               >
                 {
-                  "VACEI connects your firm to a curated global network of professional firms.\n\nAccess additional expertise, collaborate across jurisdictions, and expand your service offering — all within a structured and controlled environment."
+                  "A4 connects your firm to a curated global network of professional firms.\n\nAccess additional expertise, collaborate across jurisdictions, and expand your service offering — all within a structured and controlled environment."
                 }
               </motion.p>
             </div>
@@ -232,17 +232,17 @@ const PartnersPlatformPage = () => {
           <WLPricing
             badgeText="Pricing"
             title="Simple, scalable pricing"
-            description="Run your firm, manage your clients, and access the VACEI Network — all in one platform."
+            description="Run your firm, manage your clients, and access the A4 Network — all in one platform."
             price="€4"
             period="per client / month"
             startsFromText=""
-            footnoteText="Includes access to the VACEI Network, audit tools, accounting tools, and your full client workspace."
+            footnoteText="Includes access to the A4 Network, audit tools, accounting tools, and your full client workspace."
             features={pricingFeatures}
             capabilitiesText="Includes"
             fullAccessText="Full access"
             ctaText="Book a Demo"
             trustedAcrossEuropeText="Trusted by partner firms"
-            partnerLabelText="Across the VACEI Network"
+            partnerLabelText="Across the A4 Network"
             onCtaClick={goContact}
           />
         </div>
@@ -251,12 +251,12 @@ const PartnersPlatformPage = () => {
       <WLCTASection
         badge="Partner Network"
         title="Join a curated global network of professional firms"
-        subtitle="Run your firm on a structured platform, maintain full control of your clients, and access new opportunities through the VACEI Network."
+        subtitle="Run your firm on a structured platform, maintain full control of your clients, and access new opportunities through the A4 Network."
         ctaText="Book a Demo"
         secondaryCtaText="Apply to Join"
         onCtaClick={goContact}
         onSecondaryCtaClick={goContact}
-        footerLine="Professional services are delivered by each firm through the VACEI platform, with optional collaboration through the VACEI Network when required."
+        footerLine="Professional services are delivered by each firm through the A4 platform, with optional collaboration through the A4 Network when required."
       />
     </main>
   );

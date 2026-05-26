@@ -1,20 +1,27 @@
 {
   "about": {
-    "pageHeader": { "title": "Over Ons", "breadcrumbs": [ { "label": "Over Ons" } ] },
+    "pageHeader": {
+      "title": "Over Ons",
+      "breadcrumbs": [
+        {
+          "label": "Over Ons"
+        }
+      ]
+    },
     "features": [
       {
         "title": "Een modern kantoor voor boekhouding, audit en zakelijke dienstverlening",
-        "description": "VACEI is een professioneel kantoor voor boekhouding, audit en zakelijke diensten, gestructureerd rond één digitaal platform.",
-        "paragraph": "Wij leveren end-to-end diensten op het gebied van boekhouding, compliance, bedrijfsbeheer en audit door ervaren professionals te combineren met gedisciplineerde werkstromen en speciaal gebouwde technologie.\n\nVACEI is geen softwareproduct en geen marktplaats. Wij zijn een kantoor dat het werk voor u doet, ondersteund door een beveiligd en gestructureerd cliëntenportaal."
+        "description": "A4 is een professioneel kantoor voor boekhouding, audit en zakelijke diensten, gestructureerd rond één digitaal platform.",
+        "paragraph": "Wij leveren end-to-end diensten op het gebied van boekhouding, compliance, bedrijfsbeheer en audit door ervaren professionals te combineren met gedisciplineerde werkstromen en speciaal gebouwde technologie.\n\nA4 is geen softwareproduct en geen marktplaats. Wij zijn een kantoor dat het werk voor u doet, ondersteund door een beveiligd en gestructureerd cliëntenportaal."
       },
       {
-        "title": "Waarom VACEI is opgericht",
+        "title": "Waarom A4 is opgericht",
         "description": "Traditionele professionele diensten leunen zwaar op e-mail, spreadsheets en gefragmenteerde tools. Dit leidt vaak tot inefficiëntie, beperkt zicht en onnodige operationele risico's.",
-        "paragraph": "VACEI is ontworpen om de levering van boekhoud- en auditdiensten te moderniseren zonder concessies te doen aan professionele verantwoordelijkheid of kwaliteit.\n\nOnze aanpak legt de nadruk op structuur, zichtbaarheid en verantwoording, ondersteund door technologie die betere dienstverlening bevordert in plaats van het professionele oordeel te vervangen."
+        "paragraph": "A4 is ontworpen om de levering van boekhoud- en auditdiensten te moderniseren zonder concessies te doen aan professionele verantwoordelijkheid of kwaliteit.\n\nOnze aanpak legt de nadruk op structuur, zichtbaarheid en verantwoording, ondersteund door technologie die betere dienstverlening bevordert in plaats van het professionele oordeel te vervangen."
       }
     ],
     "serviceFeatures": {
-      "title": "Wat VACEI anders maakt",
+      "title": "Wat A4 anders maakt",
       "subtitle": "Vraag een heldere offerte aan op basis van uw onderneming.",
       "groups": [
         {
@@ -50,7 +57,7 @@
       "mission": {
         "title": "Onze Missie",
         "paragraphs": [
-          "De missie van VACEI is om boekhoud-, audit- en zakelijke diensten te leveren op een manier die gestructureerd, transparant en verantwoordelijk is.",
+          "De missie van A4 is om boekhoud-, audit- en zakelijke diensten te leveren op een manier die gestructureerd, transparant en verantwoordelijk is.",
           "Wij elimineren fragmentatie, onzekerheid en inefficiëntie in de professionele dienstverlening door ervaren teams te combineren met duidelijke werkstromen en speciaal gebouwde systemen.",
           "Onze focus ligt op het correct en tijdig uitvoeren van het werk, in overeenstemming met professionele en wettelijke normen, terwijl we cliënten volledig zicht bieden zonder operationele last."
         ]
@@ -60,21 +67,37 @@
         "paragraphs": [
           "Onze visie is om de manier waarop professionele boekhouding en auditdiensten worden geleverd in een moderne, digitaal gerichte omgeving opnieuw te definiëren.",
           "Wij voorzien een toekomst waarin gestructureerde werkstromen, duidelijk eigenaarschap en geïntegreerde technologie cliënten realtime inzicht bieden, in plaats van te vertrouwen op reactieve updates.",
-          "VACEI bouwt aan deze toekomst door mensen, processen en technologie op één lijn te brengen in een geïntegreerd leveringsmodel dat professionals ondersteunt zonder hun oordeel te vervangen."
+          "A4 bouwt aan deze toekomst door mensen, processen en technologie op één lijn te brengen in een geïntegreerd leveringsmodel dat professionals ondersteunt zonder hun oordeel te vervangen."
         ]
       }
     }
   },
   "contact": {
-    "pageHeader": { "title": "Contact", "breadcrumbs": [ { "label": "Contact" } ] },
+    "pageHeader": {
+      "title": "Contact",
+      "breadcrumbs": [
+        {
+          "label": "Contact"
+        }
+      ]
+    },
     "form": {
       "badge": "Neem contact op",
       "title": "Stuur ons een bericht",
       "description": "Deel enkele details over wat u zoekt en ons team neemt contact met u op voor de volgende stappen.",
       "fields": {
-        "name": { "label": "Volledige Naam", "placeholder": "Uw naam" },
-        "email": { "label": "E-mailadres", "placeholder": "uw.email@voorbeeld.nl" },
-        "message": { "label": "Bericht", "placeholder": "Uw bericht" }
+        "name": {
+          "label": "Volledige Naam",
+          "placeholder": "Uw naam"
+        },
+        "email": {
+          "label": "E-mailadres",
+          "placeholder": "uw.email@voorbeeld.nl"
+        },
+        "message": {
+          "label": "Bericht",
+          "placeholder": "Uw bericht"
+        }
       },
       "submit": "Verzenden",
       "submitting": "Verzenden...",
@@ -96,9 +119,21 @@
     "info": {
       "title": "Contactinformatie",
       "description": "Geeft u de voorkeur aan e-mail, een kort telefoontje of een persoonlijk gesprek? Kies wat het beste bij u past.",
-      "email": { "label": "E-mail", "value": "info@vacei.com" },
-      "phone": { "label": "Telefoon", "values": [ "+356 77142418", "+44 07400 487907" ] },
-      "address": { "label": "Adres", "value": "A4, Triq San Giljan, San Gwann, Malta." },
+      "email": {
+        "label": "E-mail",
+        "value": "info@A4.com"
+      },
+      "phone": {
+        "label": "Telefoon",
+        "values": [
+          "+356 77142418",
+          "+44 07400 487907"
+        ]
+      },
+      "address": {
+        "label": "Adres",
+        "value": "A4, Triq San Giljan, San Gwann, Malta."
+      },
       "cta": {
         "title": "Liever bellen?",
         "button": "Boek een gratis gesprek van 15 minuten"
@@ -106,25 +141,46 @@
     }
   },
   "quote": {
-    "pageHeader": { "title": "Offerte Aanvragen", "breadcrumbs": [ { "label": "Offerte Aanvragen" } ] }
+    "pageHeader": {
+      "title": "Offerte Aanvragen",
+      "breadcrumbs": [
+        {
+          "label": "Offerte Aanvragen"
+        }
+      ]
+    }
   },
   "pricing": {
-    "pageHeader": { "title": "Tarieven", "breadcrumbs": [ { "label": "Tarieven" } ] }
+    "pageHeader": {
+      "title": "Tarieven",
+      "breadcrumbs": [
+        {
+          "label": "Tarieven"
+        }
+      ]
+    }
   },
   "faq": {
-    "pageHeader": { "title": "Veelgestelde Vragen", "breadcrumbs": [ { "label": "FAQ" } ] },
+    "pageHeader": {
+      "title": "Veelgestelde Vragen",
+      "breadcrumbs": [
+        {
+          "label": "FAQ"
+        }
+      ]
+    },
     "accordion": [
       {
         "title": "Verduidelijking",
-        "content": "VACEI is een kantoor voor boekhouding, audit en zakelijke diensten dat via een gestructureerd digitaal platform werk levert. Cliënten hebben interactie via één portaal, terwijl onze teams de uitvoering en compliance intern beheren."
+        "content": "A4 is een kantoor voor boekhouding, audit en zakelijke diensten dat via een gestructureerd digitaal platform werk levert. Cliënten hebben interactie via één portaal, terwijl onze teams de uitvoering en compliance intern beheren."
       },
       {
         "title": "Moet ik specifieke boekhoudsoftware gebruiken?",
-        "content": "Nee, dat hoeft niet. VACEI biedt een volledig digitaal platform waarop al uw diensten worden beheerd. Cliënten gebruiken ons portaal en onze teams regelen de technische aspecten intern."
+        "content": "Nee, dat hoeft niet. A4 biedt een volledig digitaal platform waarop al uw diensten worden beheerd. Cliënten gebruiken ons portaal en onze teams regelen de technische aspecten intern."
       },
       {
-        "title": "Voor wie is VACEI bedoeld?",
-        "content": "VACEI is voor bedrijven van elke omvang die behoefte hebben aan gestructureerde professionele diensten. Of u nu een startup bent of een gevestigde onderneming, ons platform maakt efficiënt beheer van financiën en compliance eenvoudig."
+        "title": "Voor wie is A4 bedoeld?",
+        "content": "A4 is voor bedrijven van elke omvang die behoefte hebben aan gestructureerde professionele diensten. Of u nu een startup bent of een gevestigde onderneming, ons platform maakt efficiënt beheer van financiën en compliance eenvoudig."
       }
     ],
     "categories": [
@@ -133,12 +189,12 @@
         "titleHighlight": "Uitvoering",
         "questions": [
           {
-            "question": "Welke diensten levert VACEI?",
-            "answer": "VACEI levert boekhouding, administratie, btw, loonadministratie, audit en gerelateerde bedrijfsdiensten."
+            "question": "Welke diensten levert A4?",
+            "answer": "A4 levert boekhouding, administratie, btw, loonadministratie, audit en gerelateerde bedrijfsdiensten."
           },
           {
-            "question": "Hoe beheert VACEI deadlines en opdrachten?",
-            "answer": "VACEI gebruikt gestructureerde werkstromen en interne portalen om alle deadlines te bewaken. De voortgang is zichtbaar via het Cliëntenportaal."
+            "question": "Hoe beheert A4 deadlines en opdrachten?",
+            "answer": "A4 gebruikt gestructureerde werkstromen en interne portalen om alle deadlines te bewaken. De voortgang is zichtbaar via het Cliëntenportaal."
           },
           {
             "question": "Krijg ik een vast team?",
@@ -155,7 +211,7 @@
             "answer": "Documenten worden veilig geüpload via het Cliëntenportaal, waar verzoeken en inzendingen op één plek worden bijgehouden."
           },
           {
-            "question": "Hoe communiceer ik met mijn VACEI-team?",
+            "question": "Hoe communiceer ik met mijn A4-team?",
             "answer": "Communicatie verloopt via het Cliëntenportaal, waar u berichten kunt sturen en alle interacties met uw team kunt volgen."
           }
         ]
@@ -165,11 +221,11 @@
         "titleHighlight": "Portalen",
         "questions": [
           {
-            "question": "Gebruikt VACEI technologie bij haar diensten?",
-            "answer": "Ja. VACEI gebruikt interne portalen en tools voor werkstroombeheer en kwaliteitscontroles, wat de efficiëntie en traceerbaarheid verhoogt."
+            "question": "Gebruikt A4 technologie bij haar diensten?",
+            "answer": "Ja. A4 gebruikt interne portalen en tools voor werkstroombeheer en kwaliteitscontroles, wat de efficiëntie en traceerbaarheid verhoogt."
           },
           {
-            "question": "Kunnen kantoren toegang krijgen tot de technologie van VACEI?",
+            "question": "Kunnen kantoren toegang krijgen tot de technologie van A4?",
             "answer": "Bepaalde onderdelen van onze technologie kunnen beschikbaar worden gesteld aan kantoren via partnerships of licenties. Neem contact op voor meer informatie."
           }
         ]
@@ -191,61 +247,198 @@
     ]
   },
   "cookie-policy": {
-    "pageHeader": { "title": "Cookiebeleid", "breadcrumbs": [ { "label": "Cookiebeleid" } ] },
+    "pageHeader": {
+      "title": "Cookiebeleid",
+      "breadcrumbs": [
+        {
+          "label": "Cookiebeleid"
+        }
+      ]
+    },
     "intro": "Dit cookiebeleid legt uit hoe wij cookies en soortgelijke technologieën op deze website gebruiken.",
     "sections": [
-      { "heading": "1. Wat zijn cookies?", "body": "Cookies zijn kleine tekstbestanden die op uw apparaat worden geplaatst bij een websitebezoek. Ze helpen de site uw apparaat te herkennen en voorkeuren of eerdere acties te onthouden. Sommige zijn essentieel, andere verbeteren prestaties of analyseren gebruik." },
-      { "heading": "2. Hoe wij cookies gebruiken", "paragraphs": [ "Wij gebruiken cookies om de werking van deze site en portalen te ondersteunen, om te begrijpen hoe bezoekers onze pagina's gebruiken en om de informatiepresentatie te verbeteren. Soms helpen ze ons keuzes te onthouden (taal, regio).", "Wij streven naar een evenwichtig gebruik van cookies dat een gestructureerde, professionele gebruikerservaring ondersteunt — niet tracking omwille van tracking." ] },
-      { "heading": "3. Soorten cookies die wij gebruiken", "intro": "De gebruikte cookies kunnen in de loop der tijd veranderen, maar vallen over het algemeen in de volgende categorieën:", "list": [ { "label": "Strikt noodzakelijke cookies", "text": "– vereist voor de goede werking van de site en beveiligde delen van de portalen." }, { "label": "Prestatie- en analytische cookies", "text": "– helpen ons te begrijpen hoe bezoekers de site gebruiken om navigatie en inhoud te verbeteren." }, { "label": "Functionele cookies", "text": "– zorgen dat voorkeuren worden onthouden voor een persoonlijkere ervaring." }, { "label": "Beveiligings- en sessiecookies", "text": "– ondersteunen veilig inloggen en beschermen accounts tegen onbevoegde toegang." } ] },
-      { "heading": "4. Cookies van derden", "paragraphs": [ "Naast onze eigen cookies kunnen wij cookies van derden gebruiken die door vertrouwde partners worden geleverd, voor analyses, prestatiebewaking, ingesloten content of integratie met andere tools die wij gebruiken om onze diensten te leveren en te onderhouden.", "Waar cookies van derden worden gebruikt, kunnen die partijen informatie over uw online activiteiten in de loop van de tijd en op verschillende websites verzamelen, in overeenstemming met hun eigen privacy- en cookiepraktijken. Wij streven ernaar alleen samen te werken met aanbieders waarvan de praktijken passen bij een professionele dienstverleningsomgeving." ] },
-      { "heading": "5. Beheer van cookies", "paragraphs": [ "U kunt cookies op verschillende manieren beheren. De meeste browsers laten u toe opgeslagen cookies te bekijken en te verwijderen, specifieke typen te blokkeren of cookies tot bepaalde sites te beperken. De werkwijze verschilt per browser; raadpleeg de help of instellingen van uw browser voor actuele instructies.", "Als u bepaalde cookies blokkeert of verwijdert, werken sommige onderdelen van de site of het portaal mogelijk niet zoals bedoeld en heeft u mogelijk geen toegang tot bepaalde functies of beveiligde gebieden." ] },
-      { "heading": "6. Relatie met ons Privacybeleid", "body": "Informatie die via cookies en soortgelijke technologieën wordt verzameld, kan worden gecombineerd met andere gegevens die wij over u bewaren, bijvoorbeeld gegevens die u bij het invullen van een formulier, het aanvragen van een offerte of het gebruik van het cliëntenportaal verstrekt. Ons gebruik van die informatie wordt nader beschreven in ons Privacybeleid, dat samen met dit cookiebeleid moet worden gelezen." },
-      { "heading": "7. Updates", "paragraphs": [ "Wij kunnen dit cookiebeleid van tijd tot tijd bijwerken, bijvoorbeeld om wijzigingen in de cookies die wij gebruiken, updates van toepasselijke regelgeving of verbeteringen aan onze technologie en diensten weer te geven. Bij wezenlijke wijzigingen passen wij de ingangsdatum hieronder aan en geven wij indien passend aanvullende kennisgeving." ], "lastUpdatedLabel": "Laatst bijgewerkt op:" }
+      {
+        "heading": "1. Wat zijn cookies?",
+        "body": "Cookies zijn kleine tekstbestanden die op uw apparaat worden geplaatst bij een websitebezoek. Ze helpen de site uw apparaat te herkennen en voorkeuren of eerdere acties te onthouden. Sommige zijn essentieel, andere verbeteren prestaties of analyseren gebruik."
+      },
+      {
+        "heading": "2. Hoe wij cookies gebruiken",
+        "paragraphs": [
+          "Wij gebruiken cookies om de werking van deze site en portalen te ondersteunen, om te begrijpen hoe bezoekers onze pagina's gebruiken en om de informatiepresentatie te verbeteren. Soms helpen ze ons keuzes te onthouden (taal, regio).",
+          "Wij streven naar een evenwichtig gebruik van cookies dat een gestructureerde, professionele gebruikerservaring ondersteunt — niet tracking omwille van tracking."
+        ]
+      },
+      {
+        "heading": "3. Soorten cookies die wij gebruiken",
+        "intro": "De gebruikte cookies kunnen in de loop der tijd veranderen, maar vallen over het algemeen in de volgende categorieën:",
+        "list": [
+          {
+            "label": "Strikt noodzakelijke cookies",
+            "text": "– vereist voor de goede werking van de site en beveiligde delen van de portalen."
+          },
+          {
+            "label": "Prestatie- en analytische cookies",
+            "text": "– helpen ons te begrijpen hoe bezoekers de site gebruiken om navigatie en inhoud te verbeteren."
+          },
+          {
+            "label": "Functionele cookies",
+            "text": "– zorgen dat voorkeuren worden onthouden voor een persoonlijkere ervaring."
+          },
+          {
+            "label": "Beveiligings- en sessiecookies",
+            "text": "– ondersteunen veilig inloggen en beschermen accounts tegen onbevoegde toegang."
+          }
+        ]
+      },
+      {
+        "heading": "4. Cookies van derden",
+        "paragraphs": [
+          "Naast onze eigen cookies kunnen wij cookies van derden gebruiken die door vertrouwde partners worden geleverd, voor analyses, prestatiebewaking, ingesloten content of integratie met andere tools die wij gebruiken om onze diensten te leveren en te onderhouden.",
+          "Waar cookies van derden worden gebruikt, kunnen die partijen informatie over uw online activiteiten in de loop van de tijd en op verschillende websites verzamelen, in overeenstemming met hun eigen privacy- en cookiepraktijken. Wij streven ernaar alleen samen te werken met aanbieders waarvan de praktijken passen bij een professionele dienstverleningsomgeving."
+        ]
+      },
+      {
+        "heading": "5. Beheer van cookies",
+        "paragraphs": [
+          "U kunt cookies op verschillende manieren beheren. De meeste browsers laten u toe opgeslagen cookies te bekijken en te verwijderen, specifieke typen te blokkeren of cookies tot bepaalde sites te beperken. De werkwijze verschilt per browser; raadpleeg de help of instellingen van uw browser voor actuele instructies.",
+          "Als u bepaalde cookies blokkeert of verwijdert, werken sommige onderdelen van de site of het portaal mogelijk niet zoals bedoeld en heeft u mogelijk geen toegang tot bepaalde functies of beveiligde gebieden."
+        ]
+      },
+      {
+        "heading": "6. Relatie met ons Privacybeleid",
+        "body": "Informatie die via cookies en soortgelijke technologieën wordt verzameld, kan worden gecombineerd met andere gegevens die wij over u bewaren, bijvoorbeeld gegevens die u bij het invullen van een formulier, het aanvragen van een offerte of het gebruik van het cliëntenportaal verstrekt. Ons gebruik van die informatie wordt nader beschreven in ons Privacybeleid, dat samen met dit cookiebeleid moet worden gelezen."
+      },
+      {
+        "heading": "7. Updates",
+        "paragraphs": [
+          "Wij kunnen dit cookiebeleid van tijd tot tijd bijwerken, bijvoorbeeld om wijzigingen in de cookies die wij gebruiken, updates van toepasselijke regelgeving of verbeteringen aan onze technologie en diensten weer te geven. Bij wezenlijke wijzigingen passen wij de ingangsdatum hieronder aan en geven wij indien passend aanvullende kennisgeving."
+        ],
+        "lastUpdatedLabel": "Laatst bijgewerkt op:"
+      }
     ]
   },
   "coming-soon": {
     "badge": "In ontwikkeling",
     "title": "Deze pagina is binnenkort beschikbaar",
-    "description": "We leggen de laatste hand aan dit gedeelte van het VACEI-platform. In de tussentijd kunt u onze bestaande producten verkennen of een offerte aanvragen.",
+    "description": "We leggen de laatste hand aan dit gedeelte van het A4-platform. In de tussentijd kunt u onze bestaande producten verkennen of een offerte aanvragen.",
     "viewAiReview": "Bekijk AI Review"
   },
   "resources": {
-    "pageHeader": { "title": "Resources", "breadcrumbs": [ { "label": "Resources" } ] },
+    "pageHeader": {
+      "title": "Resources",
+      "breadcrumbs": [
+        {
+          "label": "Resources"
+        }
+      ]
+    },
     "visit": "Bezoek",
     "links": [
-      { "label": "Insights", "href": "/insights", "description": "Artikelen over boekhouding, audit, compliance en groei." },
-      { "label": "Hoe het werkt", "href": "/how-it-works", "description": "Eén portaal. Eén team. Alles geregeld." },
-      { "label": "Over VACEI", "href": "/about", "description": "Onze historie en aanpak." },
-      { "label": "FAQs", "href": "/faq", "description": "Veelgestelde vragen." },
-      { "label": "Beveiliging & Compliance", "href": "/security-compliance", "description": "Hoe wij uw gegevens veilig houden." },
-      { "label": "Directe offerte", "href": "/quote", "description": "Vraag een heldere offerte aan voor uw onderneming." },
-      { "label": "CPE & Podcast", "href": "/cpe", "description": "Permanente educatie en inzichten." }
+      {
+        "label": "Insights",
+        "href": "/insights",
+        "description": "Artikelen over boekhouding, audit, compliance en groei."
+      },
+      {
+        "label": "Hoe het werkt",
+        "href": "/how-it-works",
+        "description": "Eén portaal. Eén team. Alles geregeld."
+      },
+      {
+        "label": "Over A4",
+        "href": "/about",
+        "description": "Onze historie en aanpak."
+      },
+      {
+        "label": "FAQs",
+        "href": "/faq",
+        "description": "Veelgestelde vragen."
+      },
+      {
+        "label": "Beveiliging & Compliance",
+        "href": "/security-compliance",
+        "description": "Hoe wij uw gegevens veilig houden."
+      },
+      {
+        "label": "Directe offerte",
+        "href": "/quote",
+        "description": "Vraag een heldere offerte aan voor uw onderneming."
+      },
+      {
+        "label": "CPE & Podcast",
+        "href": "/cpe",
+        "description": "Permanente educatie en inzichten."
+      }
     ]
   },
   "how-it-works": {
-    "pageHeader": { "title": "Hoe het werkt", "breadcrumbs": [ { "label": "Hoe het werkt" } ] },
+    "pageHeader": {
+      "title": "Hoe het werkt",
+      "breadcrumbs": [
+        {
+          "label": "Hoe het werkt"
+        }
+      ]
+    },
     "steps": [
-      { "id": "step-1", "number": "01.", "title": "Vertel ons over uw bedrijf", "description": "U beantwoordt een korte reeks vragen over uw behoeften en huidige situatie, zodat wij u goed kunnen begrijpen.", "image": "/assets/images/Tell Us About Your Business.png" },
-      { "id": "step-2", "number": "02.", "title": "Ontvang een heldere offerte", "description": "U krijgt een gedetailleerde offerte per e-mail met diensten, prijzen, tijdlijnen en stappen. Geheel vrijblijvend.", "image": "/assets/images/Receive a Quote.png" },
-      { "id": "step-3", "number": "03.", "title": "Onboarding en datamigratie", "description": "Na acceptatie richten we uw account in en regelen we de datamigratie zonder dat u systemen hoeft voor te bereiden.", "image": "/assets/images/Onboarding and Data Migration.png" },
-      { "id": "step-4", "number": "04.", "title": "Vast VACEI-team toegewezen", "description": "Een vast team wordt aan uw account toegewezen als uw primaire aanspreekpunt voor de dienstverlening.", "image": "/assets/images/Dedicated VACEI Team Assigned.png" },
-      { "id": "step-5", "number": "05.", "title": "Werk geleverd via Cliëntenportaal", "description": "Alles wordt beheerd in uw beveiligde portaal: documenten uploaden, taken volgen, communiceren en rapporten inzien.", "image": "/assets/images/Work Delivered via Client Portal (1).png" }
+      {
+        "id": "step-1",
+        "number": "01.",
+        "title": "Vertel ons over uw bedrijf",
+        "description": "U beantwoordt een korte reeks vragen over uw behoeften en huidige situatie, zodat wij u goed kunnen begrijpen.",
+        "image": "/assets/images/Tell Us About Your Business.png"
+      },
+      {
+        "id": "step-2",
+        "number": "02.",
+        "title": "Ontvang een heldere offerte",
+        "description": "U krijgt een gedetailleerde offerte per e-mail met diensten, prijzen, tijdlijnen en stappen. Geheel vrijblijvend.",
+        "image": "/assets/images/Receive a Quote.png"
+      },
+      {
+        "id": "step-3",
+        "number": "03.",
+        "title": "Onboarding en datamigratie",
+        "description": "Na acceptatie richten we uw account in en regelen we de datamigratie zonder dat u systemen hoeft voor te bereiden.",
+        "image": "/assets/images/Onboarding and Data Migration.png"
+      },
+      {
+        "id": "step-4",
+        "number": "04.",
+        "title": "Vast A4-team toegewezen",
+        "description": "Een vast team wordt aan uw account toegewezen als uw primaire aanspreekpunt voor de dienstverlening.",
+        "image": "/assets/images/Dedicated A4 Team Assigned.png"
+      },
+      {
+        "id": "step-5",
+        "number": "05.",
+        "title": "Werk geleverd via Cliëntenportaal",
+        "description": "Alles wordt beheerd in uw beveiligde portaal: documenten uploaden, taken volgen, communiceren en rapporten inzien.",
+        "image": "/assets/images/Work Delivered via Client Portal (1).png"
+      }
     ],
     "timelineSection": {
       "badge": "Hoe het werkt",
       "title": "Overzicht",
-      "subtitle": "VACEI is eenvoudig om te starten en overzichtelijk in gebruik. Van de eerste aanvraag tot de doorlopende levering: alles volgt een duidelijk, gestructureerd proces."
+      "subtitle": "A4 is eenvoudig om te starten en overzichtelijk in gebruik. Van de eerste aanvraag tot de doorlopende levering: alles volgt een duidelijk, gestructureerd proces."
     },
     "ongoingSupport": {
       "title": "Doorlopende ondersteuning en zichtbaarheid",
-      "p1": "VACEI beheert uw diensten op continue basis.",
+      "p1": "A4 beheert uw diensten op continue basis.",
       "p2": "Het platform volgt deadlines en voortgang, waardoor u constant zicht heeft op uw boekhoudkundige, fiscale en audit-verplichtingen.",
       "imageAltBg": "Achtergrond doorlopende ondersteuning",
       "imageAltOverlay": "Overlay projectvoortgang"
     }
   },
   "insights": {
-    "pageHeader": { "title": "Insights", "breadcrumbs": [ { "label": "Insights" } ] },
+    "pageHeader": {
+      "title": "Insights",
+      "breadcrumbs": [
+        {
+          "label": "Insights"
+        }
+      ]
+    },
     "subtitle": "Gestructureerd denken over boekhouding, audit, compliance en professionele groei.",
     "searchPlaceholder": "Zoek artikelen...",
     "allTopics": "Alle onderwerpen",
@@ -261,7 +454,7 @@
     "article": {
       "linkCopied": "Link gekopieerd naar het klembord!",
       "writtenBy": "Geschreven door",
-      "teamLine": "VACEI Insights-team",
+      "teamLine": "A4 Insights-team",
       "published": "Gepubliceerd",
       "readingTime": "Leestijd",
       "shareInsight": "Insight delen",
@@ -270,7 +463,7 @@
       "needAuditBody": "Neem contact op met erkende auditors en stroomlijn uw compliance.",
       "getStarted": "Aan de slag",
       "relatedTitle": "Gerelateerde insights",
-      "relatedSubtitle": "Meer gestructureerd denken van het VACEI-team over professionele groei en compliance.",
+      "relatedSubtitle": "Meer gestructureerd denken van het A4-team over professionele groei en compliance.",
       "viewAllInsights": "Alle insights bekijken",
       "defaultTag": "Insight",
       "tagsHeading": "Tags"
@@ -290,10 +483,17 @@
     "viewAllArticles": "Alle artikelen bekijken"
   },
   "technology": {
-    "pageHeader": { "title": "Onze Technologie", "breadcrumbs": [ { "label": "Onze Technologie" } ] },
+    "pageHeader": {
+      "title": "Onze Technologie",
+      "breadcrumbs": [
+        {
+          "label": "Onze Technologie"
+        }
+      ]
+    },
     "overview": {
       "title": "Onze Technologie",
-      "p1": "VACEI levert boekhoud- en auditdiensten via een gestructureerde digitale omgeving die is ontworpen om nauwkeurigheid, consistentie en kwaliteit te ondersteunen.",
+      "p1": "A4 levert boekhoud- en auditdiensten via een gestructureerde digitale omgeving die is ontworpen om nauwkeurigheid, consistentie en kwaliteit te ondersteunen.",
       "p2": "Het brengt planning, documentatie, bewijsvoering, communicatie, reviews en aftekening samen in één gestructureerde workflow, waardoor audits efficiënt en consistent worden opgeleverd. Onze technologie is geen afzonderlijk productaanbod en vervangt het professionele oordeel niet. Het bestaat om de manier waarop onze teams werken te ondersteunen, wrijving te verminderen en ervoor te zorgen dat werk op een gecontroleerde, transparante manier wordt geleverd, in lijn met professionele standaarden.",
       "p3": "Cliënten hebben interactie via één Cliëntenportaal. Achter de schermen gebruiken onze boekhoud- en auditteams gespecialiseerde interne portalen en tools om workflows, reviews, documentatie en compliance te beheren.",
       "backgroundAlt": "Technologie Achtergrond",
@@ -314,7 +514,7 @@
       "closingText": "Werkstromen zijn gestructureerd zodat taken in de juiste volgorde worden uitgevoerd, met heldere verantwoordelijkheden en zichtbare voortgang.",
       "bottomTitle": "Onze Technologie",
       "bottomDescription": "Documenten, taken, deadlines en communicatie op één plek.",
-      "quoteText": "Goede kantoren vertrouwen op ervaring. Geweldige kantoren vertrouwen op structuur. VACEI bestaat om die structuur zichtbaar, auditeerbaar en schaalbaar te maken."
+      "quoteText": "Goede kantoren vertrouwen op ervaring. Geweldige kantoren vertrouwen op structuur. A4 bestaat om die structuur zichtbaar, auditeerbaar en schaalbaar te maken."
     },
     "component": {
       "badge": "TECHNOLOGIE",
@@ -328,7 +528,7 @@
         },
         {
           "title": "Boekhoudportaal",
-          "description": "Het interne portaal voor VACEI-boekhoudteams om maandelijkse workflows, boekingen, reviews, btw, loonadministratie en integraties te beheren."
+          "description": "Het interne portaal voor A4-boekhoudteams om maandelijkse workflows, boekingen, reviews, btw, loonadministratie en integraties te beheren."
         },
         {
           "title": "Auditportaal",
@@ -342,7 +542,7 @@
     },
     "regulated": {
       "title": "Ontworpen voor gereguleerde omgevingen",
-      "intro": "Alle door VACEI gebruikte technologie is ontworpen ter ondersteuning van:",
+      "intro": "Alle door A4 gebruikte technologie is ontworpen ter ondersteuning van:",
       "features": [
         "Rolgebaseerde toegang en machtigingen",
         "Gecontroleerde workflows en goedkeuringen",
@@ -356,40 +556,76 @@
       },
       "handleTitle": "Wij Handelen met Zorg",
       "workspaceCards": [
-        { "title": "Boekhouding", "description": "Maandelijkse boeken, aansluiting en rapporten", "status": "Wachtend", "links": ["Open werkruimte", "Open"] },
-        { "title": "Documentatie", "description": "Centrale documentkluis en verzoeken", "links": ["Open", "Open werkruimte"] },
-        { "title": "Boekhoudwerkruimte", "description": "Centrale documentkluis en verzoeken", "links": ["Open", "Open werkruimte"] },
-        { "title": "Auditwerkruimte", "description": "Opdracht, PBC's, vragen, rapporten", "links": ["Open", "Open werkruimte"] }
+        {
+          "title": "Boekhouding",
+          "description": "Maandelijkse boeken, aansluiting en rapporten",
+          "status": "Wachtend",
+          "links": [
+            "Open werkruimte",
+            "Open"
+          ]
+        },
+        {
+          "title": "Documentatie",
+          "description": "Centrale documentkluis en verzoeken",
+          "links": [
+            "Open",
+            "Open werkruimte"
+          ]
+        },
+        {
+          "title": "Boekhoudwerkruimte",
+          "description": "Centrale documentkluis en verzoeken",
+          "links": [
+            "Open",
+            "Open werkruimte"
+          ]
+        },
+        {
+          "title": "Auditwerkruimte",
+          "description": "Opdracht, PBC's, vragen, rapporten",
+          "links": [
+            "Open",
+            "Open werkruimte"
+          ]
+        }
       ]
     }
   },
   "partners": {
-    "pageHeader": { "title": "Partner Worden bij VACEI", "breadcrumbs": [ { "label": "Partners" } ] },
-    "collaborationTitle": "Partner Worden bij VACEI",
+    "pageHeader": {
+      "title": "Partner Worden bij A4",
+      "breadcrumbs": [
+        {
+          "label": "Partners"
+        }
+      ]
+    },
+    "collaborationTitle": "Partner Worden bij A4",
     "collaborationSubtitle": "Ontdek hoe we kunnen samenwerken om betere boekhoud-, audit- en compliance-diensten aan uw cliënten te bieden.",
     "learnMore": "Meer Informatie",
     "models": [
       {
         "title": "Dienstverlening",
-        "description": "Verwijs cliënten naar VACEI voor gestructureerde boekhoud- en auditdiensten, beheerd via ons beveiligde portaal.",
+        "description": "Verwijs cliënten naar A4 voor gestructureerde boekhoud- en auditdiensten, beheerd via ons beveiligde portaal.",
         "link": "/partners/service-delivery",
         "iconIndex": 0
       },
       {
         "title": "White-Label Oplossingen",
-        "description": "Lanceer uw eigen gebrande platform, aangedreven door de technologie en het leveringsmodel van VACEI.",
+        "description": "Lanceer uw eigen gebrande platform, aangedreven door de technologie en het leveringsmodel van A4.",
         "link": "/white-label-platform",
         "iconIndex": 1
       },
       {
         "title": "Technologie-integratie",
-        "description": "Integreer uw bestaande tools of diensten in het VACEI-platform voor een naadloze cliëntervaring.",
+        "description": "Integreer uw bestaande tools of diensten in het A4-platform voor een naadloze cliëntervaring.",
         "link": "/partners/technology-support",
         "iconIndex": 2
       },
       {
         "title": "Reseller-programma",
-        "description": "Word onderdeel van ons netwerk van partners en adviseurs die kantoren helpen het VACEI-platform te adopteren.",
+        "description": "Word onderdeel van ons netwerk van partners en adviseurs die kantoren helpen het A4-platform te adopteren.",
         "link": "/partners/reseller-program",
         "iconIndex": 3
       }
@@ -426,34 +662,41 @@
       "pageHeader": {
         "title": "Reseller-programma",
         "breadcrumbs": [
-          { "label": "Partners", "href": "/partners" },
-          { "label": "Reseller-programma" }
+          {
+            "label": "Partners",
+            "href": "/partners"
+          },
+          {
+            "label": "Reseller-programma"
+          }
         ]
       },
       "hero": {
-        "title": "Verkoop VACEI. Wij leveren het platform. U verdient.",
-        "description": "Het Reseller-programma stelt gekwalificeerde professionals in staat om cliënten bij VACEI te introduceren en commissies te verdienen op succesvolle opdrachten, zonder gereguleerde diensten te verlenen of de operationele uitvoering te beheren.",
+        "title": "Verkoop A4. Wij leveren het platform. U verdient.",
+        "description": "Het Reseller-programma stelt gekwalificeerde professionals in staat om cliënten bij A4 te introduceren en commissies te verdienen op succesvolle opdrachten, zonder gereguleerde diensten te verlenen of de operationele uitvoering te beheren.",
         "cta": "Aanmelden als reseller"
       },
       "sections": [
         {
-          "title": "Wat VACEI is",
+          "title": "Wat A4 is",
           "content": [
-            "VACEI is een leveringsplatform voor boekhoud- en auditworkflows. Het biedt de infrastructuur achter professionele boekhoud- en auditdiensten.",
-            "VACEI combineert gestructureerde workflows, veilige cliëntinteractie, gedocumenteerde auditkwaliteit, interne controles en technologisch ondersteunde review-support.",
-            "VACEI fungeert niet als kantoor en houdt geen directe cliëntmandaten. Het fungeert uitsluitend als een technologieplatform dat conforme dienstverlening ondersteunt."
+            "A4 is een leveringsplatform voor boekhoud- en auditworkflows. Het biedt de infrastructuur achter professionele boekhoud- en auditdiensten.",
+            "A4 combineert gestructureerde workflows, veilige cliëntinteractie, gedocumenteerde auditkwaliteit, interne controles en technologisch ondersteunde review-support.",
+            "A4 fungeert niet als kantoor en houdt geen directe cliëntmandaten. Het fungeert uitsluitend als een technologieplatform dat conforme dienstverlening ondersteunt."
           ]
         },
         {
-          "title": "Wat VACEI niet is",
+          "title": "Wat A4 niet is",
           "content": [
-            "Om onduidelijkheid te voorkomen: VACEI is geen massamarkt SaaS-product, geen self-service boekhoudtool en geen vervanging voor boekhouders, auditors of zakelijke dienstverleners.",
+            "Om onduidelijkheid te voorkomen: A4 is geen massamarkt SaaS-product, geen self-service boekhoudtool en geen vervanging voor boekhouders, auditors of zakelijke dienstverleners.",
             "Het platform neemt de professionele verantwoordelijkheid of het oordeel niet weg. Het is ontworpen voor gecontroleerd, professioneel gebruik in plaats van consumentenautomatisering."
           ]
         },
         {
           "title": "Voor wie het Reseller-programma is",
-          "content": [ "Het Reseller-programma is bedoeld voor professionals die regelmatig werken met bedrijven die gestructureerde ondersteuning nodig hebben bij boekhouding, audit of compliance." ],
+          "content": [
+            "Het Reseller-programma is bedoeld voor professionals die regelmatig werken met bedrijven die gestructureerde ondersteuning nodig hebben bij boekhouding, audit of compliance."
+          ],
           "list": [
             "Bedrijfs- en managementadviseurs",
             "Zakelijke dienstverleners en trustkantoren",
@@ -465,25 +708,27 @@
         {
           "title": "Wat resellers doen",
           "content": [
-            "Resellers identificeren geschikte cliënten, introduceren hen bij het VACEI-platform, ondersteunen het eerste commerciële gesprek en dragen de levering over aan VACEI of een erkende partner.",
+            "Resellers identificeren geschikte cliënten, introduceren hen bij het A4-platform, ondersteunen het eerste commerciële gesprek en dragen de levering over aan A4 of een erkende partner.",
             "Resellers voeren geen boekhoudkundig of auditwerk uit, hebben geen toegang tot cliëntgegevens buiten de commerciële onboarding en nemen geen regelgevende of professionele verantwoordelijkheid op zich."
           ]
         },
         {
           "title": "Hoe het resellerproces werkt",
-          "content": [ "Het proces volgt een duidelijke en gestructureerde flow." ],
+          "content": [
+            "Het proces volgt een duidelijke en gestructureerde flow."
+          ],
           "list": [
-            "Ten eerste introduceert de reseller een potentiële cliënt bij VACEI via een overeengekomen verwijzingsproces.",
-            "Ten tweede beoordeelt VACEI de geschiktheid, reikwijdte en jurisdictie en neemt de cliënt op in het platform.",
-            "Ten derde worden diensten verleend met VACEI-workflows door VACEI of een erkende leveringspartner.",
+            "Ten eerste introduceert de reseller een potentiële cliënt bij A4 via een overeengekomen verwijzingsproces.",
+            "Ten tweede beoordeelt A4 de geschiktheid, reikwijdte en jurisdictie en neemt de cliënt op in het platform.",
+            "Ten derde worden diensten verleend met A4-workflows door A4 of een erkende leveringspartner.",
             "Ten slotte wordt, zodra de opdracht succesvol is tot stand gekomen, de reseller-commissie geactiveerd volgens de overeengekomen voorwaarden."
           ]
         },
         {
-          "title": "Wat kan worden doorverkocht via VACEI",
+          "title": "Wat kan worden doorverkocht via A4",
           "content": [
             "Resellers kunnen cliënten introduceren die behoefte hebben aan boekhoud- en administratieworkflows, periodieke rapportage, gestructureerde documentafhandeling, audit- en assuranceworkflows, ondersteuning bij planning en uitvoering, werkdossiers, audit trails, cliëntvragen en aftekenprocessen, compliance- en deadlines-tracking, taakzichtbaarheid, veilige cliëntportalen, documentuitwisseling en real-time statusupdates.",
-            "VACEI ondersteunt ook technologische reviews via AI-ondersteunde documentcontroles, consistentie- en volledigheidssupport en risico-indicatoren die professionals ondersteunen zonder hun oordeel te vervangen."
+            "A4 ondersteunt ook technologische reviews via AI-ondersteunde documentcontroles, consistentie- en volledigheidssupport en risico-indicatoren die professionals ondersteunen zonder hun oordeel te vervangen."
           ]
         },
         {
@@ -494,10 +739,10 @@
           ]
         },
         {
-          "title": "Waarom professionals VACEI doorverkopen",
+          "title": "Waarom professionals A4 doorverkopen",
           "content": [
             "Resellers profiteren van een duidelijke scheiding van rollen, geen leverings- of personeelslasten, geen blootstelling aan regelgeving en een door het platform ondersteunde structuur die geloofwaardigheid en langdurige cliëntrelaties bevordert.",
-            "VACEI beheert de operationele complexiteit, terwijl resellers zich concentreren op relaties en groei."
+            "A4 beheert de operationele complexiteit, terwijl resellers zich concentreren op relaties en groei."
           ]
         },
         {
@@ -513,8 +758,13 @@
       "pageHeader": {
         "title": "Dienstverleningspartnerschappen",
         "breadcrumbs": [
-          { "label": "Partners", "href": "/partners" },
-          { "label": "Dienstverlening" }
+          {
+            "label": "Partners",
+            "href": "/partners"
+          },
+          {
+            "label": "Dienstverlening"
+          }
         ]
       },
       "hero": {
@@ -526,7 +776,7 @@
         {
           "title": "Gestructureerde Samenwerking voor Professionele Dienstverlening",
           "content": [
-            "VACEI werkt samen met geselecteerde leveringspartners om de uitvoering van boekhoud-, audit- en aanverwante professionele diensten te ondersteunen met behulp van gestructureerde workflows en gecontroleerde processen.",
+            "A4 werkt samen met geselecteerde leveringspartners om de uitvoering van boekhoud-, audit- en aanverwante professionele diensten te ondersteunen met behulp van gestructureerde workflows en gecontroleerde processen.",
             "Dienstverleningspartnerschappen zijn ontworpen voor organisaties of professionals die willen samenwerken binnen een duidelijk gedefinieerd leveringskader, terwijl de afstemming op professionele standaarden en kwaliteitsverwachtingen behouden blijft."
           ]
         },
@@ -534,7 +784,7 @@
           "title": "Doel van Dienstverleningspartnerschappen",
           "content": [
             "Het doel van een leveringspartnerschap is om consistente, transparante en goed beheerde uitvoering van diensten mogelijk te maken.",
-            "VACEI biedt de onderliggende workflows, portalen en operationele structuur die planning, uitvoering, review en cliëntcommunicatie ondersteunen. Partners opereren binnen deze structuur volgens de overeengekomen reikwijdtes en verantwoordelijkheden.",
+            "A4 biedt de onderliggende workflows, portalen en operationele structuur die planning, uitvoering, review en cliëntcommunicatie ondersteunen. Partners opereren binnen deze structuur volgens de overeengekomen reikwijdtes en verantwoordelijkheden.",
             "Dit model is niet ontworpen voor ad-hoc outsourcing. Het is bedoeld voor langdurige samenwerking gebaseerd op vertrouwen, procesdiscipline en gedeelde kwaliteitsdoelstellingen."
           ]
         },
@@ -554,7 +804,7 @@
           "title": "Hoe dienstverlening werkt",
           "content": [
             "Dienstverleningspartnerschappen volgen een gedocumenteerde en gestructureerde leveringsaanpak.",
-            "Aan het begin van elke opdracht worden de reikwijdte van de diensten, verantwoordelijkheden en leveringsrollen duidelijk gedefinieerd. Werkzaamheden worden gepland en uitgevoerd met VACEI-workflows en -portalen, wat traceerbaarheid, versiebeheer en duidelijk eigenaarschap garandeert.",
+            "Aan het begin van elke opdracht worden de reikwijdte van de diensten, verantwoordelijkheden en leveringsrollen duidelijk gedefinieerd. Werkzaamheden worden gepland en uitgevoerd met A4-workflows en -portalen, wat traceerbaarheid, versiebeheer en duidelijk eigenaarschap garandeert.",
             "Cliëntcommunicatie, documentuitwisseling en statuszichtbaarheid worden beheerd via het platform. Review, aftekening en afronding worden uitgevoerd volgens overeengekomen procedures en professionele standaarden."
           ]
         },
@@ -562,7 +812,7 @@
           "title": "Rollen en Verantwoordelijkheden",
           "content": [
             "Leveringspartners zijn verantwoordelijk voor het uitvoeren van de overeengekomen professionele diensten binnen hun gedefinieerde reikwijdte.",
-            "VACEI biedt de leveringsinfrastructuur, de workflowstructuur en de operationele controles die de opdracht ondersteunen.",
+            "A4 biedt de leveringsinfrastructuur, de workflowstructuur en de operationele controles die de opdracht ondersteunen.",
             "Verantwoordelijkheden worden zo toegewezen dat overlappingen, onduidelijkheden of hiaten worden vermeden. Dit zorgt ervoor dat de verantwoordelijkheid in alle fasen van de opdracht helder blijft."
           ]
         },
@@ -571,13 +821,13 @@
           "content": [
             "Kwaliteitscontrole is een kernelement van alle dienstverleningspartnerschappen.",
             "Opdrachten worden gestuurd door gedefinieerde workflows, reviewstappen en goedkeuringsprocessen. Documentatie wordt gestructureerd bijgehouden om auditeerbaarheid en compliance te ondersteunen.",
-            "VACEI behoudt zich het recht voor om kwaliteitscontroles uit te voeren om ervoor te zorgen dat de leveringsstandaarden worden gehandhaafd bij alle door partners geleide opdrachten."
+            "A4 behoudt zich het recht voor om kwaliteitscontroles uit te voeren om ervoor te zorgen dat de leveringsstandaarden worden gehandhaafd bij alle door partners geleide opdrachten."
           ]
         },
         {
           "title": "Gebruik van Technologie en Portalen",
           "content": [
-            "Leveringspartners gebruiken de technologie van VACEI ter ondersteuning van uitvoering en toezicht.",
+            "Leveringspartners gebruiken de technologie van A4 ter ondersteuning van uitvoering en toezicht.",
             "Dit omvat toegang tot cliëntportalen voor communicatie en documentafhandeling, evenals interne leveringstools voor planning, werkdossiers, vragen, review en aftekening.",
             "Technologie wordt gebruikt om het professionele oordeel te ondersteunen, niet om het te vervangen."
           ]
@@ -592,7 +842,7 @@
         {
           "title": "Beoordeling van het Partnerschap",
           "content": [
-            "Leveringspartners worden beoordeeld op basis van hun professionele geloofsbrieven, operationele gereedheid, ervaring en afstemming op de kwaliteitsverwachtingen van VACEI.",
+            "Leveringspartners worden beoordeeld op basis van hun professionele geloofsbrieven, operationele gereedheid, ervaring en afstemming op de kwaliteitsverwachtingen van A4.",
             "Deze beoordeling garandeert dat alle via het platform geleverde diensten voldoen aan consistente standaarden."
           ]
         }
@@ -602,12 +852,17 @@
       "pageHeader": {
         "title": "Ondersteuning bij Technologie-integratie",
         "breadcrumbs": [
-          { "label": "Partners", "href": "/partners" },
-          { "label": "Technologie-support" }
+          {
+            "label": "Partners",
+            "href": "/partners"
+          },
+          {
+            "label": "Technologie-support"
+          }
         ]
       },
       "hero": {
-        "title": "Samenwerken met VACEI",
+        "title": "Samenwerken met A4",
         "description": "Ondersteuning voor technologie-enablement is ontworpen voor organisaties die de manier willen verbeteren waarop hun bestaande systemen de levering van boekhoud-, audit- of compliance-diensten ondersteunen.",
         "cta": "Een Discussie Starten"
       },
@@ -615,21 +870,23 @@
         {
           "title": "Ondersteuning van uw bestaande systemen met gestructureerde expertise",
           "content": [
-            "VACEI biedt ondersteuning voor technologie-enablement voor organisaties die al hun eigen boekhoud-, audit- of compliance-systemen exploiteren en de structuur, consistentie en controle over de levering willen verbeteren.",
-            "In dit model vervangt VACEI geen volledig platform en geeft het er ook geen licentie voor af. In plaats daarvan werkt VACEI samen met de bestaande technologie van de organisatie om te helpen bij processtructurering, workflow-afstemming en technische implementatie."
+            "A4 biedt ondersteuning voor technologie-enablement voor organisaties die al hun eigen boekhoud-, audit- of compliance-systemen exploiteren en de structuur, consistentie en controle over de levering willen verbeteren.",
+            "In dit model vervangt A4 geen volledig platform en geeft het er ook geen licentie voor af. In plaats daarvan werkt A4 samen met de bestaande technologie van de organisatie om te helpen bij processtructurering, workflow-afstemming en technische implementatie."
           ]
         },
         {
           "title": "Doel van Ondersteuning bij Technologie-integratie",
           "content": [
             "Het doel van dit engagementmodel is om organisaties te helpen hun bestaande systemen te versterken zonder naar een nieuw platform te hoeven migreren.",
-            "VACEI ondersteunt interne teams door bewezen leveringskaders, workflowlogica en technische expertise toe te passen om huidige tools en processen te verbeteren.",
+            "A4 ondersteunt interne teams door bewezen leveringskaders, workflowlogica en technische expertise toe te passen om huidige tools en processen te verbeteren.",
             "Deze aanpak stelt organisaties in staat om het volledige eigendom over hun technologie te behouden, terwijl ze profiteren van gestructureerde leveringspraktijken."
           ]
         },
         {
           "title": "Voor wie dit is",
-          "content": [ "Dit model is ontworpen voor organisaties die verbetering willen, geen verstoring." ],
+          "content": [
+            "Dit model is ontworpen voor organisaties die verbetering willen, geen verstoring."
+          ],
           "list": [
             "Boekhoud- en accountantskantoren met in-house systemen",
             "Organisaties die gebruikmaken van maatwerk of third-party platforms",
@@ -638,16 +895,18 @@
           ]
         },
         {
-          "title": "Hoe VACEI ondersteunt",
+          "title": "Hoe A4 ondersteunt",
           "content": [
-            "VACEI biedt ondersteuning via een toegewijd technisch en procesgericht team.",
+            "A4 biedt ondersteuning via een toegewijd technisch en procesgericht team.",
             "Ondersteuning kan bestaan uit het beoordelen van bestaande systemen, het in kaart brengen van huidige workflows, het identificeren van hiaten of inefficiënties, en hulp bij het implementeren van gestructureerde processen binnen de technologische omgeving van de organisatie.",
             "De support kan ook technische samenwerking met interne ontwikkelaars omvatten om datastromen, controles en zichtbaarheid te verbeteren."
           ]
         },
         {
           "title": "Reikwijdte van de Ondersteuning",
-          "content": [ "Technologie-enablement opdrachten kunnen gebieden bestrijken zoals:" ],
+          "content": [
+            "Technologie-enablement opdrachten kunnen gebieden bestrijken zoals:"
+          ],
           "list": [
             "Workflow-ontwerp en processtandaardisatie",
             "Structurering van taken en verantwoordelijkheden",
@@ -661,15 +920,15 @@
           "title": "Rolverduidelijking en Controle",
           "content": [
             "De organisatie behoudt de volledige controle over haar systemen, data en dienstverlening.",
-            "VACEI claimt geen eigendom van de technologie, neemt geen beslissingen over levering en heeft geen toegang tot cliëntgegevens buiten wat vereist is voor de overeengekomen ondersteuningsactiviteiten.",
-            "De rol van VACEI is adviserend en technisch, gericht op enablement in plaats van operatie."
+            "A4 claimt geen eigendom van de technologie, neemt geen beslissingen over levering en heeft geen toegang tot cliëntgegevens buiten wat vereist is voor de overeengekomen ondersteuningsactiviteiten.",
+            "De rol van A4 is adviserend en technisch, gericht op enablement in plaats van operatie."
           ]
         },
         {
           "title": "Data en Governance",
           "content": [
             "Alle data blijft binnen de omgeving van de organisatie.",
-            "Toegang, machtigingen en beveiliging vallen onder het interne beleid van de organisatie en de toepasselijke regelgeving. VACEI opereert binnen overeengekomen grenzen en geheimhoudingsvoorwaarden."
+            "Toegang, machtigingen en beveiliging vallen onder het interne beleid van de organisatie en de toepasselijke regelgeving. A4 opereert binnen overeengekomen grenzen en geheimhoudingsvoorwaarden."
           ]
         },
         {
@@ -683,7 +942,7 @@
           "title": "Beoordeling van Engagement",
           "content": [
             "Elke technologie-enablement opdracht wordt beoordeeld om afstemming op de organisatiedoelen, systeemgereedheid en professionele standaarden te garanderen.",
-            "Dit zorgt ervoor dat de betrokkenheid van VACEI waarde toevoegt zonder afhankelijkheden of operationele risico's te creëren."
+            "Dit zorgt ervoor dat de betrokkenheid van A4 waarde toevoegt zonder afhankelijkheden of operationele risico's te creëren."
           ]
         }
       ]
@@ -692,19 +951,24 @@
       "pageHeader": {
         "title": "White Label & Technologie-toegang",
         "breadcrumbs": [
-          { "label": "Partners", "href": "/partners" },
-          { "label": "White-Label Oplossingen" }
+          {
+            "label": "Partners",
+            "href": "/partners"
+          },
+          {
+            "label": "White-Label Oplossingen"
+          }
         ]
       },
       "hero": {
         "title": "Gestructureerde platformen onder uw merknaam",
-        "description": "VACEI biedt white-label en technologie-toegangsregelingen aan voor kantoren die gestructureerde boekhoud- en auditleveringsplatformen willen gebruiken onder hun eigen merknaam.",
+        "description": "A4 biedt white-label en technologie-toegangsregelingen aan voor kantoren die gestructureerde boekhoud- en auditleveringsplatformen willen gebruiken onder hun eigen merknaam.",
         "cta": "Partnerschap Bespreken"
       },
       "experience": {
         "client": {
           "title": "White-Label Cliëntervaring",
-          "description": "Onder een white-label overeenkomst werken alle cliëntgerichte interfaces onder het merk van de partner. Cliënten hebben toegang tot een beveiligd portaal dat de identiteit van het kantoor weerspiegelt, inclusief brandingelementen en communicatiestijl. Er is geen zichtbare verwijzing naar VACEI.",
+          "description": "Onder een white-label overeenkomst werken alle cliëntgerichte interfaces onder het merk van de partner. Cliënten hebben toegang tot een beveiligd portaal dat de identiteit van het kantoor weerspiegelt, inclusief brandingelementen en communicatiestijl. Er is geen zichtbare verwijzing naar A4.",
           "cta": "Ontdek Cliëntportaal Oplossingen"
         },
         "audit": {
@@ -714,21 +978,23 @@
         }
       },
       "workingWith": {
-        "title": "Samenwerken met VACEI",
-        "description": "White-label en technologie-toegang partnerschappen zijn ontworpen voor kantoren die waarde hechten aan gestructureerde levering, gecontroleerde workflows en operationele duidelijkheid. Als u geïnteresseerd bent in het gebruik van VACEI-technologie onder uw eigen merknaam, nodigen wij u uit om uw wensen met ons team te bespreken."
+        "title": "Samenwerken met A4",
+        "description": "White-label en technologie-toegang partnerschappen zijn ontworpen voor kantoren die waarde hechten aan gestructureerde levering, gecontroleerde workflows en operationele duidelijkheid. Als u geïnteresseerd bent in het gebruik van A4-technologie onder uw eigen merknaam, nodigen wij u uit om uw wensen met ons team te bespreken."
       },
       "sections": [
         {
           "title": "Doel van White Label en Technologie-toegang",
           "content": [
             "Het doel van dit partnerschapsmodel is om kantoren te voorzien van een kant-en-klaar leveringsplatform zonder de noodzaak om zelf complexe systemen te ontwerpen, bouwen of onderhouden.",
-            "VACEI levert de onderliggende infrastructuur en workflowlogica. Partnerkantoren passen hun eigen branding toe, werken onder hun eigen naam en leveren onafhankelijk diensten.",
+            "A4 levert de onderliggende infrastructuur en workflowlogica. Partnerkantoren passen hun eigen branding toe, werken onder hun eigen naam en leveren onafhankelijk diensten.",
             "Dit model is ontworpen voor kantoren die consistentie, zichtbaarheid en controle willen over al hun opdrachten."
           ]
         },
         {
           "title": "Voor wie dit partnerschap is",
-          "content": [ "Partners moeten beschikken over de juiste licenties, kwalificaties en interne governancestructuren die relevant zijn voor hun jurisdictie." ],
+          "content": [
+            "Partners moeten beschikken over de juiste licenties, kwalificaties en interne governancestructuren die relevant zijn voor hun jurisdictie."
+          ],
           "list": [
             "Boekhoudkantoren",
             "Accountantskantoren",
@@ -739,8 +1005,8 @@
         {
           "title": "Technologie-toegang en Inzet",
           "content": [
-            "Technologie-toegang kan geselecteerde componenten van het VACEI-platform omvatten die worden ingezet voor intern gebruik.",
-            "Partners behouden de operationele controle en zijn verantwoordelijk voor hoe de technologie binnen hun organisatie wordt gebruikt. VACEI komt niet tussenbeide in leveringsbeslissingen, tenzij anders overeengekomen.",
+            "Technologie-toegang kan geselecteerde componenten van het A4-platform omvatten die worden ingezet voor intern gebruik.",
+            "Partners behouden de operationele controle en zijn verantwoordelijk voor hoe de technologie binnen hun organisatie wordt gebruikt. A4 komt niet tussenbeide in leveringsbeslissingen, tenzij anders overeengekomen.",
             "Het inzetmodel hangt af van de reikwijdte van de toegang, de jurisdictie en de partnerschapsstructuur."
           ]
         },
@@ -748,7 +1014,7 @@
           "title": "Gegevenseigendom en Controle",
           "content": [
             "Onder white-label en technologie-toegangsregelingen behouden partners de controle over hun cliëntgegevens en opdrachten.",
-            "VACEI biedt de infrastructuur, maar claimt geen eigenaarschap over cliëntrelaties en draagt geen professionele verantwoordelijkheid.",
+            "A4 biedt de infrastructuur, maar claimt geen eigenaarschap over cliëntrelaties en draagt geen professionele verantwoordelijkheid.",
             "De omgang met gegevens en toegang wordt geregeld door overeengekomen voorwaarden en toepasselijke regels."
           ]
         },
@@ -771,11 +1037,18 @@
     }
   },
   "security-compliance": {
-    "pageHeader": { "title": "Beveiliging & Compliance", "breadcrumbs": [ { "label": "Beveiliging & Compliance" } ] },
+    "pageHeader": {
+      "title": "Beveiliging & Compliance",
+      "breadcrumbs": [
+        {
+          "label": "Beveiliging & Compliance"
+        }
+      ]
+    },
     "cards": [
       {
         "title": "Gegevensbeveiliging",
-        "description": "VACEI beschouwt gegevensbeveiliging als een kernvereiste voor de bedrijfsvoering.",
+        "description": "A4 beschouwt gegevensbeveiliging als een kernvereiste voor de bedrijfsvoering.",
         "points": [
           "Op rollen gebaseerde toegangscontrole",
           "Veilige documentopslag",
@@ -795,7 +1068,7 @@
       },
       {
         "title": "Compliance en professionele normen",
-        "description": "VACEI werkt binnen de professionele en regelgevende kaders die van toepassing zijn op accountants- en auditdiensten.",
+        "description": "A4 werkt binnen de professionele en regelgevende kaders die van toepassing zijn op accountants- en auditdiensten.",
         "points": [
           "Interne werkstromen afgestemd op professionele normen",
           "Kwaliteitsborging ingebed in leveringsprocessen",
@@ -823,25 +1096,32 @@
       },
       {
         "title": "Verantwoordelijkheid van de klant",
-        "description": "Klanten behouden eigendom van hun gegevens en blijven verantwoordelijk voor de juistheid van de verstrekte informatie. VACEI ondersteunt bij review, organisatie en compliance maar is afhankelijk van tijdige en accurate klantinput."
+        "description": "Klanten behouden eigendom van hun gegevens en blijven verantwoordelijk voor de juistheid van de verstrekte informatie. A4 ondersteunt bij review, organisatie en compliance maar is afhankelijk van tijdige en accurate klantinput."
       },
       {
         "title": "Voortdurende verbetering",
-        "description": "VACEI evalueert en verbetert voortdurend interne processen om te voldoen aan veranderende regelgevings-, beveiligings- en professionele eisen."
+        "description": "A4 evalueert en verbetert voortdurend interne processen om te voldoen aan veranderende regelgevings-, beveiligings- en professionele eisen."
       }
     ]
   },
   "cpe": {
-    "pageHeader": { "title": "CPE & Podcast", "breadcrumbs": [ { "label": "CPE" } ] },
+    "pageHeader": {
+      "title": "CPE & Podcast",
+      "breadcrumbs": [
+        {
+          "label": "CPE"
+        }
+      ]
+    },
     "overview": {
       "badge": "CPE & Podcast",
       "title": "Overzicht",
-      "subtitle": "VACEI is ontworpen om eenvoudig te starten en prettig om mee samen te werken. Van de eerste aanvraag tot doorlopende levering volgt alles een duidelijk, gestructureerd proces."
+      "subtitle": "A4 is ontworpen om eenvoudig te starten en prettig om mee samen te werken. Van de eerste aanvraag tot doorlopende levering volgt alles een duidelijk, gestructureerd proces."
     },
     "cards": [
       {
         "title": "CPE",
-        "description": "VACEI biedt gestructureerde nascholing (CPE) rond praktische en relevante onderwerpen."
+        "description": "A4 biedt gestructureerde nascholing (CPE) rond praktische en relevante onderwerpen."
       },
       {
         "title": "Aankomende sessies",
@@ -859,7 +1139,7 @@
     "podcast": {
       "badge": "Onze podcast",
       "title": "Podcast",
-      "subtitle": "De VACEI-podcast bevat gesprekken over het beroep, regelgeving en bedrijfsvoering.",
+      "subtitle": "De A4-podcast bevat gesprekken over het beroep, regelgeving en bedrijfsvoering.",
       "rows": {
         "episodes": {
           "label": "Afleveringen",
@@ -874,13 +1154,20 @@
           "description": "Geïnteresseerde professionals kunnen een gastverzoek indienen."
         }
       },
-      "bottomCta": "Meer weten over hoe VACEI bedrijven ondersteunt met accountancy, audit en compliance."
+      "bottomCta": "Meer weten over hoe A4 bedrijven ondersteunt met accountancy, audit en compliance."
     }
   },
   "careers": {
-    "pageHeader": { "title": "Carrières", "breadcrumbs": [ { "label": "Carrières" } ] },
+    "pageHeader": {
+      "title": "Carrières",
+      "breadcrumbs": [
+        {
+          "label": "Carrières"
+        }
+      ]
+    },
     "benefits": {
-      "title": "Waarom VACEI?",
+      "title": "Waarom A4?",
       "subtitle": "We bouwen meer dan alleen software; we bouwen carrières. Sluit je aan bij een team waar je werk ertoe doet en je groei prioriteit krijgt.",
       "features": [
         {
@@ -944,7 +1231,7 @@
     },
     "openPositions": {
       "title": "Openstaande Vacatures",
-      "subtitle": "Klaar om impact te maken? Bekijk onze huidige mogelijkheden en vind je volgende stap bij VACEI.",
+      "subtitle": "Klaar om impact te maken? Bekijk onze huidige mogelijkheden en vind je volgende stap bij A4.",
       "applyNow": "Nu Solliciteren",
       "jobs": [
         {
@@ -983,7 +1270,14 @@
     }
   },
   "our-team": {
-    "pageHeader": { "title": "Ons Team", "breadcrumbs": [ { "label": "Ons Team" } ] },
+    "pageHeader": {
+      "title": "Ons Team",
+      "breadcrumbs": [
+        {
+          "label": "Ons Team"
+        }
+      ]
+    },
     "grid": {
       "title": "Ontmoet Onze Experts",
       "subtitle": "Ons diverse team van professionals is toegewijd aan het vereenvoudigen van jouw zakelijke reis.",
@@ -1023,7 +1317,7 @@
     "values": {
       "title": "Gedreven door",
       "titleAccent": "Waarden",
-      "description": "Bij VACEI geloven we dat technologie mensen moet versterken, niet hun leven ingewikkelder moet maken. Onze kernwaarden leiden elke beslissing die we maken, zodat we betekenisvolle impact leveren voor onze klanten.",
+      "description": "Bij A4 geloven we dat technologie mensen moet versterken, niet hun leven ingewikkelder moet maken. Onze kernwaarden leiden elke beslissing die we maken, zodat we betekenisvolle impact leveren voor onze klanten.",
       "cta": "Sluit je aan bij onze reis",
       "items": [
         {
@@ -1042,25 +1336,51 @@
     }
   },
   "terms-and-conditions": {
-    "pageHeader": { "title": "Algemene Voorwaarden", "breadcrumbs": [ { "label": "Voorwaarden" } ] }
+    "pageHeader": {
+      "title": "Algemene Voorwaarden",
+      "breadcrumbs": [
+        {
+          "label": "Voorwaarden"
+        }
+      ]
+    }
   },
   "privacy-policy": {
-    "pageHeader": { "title": "Privacybeleid", "breadcrumbs": [ { "label": "Privacy" } ] }
+    "pageHeader": {
+      "title": "Privacybeleid",
+      "breadcrumbs": [
+        {
+          "label": "Privacy"
+        }
+      ]
+    }
   },
   "ai-review": {
-    "pageHeader": { "title": "AI Review", "breadcrumbs": [ { "label": "AI Review" } ] },
+    "pageHeader": {
+      "title": "AI Review",
+      "breadcrumbs": [
+        {
+          "label": "AI Review"
+        }
+      ]
+    },
     "hero": {
       "title": "Jaarrekeningreview ontworpen door auditors",
-      "p1": "VACEI AI Review is ontwikkeld door auditors om het beoordelingsproces van de jaarrekening te ondersteunen.",
+      "p1": "A4 AI Review is ontwikkeld door auditors om het beoordelingsproces van de jaarrekening te ondersteunen.",
       "p2": "Jaarrekeningreviews kosten tijd, en zelfs de meest ervaren teams kunnen details missen.",
-      "p3": "VACEI AI Review houdt het beoordelingsproces gestructureerd, gefocust en betrouwbaar, zonder het professionele oordeel van de accountant te vervangen."
+      "p3": "A4 AI Review houdt het beoordelingsproces gestructureerd, gefocust en betrouwbaar, zonder het professionele oordeel van de accountant te vervangen."
     },
     "demo": {
       "file_ready": "Bestand klaar voor analyse",
-      "file_name": "Vacei Audit LTD - Concept JR...",
+      "file_name": "A4 Audit LTD - Concept JR...",
       "categories_title": "Selecteer testcategorieën",
       "categories": [
-        "Auditrapport", "Balans", "Algemene Info", "Grondslagen", "Presentatie", "Alle tests"
+        "Auditrapport",
+        "Balans",
+        "Algemene Info",
+        "Grondslagen",
+        "Presentatie",
+        "Alle tests"
       ],
       "btn_generate": "Genereer analyserapport",
       "upload_title": "Upload jaarrekening",
@@ -1089,17 +1409,57 @@
       "ctaLabel": "Verken het Cliëntenportaal",
       "bottomTitle": "AI Review",
       "bottomDescription": "Documenten, taken, deadlines en communicatie op één plek.",
-      "quoteText": "Goede bedrijven vertrouwen op ervaring. Grote bedrijven vertrouwen op structuur. VACEI bestaat om die structuur zichtbaar, toetsbaar en schaalbaar te maken."
+      "quoteText": "Goede bedrijven vertrouwen op ervaring. Grote bedrijven vertrouwen op structuur. A4 bestaat om die structuur zichtbaar, toetsbaar en schaalbaar te maken."
     },
     "serviceFeatures": {
       "title": "Alle adviesactiviteiten georganiseerd op één plek",
       "subtitle": "Vraag een heldere offerte aan op basis van uw onderneming",
       "groups": [
-        { "title": "Voor wie het is", "items": [ "Bedrijven die doorlopende boekhouding en administratie nodig hebben", "Groeiende bedrijven die gestructureerde financiële rapportage wensen", "Managementteams die inzicht willen in prestaties en cashflow", "Bedrijven die zich voorbereiden op audit of expansie" ] },
-        { "title": "Wat u krijgt", "items": [ "Veilige werkruimte voor documenten, verzoeken en communicatie", "Heldere reikwijdte en tijdlijnen voor elke opdracht", "Gestructureerde rapportage afgestemd op uw ritme", "Eén punt voor coördinatie van boekhouding en audit" ] },
-        { "title": "Resultaten", "items": [ "Minder heen-en-weer dankzij gedisciplineerde werkstromen", "Beter zicht op status en deadlines", "Audit-bereidheid door georganiseerde dossiers", "Zekerder beslissingen door gestructureerde inzichten" ] },
-        { "title": "Levering", "items": [ "Gestructureerde werkstromen via interne portalen", "Kwaliteitsreviews volgens professionele normen", "Traceerbare historie van documenten en communicatie", "Heldere verantwoordelijkheid voor elke taak" ] },
-        { "title": "Governance", "items": [ "Gedefinieerde verantwoordelijkheden voor teams en stakeholders", "Consistente documentatie en dossiervorming", "Controles die audit-gereedheid ondersteunen", "Transparante escalatiepaden bij problemen" ] }
+        {
+          "title": "Voor wie het is",
+          "items": [
+            "Bedrijven die doorlopende boekhouding en administratie nodig hebben",
+            "Groeiende bedrijven die gestructureerde financiële rapportage wensen",
+            "Managementteams die inzicht willen in prestaties en cashflow",
+            "Bedrijven die zich voorbereiden op audit of expansie"
+          ]
+        },
+        {
+          "title": "Wat u krijgt",
+          "items": [
+            "Veilige werkruimte voor documenten, verzoeken en communicatie",
+            "Heldere reikwijdte en tijdlijnen voor elke opdracht",
+            "Gestructureerde rapportage afgestemd op uw ritme",
+            "Eén punt voor coördinatie van boekhouding en audit"
+          ]
+        },
+        {
+          "title": "Resultaten",
+          "items": [
+            "Minder heen-en-weer dankzij gedisciplineerde werkstromen",
+            "Beter zicht op status en deadlines",
+            "Audit-bereidheid door georganiseerde dossiers",
+            "Zekerder beslissingen door gestructureerde inzichten"
+          ]
+        },
+        {
+          "title": "Levering",
+          "items": [
+            "Gestructureerde werkstromen via interne portalen",
+            "Kwaliteitsreviews volgens professionele normen",
+            "Traceerbare historie van documenten en communicatie",
+            "Heldere verantwoordelijkheid voor elke taak"
+          ]
+        },
+        {
+          "title": "Governance",
+          "items": [
+            "Gedefinieerde verantwoordelijkheden voor teams en stakeholders",
+            "Consistente documentatie en dossiervorming",
+            "Controles die audit-gereedheid ondersteunen",
+            "Transparante escalatiepaden bij problemen"
+          ]
+        }
       ]
     },
     "output": {
@@ -1108,11 +1468,19 @@
       "subheading": "Binnen enkele minuten een gestructureerd reviewrapport.",
       "report_features": {
         "title": "Het rapport is:",
-        "items": ["Helder", "Actiegericht", "Makkelijk te verwerken"]
+        "items": [
+          "Helder",
+          "Actiegericht",
+          "Makkelijk te verwerken"
+        ]
       },
       "marking_features": {
         "title": "Elk punt is gemarkeerd als:",
-        "items": ["Bevestigd", "Toegelicht", "Gemarkeerd voor review"]
+        "items": [
+          "Bevestigd",
+          "Toegelicht",
+          "Gemarkeerd voor review"
+        ]
       },
       "footer_text": "Hiermee kunnen teams problemen met vertrouwen en efficiëntie oplossen.",
       "demo_result": {
@@ -1147,7 +1515,7 @@
       },
       {
         "title": "Efficiëntie",
-        "description": "VACEI AI Review optimaliseert de workflow voor auditteams.",
+        "description": "A4 AI Review optimaliseert de workflow voor auditteams.",
         "bullets": [
           "Gestandaardiseerde review-output",
           "Duidelijke audit trail van uitgevoerde tests",
@@ -1158,11 +1526,11 @@
     "video_benefits": [
       {
         "title": "Ondersteuning Professioneel Oordeel",
-        "description": "VACEI AI Review is ontwikkeld om het professionele oordeel te ondersteunen, niet te vervangen. Het vermindert handmatige checks en markeert gebieden die aandacht behoeven, terwijl conclusies en beslissingen de verantwoordelijkheid blijven van het professionele team."
+        "description": "A4 AI Review is ontwikkeld om het professionele oordeel te ondersteunen, niet te vervangen. Het vermindert handmatige checks en markeert gebieden die aandacht behoeven, terwijl conclusies en beslissingen de verantwoordelijkheid blijven van het professionele team."
       },
       {
         "title": "Gemaakt voor de Auditpraktijk",
-        "description": "VACEI AI Review weerspiegelt de audit-denkwijze en praktijkgerichte review-workflows. Het is ontworpen ter ondersteuning van: nauwkeurigheid, volledigheid, consistentie en professionele presentatie."
+        "description": "A4 AI Review weerspiegelt de audit-denkwijze en praktijkgerichte review-workflows. Het is ontworpen ter ondersteuning van: nauwkeurigheid, volledigheid, consistentie en professionele presentatie."
       },
       {
         "title": "Innovatieve Oplossingen",
@@ -1171,11 +1539,18 @@
     ]
   },
   "portal/accounting-portal": {
-    "pageHeader": { "title": "Boekhoudportaal", "breadcrumbs": [ { "label": "Boekhoudportaal" } ] },
+    "pageHeader": {
+      "title": "Boekhoudportaal",
+      "breadcrumbs": [
+        {
+          "label": "Boekhoudportaal"
+        }
+      ]
+    },
     "overview1": {
-      "heading": "Hoe VACEI gestructureerde, betrouwbare boekhouding levert",
+      "heading": "Hoe A4 gestructureerde, betrouwbare boekhouding levert",
       "paragraphs": [
-        "Het VACEI-boekhoudportaal is de omgeving waarin onze teams boekhouding, rapportage, btw en salaris gestructureerd en gecontroleerd verzorgen.",
+        "Het A4-boekhoudportaal is de omgeving waarin onze teams boekhouding, rapportage, btw en salaris gestructureerd en gecontroleerd verzorgen.",
         "Maandelijkse workflows, documenten, reviews en koppelingen komen samen in één systeem voor efficiëntie met nauwkeurigheid, consistentie en accountability.",
         "Klanten werken via het cliëntenportaal. Boekhouduitvoering en interne controles gebeuren in het boekhoudportaal."
       ]
@@ -1194,7 +1569,7 @@
       "closingText": "Workflows zijn zo opgebouwd dat taken in de juiste volgorde worden afgerond, verantwoordelijkheden helder zijn en voortgang zichtbaar blijft.",
       "bottomTitle": "Boekhoudportaal",
       "bottomDescription": "Documenten, taken, deadlines en communicatie op één plek.",
-      "quoteText": "Goede kantoren leunen op ervaring. Grote op structuur. VACEI maakt die structuur zichtbaar, controleerbaar en schaalbaar.",
+      "quoteText": "Goede kantoren leunen op ervaring. Grote op structuur. A4 maakt die structuur zichtbaar, controleerbaar en schaalbaar.",
       "workflowHeading": "Maandelijkse boekhoudworkflow",
       "workflowDescription": "Boekhouding, afstemmingen, btw en salaris worden via gecontroleerde processen in de juiste volgorde beheerd."
     },
@@ -1236,7 +1611,7 @@
       "sections": [
         {
           "title": "Geïntegreerde delivery-omgeving",
-          "intro": "Door boekhouding in één gestructureerde omgeving te doen, waarborgt VACEI:",
+          "intro": "Door boekhouding in één gestructureerde omgeving te doen, waarborgt A4:",
           "bullets": [
             "Consistente maandelijkse levering",
             "Minder handwerk en duplicatie",
@@ -1249,7 +1624,7 @@
           "title": "Voor kantoren en partners",
           "intro": "Het boekhoudportaal is ook beschikbaar voor kantoren die hetzelfde niveau van structuur, workflowdiscipline en interne controle willen.",
           "bullets": [
-            "Partner met VACEI voor boekhoudlevering",
+            "Partner met A4 voor boekhoudlevering",
             "Het portaal in eigen organisatie inzetten ter ondersteuning van teams"
           ],
           "footer": "Voor kantoren die efficiëntie en transparantie waarderen."
@@ -1260,13 +1635,27 @@
       "accounting": {
         "requestsTitle": "Verzoeken/taken",
         "requestRows": [
-          { "label": "Budgetverwerking", "date": "do 12 jun." },
-          { "label": "Salarisverwerking", "date": "do 12 jun." },
-          { "label": "Btw-systeem", "date": "do 12 jun." }
+          {
+            "label": "Budgetverwerking",
+            "date": "do 12 jun."
+          },
+          {
+            "label": "Salarisverwerking",
+            "date": "do 12 jun."
+          },
+          {
+            "label": "Btw-systeem",
+            "date": "do 12 jun."
+          }
         ],
         "open": "Openen",
         "vatTitle": "Btw-perioden",
-        "vatPeriods": ["Q1 2025", "Q2 2025", "Q3 2025", "Q4 2025"],
+        "vatPeriods": [
+          "Q1 2025",
+          "Q2 2025",
+          "Q3 2025",
+          "Q4 2025"
+        ],
         "status": "Status",
         "view": "Bekijken",
         "missingTitle": "Ontbrekende items",
@@ -1280,10 +1669,27 @@
       "integrated": {
         "preparedListTitle": "Voorbereide items-lijst",
         "preparedRows": [
-          { "label": "Rekeningschema", "date": "12 jan. 2026", "color": "#3b49e6" },
-          { "label": "Journalen", "date": "12 jan. 2026", "color": "#F59E0B", "active": true },
-          { "label": "Winst-en-verliesrekening", "date": "12 jan. 2026", "color": "#10B981" },
-          { "label": "Kasstroomreview", "date": "12 jan. 2026", "color": "#3b49e6" }
+          {
+            "label": "Rekeningschema",
+            "date": "12 jan. 2026",
+            "color": "#000000"
+          },
+          {
+            "label": "Journalen",
+            "date": "12 jan. 2026",
+            "color": "#F59E0B",
+            "active": true
+          },
+          {
+            "label": "Winst-en-verliesrekening",
+            "date": "12 jan. 2026",
+            "color": "#10B981"
+          },
+          {
+            "label": "Kasstroomreview",
+            "date": "12 jan. 2026",
+            "color": "#000000"
+          }
         ],
         "spendWeek": "Uitgaven deze week",
         "partnershipTitle": "Partnerverdeling",
@@ -1292,11 +1698,18 @@
     }
   },
   "portal/audit-portal": {
-    "pageHeader": { "title": "Auditportaal", "breadcrumbs": [ { "label": "Auditportaal" } ] },
+    "pageHeader": {
+      "title": "Auditportaal",
+      "breadcrumbs": [
+        {
+          "label": "Auditportaal"
+        }
+      ]
+    },
     "overview1": {
-      "heading": "Hoe VACEI gestructureerde, hoogwaardige audits levert",
+      "heading": "Hoe A4 gestructureerde, hoogwaardige audits levert",
       "paragraphs": [
-        "Het VACEI-auditportaal is de omgeving waarin onze teams opdrachten van begin tot eind beheren.",
+        "Het A4-auditportaal is de omgeving waarin onze teams opdrachten van begin tot eind beheren.",
         "Planning, documentatie, bewijsmateriaal, communicatie, reviews en accordering zitten in één gestroomlijnde workflow: efficiënt, consistent en conform standaarden.",
         "Klanten werken via het cliëntenportaal.",
         "Audituitvoering en kwaliteitsborging verlopen in het auditportaal."
@@ -1315,7 +1728,7 @@
       "closingText": "Auditplanning is risicogericht en ISA-conform, met procedures op maat van opdracht en klant.",
       "bottomTitle": "Auditportaal",
       "bottomDescription": "Documenten, taken, deadlines en communicatie op één plek.",
-      "quoteText": "Goede kantoren leunen op ervaring. Grote op structuur. VACEI maakt die structuur zichtbaar, controleerbaar en schaalbaar.",
+      "quoteText": "Goede kantoren leunen op ervaring. Grote op structuur. A4 maakt die structuur zichtbaar, controleerbaar en schaalbaar.",
       "workflowHeading": "Gestructureerde auditworkflow",
       "workflowDescription": "Planning, documentatie, bewijs en reviews in één omgeving voor efficiënte, standaardconforme audits."
     },
@@ -1360,7 +1773,7 @@
       "titleLine1": "Geavanceerde kwaliteits- en",
       "titleLine2": "compliance-infrastructuur.",
       "subtitle": "Standaarden",
-      "description": "VACEI levert infrastructuur en controles voor hoogwaardige professionele audits.",
+      "description": "A4 levert infrastructuur en controles voor hoogwaardige professionele audits.",
       "features": [
         {
           "title": "ISQM en kwaliteitsmanagement",
@@ -1395,19 +1808,19 @@
       "sections": [
         {
           "title": "Eén omgeving, end-to-end controle",
-          "intro": "Door audits in één gestructureerde omgeving te beheren, waarborgt VACEI:",
+          "intro": "Door audits in één gestructureerde omgeving te beheren, waarborgt A4:",
           "bullets": [
             "Consistente uitvoering en documentatie",
             "Sterke kwaliteit en naleving",
             "Efficiënte samenwerking tussen teams en klanten"
           ],
-          "footer": "Zo levert VACEI audits die gestructureerd, transparant en schaalbaar zijn."
+          "footer": "Zo levert A4 audits die gestructureerd, transparant en schaalbaar zijn."
         },
         {
           "title": "Voor kantoren en partners",
           "intro": "Het auditportaal is ook beschikbaar voor kantoren met dezelfde ambitie qua structuur, kwaliteitsborging en workflowdiscipline.",
           "bullets": [
-            "Partner met VACEI voor audit-levering",
+            "Partner met A4 voor audit-levering",
             "Het portaal inzetten ter ondersteuning van interne teams"
           ],
           "footer": "Voor kantoren die helderheid en excellentie waarderen."
@@ -1420,7 +1833,12 @@
         "colItem": "Item",
         "colStatus": "Status",
         "colAction": "Actie",
-        "pbcRows": ["Bankbevestiging", "Leningsovereenkomst", "Saldenbalans", "Grootboek"],
+        "pbcRows": [
+          "Bankbevestiging",
+          "Leningsovereenkomst",
+          "Saldenbalans",
+          "Grootboek"
+        ],
         "statusMissing": "Ontbreekt",
         "upload": "Uploaden",
         "extendTbTitle": "Saldenbalans uitbreiden",
@@ -1429,23 +1847,55 @@
         "tbColAdj": "Correcties",
         "tbColExtended": "Uitgebr. saldo",
         "tbRows": [
-          { "label": "Verzekeringen", "v1": "1.098", "v2": "0", "v3": "1.098" },
-          { "label": "Bankkosten", "v1": "360", "v2": "0", "v3": "320" },
-          { "label": "Betaalde rente", "v1": "550", "v2": "0", "v3": "0" },
-          { "label": "Omzet", "v1": "360", "v2": "0", "v3": "980" },
-          { "label": "Winst/verlies", "v1": "118.932", "v2": "0", "v3": "-33.353" }
+          {
+            "label": "Verzekeringen",
+            "v1": "1.098",
+            "v2": "0",
+            "v3": "1.098"
+          },
+          {
+            "label": "Bankkosten",
+            "v1": "360",
+            "v2": "0",
+            "v3": "320"
+          },
+          {
+            "label": "Betaalde rente",
+            "v1": "550",
+            "v2": "0",
+            "v3": "0"
+          },
+          {
+            "label": "Omzet",
+            "v1": "360",
+            "v2": "0",
+            "v3": "980"
+          },
+          {
+            "label": "Winst/verlies",
+            "v1": "118.932",
+            "v2": "0",
+            "v3": "-33.353"
+          }
         ]
       }
     }
   },
   "portal/client-portal": {
-    "pageHeader": { "title": "Cliëntenportaal", "breadcrumbs": [ { "label": "Cliëntenportaal" } ] },
+    "pageHeader": {
+      "title": "Cliëntenportaal",
+      "breadcrumbs": [
+        {
+          "label": "Cliëntenportaal"
+        }
+      ]
+    },
     "overview": {
       "heading": "Eén dashboard voor alles",
       "paragraphs": [
-        "Het VACEI-cliëntenportaal biedt één beveiligd dashboard voor al uw diensten.",
+        "Het A4-cliëntenportaal biedt één beveiligd dashboard voor al uw diensten.",
         "Van boekhouding en compliance tot corporate en audit: alles op één plek.",
-        "Elke klant krijgt een vast VACEI-team dat levert, vragen beantwoordt en voortgang bewaakt. Alle communicatie loopt via het portaal."
+        "Elke klant krijgt een vast A4-team dat levert, vragen beantwoordt en voortgang bewaakt. Alle communicatie loopt via het portaal."
       ]
     },
     "feature": {
@@ -1459,7 +1909,7 @@
         "Zien wat open, afgerond of overdue is",
         "Documenten geordend en altijd bereikbaar houden"
       ],
-      "closingText": "Documenten blijven geordend en bereikbaar, zodat uw team en VACEI steeds de juiste informatie hebben.",
+      "closingText": "Documenten blijven geordend en bereikbaar, zodat uw team en A4 steeds de juiste informatie hebben.",
       "bottomTitle": "Cliëntenportaal",
       "bottomDescription": "Documenten, taken, deadlines en communicatie op één plek."
     },
@@ -1474,7 +1924,7 @@
           "id": "cp-step-1",
           "number": "01.",
           "title": "Chat en bellen plannen",
-          "description": "Communiceer rechtstreeks met uw VACEI-team via ingebouwde berichten. Gesprekken plant u via het portaal, minder e-mail heen en weer.",
+          "description": "Communiceer rechtstreeks met uw A4-team via ingebouwde berichten. Gesprekken plant u via het portaal, minder e-mail heen en weer.",
           "image": "/assets/images/Chat and Call Scheduling.png"
         },
         {
@@ -1529,45 +1979,116 @@
     }
   },
   "partners/reseller-program": {
-    "pageHeader": { "title": "Reseller Programma", "breadcrumbs": [ { "label": "Resellers" } ] }
+    "pageHeader": {
+      "title": "Reseller Programma",
+      "breadcrumbs": [
+        {
+          "label": "Resellers"
+        }
+      ]
+    }
   },
   "partners/service-delivery": {
-    "pageHeader": { "title": "Partnerships voor Dienstverlening", "breadcrumbs": [ { "label": "Partnerships" } ] }
+    "pageHeader": {
+      "title": "Partnerships voor Dienstverlening",
+      "breadcrumbs": [
+        {
+          "label": "Partnerships"
+        }
+      ]
+    }
   },
   "partners/technology-support": {
-    "pageHeader": { "title": "Ondersteuning Technologie-integratie", "breadcrumbs": [ { "label": "Support" } ] }
+    "pageHeader": {
+      "title": "Ondersteuning Technologie-integratie",
+      "breadcrumbs": [
+        {
+          "label": "Support"
+        }
+      ]
+    }
   },
   "partners/white-label": {
-    "pageHeader": { "title": "White Label & Technologie", "breadcrumbs": [ { "label": "White Label" } ] }
+    "pageHeader": {
+      "title": "White Label & Technologie",
+      "breadcrumbs": [
+        {
+          "label": "White Label"
+        }
+      ]
+    }
   },
   "partners/white-label/audit-portal": {
-    "pageHeader": { "title": "White Label Auditportaal", "breadcrumbs": [ { "label": "Audit WL" } ] }
+    "pageHeader": {
+      "title": "White Label Auditportaal",
+      "breadcrumbs": [
+        {
+          "label": "Audit WL"
+        }
+      ]
+    }
   },
   "partners/white-label/client-portal": {
-    "pageHeader": { "title": "White Label Cliëntenportaal", "breadcrumbs": [ { "label": "Cliënten WL" } ] }
+    "pageHeader": {
+      "title": "White Label Cliëntenportaal",
+      "breadcrumbs": [
+        {
+          "label": "Cliënten WL"
+        }
+      ]
+    }
   },
   "services/[slug]": {
-    "pageHeaderFallback": { "title": "Diensten", "breadcrumbs": [ { "label": "Diensten" } ] }
+    "pageHeaderFallback": {
+      "title": "Diensten",
+      "breadcrumbs": [
+        {
+          "label": "Diensten"
+        }
+      ]
+    }
   },
   "white-label-platform": {
-    "pageHeader": { "title": "White-Label Platform", "breadcrumbs": [ { "label": "White-Label" } ] },
+    "pageHeader": {
+      "title": "White-Label Platform",
+      "breadcrumbs": [
+        {
+          "label": "White-Label"
+        }
+      ]
+    },
     "hero": {
-      "title": "VACEI White-Label Platform",
+      "title": "A4 White-Label Platform",
       "subtitle": "Lanceer uw eigen gebrande cliëntenplatform",
       "overview": "Bied uw cliënten een volledig gebrande digitale werkruimte om boekhoud-, audit-, juridische en compliancediensten te beheren onder uw kantoornaam. Houd de controle over de ervaring en de relatie. Schaal zonder operationele chaos.",
       "cta": "Vraag Demo Aan",
       "secondaryCta": "Bekijk Platform",
-      "previewAlt": "Voorbeeld van het VACEI White-Label dashboard"
+      "previewAlt": "Voorbeeld van het A4 White-Label dashboard"
     },
     "whatYouGet": {
       "badge": "Alles wat u nodig heeft",
       "title": "Wat u krijgt",
       "items": [
-        { "title": "Gebrand platform", "description": "Logo, kleuren en uw eigen domein voor een naadloze ervaring." },
-        { "title": "Cliëntenportalen", "description": "Eigen beveiligde portalen voor elk van uw cliëntbedrijven." },
-        { "title": "Opdrachtbeheer", "description": "Volledige werkstromen om professionele diensten te managen." },
-        { "title": "Documentverzoeken", "description": "Gestroomlijnd volgen en verzamelen van cliëntdocumenten." },
-        { "title": "Compliancekalender", "description": "Blijf op de hoogte van alle deponeringen en deadlines." }
+        {
+          "title": "Gebrand platform",
+          "description": "Logo, kleuren en uw eigen domein voor een naadloze ervaring."
+        },
+        {
+          "title": "Cliëntenportalen",
+          "description": "Eigen beveiligde portalen voor elk van uw cliëntbedrijven."
+        },
+        {
+          "title": "Opdrachtbeheer",
+          "description": "Volledige werkstromen om professionele diensten te managen."
+        },
+        {
+          "title": "Documentverzoeken",
+          "description": "Gestroomlijnd volgen en verzamelen van cliëntdocumenten."
+        },
+        {
+          "title": "Compliancekalender",
+          "description": "Blijf op de hoogte van alle deponeringen en deadlines."
+        }
       ]
     },
     "howItWorks": {
@@ -1575,28 +2096,58 @@
       "title": "Hoe het werkt",
       "description": "We hebben het volledige white-label onboardingproces vereenvoudigd in vier eenvoudige fasen.",
       "steps": [
-        { "title": "Lanceer uw platform", "description": "Wij richten uw domein in en passen de branding van uw kantoor toe." },
-        { "title": "Onboard uw cliënten", "description": "Nodig cliënten uit in hun eigen beveiligde digitale werkruimte." },
-        { "title": "Beheer de diensten", "description": "Lever boekhoud-, audit- en compliancediensten op efficiënte wijze." }
+        {
+          "title": "Lanceer uw platform",
+          "description": "Wij richten uw domein in en passen de branding van uw kantoor toe."
+        },
+        {
+          "title": "Onboard uw cliënten",
+          "description": "Nodig cliënten uit in hun eigen beveiligde digitale werkruimte."
+        },
+        {
+          "title": "Beheer de diensten",
+          "description": "Lever boekhoud-, audit- en compliancediensten op efficiënte wijze."
+        }
       ]
     },
     "whyChoose": {
-      "badge": "Het VACEI Voordeel",
+      "badge": "Het A4 Voordeel",
       "title": "Waarom kantoren kiezen voor White-Label",
       "items": [
-        { "title": "Schaalbaarheid", "description": "Breid uw dienstverlening uit zonder operationele chaos." },
-        { "title": "Merkidentiteit", "description": "Behoud de relatie onder uw eigen merk en kleuren." },
-        { "title": "Efficiëntie", "description": "Geoptimaliseerde werkstromen specifiek voor de professionele dienstverlening." }
+        {
+          "title": "Schaalbaarheid",
+          "description": "Breid uw dienstverlening uit zonder operationele chaos."
+        },
+        {
+          "title": "Merkidentiteit",
+          "description": "Behoud de relatie onder uw eigen merk en kleuren."
+        },
+        {
+          "title": "Efficiëntie",
+          "description": "Geoptimaliseerde werkstromen specifiek voor de professionele dienstverlening."
+        }
       ]
     },
     "useCases": {
       "badge": "Veelzijdig en schaalbaar",
       "title": "Toepassingen",
       "items": [
-        { "title": "Accountantskantoren", "description": "Beheer administratie en belastingen onder uw eigen portaal." },
-        { "title": "Auditkantoren", "description": "Gestructureerde auditlevering en documentbeheer voor cliënten." },
-        { "title": "Advocatenkantoren", "description": "Deel juridische documenten veilig en beheer dossiers." },
-        { "title": "Compliance-aanbieders", "description": "Automatiseer wettelijke bewaking voor meerdere entiteiten." }
+        {
+          "title": "Accountantskantoren",
+          "description": "Beheer administratie en belastingen onder uw eigen portaal."
+        },
+        {
+          "title": "Auditkantoren",
+          "description": "Gestructureerde auditlevering en documentbeheer voor cliënten."
+        },
+        {
+          "title": "Advocatenkantoren",
+          "description": "Deel juridische documenten veilig en beheer dossiers."
+        },
+        {
+          "title": "Compliance-aanbieders",
+          "description": "Automatiseer wettelijke bewaking voor meerdere entiteiten."
+        }
       ]
     },
     "pricing": {
@@ -1622,7 +2173,7 @@
     "finalCta": {
       "badge": "Sluit je aan bij de toekomst",
       "title": "Transformeer je kantoor vandaag nog",
-      "subtitle": "VACEI White-Label transformeert uw kantoor in een digitaal serviceplatform — zonder zelf technologie te hoeven bouwen. Vraag een demo aan en start vandaag nog.",
+      "subtitle": "A4 White-Label transformeert uw kantoor in een digitaal serviceplatform — zonder zelf technologie te hoeven bouwen. Vraag een demo aan en start vandaag nog.",
       "cta": "Plan Demo"
     }
   },
@@ -1695,15 +2246,31 @@
         {
           "title": "Bankrekeningen",
           "rows": [
-            { "label": "Sparen", "value": "€800,22", "note": "Onlangs bijgewerkt" },
-            { "label": "Betaalrekening", "value": "€1.456,00", "note": "Onlangs bijgewerkt" }
+            {
+              "label": "Sparen",
+              "value": "€800,22",
+              "note": "Onlangs bijgewerkt"
+            },
+            {
+              "label": "Betaalrekening",
+              "value": "€1.456,00",
+              "note": "Onlangs bijgewerkt"
+            }
           ]
         },
         {
           "title": "Creditcards",
           "rows": [
-            { "label": "Visa", "value": "€0,00", "note": "Onlangs bijgewerkt" },
-            { "label": "Betaalrekening", "value": "-€157,75", "note": "Onlangs bijgewerkt" }
+            {
+              "label": "Visa",
+              "value": "€0,00",
+              "note": "Onlangs bijgewerkt"
+            },
+            {
+              "label": "Betaalrekening",
+              "value": "-€157,75",
+              "note": "Onlangs bijgewerkt"
+            }
           ]
         }
       ]

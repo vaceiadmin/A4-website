@@ -9,7 +9,7 @@ import { Globe2 } from "lucide-react";
 // Helper component for premium country markers
 const CountryMarker = ({ code, className }: { code: string; className?: string }) => (
     <div className={cn(
-        "relative flex items-center justify-center w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-[#1A1D2B] shadow-2xl border border-white/20 overflow-hidden transition-all duration-300 hover:scale-125 group/flag shrink-0",
+        "relative flex items-center justify-center w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-[#18181B] shadow-2xl border border-white/20 overflow-hidden transition-all duration-300 hover:scale-125 group/flag shrink-0",
         className
     )}>
         <img
@@ -27,16 +27,16 @@ const GlobalDeliverySection = ({ isDark = false }: { isDark?: boolean }) => {
         <section className={cn(
             "relative py-24 sm:py-32 overflow-hidden mb-12 sm:mb-20",
             isDark && "mx-4 sm:mx-6 lg:mx-8",
-            isDark ? "bg-[#05050A] text-white rounded-[48px] shadow-2xl" : "bg-[#FAFBFF] text-slate-900 rounded-[48px] border border-slate-100 shadow-xl shadow-blue-500/5"
+            isDark ? "bg-[#05050A] text-white rounded-[48px] shadow-2xl" : "bg-[#FAFBFF] text-slate-900 rounded-[48px] border border-slate-100 shadow-xl shadow-zinc-500/5"
         )}>
             {/* Background Decorative Element */}
             <div className={cn(
                 "absolute top-0 right-0 w-1/2 h-full blur-[120px] pointer-events-none",
-                isDark ? "bg-blue-600/10" : "bg-blue-400/5"
+                isDark ? "bg-zinc-600/10" : "bg-zinc-400/5"
             )} />
             <div className={cn(
                 "absolute bottom-0 left-0 w-1/2 h-full blur-[120px] pointer-events-none",
-                isDark ? "bg-blue-500/5" : "bg-blue-600/5"
+                isDark ? "bg-zinc-500/5" : "bg-zinc-600/5"
             )} />
 
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 w-full">
@@ -47,7 +47,7 @@ const GlobalDeliverySection = ({ isDark = false }: { isDark?: boolean }) => {
                         <div className="space-y-6">
                             <div className={cn(
                                 "inline-flex items-center gap-3 px-5 py-2 rounded-full border text-[11px] font-black uppercase tracking-[0.3em] w-fit",
-                                isDark ? "bg-white/5 border-white/10 text-primary-blue" : "bg-blue-50 border-blue-100 text-blue-600"
+                                isDark ? "bg-white/5 border-white/10 text-primary-blue" : "bg-zinc-50 border-zinc-100 text-zinc-600"
                             )}>
                                 <Globe2 className="w-4 h-4" />
                                 {t("globalDelivery.badge")}
@@ -55,7 +55,7 @@ const GlobalDeliverySection = ({ isDark = false }: { isDark?: boolean }) => {
 
                             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-[1.1]">
                                 {t("globalDelivery.title").split(' — ')[0]} — <br />
-                                <span className="font-bodoni italic text-blue-600">
+                                <span className="font-bodoni italic text-zinc-600">
                                     {t("globalDelivery.title").split(' — ')[1]}
                                 </span>
                             </h2>
@@ -73,7 +73,7 @@ const GlobalDeliverySection = ({ isDark = false }: { isDark?: boolean }) => {
                                 <div key={item} className="flex items-center gap-4 text-lg font-black tracking-tight">
                                     <div className={cn(
                                         "w-8 h-8 rounded-xl flex items-center justify-center transition-all",
-                                        isDark ? "bg-primary-blue/20 text-primary-blue" : "bg-blue-500 text-white shadow-lg shadow-blue-500/20"
+                                        isDark ? "bg-primary-blue/20 text-primary-blue" : "bg-zinc-500 text-white shadow-lg shadow-zinc-500/20"
                                     )}>
                                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="4"><path d="M20 6L9 17l-5-5" /></svg>
                                     </div>
@@ -84,7 +84,7 @@ const GlobalDeliverySection = ({ isDark = false }: { isDark?: boolean }) => {
 
                         <div className={cn(
                             "p-8 rounded-3xl border text-lg font-medium leading-relaxed",
-                            isDark ? "bg-[#0A0B10] border-white/5 text-slate-300" : "bg-white border-slate-100 text-slate-600 shadow-xl shadow-blue-500/5"
+                            isDark ? "bg-[#0A0B10] border-white/5 text-slate-300" : "bg-white border-slate-100 text-slate-600 shadow-xl shadow-zinc-500/5"
                         )}>
                             {t("globalDelivery.footer")}
                         </div>
@@ -96,7 +96,7 @@ const GlobalDeliverySection = ({ isDark = false }: { isDark?: boolean }) => {
                         {/* Central Business Hub Icon */}
                         <div className="relative z-20 flex h-16 w-16 items-center justify-center rounded-2xl bg-white shadow-[0_20px_50px_rgba(37,99,235,0.3)] border border-white/10 p-2 group transition-all duration-500 hover:rotate-12 translate-z-0">
                             <img
-                                src="/assets/images/imgi_1_Logo-2.0 8.png"
+                                src="/assets/images/a4-logo-new.webp"
                                 alt={t("activeEU.hubAlt")}
                                 className="w-full h-full object-contain"
                             />

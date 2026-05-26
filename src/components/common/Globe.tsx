@@ -136,9 +136,9 @@ const Globe = ({ className }: { className?: string }) => {
       {/* 3D Depth Overlays - Magic UI / Light Mode optimized */}
       <div className="absolute inset-0 pointer-events-none rounded-full transition-opacity duration-1000" style={{ opacity }}>
         {/* Subtle background sphere for contrast on pure white */}
-        <div className="absolute inset-[10%] rounded-full bg-slate-50 shadow-[inset_0_0_80px_rgba(59,130,246,0.08),0_0_40px_rgba(59,130,246,0.05)] border border-slate-100/50" />
+        <div className="absolute inset-[10%] rounded-full bg-slate-50 shadow-[inset_0_0_80px_rgba(161, 161, 170,0.08),0_0_40px_rgba(161, 161, 170,0.05)] border border-slate-100/50" />
         {/* Atmosphere Glow */}
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.1)_0%,transparent_70%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(161, 161, 170,0.1)_0%,transparent_70%)]" />
       </div>
 
       <canvas
@@ -179,7 +179,7 @@ const Globe = ({ className }: { className?: string }) => {
         opacity > 0 ? "opacity-0 group-hover:opacity-100 translate-y-2 group-hover:translate-y-0" : "opacity-0"
       )}>
         <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/95 backdrop-blur-md border border-slate-200/50 shadow-md whitespace-nowrap">
-           <svg className="w-3.5 h-3.5 text-blue-500 animate-pulse" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+           <svg className="w-3.5 h-3.5 text-zinc-500 animate-pulse" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
            </svg>
            <span className="text-[10px] font-bold uppercase tracking-wider text-slate-600">Drag to Explore Europe</span>

@@ -40,8 +40,8 @@ const FaqAccordion = ({
        {/* Background Decor - Light Gradients - Hidden on iPhone for performance */}
        {!isIPhone && !isLowPerformance && (
         <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-          <div className="absolute top-[20%] left-[-5%] w-[500px] h-[500px] bg-blue-100/40 rounded-full blur-[80px]" />
-          <div className="absolute bottom-[20%] right-[-5%] w-[400px] h-[400px] bg-blue-100/40 rounded-full blur-[80px]" />
+          <div className="absolute top-[20%] left-[-5%] w-[500px] h-[500px] bg-zinc-100/40 rounded-full blur-[80px]" />
+          <div className="absolute bottom-[20%] right-[-5%] w-[400px] h-[400px] bg-zinc-100/40 rounded-full blur-[80px]" />
         </div>
        )}
 
@@ -116,7 +116,7 @@ const FaqAccordion = ({
                     className={cn(
                       "group rounded-2xl border transition-all duration-300 cursor-pointer overflow-hidden",
                       isOpen
-                        ? "bg-white border-primary-blue/30 shadow-lg shadow-blue-100/50"
+                        ? "bg-white border-primary-blue/30 shadow-lg shadow-zinc-100/50"
                         : isIPhone || isLowPerformance 
                           ? "bg-white border-gray-100 shadow-sm"
                           : "bg-white/40 border-white/60 hover:bg-white/60 hover:border-white shadow-sm hover:shadow-md"

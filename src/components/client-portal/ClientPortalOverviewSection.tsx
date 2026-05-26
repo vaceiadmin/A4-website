@@ -163,7 +163,7 @@ const ClientPortalOverviewSection = ({
                       >
                         <span
                           className="h-2.5 w-2.5 rounded-full border-[2px] border-white"
-                          style={{ backgroundColor: item.color ?? "#3b49e6" }}
+                          style={{ backgroundColor: item.color ?? "#000000" }}
                         />
                       </span>
                       <div className="flex flex-col leading-tight">
@@ -241,8 +241,8 @@ const ClientPortalOverviewSection = ({
         >
           <div className="grid grid-cols-1 md:grid-cols-[0.9fr_1.2fr] gap-5 items-start">
             <div className="space-y-5">
-              <div className="bg-white rounded-2xl px-4 py-4 shadow-xl border border-[#E3E4F0] text-[11px] text-[#1C2340]">
-                <p className="text-[10px] font-semibold mb-3 text-[#1C2340]">
+              <div className="bg-white rounded-2xl px-4 py-4 shadow-xl border border-[#E3E4F0] text-[11px] text-[#18181B]">
+                <p className="text-[10px] font-semibold mb-3 text-[#18181B]">
                   {t("demo.accounting.requestsTitle")}
                 </p>
                 <div className="space-y-2">
@@ -255,7 +255,7 @@ const ClientPortalOverviewSection = ({
                         <span className="h-2 w-2 rounded-full bg-tab-active" />
                         <div className="flex flex-col leading-tight">
                           <span className="text-[11px] text-heading">{row.label}</span>
-                          <span className="text-[9px] text-[#9FA4C9]">{row.date}</span>
+                          <span className="text-[9px] text-[#D4D4D8]">{row.date}</span>
                         </div>
                       </div>
                       <button
@@ -270,8 +270,8 @@ const ClientPortalOverviewSection = ({
               </div>
             </div>
 
-            <div className="bg-white rounded-2xl px-4 py-4 shadow-xl border border-[#E3E4F0] text-[11px] text-[#1C2340]">
-              <p className="text-[10px] font-semibold mb-3 text-[#1C2340]">
+            <div className="bg-white rounded-2xl px-4 py-4 shadow-xl border border-[#E3E4F0] text-[11px] text-[#18181B]">
+              <p className="text-[10px] font-semibold mb-3 text-[#18181B]">
                 {t("demo.accounting.vatTitle")}
               </p>
               <div className="space-y-2">
@@ -282,13 +282,13 @@ const ClientPortalOverviewSection = ({
                   >
                     <div className="flex flex-col leading-tight">
                       <span className="text-[11px] text-heading">{period}</span>
-                      <span className="text-[9px] text-[#9FA4C9]">
+                      <span className="text-[9px] text-[#D4D4D8]">
                         {t("demo.accounting.status")}
                       </span>
                     </div>
                     <button
                       type="button"
-                      className="px-3 py-1 rounded-full bg-primary text-white text-[10px] font-semibold border border-[#D3D5EE] shadow-lg"
+                      className="px-3 py-1 rounded-full bg-primary text-white text-[10px] font-semibold border border-[#E4E4E7] shadow-lg"
                     >
                       {t("demo.accounting.view")}
                     </button>
@@ -298,8 +298,8 @@ const ClientPortalOverviewSection = ({
             </div>
 
             <div className="md:col-span-2">
-              <div className="bg-white rounded-2xl px-4 py-4 shadow-xl border border-[#E3E4F0] text-[11px] text-[#1C2340]">
-                <p className="text-[10px] font-semibold mb-3 text-[#1C2340]">
+              <div className="bg-white rounded-2xl px-4 py-4 shadow-xl border border-[#E3E4F0] text-[11px] text-[#18181B]">
+                <p className="text-[10px] font-semibold mb-3 text-[#18181B]">
                   {t("demo.accounting.missingTitle")}
                 </p>
                 <div className="space-y-2">
@@ -311,7 +311,7 @@ const ClientPortalOverviewSection = ({
                       <span className="text-[11px] text-heading">{item}</span>
                       <button
                         type="button"
-                        className="px-3 py-1 rounded-full bg-primary text-white text-[10px] font-semibold border border-[#D3D5EE] shadow-lg"
+                        className="px-3 py-1 rounded-full bg-primary text-white text-[10px] font-semibold border border-[#E4E4E7] shadow-lg"
                       >
                         {t("demo.accounting.upload")}
                       </button>
@@ -334,7 +334,7 @@ const ClientPortalOverviewSection = ({
         <div className="bg-white p-4 rounded-[18px]">
           <div className="bg-hero rounded-2xl px-4 py-3 text-xs text-white  border border-[#1C233F] shadow-[0_10px_25px_rgba(0,0,0,0.45)]">
             <p className="text-[11px] font-semibold mb-1">{t("demo.client.heroTitle")}</p>
-            <p className="text-[10px] text-[#9FA4C9] mb-3">{t("demo.client.heroSubtitle")}</p>
+            <p className="text-[10px] text-[#D4D4D8] mb-3">{t("demo.client.heroSubtitle")}</p>
             <div className="flex flex-wrap items-center gap-2 text-[10px]">
               <span className="px-2 py-1 rounded-full bg-white/5 border border-white/10">
                 {t("demo.client.tagCompany")}
@@ -342,7 +342,7 @@ const ClientPortalOverviewSection = ({
               <span className="px-2 py-1 rounded-full bg-white/5 border border-white/10">
                 {t("demo.client.tagAcme")}
               </span>
-              <span className="px-2 py-1 rounded-full bg-[#2E254C] border border-[#FFC857] text-[#FFC857]">
+              <span className="px-2 py-1 rounded-full bg-[#27272A] border border-[#FFC857] text-[#FFC857]">
                 {t("demo.client.tagNeedsAttention")}
               </span>
               <span className="px-2 py-1 rounded-full bg-[#372241] border border-[#FF4D6A] text-[#FFD5DE]">
@@ -352,24 +352,24 @@ const ClientPortalOverviewSection = ({
           </div>
         </div>
         <div className="bg-white rounded-2xl border border-[#E5E7F1] overflow-hidden shadow-[0_12px_30px_rgba(12,15,36,0.18)] mt-4">
-          <div className="px-4 py-3 border-b border-[#EAECF5] flex items-center gap-2 text-[11px] text-[#1C2340] bg-[#F5F6FD]">
-            <span className="inline-flex h-4 w-4 items-center justify-center rounded-full border border-[#9FA4C9] text-[10px]">
-              <BellIcon className="w-4 h-4 text-[#9FA4C9]" />
+          <div className="px-4 py-3 border-b border-[#EAECF5] flex items-center gap-2 text-[11px] text-[#18181B] bg-[#F5F6FD]">
+            <span className="inline-flex h-4 w-4 items-center justify-center rounded-full border border-[#D4D4D8] text-[10px]">
+              <BellIcon className="w-4 h-4 text-[#D4D4D8]" />
             </span>
             <span className="font-semibold text-lg">{t("demo.client.noticeTitle")}</span>
           </div>
 
           <div className="p-4 space-y-4 bg-white">
-            <div className="bg-[#0F132B] rounded-xl border border-[#262B4B] px-4 py-3 text-[11px] text-white">
+            <div className="bg-[#0F132B] rounded-xl border border-[#27272A] px-4 py-3 text-[11px] text-white">
               <div className="flex items-center gap-2 mb-1">
-                <span className="px-1.5 py-0.5 rounded-full bg-[#3B1F2F] text-[9px] uppercase tracking-wide text-[#FF8FA3]">
+                <span className="px-1.5 py-0.5 rounded-full bg-[#27272A] text-[9px] uppercase tracking-wide text-[#FF8FA3]">
                   {t("demo.client.urgentLabel")}
                 </span>
-                <span className="text-[10px] text-[#B0B3D6]">{t("demo.client.urgentMeta")}</span>
+                <span className="text-[10px] text-[#D4D4D8]">{t("demo.client.urgentMeta")}</span>
               </div>
               <p className="font-semibold mb-1">{t("demo.client.urgentTitle")}</p>
-              <p className="text-[10px] text-[#B0B3D6] mb-2">{t("demo.client.urgentBody")}</p>
-              <p className="text-[10px] text-[#B0B3D6]">
+              <p className="text-[10px] text-[#D4D4D8] mb-2">{t("demo.client.urgentBody")}</p>
+              <p className="text-[10px] text-[#D4D4D8]">
                 {t("demo.client.releaseDateLabel")}{" "}
                 <span className="text-white font-medium">{t("demo.client.releaseDate")}</span>
               </p>
@@ -377,20 +377,20 @@ const ClientPortalOverviewSection = ({
 
             <div className="grid grid-cols-2 gap-3 text-[11px]">
               <div className="bg-white rounded-xl px-3 py-3 border border-[#E5E7F1] shadow-[0_4px_12px_rgba(12,15,36,0.08)]">
-                <p className="text-[#4B4F6B] mb-1">{t("demo.client.statOverdue")}</p>
+                <p className="text-[#52525B] mb-1">{t("demo.client.statOverdue")}</p>
                 <p className="text-lg font-semibold text-[#FF4D6A]">4</p>
               </div>
               <div className="bg-white rounded-xl px-3 py-3 border border-[#E5E7F1] shadow-[0_4px_12px_rgba(12,15,36,0.08)]">
-                <p className="text-[#4B4F6B] mb-1">{t("demo.client.statDueSoon")}</p>
-                <p className="text-lg font-semibold text-[#1C2340]">0</p>
+                <p className="text-[#52525B] mb-1">{t("demo.client.statDueSoon")}</p>
+                <p className="text-lg font-semibold text-[#18181B]">0</p>
               </div>
               <div className="bg-white rounded-xl px-3 py-3 border border-[#E5E7F1] shadow-[0_4px_12px_rgba(12,15,36,0.08)]">
-                <p className="text-[#4B4F6B] mb-1">{t("demo.client.statWaiting")}</p>
-                <p className="text-lg font-semibold text-[#1C2340]">2</p>
+                <p className="text-[#52525B] mb-1">{t("demo.client.statWaiting")}</p>
+                <p className="text-lg font-semibold text-[#18181B]">2</p>
               </div>
               <div className="bg-white rounded-xl px-3 py-3 border border-[#E5E7F1] shadow-[0_4px_12px_rgba(12,15,36,0.08)]">
-                <p className="text-[#4B4F6B] mb-1">{t("demo.client.statDueSoon")}</p>
-                <p className="text-lg font-semibold text-[#1C2340]">0</p>
+                <p className="text-[#52525B] mb-1">{t("demo.client.statDueSoon")}</p>
+                <p className="text-lg font-semibold text-[#18181B]">0</p>
               </div>
             </div>
           </div>

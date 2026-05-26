@@ -19,7 +19,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: BlogPageProps): Promise<Metadata> {
   const { slug } = await params;
   const blog = getBlogBySlug(slug);
-  
+
   if (!blog) {
     return {
       title: 'Post Not Found',
@@ -27,14 +27,14 @@ export async function generateMetadata({ params }: BlogPageProps): Promise<Metad
   }
 
   return {
-    title: `${blog.title} | VACEI Insights`,
+    title: `${blog.title} | A4 Insights`,
     description: blog.excerpt,
     openGraph: {
       title: blog.title,
       description: blog.excerpt,
       type: 'article',
       publishedTime: blog.date,
-      authors: [blog.author || 'VACEI Team'],
+      authors: [blog.author || 'A4 Team'],
       tags: blog.tags || [],
     },
     twitter: {
@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: BlogPageProps): Promise<Metad
 export default async function BlogPage({ params }: BlogPageProps) {
   const { slug } = await params;
   const blog = getBlogBySlug(slug);
-  
+
   if (!blog) {
     notFound();
   }

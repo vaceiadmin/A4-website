@@ -21,14 +21,14 @@ const PricingCTA = () => {
     <section className="relative py-20 lg:py-28 overflow-hidden bg-[#ecf0f0]">
       {!isIPhone && !isLowPerformance && (
         <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-          <div className="absolute top-[-10%] left-[10%] w-[500px] h-[500px] bg-blue-100/40 rounded-full blur-[80px]" />
-          <div className="absolute bottom-[-10%] right-[10%] w-[600px] h-[600px] bg-blue-100/30 rounded-full blur-[80px]" />
+          <div className="absolute top-[-10%] left-[10%] w-[500px] h-[500px] bg-zinc-100/40 rounded-full blur-[80px]" />
+          <div className="absolute bottom-[-10%] right-[10%] w-[600px] h-[600px] bg-zinc-100/30 rounded-full blur-[80px]" />
         </div>
       )}
 
       <div className="relative max-w-7xl mx-auto px-4 md:px-6 lg:px-8 z-10">
         <FadeInUp>
-          <div className="relative bg-primary-blue rounded-3xl overflow-hidden shadow-2xl shadow-blue-900/20">
+          <div className="relative bg-primary-blue rounded-3xl overflow-hidden shadow-2xl shadow-zinc-900/20">
             <div className="absolute inset-0 opacity-10">
               <div
                 className="absolute inset-0"
@@ -58,7 +58,7 @@ const PricingCTA = () => {
                   <p className="text-white/90 text-lg mb-8 leading-relaxed">{t("cta.body")}</p>
 
                   <div className="flex flex-col sm:flex-row gap-4">
-                    <LocalizedLink href="https://client.vacei.com/onboarding">
+                    <LocalizedLink href="https://client.A4.com/onboarding">
                       <motion.button
                         type="button"
                         whileHover={isIPhone || isLowPerformance ? {} : { scale: 1.05 }}
@@ -77,7 +77,7 @@ const PricingCTA = () => {
                       </motion.button>
                     </LocalizedLink>
 
-                    <LocalizedLink href="https://client.vacei.com/onboarding">
+                    <LocalizedLink href="https://client.A4.com/onboarding">
                       <motion.button
                         type="button"
                         whileHover={isIPhone || isLowPerformance ? {} : { scale: 1.05 }}

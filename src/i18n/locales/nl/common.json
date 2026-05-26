@@ -1,5 +1,5 @@
 {
-  "brand": "VACEI",
+  "brand": "A4",
   "glossary": {
     "getInstantQuote": "Ontvang Directe Offerte",
     "bookDemo": "Boek een Demo",
@@ -55,13 +55,13 @@
       "bookkeeping": "Boekhouding",
       "accountingMalta": "Boekhouding Malta",
       "howItWorks": "Hoe het werkt",
-      "about": "Over VACEI",
+      "about": "Over A4",
       "faqs": "FAQs",
       "contact": "Contact",
       "security": "Beveiliging & Compliance"
     },
     "sidebar": {
-      "description": "VACEI is een modern kantoor voor boekhouding, audit en zakelijke diensten, gebouwd rond een gestructureerd digitaal platform. Wij beheren boekhouding, compliance en audit end-to-end met eigen technologie om helderheid, snelheid en zichtbaarheid te bieden.",
+      "description": "A4 is een modern kantoor voor boekhouding, audit en zakelijke diensten, gebouwd rond een gestructureerd digitaal platform. Wij beheren boekhouding, compliance en audit end-to-end met eigen technologie om helderheid, snelheid en zichtbaarheid te bieden.",
       "quickActions": "Snelkoppelingen",
       "requestQuoteTitle": "Offerte aanvragen",
       "requestQuoteSubtitle": "Deel uw wensen in een paar stappen.",
@@ -74,13 +74,13 @@
     }
   },
   "footer": {
-    "tagline": "VACEI is de gestructureerde digitale werkruimte waar bedrijven en oprichters professionele diensten, compliance en workflows veilig beheren.",
+    "tagline": "A4 is de gestructureerde digitale werkruimte waar bedrijven en oprichters professionele diensten, compliance en workflows veilig beheren.",
     "platform": "Platform",
     "overview": "Overzicht",
     "howItWorks": "Hoe het werkt",
     "pricing": "Tarieven",
     "security": "Beveiliging & Compliance",
-    "whyVacei": "Waarom VACEI",
+    "whyA4": "Waarom A4",
     "services": "Diensten",
     "corporate": "Zakelijke Diensten",
     "audit": "Audit & Assurance",
@@ -89,7 +89,7 @@
     "legal": "Juridische Diensten",
     "vatPayroll": "Btw & Loonadministratie",
     "company": "Kantoor",
-    "about": "Over VACEI",
+    "about": "Over A4",
     "faqs": "FAQs",
     "insights": "Insights",
     "whiteLabelLanding": "White-Label Platform",
@@ -97,11 +97,11 @@
     "contact": "Contact opnemen",
     "cpePodcast": "CPE & Podcast",
     "contactUs": "Contact",
-    "disclaimer": "Professionele diensten via VACEI worden uitgevoerd door een netwerk van geverifieerde kantoren. VACEI biedt de digitale omgeving om deze opdrachten te beheren.",
+    "disclaimer": "Professionele diensten via A4 worden uitgevoerd door een netwerk van geverifieerde kantoren. A4 biedt de digitale omgeving om deze opdrachten te beheren.",
     "terms": "Algemene Voorwaarden",
     "privacy": "Privacybeleid",
     "cookies": "Cookiebeleid",
-    "copyright": "© 2026 What VACEI Is. Alle rechten voorbehouden."
+    "copyright": "© 2026 What A4 Is. Alle rechten voorbehouden."
   },
   "pageHeader": {
     "home": "Home"
@@ -119,7 +119,7 @@
     "botAskName": "Prima, op welke naam mogen we ons antwoord richten?",
     "botAskEmail": "Dank u! Wat is het beste e-mailadres om u te bereiken?",
     "botSuccess": "Bedankt voor uw tijd. Ons supportteam bekijkt dit gesprek en neemt zo snel mogelijk contact met u op.",
-    "botErrorSend": "Verzenden mislukt. Probeer opnieuw of mail info@vacei.com.",
+    "botErrorSend": "Verzenden mislukt. Probeer opnieuw of mail info@A4.com.",
     "submitErrorFailed": "Verzenden mislukt.",
     "startNewChat": "Nieuwe chat",
     "inputPlaceholder": "Typ een bericht…"

@@ -70,14 +70,14 @@ export async function POST(req: NextRequest) {
     const transcript =
       Array.isArray(conversation) && conversation.length > 0
         ? conversation
-            .map((m) => `[${m.role}]: ${(m.content || "").trim()}`)
-            .join("\n")
+          .map((m) => `[${m.role}]: ${(m.content || "").trim()}`)
+          .join("\n")
         : "No conversation transcript provided.";
 
-    const sessionToken = req.cookies.get("vacei_session")?.value || "N/A";
+    const sessionToken = req.cookies.get("A4_session")?.value || "N/A";
 
     await getTransport().sendMail({
-      from: `"VACEI Website Support" <${process.env.SMTP_FROM || process.env.SMTP_USER}>`,
+      from: `"A4 Website Support" <${process.env.SMTP_FROM || process.env.SMTP_USER}>`,
       to: toAddress,
       replyTo: email,
       subject: "Website Support Request",

@@ -79,15 +79,15 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
   return (
     <section className={cn(
       "relative py-24 sm:py-32 overflow-hidden mx-4 sm:mx-6 lg:mx-8 mb-12 sm:mb-20",
-      isDark ? "bg-black text-white rounded-[48px] shadow-2xl" : "bg-[#FAFBFF] text-slate-900 rounded-[48px] border border-slate-100 shadow-xl shadow-blue-500/5"
+      isDark ? "bg-black text-white rounded-[48px] shadow-2xl" : "bg-[#FAFBFF] text-slate-900 rounded-[48px] border border-slate-100 shadow-xl shadow-zinc-500/5"
     )}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 lg:gap-24 items-center">
-          
+
           {/* Left: Portal Mockup / Visual */}
           <div className="relative group order-2 lg:order-1">
             <div className="absolute -inset-10 bg-primary-blue/10 blur-[100px] rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-1000" />
-            
+
             {/* OPTION A: Portal mock (toggle SHOW_PORTAL_MOCK to re-enable) */}
             {SHOW_PORTAL_MOCK ? (
               <div className={cn(
@@ -98,7 +98,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                 <div
                   className={cn(
                     "flex items-center justify-between gap-6 border-b px-6 py-5 sm:px-8",
-                    "bg-[#0b1220] border-white/10"
+                    "bg-[#09090B] border-white/10"
                   )}
                 >
                   <div className="flex items-center gap-3 min-w-0">
@@ -123,7 +123,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                   <div className="hidden sm:flex items-center gap-2 shrink-0">
                     <button
                       type="button"
-                      onClick={() => setCompany((c) => (c === "Cleven-Company" ? "VACEI-Holdings" : "Cleven-Company"))}
+                      onClick={() => setCompany((c) => (c === "Cleven-Company" ? "A4-Holdings" : "Cleven-Company"))}
                       className={cn(
                         "h-9 px-3 rounded-xl border text-[11px] font-black tracking-tight flex items-center gap-2",
                         "bg-white/10 border-white/10 text-white hover:bg-white/15"
@@ -171,7 +171,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                               className={cn(
                                 "group min-w-0 flex items-center gap-3 rounded-2xl border px-3.5 py-3 text-left transition-all duration-300",
                                 active
-                                  ? "bg-blue-50 border-blue-300 shadow-[0_18px_40px_-22px_rgba(37,99,235,0.20)]"
+                                  ? "bg-zinc-50 border-zinc-300 shadow-[0_18px_40px_-22px_rgba(37,99,235,0.20)]"
                                   : "bg-white border-slate-200 hover:bg-white hover:border-slate-300 hover:shadow-[0_14px_34px_-22px_rgba(15,23,42,0.25)]"
                               )}
                             >
@@ -179,7 +179,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                                 className={cn(
                                   "h-9 w-9 shrink-0 rounded-xl border flex items-center justify-center transition-colors",
                                   active
-                                    ? "bg-blue-600 text-white border-blue-500"
+                                    ? "bg-zinc-600 text-white border-zinc-500"
                                     : "bg-slate-50 text-slate-700 border-slate-200"
                                 )}
                               >
@@ -196,7 +196,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                                 {tile.key}
                               </span>
                               {active ? (
-                                <span className={cn("ml-auto h-5 w-5 rounded-full flex items-center justify-center bg-blue-100 text-blue-700")}>
+                                <span className={cn("ml-auto h-5 w-5 rounded-full flex items-center justify-center bg-zinc-100 text-zinc-700")}>
                                   <Check className="h-3.5 w-3.5" />
                                 </span>
                               ) : null}
@@ -208,7 +208,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
 
                     {/* Summary */}
                     <div className="col-span-12 lg:col-span-4">
-                      <div className={cn("rounded-[2.25rem] border p-6 sm:p-7 bg-[#0b1220] border-white/10")}>
+                      <div className={cn("rounded-[2.25rem] border p-6 sm:p-7 bg-[#09090B] border-white/10")}>
                         <p className={cn("text-lg font-black text-white")}>Summary</p>
                         <p className={cn("mt-5 text-[10px] font-black uppercase tracking-[0.25em] text-slate-400")}>
                           Services selected
@@ -220,7 +220,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                                 key={s}
                                 className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] font-black text-slate-100"
                               >
-                                <span className="h-1.5 w-1.5 rounded-full bg-blue-400" />
+                                <span className="h-1.5 w-1.5 rounded-full bg-zinc-400" />
                                 <span className="max-w-[12rem] truncate">{s}</span>
                               </span>
                             ))}
@@ -249,7 +249,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                         <div
                           className="absolute inset-0 pointer-events-none opacity-[0.05]"
                           style={{
-                            backgroundImage: "radial-gradient(circle at 2px 2px, #0f172a 1px, transparent 0)",
+                            backgroundImage: "radial-gradient(circle at 2px 2px, #09090B 1px, transparent 0)",
                             backgroundSize: "48px 48px",
                           }}
                         />
@@ -274,7 +274,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
               <div
                 className={cn(
                   "relative overflow-hidden rounded-[3.5rem] border shadow-3xl transition-all duration-700 group-hover:scale-[1.01]",
-                  "border-white/10 bg-[#0b1220]"
+                  "border-white/10 bg-[#09090B]"
                 )}
               >
                 {/* Simple browser chrome */}
@@ -286,7 +286,7 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
                       <span className="h-2.5 w-2.5 rounded-full bg-[#27c93f]" />
                     </div>
                     <span className="text-[10px] font-black uppercase tracking-[0.25em] text-slate-400">
-                      client.vacei.com
+                      client.A4.com
                     </span>
                   </div>
                   <span className="hidden sm:block text-[10px] font-black uppercase tracking-[0.25em] text-slate-500">
@@ -314,28 +314,28 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
             <div className="space-y-8">
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-[1.05]">
                 {t("realTimeControl.title").split(' — ')[0]} — <br />
-                <span className="font-bodoni italic text-blue-600 lowercase">
+                <span className="font-bodoni italic text-zinc-600 lowercase">
                   {t("realTimeControl.title").split(' — ')[1]}
                 </span>
               </h2>
               <div className="flex items-center gap-5">
-                  <div className="w-16 h-2 bg-primary-blue rounded-full" />
-                  <p className={cn(
-                    "text-2xl sm:text-3xl font-bodoni italic",
-                    isDark ? "text-primary-blue" : "text-blue-600"
-                  )}>
-                    {t("realTimeControl.subtitle")}
-                  </p>
+                <div className="w-16 h-2 bg-primary-blue rounded-full" />
+                <p className={cn(
+                  "text-2xl sm:text-3xl font-bodoni italic",
+                  isDark ? "text-primary-blue" : "text-zinc-600"
+                )}>
+                  {t("realTimeControl.subtitle")}
+                </p>
               </div>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2 gap-4">
-               {items.map((item, i) => (
+              {items.map((item, i) => (
                 <div key={i} className={cn(
-                    "group flex items-center gap-4 p-5 rounded-3xl border transition-all duration-500 hover:-translate-y-1 hover:shadow-lg",
-                    isDark ? "bg-[#0a0a0a] border-white/5 hover:border-blue-500/20" : "bg-white border-slate-200 shadow-sm hover:border-blue-500/20"
+                  "group flex items-center gap-4 p-5 rounded-3xl border transition-all duration-500 hover:-translate-y-1 hover:shadow-lg",
+                  isDark ? "bg-[#0a0a0a] border-white/5 hover:border-zinc-500/20" : "bg-white border-slate-200 shadow-sm hover:border-zinc-500/20"
                 )}>
-                  <div className="w-10 h-10 rounded-2xl bg-blue-500/10 flex items-center justify-center text-blue-500 group-hover:bg-blue-600 group-hover:text-white transition-all">
+                  <div className="w-10 h-10 rounded-2xl bg-zinc-500/10 flex items-center justify-center text-zinc-500 group-hover:bg-zinc-600 group-hover:text-white transition-all">
                     {icons[i] && React.createElement(icons[i], { className: "w-5 h-5" })}
                   </div>
                   <span className={cn(
@@ -349,18 +349,18 @@ const RealTimeControl = ({ isDark = true }: { isDark?: boolean }) => {
             </div>
 
             <div className={cn(
-                "pt-10 border-t",
-                isDark ? "border-white/10" : "border-slate-100"
+              "pt-10 border-t",
+              isDark ? "border-white/10" : "border-slate-100"
             )}>
-                <div className="flex items-center gap-3">
-                    <ShieldCheck className="w-5 h-5 text-emerald-500" />
-                    <p className={cn(
-                        "text-lg font-black uppercase tracking-[0.25em]",
-                        isDark ? "text-slate-500" : "text-slate-400"
-                    )}>
-                        {t("realTimeControl.footer")}
-                    </p>
-                </div>
+              <div className="flex items-center gap-3">
+                <ShieldCheck className="w-5 h-5 text-emerald-500" />
+                <p className={cn(
+                  "text-lg font-black uppercase tracking-[0.25em]",
+                  isDark ? "text-slate-500" : "text-slate-400"
+                )}>
+                  {t("realTimeControl.footer")}
+                </p>
+              </div>
             </div>
           </div>
 

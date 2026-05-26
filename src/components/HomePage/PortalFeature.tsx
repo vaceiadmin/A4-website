@@ -66,10 +66,10 @@ const PortalFeature = () => {
                                 {/* Image Column (Glassy Portal) */}
                                 <div className="w-full lg:w-1/2 relative perspective-1000 group">
                                     {/* Glass Base - Sleek Dark Card */}
-                                    <div className={`relative aspect-square md:aspect-[4/3] rounded-[2.5rem] bg-primary/90 ${isIPhone || isLowPerformance ? "" : "backdrop-blur-2xl"} border border-white/20 shadow-[0_30px_60px_-15px_rgba(0,0,0,0.5),inset_0_1px_0_rgba(255,255,255,0.1)] transition-all duration-700 group-hover:bg-primary/95 group-hover:border-white/30 group-hover:shadow-[0_40px_80px_-20px_rgba(59,73,230,0.4)] overflow-visible`}>
+                                    <div className={`relative aspect-square md:aspect-[4/3] rounded-[2.5rem] bg-primary/90 ${isIPhone || isLowPerformance ? "" : "backdrop-blur-2xl"} border border-white/20 shadow-[0_30px_60px_-15px_rgba(0,0,0,0.5),inset_0_1px_0_rgba(255,255,255,0.1)] transition-all duration-700 group-hover:bg-primary/95 group-hover:border-white/30 group-hover:shadow-[0_40px_80px_-20px_rgba(63, 63, 70,0.4)] overflow-visible`}>
                                         
                                         {/* Internal Glow - Enhanced */}
-                                        <div className="absolute inset-0 bg-gradient-to-tr from-primary-blue/20 via-transparent to-blue-600/20 opacity-60 rounded-[2.5rem]" />
+                                        <div className="absolute inset-0 bg-gradient-to-tr from-primary-blue/20 via-transparent to-zinc-600/20 opacity-60 rounded-[2.5rem]" />
                                         
                                         {/* Subtle inner border glow */}
                                         <div className="absolute inset-0 rounded-[2.5rem] ring-1 ring-white/10 pointer-events-none" />
@@ -137,9 +137,9 @@ const PortalFeature = () => {
                                             variant="custom"
                                             text={feature.buttonText}
                                             href={feature.buttonHref}
-                                            bgColor="#3b49e6" // Primary Blue
+                                            bgColor="#000000" // Primary Blue
                                             textColor="white"
-                                            className="px-8 py-4 rounded-xl font-bold flex items-center gap-2 shadow-lg shadow-blue-900/40 hover:shadow-blue-900/60 hover:scale-105 transition-all text-sm md:text-base border border-white/10"
+                                            className="px-8 py-4 rounded-xl font-bold flex items-center gap-2 shadow-lg shadow-zinc-900/40 hover:shadow-zinc-900/60 hover:scale-105 transition-all text-sm md:text-base border border-white/10"
                                         />
                                     </div>
                                 </div>
