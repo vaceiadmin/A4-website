@@ -39,8 +39,8 @@ const PricingOverviewSection = () => {
     <section className="relative py-20 lg:py-28 overflow-hidden bg-[#f8fafc]">
       {!isIPhone && !isLowPerformance && (
         <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-          <div className="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-blue-100/50 rounded-full blur-[80px]" />
-          <div className="absolute bottom-[-10%] left-[-10%] w-[500px] h-[500px] bg-blue-100/40 rounded-full blur-[80px]" />
+          <div className="absolute top-[-10%] right-[-5%] w-[600px] h-[600px] bg-zinc-100/50 rounded-full blur-[80px]" />
+          <div className="absolute bottom-[-10%] left-[-10%] w-[500px] h-[500px] bg-zinc-100/40 rounded-full blur-[80px]" />
         </div>
       )}
 
@@ -84,7 +84,7 @@ const PricingOverviewSection = () => {
                   {activeTab === key && (
                     <motion.div
                       layoutId={isIPhone || isLowPerformance ? undefined : "glassTab"}
-                      className="absolute inset-0 bg-primary-blue rounded-full shadow-lg shadow-blue-500/30"
+                      className="absolute inset-0 bg-primary-blue rounded-full shadow-lg shadow-zinc-500/30"
                       transition={{ type: "spring", stiffness: 300, damping: 25 }}
                     />
                   )}
@@ -112,7 +112,7 @@ const PricingOverviewSection = () => {
                     "group relative p-8 rounded-3xl border transition-all duration-500 flex flex-col",
                     isIPhone || isLowPerformance ? "" : "backdrop-blur-md",
                     card.highlight
-                      ? "bg-white/80 border-white shadow-xl shadow-blue-100/50 hover:shadow-2xl hover:shadow-blue-200/50"
+                      ? "bg-white/80 border-white shadow-xl shadow-zinc-100/50 hover:shadow-2xl hover:shadow-zinc-200/50"
                       : "bg-white/40 border-white/50 hover:bg-white/60 hover:border-white shadow-sm hover:shadow-lg"
                   )}
                 >
@@ -131,7 +131,7 @@ const PricingOverviewSection = () => {
                         <div
                           className={cn(
                             "w-5 h-5 rounded-full flex items-center justify-center shrink-0",
-                            card.highlight ? "bg-blue-50 text-primary-blue" : "bg-gray-100 text-gray"
+                            card.highlight ? "bg-zinc-50 text-primary-blue" : "bg-gray-100 text-gray"
                           )}
                         >
                           <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -160,7 +160,7 @@ const PricingOverviewSection = () => {
               >
                 <div
                   className={cn(
-                    "w-12 h-12 rounded-full bg-blue-50 flex items-center justify-center mb-4 transition-transform duration-300",
+                    "w-12 h-12 rounded-full bg-zinc-50 flex items-center justify-center mb-4 transition-transform duration-300",
                     !isIPhone && !isLowPerformance && "group-hover:scale-110"
                   )}
                 >

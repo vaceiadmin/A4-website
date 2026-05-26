@@ -96,7 +96,7 @@
     "title": "Een beheersysteem — niet alleen losse diensten",
     "badge": "Digitaal ecosysteem",
     "highlight": "Alles geregeld.",
-    "cardBody": "Volledig geïntegreerd in uw VACEI-werkruimte voor inzicht en regie.",
+    "cardBody": "Volledig geïntegreerd in uw A4-werkruimte voor inzicht en regie.",
     "cardMeta": "Modulaire dienst",
     "items": [
       "Toegewijd team voor uw bedrijf",
@@ -152,7 +152,7 @@
     "columnHeadingLine1": "Eenvoudig.",
     "columnMid": "Gestructureerd.",
     "columnHeadingAccent": "Snel.",
-    "columnBody": "Volg deze stappen om uw bedrijfsvoering naar VACEI te brengen.",
+    "columnBody": "Volg deze stappen om uw bedrijfsvoering naar A4 te brengen.",
     "back": "Terug",
     "submitting": "Verzenden...",
     "nextStepFallback": "Volgende stap",
@@ -307,7 +307,7 @@
       "Gedeelde documentenkluis",
       "Volledige activiteitsgeschiedenis"
     ],
-    "videoAlt": "Een adviseur uitnodigen in de VACEI-werkruimte",
+    "videoAlt": "Een adviseur uitnodigen in de A4-werkruimte",
     "cta": "Portaal openen"
   },
   "conversion": {
@@ -330,23 +330,23 @@
     "badge": "Internationaal bereik",
     "titleLine1": "Een gestructureerde gateway ",
     "titleHighlight": "naar Europa.",
-    "body": "VACEI biedt de digitale omgeving voor internationale bedrijven en founders om Europese activiteiten met vertrouwen op te richten, te beheren en te schalen.",
+    "body": "A4 biedt de digitale omgeving voor internationale bedrijven en founders om Europese activiteiten met vertrouwen op te richten, te beheren en te schalen.",
     "chips": [
       "27 landen",
       "Eén API",
       "Lokale experts"
     ],
-    "hubAlt": "VACEI-hub"
+    "hubAlt": "A4-hub"
   },
   "workspaceEntry": {
     "sectionTitleLine1": "Eén werkruimte voor uw bedrijf —",
     "sectionTitleHighlight": "en al uw diensten",
-    "sectionBody": "Boekhouding, audit, juridisch en compliance horen niet verspreid te zijn.\n\nVACEI brengt alles samen op één gestructureerd platform — diensten, documenten en deadlines op één plek.\n\nGeen e-mailketens. Geen verspreide bestanden. Geen onzekerheid.",
+    "sectionBody": "Boekhouding, audit, juridisch en compliance horen niet verspreid te zijn.\n\nA4 brengt alles samen op één gestructureerd platform — diensten, documenten en deadlines op één plek.\n\nGeen e-mailketens. Geen verspreide bestanden. Geen onzekerheid.",
     "activeEntities": "Actieve entiteiten",
     "card1TitleBefore": "Uw bedrijf — ",
     "card1TitleAccent": "volledig georganiseerd",
     "card1Body": "Maak een werkruimte en beheer alles op één plek.\n\nDiensten, documenten en adviseurs lopen via één platform — volledige regie zonder complexiteit.",
-    "card1CoordinationNote": "Alle diensten worden via VACEI gecoördineerd en geleverd via een netwerk van vertrouwde kantoren.",
+    "card1CoordinationNote": "Alle diensten worden via A4 gecoördineerd en geleverd via een netwerk van vertrouwde kantoren.",
     "whatYouCanDo": "Wat u kunt doen",
     "card1Bullets": [
       "Volledig inzicht in opdrachten",
@@ -377,7 +377,7 @@
     "viewAll": "Alle bronnen bekijken",
     "watchVideo": "Video bekijken",
     "readMore": "Lees meer",
-    "videoModalEyebrow": "VACEI-inzichten",
+    "videoModalEyebrow": "A4-inzichten",
     "videoModalHint": "Kies een video",
     "videoNowPlaying": "Nu aan het afspelen",
     "videoModalCloseAria": "Video sluiten",
@@ -399,7 +399,7 @@
       {
         "type": "Video",
         "category": "Insights",
-        "title": "Twee korte video’s van Vacei",
+        "title": "Twee korte video’s van A4",
         "desc": "Wat spaak kan lopen bij schalen zonder de juiste basis, en hoe AI teams merkbaar kan ontlasten — kies een video in de afspeellijst hieronder."
       },
       {
@@ -420,16 +420,16 @@
   },
   "heroLeft": {
     "scrollDown": "Scroll omlaag",
-    "title": "What Vacei Is",
-    "body": "VACEI is een modern kantoor voor accountancy, audit en corporate services rond één gestructureerd digitaal platform. Wij verzorgen accountancy, compliance, corporate en audit end-to-end met eigen technologie voor duidelijkheid, snelheid en inzicht. VACEI is geen doe-het-zelf-software en geen marketplace. Wij zijn een professioneel kantoor dat het werk voor u doet, met een veilig cliëntenportaal.",
+    "title": "What A4 Is",
+    "body": "A4 is een modern kantoor voor accountancy, audit en corporate services rond één gestructureerd digitaal platform. Wij verzorgen accountancy, compliance, corporate en audit end-to-end met eigen technologie voor duidelijkheid, snelheid en inzicht. A4 is geen doe-het-zelf-software en geen marketplace. Wij zijn een professioneel kantoor dat het werk voor u doet, met een veilig cliëntenportaal.",
     "footerTitle": "Toegewezen teams. Duidelijke verantwoordelijkheid.",
-    "footerBody": "Elke klant wordt ondersteund door een vast VACEI-team."
+    "footerBody": "Elke klant wordt ondersteund door een vast A4-team."
   },
   "auditPlatform": {},
   "inviteAdvisors": {
     "titleLine1": "Nodig uw adviseurs uit.",
     "titleHighlight": "Houd alles op één plek.",
-    "body": "Werkt u al samen met een accountant, auditor of advocaat? Breng ze naar uw VACEI-ruimte en beheer verzoeken, documenten, goedkeuringen en deadlines in een gestructureerde omgeving.",
+    "body": "Werkt u al samen met een accountant, auditor of advocaat? Breng ze naar uw A4-ruimte en beheer verzoeken, documenten, goedkeuringen en deadlines in een gestructureerde omgeving.",
     "bullets": [
       "Behoud uw bestaande adviseursrelaties",
       "Centraliseer documenten, verzoeken en goedkeuringen",
@@ -451,7 +451,7 @@
       "badge": "START OP UW MANIER",
       "titleLine1": "Twee manieren om te ",
       "titleHighlight": "starten",
-      "subtitle": "Of u nu een nieuwe aanbieder zoekt of met vertrouwde adviseurs werkt, VACEI biedt de structuur om alles te beheren.",
+      "subtitle": "Of u nu een nieuwe aanbieder zoekt of met vertrouwde adviseurs werkt, A4 biedt de structuur om alles te beheren.",
       "marketplaceBadge": "MARKTPLAATS",
       "recommendedBadge": "AANBEVOLEN",
       "marketplaceTitle": "Vind de juiste adviseur",
@@ -485,7 +485,7 @@
     "badge": "Professioneel Ecosysteem",
     "titleLine1": "Diensten via een ",
     "titleHighlight": "verbonden platform",
-    "subtitle": "VACEI helpt uw onderneming professionele diensten te benaderen en beheren via een gestructureerde werkruimte.",
+    "subtitle": "A4 helpt uw onderneming professionele diensten te benaderen en beheren via een gestructureerde werkruimte.",
     "tabServices": "Diensten",
     "tabProducts": "Producten",
     "explorePhase": "Exploratie-fase",
@@ -531,7 +531,7 @@
     "badge": "Voorstellen Marktplaats",
     "titleLine1": "Een marktplaats gebaseerd ",
     "titleHighlight": "op vertrouwen.",
-    "body": "Stuur een Request for Proposal (RFP) naar topkantoren. Kies uit lokale, regionale en wereldwijde aanbieders. De VACEI Marktplaats geeft u direct toegang tot een geverifieerd netwerk.",
+    "body": "Stuur een Request for Proposal (RFP) naar topkantoren. Kies uit lokale, regionale en wereldwijde aanbieders. De A4 Marktplaats geeft u direct toegang tot een geverifieerd netwerk.",
     "registerCta": "Registreren voor Voorstellen",
     "gifAlt": "Interface voor dienstaanvraag",
     "steps": [
@@ -542,7 +542,7 @@
       },
       {
         "number": "02",
-        "title": "VACEI Coördinatie",
+        "title": "A4 Coördinatie",
         "desc": "Wij informeren geverifieerde partners en coördineren het proces voor kwaliteit."
       },
       {
@@ -557,11 +557,11 @@
       }
     ]
   },
-  "whyVacei": {
-    "badge": "Het VACEI Voordeel",
+  "whyA4": {
+    "badge": "Het A4 Voordeel",
     "titleLine1": "Gestructureerd. ",
     "titleHighlight": "Veilig. Schaalbaar.",
-    "body": "VACEI is gebouwd voor het moderne bedrijfsleven. Of u nu een startup bent of een gevestigde groep, ons platform biedt de structuur om te groeien.",
+    "body": "A4 is gebouwd voor het moderne bedrijfsleven. Of u nu een startup bent of een gevestigde groep, ons platform biedt de structuur om te groeien.",
     "card1Title": "Single Source of Truth",
     "card1Body": "Al uw entiteiten, diensten, documenten en adviseurs op één plek. Niet meer zoeken in e-mails.",
     "card2Title": "Geverifieerde Kantoren",
@@ -576,7 +576,7 @@
     "subtitle": "Van onboarding tot doorlopende compliance, alles in één beveiligde ruimte. Sluit u aan bij de toekomst van zakelijk beheer.",
     "largeCardTitleLine1": "Wereldwijde Infrastructuur, ",
     "largeCardTitleHighlight": "Betrouwbaar Ontworpen.",
-    "largeCardBody": "VACEI biedt een veerkrachtige digitale omgeving voor uniforme coördinatie, zodat uw business overal ter wereld door kan gaan.",
+    "largeCardBody": "A4 biedt een veerkrachtige digitale omgeving voor uniforme coördinatie, zodat uw business overal ter wereld door kan gaan.",
     "multiRegionLabel": "Multi-Regio Redundantie",
     "uptimeTitle": "Ongeëvenaarde Uptime",
     "uptimeBody": "Ons platform opereert met een 99,99% beschikbaarheidsgarantie, zodat uw werkruimte altijd klaar staat.",
@@ -602,7 +602,7 @@
     "badge": "Eenvoudige Bedrijfsvorming",
     "titleLine1": "Moeiteloze ",
     "titleHighlight": "oprichting.",
-    "subtitle": "Of u nu start in de Emiraten of wereldwijd, VACEI biedt de structuur om te lanceren en te groeien.",
+    "subtitle": "Of u nu start in de Emiraten of wereldwijd, A4 biedt de structuur om te lanceren en te groeien.",
     "col1Title": "Deskundig Advies",
     "col1Items": [
       "Nieuwe bedrijfsvormingen",
@@ -646,7 +646,7 @@
     "badge": "Multi-Entiteit Beheer",
     "titleLine1": "Schaal zonder ",
     "titleHighlight": "complexiteit.",
-    "body": "Eén bedrijf runnen is lastig. Tien runnen zou dat niet moeten zijn. VACEI is gebouwd voor oprichters en groepen met meerdere entiteiten.",
+    "body": "Eén bedrijf runnen is lastig. Tien runnen zou dat niet moeten zijn. A4 is gebouwd voor oprichters en groepen met meerdere entiteiten.",
     "foundersHub": "Oprichters Hub",
     "activeLabel": "Actief",
     "switchLabel": "Wisselen",
@@ -681,7 +681,7 @@
     "badge": "Platform Intelligentie",
     "titleLine1": "Een slimmere manier om ",
     "titleHighlight": "zakelijke diensten te beheren.",
-    "body": "VACEI biedt de structuur en transparantie die nodig zijn om te coördineren met meerdere professionele firma's, compliance te beheren en uw activiteiten te schalen via een veilig platform.",
+    "body": "A4 biedt de structuur en transparantie die nodig zijn om te coördineren met meerdere professionele firma's, compliance te beheren en uw activiteiten te schalen via een veilig platform.",
     "highlights": [
       "Volledige zichtbaarheid bij elke zakelijke opdracht",
       "Veilig documentbeheer en historische tracking",
@@ -690,7 +690,7 @@
     ],
     "createWorkspaceCta": "Werkruimte maken",
     "registerQuoteCta": "Registreren voor offerte",
-    "workspaceLabel": "VACEI Werkruimte",
+    "workspaceLabel": "A4 Werkruimte",
     "auditAssurance": "Audit & Assurance",
     "activeEngagement": "Actieve opdracht",
     "teamNotifications": "Team meldingen",
@@ -744,7 +744,7 @@
     ]
   },
   "faqSection": {
-    "badge": "Waarom VACEI",
+    "badge": "Waarom A4",
     "title": "Gestructureerde ",
     "titleHighlight": "Samenwerking",
     "subtitle": "Krijg duidelijkheid en controle met een uniforme digitale werkruimte die is afgestemd op professionele diensten.",

@@ -25,6 +25,7 @@ export function SectionTitleHero({
   as: Tag = "h2",
 }: SectionTitleHeroProps) {
   const body = variant === "dark" ? "text-white" : "text-neutral-900";
+  const highlightColor = variant === "dark" ? "text-zinc-400" : "text-primary-blue";
   const scale =
     "text-3xl sm:text-4xl lg:text-5xl";
 
@@ -41,7 +42,7 @@ export function SectionTitleHero({
           <span className={cn(scale, "font-sans font-extrabold", body)}>
             {line2}
           </span>
-          <span className={cn(scale, "font-bodoni italic text-primary-blue")}>
+          <span className={cn(scale, "font-bodoni italic", highlightColor)}>
             {highlight}
           </span>
         </>
@@ -50,7 +51,7 @@ export function SectionTitleHero({
           <span className={cn(scale, "font-sans font-extrabold", body)}>
             {line1}
           </span>
-          <span className={cn(scale, "font-bodoni italic text-primary-blue")}>
+          <span className={cn(scale, "font-bodoni italic", highlightColor)}>
             {highlight}
           </span>
         </>

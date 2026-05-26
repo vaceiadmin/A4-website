@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import WhiteLabelPageContent from "@/components/partners/WhiteLabelPageContent";
 
 export const metadata: Metadata = {
-  title: "White Label & Technology Access | VACEI",
-  description: "Offer a branded client experience using VACEI's portals. Structured platforms under your brand.",
+  title: "White Label & Technology Access | A4",
+  description: "Offer a branded client experience using A4's portals. Structured platforms under your brand.",
 };
 
 const WhiteLabelPage = () => {

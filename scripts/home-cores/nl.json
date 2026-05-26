@@ -22,7 +22,11 @@
       "Directe support"
     ],
     "trustStrip": "Eén team. Eén platform. Alles geregeld.",
-    "trustPillLabels": ["Eén team", "Eén platform", "Alles geregeld"]
+    "trustPillLabels": [
+      "Eén team",
+      "Eén platform",
+      "Alles geregeld"
+    ]
   },
   "interactiveBlock": {
     "title": "Maak uw account in 2 minuten",
@@ -86,7 +90,7 @@
     "title": "Een beheersysteem — niet alleen losse diensten",
     "badge": "Digitaal ecosysteem",
     "highlight": "Alles geregeld.",
-    "cardBody": "Volledig geïntegreerd in uw VACEI-werkruimte voor inzicht en regie.",
+    "cardBody": "Volledig geïntegreerd in uw A4-werkruimte voor inzicht en regie.",
     "cardMeta": "Modulaire dienst",
     "items": [
       "Toegewijd team voor uw bedrijf",
@@ -142,7 +146,7 @@
     "columnHeadingLine1": "Eenvoudig.",
     "columnMid": "Gestructureerd.",
     "columnHeadingAccent": "Snel.",
-    "columnBody": "Volg deze stappen om uw bedrijfsvoering naar VACEI te brengen.",
+    "columnBody": "Volg deze stappen om uw bedrijfsvoering naar A4 te brengen.",
     "back": "Terug",
     "submitting": "Verzenden...",
     "nextStepFallback": "Volgende stap",
@@ -168,9 +172,18 @@
         "title": "Vertel over uzelf",
         "subtitle": "Beschrijf kort uw behoeften.",
         "fields": {
-          "name": { "label": "Volledige naam", "placeholder": "Uw naam" },
-          "email": { "label": "Zakelijke e-mail", "placeholder": "email@bedrijf.nl" },
-          "message": { "label": "Bedrijfsoverzicht", "placeholder": "Beschrijf kort uw activiteiten..." }
+          "name": {
+            "label": "Volledige naam",
+            "placeholder": "Uw naam"
+          },
+          "email": {
+            "label": "Zakelijke e-mail",
+            "placeholder": "email@bedrijf.nl"
+          },
+          "message": {
+            "label": "Bedrijfsoverzicht",
+            "placeholder": "Beschrijf kort uw activiteiten..."
+          }
         },
         "primaryLabel": "Volgende: diensten"
       },
@@ -178,8 +191,14 @@
         "title": "Diensten selecteren",
         "subtitle": "Welk deel van uw bedrijf moet worden beheerd?",
         "fields": {
-          "service": { "label": "Gewenste diensten", "placeholder": "Selecteer een of meer..." },
-          "additionalDetails": { "label": "Specifieke vereisten", "placeholder": "Relevante landen of complexiteit?" }
+          "service": {
+            "label": "Gewenste diensten",
+            "placeholder": "Selecteer een of meer..."
+          },
+          "additionalDetails": {
+            "label": "Specifieke vereisten",
+            "placeholder": "Relevante landen of complexiteit?"
+          }
         },
         "primaryLabel": "Volgende: contact"
       },
@@ -187,15 +206,34 @@
         "title": "Laatste details",
         "subtitle": "Hoe mogen we contact opnemen?",
         "fields": {
-          "communicationChannel": { "label": "Voorkeurskanaal", "placeholder": "E-mail/WhatsApp/Bellen" },
-          "updateCadence": { "label": "Updatefrequentie", "placeholder": "Wekelijks/Maandelijks/Op aanvraag" },
-          "phone": { "label": "WhatsApp/Telefoon", "placeholder": "+31..." }
+          "communicationChannel": {
+            "label": "Voorkeurskanaal",
+            "placeholder": "E-mail/WhatsApp/Bellen"
+          },
+          "updateCadence": {
+            "label": "Updatefrequentie",
+            "placeholder": "Wekelijks/Maandelijks/Op aanvraag"
+          },
+          "phone": {
+            "label": "WhatsApp/Telefoon",
+            "placeholder": "+31..."
+          }
         },
         "primaryLabel": "Offerteaanvraag verzenden"
       }
     },
-    "communicationOptions": ["E-mail", "WhatsApp", "Bellen", "Videobellen"],
-    "updateOptions": ["Wekelijks", "Tweewekelijks", "Maandelijks", "Realtime"]
+    "communicationOptions": [
+      "E-mail",
+      "WhatsApp",
+      "Bellen",
+      "Videobellen"
+    ],
+    "updateOptions": [
+      "Wekelijks",
+      "Tweewekelijks",
+      "Maandelijks",
+      "Realtime"
+    ]
   },
   "globalDelivery": {
     "badge": "Wereldwijde dekking",
@@ -263,7 +301,7 @@
       "Gedeelde documentenkluis",
       "Volledige activiteitsgeschiedenis"
     ],
-    "videoAlt": "Een adviseur uitnodigen in de VACEI-werkruimte",
+    "videoAlt": "Een adviseur uitnodigen in de A4-werkruimte",
     "cta": "Portaal openen"
   },
   "conversion": {
@@ -286,19 +324,23 @@
     "badge": "Internationaal bereik",
     "titleLine1": "Een gestructureerde gateway ",
     "titleHighlight": "naar Europa.",
-    "body": "VACEI biedt de digitale omgeving voor internationale bedrijven en founders om Europese activiteiten met vertrouwen op te richten, te beheren en te schalen.",
-    "chips": ["27 landen", "Eén API", "Lokale experts"],
-    "hubAlt": "VACEI-hub"
+    "body": "A4 biedt de digitale omgeving voor internationale bedrijven en founders om Europese activiteiten met vertrouwen op te richten, te beheren en te schalen.",
+    "chips": [
+      "27 landen",
+      "Eén API",
+      "Lokale experts"
+    ],
+    "hubAlt": "A4-hub"
   },
   "workspaceEntry": {
     "sectionTitleLine1": "Eén werkruimte voor uw bedrijf —",
     "sectionTitleHighlight": "en al uw diensten",
-    "sectionBody": "Boekhouding, audit, juridisch en compliance horen niet verspreid te zijn.\n\nVACEI brengt alles samen op één gestructureerd platform — diensten, documenten en deadlines op één plek.\n\nGeen e-mailketens. Geen verspreide bestanden. Geen onzekerheid.",
+    "sectionBody": "Boekhouding, audit, juridisch en compliance horen niet verspreid te zijn.\n\nA4 brengt alles samen op één gestructureerd platform — diensten, documenten en deadlines op één plek.\n\nGeen e-mailketens. Geen verspreide bestanden. Geen onzekerheid.",
     "activeEntities": "Actieve entiteiten",
     "card1TitleBefore": "Uw bedrijf — ",
     "card1TitleAccent": "volledig georganiseerd",
     "card1Body": "Maak een werkruimte en beheer alles op één plek.\n\nDiensten, documenten en adviseurs lopen via één platform — volledige regie zonder complexiteit.",
-    "card1CoordinationNote": "Alle diensten worden via VACEI gecoördineerd en geleverd via een netwerk van vertrouwde kantoren.",
+    "card1CoordinationNote": "Alle diensten worden via A4 gecoördineerd en geleverd via een netwerk van vertrouwde kantoren.",
     "whatYouCanDo": "Wat u kunt doen",
     "card1Bullets": [
       "Volledig inzicht in opdrachten",
@@ -329,13 +371,17 @@
     "viewAll": "Alle bronnen bekijken",
     "watchVideo": "Video bekijken",
     "readMore": "Lees meer",
-    "videoModalEyebrow": "VACEI-inzichten",
+    "videoModalEyebrow": "A4-inzichten",
     "videoModalHint": "Kies een video",
     "videoNowPlaying": "Nu aan het afspelen",
     "videoModalCloseAria": "Video sluiten",
     "videoPlaylist": [
-      { "title": "Het moderne bedrijf" },
-      { "title": "Hoe AI het werk-privé-evenwicht echt verbetert" }
+      {
+        "title": "Het moderne bedrijf"
+      },
+      {
+        "title": "Hoe AI het werk-privé-evenwicht echt verbetert"
+      }
     ],
     "resources": [
       {
@@ -347,7 +393,7 @@
       {
         "type": "Video",
         "category": "Insights",
-        "title": "Twee korte video’s van Vacei",
+        "title": "Twee korte video’s van A4",
         "desc": "Wat spaak kan lopen bij schalen zonder de juiste basis, en hoe AI teams merkbaar kan ontlasten — kies een video in de afspeellijst hieronder."
       },
       {

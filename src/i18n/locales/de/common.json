@@ -1,5 +1,5 @@
 {
-  "brand": "VACEI",
+  "brand": "A4",
   "glossary": {
     "getInstantQuote": "Sofortangebot erhalten",
     "bookDemo": "Demo buchen",
@@ -55,13 +55,13 @@
       "bookkeeping": "Buchhaltung",
       "accountingMalta": "Buchhaltung Malta",
       "howItWorks": "Wie es funktioniert",
-      "about": "Über VACEI",
+      "about": "Über A4",
       "faqs": "FAQs",
       "contact": "Kontakt",
       "security": "Sicherheit & Compliance"
     },
     "sidebar": {
-      "description": "VACEI ist ein modernes Unternehmen für Buchhaltung, Wirtschaftsprüfung und Firmendienstleistungen, das um eine strukturierte digitale Plattform herum aufgebaut ist. Wir wickeln Buchhaltungs-, Compliance-, Unternehmens- und Prüfungsarbeiten End-to-End ab und nutzen unsere eigene Technologie, um Klarheit, Geschwindigkeit und Sichtbarkeit zu liefern.",
+      "description": "A4 ist ein modernes Unternehmen für Buchhaltung, Wirtschaftsprüfung und Firmendienstleistungen, das um eine strukturierte digitale Plattform herum aufgebaut ist. Wir wickeln Buchhaltungs-, Compliance-, Unternehmens- und Prüfungsarbeiten End-to-End ab und nutzen unsere eigene Technologie, um Klarheit, Geschwindigkeit und Sichtbarkeit zu liefern.",
       "quickActions": "Quick-Actions",
       "requestQuoteTitle": "Angebot anfordern",
       "requestQuoteSubtitle": "Teilen Sie uns in wenigen Schritten Ihren Bedarf mit.",
@@ -74,13 +74,13 @@
     }
   },
   "footer": {
-    "tagline": "VACEI ist der strukturierte digitale Arbeitsbereich, in dem Unternehmen und Gründer professionelle Dienstleistungen, Compliance und Arbeitsabläufe in einer sicheren Umgebung verwalten.",
+    "tagline": "A4 ist der strukturierte digitale Arbeitsbereich, in dem Unternehmen und Gründer professionelle Dienstleistungen, Compliance und Arbeitsabläufe in einer sicheren Umgebung verwalten.",
     "platform": "Plattform",
     "overview": "Übersicht",
     "howItWorks": "Wie es funktioniert",
     "pricing": "Preise",
     "security": "Sicherheit & Compliance",
-    "whyVacei": "Warum VACEI",
+    "whyA4": "Warum A4",
     "services": "Dienste",
     "corporate": "Firmendienstleistungen",
     "audit": "Wirtschaftsprüfung",
@@ -89,7 +89,7 @@
     "legal": "Rechtsberatung",
     "vatPayroll": "MwSt. & Gehaltsabrechnung",
     "company": "Unternehmen",
-    "about": "Über VACEI",
+    "about": "Über A4",
     "faqs": "FAQs",
     "insights": "Insights",
     "whiteLabelLanding": "White-Label-Plattform",
@@ -97,11 +97,11 @@
     "contact": "Kontakt",
     "cpePodcast": "CPE & Podcast",
     "contactUs": "Kontakt",
-    "disclaimer": "Professionelle Dienstleistungen über VACEI werden von einem Netzwerk verifizierter Fachbetriebe erbracht. VACEI bietet die digitale Umgebung, um diese Aufträge effizient und sicher zu verwalten.",
+    "disclaimer": "Professionelle Dienstleistungen über A4 werden von einem Netzwerk verifizierter Fachbetriebe erbracht. A4 bietet die digitale Umgebung, um diese Aufträge effizient und sicher zu verwalten.",
     "terms": "Allgemeine Geschäftsbedingungen",
     "privacy": "Datenschutzerklärung",
     "cookies": "Cookie-Richtlinie",
-    "copyright": "© 2026 What VACEI Is. Alle Rechte vorbehalten."
+    "copyright": "© 2026 What A4 Is. Alle Rechte vorbehalten."
   },
   "pageHeader": {
     "home": "Home"
@@ -119,7 +119,7 @@
     "botAskName": "Gut – an welchen Namen sollen wir unsere Antwort richten?",
     "botAskEmail": "Danke! Welche E-Mail-Adresse ist am besten erreichbar?",
     "botSuccess": "Vielen Dank. Unser Support-Team prüft diese Unterhaltung und meldet sich so bald wie möglich.",
-    "botErrorSend": "Die Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder schreiben Sie an info@vacei.com.",
+    "botErrorSend": "Die Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder schreiben Sie an info@A4.com.",
     "submitErrorFailed": "Senden fehlgeschlagen.",
     "startNewChat": "Neuen Chat starten",
     "inputPlaceholder": "Nachricht eingeben…"

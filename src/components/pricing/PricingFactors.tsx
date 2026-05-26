@@ -67,7 +67,7 @@ const PricingFactors = () => {
           <FadeInUp>
             <SectionBadge
               text={t("factors.badge")}
-              className="bg-white border border-blue-100 text-primary-blue shadow-sm"
+              className="bg-white border border-zinc-100 text-primary-blue shadow-sm"
             />
             <TextAnimation
               text={t("factors.title")}
@@ -214,7 +214,7 @@ const PricingFactors = () => {
 
               <div className="space-y-6">
                 <motion.div
-                  className="p-6 rounded-2xl bg-gradient-to-br from-blue-50 to-white border border-blue-100 shadow-lg"
+                  className="p-6 rounded-2xl bg-gradient-to-br from-zinc-50 to-white border border-zinc-100 shadow-lg"
                   initial={{ scale: 0.95 }}
                   animate={{ scale: 1 }}
                   transition={{ delay: 0.2 }}
@@ -243,7 +243,7 @@ const PricingFactors = () => {
                   </div>
                   <div className="h-3 bg-gray-100 rounded-full overflow-hidden">
                     <motion.div
-                      className="h-full bg-gradient-to-r from-primary-blue to-blue-400 rounded-full"
+                      className="h-full bg-gradient-to-r from-primary-blue to-zinc-400 rounded-full"
                       initial={{ width: 0 }}
                       animate={{ width: `${(selectedFactor.id / total) * 100}%` }}
                       transition={{ duration: 0.6, ease: "easeOut" }}

@@ -30,7 +30,7 @@ const MultiCompanySection = () => {
           {/* Left Visual: Workspace Switcher Mockup */}
           <div className="w-full lg:w-1/2 relative">
              {/* Background Decoration */}
-             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[110%] h-[110%] bg-blue-600/10 rounded-full blur-[100px] pointer-events-none" />
+             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[110%] h-[110%] bg-zinc-600/10 rounded-full blur-[100px] pointer-events-none" />
              
              {/* Switcher Interface */}
              <div className="relative bg-white rounded-[2.5rem] border border-slate-200 shadow-[0_50px_100px_-20px_rgba(0,0,0,0.12)] overflow-hidden">
@@ -47,10 +47,10 @@ const MultiCompanySection = () => {
                    {companies.map((c, i) => (
                      <div 
                         key={i} 
-                        className={`p-4 rounded-2xl flex items-center justify-between transition-all duration-300 ${c.active ? 'bg-blue-600 text-white shadow-xl shadow-blue-600/20 scale-[1.02]' : 'bg-slate-50 border border-slate-100 text-slate-900 hover:bg-white hover:border-blue-200'}`}
+                        className={`p-4 rounded-2xl flex items-center justify-between transition-all duration-300 ${c.active ? 'bg-zinc-600 text-white shadow-xl shadow-zinc-600/20 scale-[1.02]' : 'bg-slate-50 border border-slate-100 text-slate-900 hover:bg-white hover:border-zinc-200'}`}
                       >
                         <div className="flex items-center gap-4">
-                           <div className={`w-10 h-10 rounded-xl flex items-center justify-center font-black ${c.active ? 'bg-white/20 text-white' : 'bg-white border border-slate-200 text-blue-600'}`}>
+                           <div className={`w-10 h-10 rounded-xl flex items-center justify-center font-black ${c.active ? 'bg-white/20 text-white' : 'bg-white border border-slate-200 text-zinc-600'}`}>
                               {c.name.charAt(0)}
                            </div>
                            <div>
@@ -63,7 +63,7 @@ const MultiCompanySection = () => {
                               {t("multiCompany.activeLabel")}
                            </div>
                         ) : (
-                           <button className="text-[10px] font-black text-blue-600 hover:text-blue-800 uppercase tracking-widest px-2 py-1">
+                           <button className="text-[10px] font-black text-zinc-600 hover:text-zinc-800 uppercase tracking-widest px-2 py-1">
                               {t("multiCompany.switchLabel")}
                            </button>
                         )}
@@ -87,7 +87,7 @@ const MultiCompanySection = () => {
 
           {/* Right Content */}
           <div className="w-full lg:w-1/2">
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-500/10 text-blue-400 text-[10px] font-black uppercase tracking-widest border border-blue-500/20 mb-8">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-500/10 text-zinc-400 text-[10px] font-black uppercase tracking-widest border border-zinc-500/20 mb-8">
                 {t("multiCompany.badge")}
             </div>
             <SectionTitleHero
@@ -103,7 +103,7 @@ const MultiCompanySection = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-y-4 gap-x-8 mb-12">
                {highlights.map((item, i) => (
                  <div key={i} className="flex items-center gap-3">
-                    <CheckCircle2 className="w-5 h-5 text-blue-400 shrink-0" />
+                    <CheckCircle2 className="w-5 h-5 text-zinc-400 shrink-0" />
                     <span className="text-slate-300 font-bold text-sm leading-tight">{item}</span>
                  </div>
                ))}
@@ -111,7 +111,7 @@ const MultiCompanySection = () => {
 
             <GetInstantQuoteButton
               text={t("multiCompany.cta")}
-              className="h-[56px] px-10 shadow-xl shadow-blue-600/20"
+              className="h-[56px] px-10 shadow-xl shadow-zinc-600/20"
             />
           </div>
 

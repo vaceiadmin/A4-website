@@ -49,19 +49,19 @@ const WLHero: React.FC<WLHeroProps> = ({
   const currentAlt = previewAlt || t("white-label-platform.hero.previewAlt");
 
   return (
-    <section className="relative w-full overflow-hidden bg-[#111235]">
+    <section className="relative w-full overflow-hidden bg-[#000000]">
       {/* Liquid Surface Background Layer */}
       <div className="absolute inset-0 z-0">
         <LiquidSurface
           scheme={5}
           speed={1.4}
           intensity={1.5}
-          colors={["#3b49e6", "#4a5feb", "#5b6ef5", "#3b49e6", "#2f3bc4", "#2536a8"]}
-          darkNavyColor="#3b49e6"
+          colors={["#000000", "#111111", "#111111", "#000000", "#111111", "#000000"]}
+          darkNavyColor="#000000"
           showCursor={false}
         />
         {/* Subtle Overlay to make it feel integrated */}
-        <div className="absolute inset-0 bg-gradient-to-b from-[#111235]/60 via-transparent to-[#111235]/90 pointer-events-none" />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#000000]/60 via-transparent to-[#000000]/90 pointer-events-none" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 pt-16 pb-48">
@@ -85,7 +85,7 @@ const WLHero: React.FC<WLHeroProps> = ({
                   subtitle.split(" ").map((word, i) => (
                     <span key={i} className="inline-block mr-[0.25em]">
                       {highlightWords.includes(word) ? (
-                        <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-blue-200">
+                        <span className="text-transparent bg-clip-text bg-gradient-to-r from-zinc-400 to-zinc-200">
                           {word}
                         </span>
                       ) : (
@@ -96,7 +96,7 @@ const WLHero: React.FC<WLHeroProps> = ({
                 )}
               </h1>
 
-              <p className="text-xl lg:text-2xl text-blue-100/80 max-w-xl leading-relaxed mb-8 font-medium">
+              <p className="text-xl lg:text-2xl text-zinc-100/80 max-w-xl leading-relaxed mb-8 font-medium">
                 {overview}
               </p>
 
@@ -166,7 +166,7 @@ const WLHero: React.FC<WLHeroProps> = ({
           <path
             d="M0 0 L50 100 L100 0"
             fill="none"
-            stroke="#3b49e6"
+            stroke="#000000"
             strokeWidth="5"
             strokeLinejoin="round"
           />

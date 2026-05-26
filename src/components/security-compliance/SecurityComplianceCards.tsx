@@ -49,8 +49,8 @@ const SecurityComplianceCards = () => {
     <section className="relative py-16 lg:py-24 bg-[#f8fafc] overflow-hidden">
       {!isIPhone && !isLowPerformance && (
         <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-          <div className="absolute top-[10%] right-[-5%] w-[600px] h-[600px] bg-blue-50/60 rounded-full blur-[80px]" />
-          <div className="absolute bottom-[10%] left-[-5%] w-[500px] h-[500px] bg-blue-50/60 rounded-full blur-[80px]" />
+          <div className="absolute top-[10%] right-[-5%] w-[600px] h-[600px] bg-zinc-50/60 rounded-full blur-[80px]" />
+          <div className="absolute bottom-[10%] left-[-5%] w-[500px] h-[500px] bg-zinc-50/60 rounded-full blur-[80px]" />
         </div>
       )}
 
@@ -66,7 +66,7 @@ const SecurityComplianceCards = () => {
                   "group relative border border-white/60 rounded-3xl p-6 lg:p-8 shadow-xl transition-all duration-300 flex flex-col",
                   isIPhone || isLowPerformance
                     ? "bg-white"
-                    : "bg-white/40 backdrop-blur-xl hover:shadow-2xl hover:shadow-blue-100/40 hover:-translate-y-1",
+                    : "bg-white/40 backdrop-blur-xl hover:shadow-2xl hover:shadow-zinc-100/40 hover:-translate-y-1",
                   getGridColSpan()
                 )}
               >

@@ -73,7 +73,7 @@ function AnimatedFeatureVisual({ index }: { index: number }) {
             {/* Base gradient background */}
             <div className={cn(
                 "absolute inset-0 rounded-[2.5rem]",
-                isSimple ? "bg-gradient-to-br from-[#0f172a] via-[#1e1b4b] to-[#111235]" : "bg-[#111235]"
+                isSimple ? "bg-gradient-to-br from-[#0f172a] via-[#1e1b4b] to-[#000000]" : "bg-[#000000]"
             )} />
 
             {isSimple && (
@@ -123,7 +123,7 @@ function AnimatedFeatureVisual({ index }: { index: number }) {
                         transition={{ duration: 10, repeat: Infinity, ease: 'easeInOut', delay: 1 }}
                     />
                     <motion.div
-                        className="absolute top-1/2 left-1/2 w-24 h-24 sm:w-32 sm:h-32 -translate-x-1/2 -translate-y-1/2 rounded-full bg-cyan-500/20 blur-[40px]"
+                        className="absolute top-1/2 left-1/2 w-24 h-24 sm:w-32 sm:h-32 -translate-x-1/2 -translate-y-1/2 rounded-full bg-zinc-500/20 blur-[40px]"
                         animate={{
                             scale: [1, 1.3, 1],
                             opacity: [0.5, 0.9, 0.5],

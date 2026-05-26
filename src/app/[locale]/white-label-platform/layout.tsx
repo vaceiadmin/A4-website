@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     locales.map((l) => [l, `${base}/${l}${path}`]),
   ) as Record<string, string>;
 
-  const title = "VACEI White-Label Platform | Branded Client Portals for Firms";
+  const title = "A4 White-Label Platform | Branded Client Portals for Firms";
   const description =
     "Launch your own branded client platform: custom domain, client portals, workflows, and compliance tools for accounting, audit, legal, and compliance firms. Request a demo.";
 

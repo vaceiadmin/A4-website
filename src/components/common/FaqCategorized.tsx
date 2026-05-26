@@ -47,8 +47,8 @@ const FaqCategorized = ({
        {/* Background Decor - consistent light gradients - Hidden on iPhone */}
        {!isIPhone && !isLowPerformance && (
         <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-            <div className="absolute top-[30%] left-[-10%] w-[600px] h-[600px] bg-blue-50/50 rounded-full blur-[80px]" />
-            <div className="absolute bottom-[20%] right-[-10%] w-[500px] h-[500px] bg-blue-50/50 rounded-full blur-[80px]" />
+            <div className="absolute top-[30%] left-[-10%] w-[600px] h-[600px] bg-zinc-50/50 rounded-full blur-[80px]" />
+            <div className="absolute bottom-[20%] right-[-10%] w-[500px] h-[500px] bg-zinc-50/50 rounded-full blur-[80px]" />
         </div>
        )}
 
@@ -102,7 +102,7 @@ const FaqCategorized = ({
                         className={cn(
                           "group rounded-2xl border transition-all duration-300 cursor-pointer overflow-hidden",
                           isOpen
-                            ? "bg-white border-primary-blue/30 shadow-lg shadow-blue-100/50"
+                            ? "bg-white border-primary-blue/30 shadow-lg shadow-zinc-100/50"
                             : isIPhone || isLowPerformance
                               ? "bg-white/80 border-gray-100 shadow-sm"
                               : "bg-white/40 border-white/60 hover:bg-white/60 hover:border-white shadow-sm hover:shadow-md"

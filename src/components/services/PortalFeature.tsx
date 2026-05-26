@@ -52,7 +52,7 @@ const PortalFeature = ({
   ctaHref = "/portal/client-portal",
   bottomTitle = "AI Review",
   bottomDescription = "Documents, tasks, deadlines and communication in one place.",
-  quoteText = "Good firms rely on experience. Great firms rely on structure. VACEI exists to make that structure visible, auditable, and scalable.",
+  quoteText = "Good firms rely on experience. Great firms rely on structure. A4 exists to make that structure visible, auditable, and scalable.",
   workflowDetail,
 }: PortalFeatureProps) => {
 
@@ -268,8 +268,8 @@ const PortalFeature = ({
                         <div className="flex flex-col">
                           <span
                             className={`text-[13px] font-semibold text-heading ${analysisProgress === 100
-                                ? "line-through opacity-60"
-                                : ""
+                              ? "line-through opacity-60"
+                              : ""
                               }`}
                           >
                             Analyzing Financial Statement
@@ -371,7 +371,7 @@ const PortalFeature = ({
               <div className="w-full h-full rounded-2xl bg-[#F8FAFC] border border-gray-200 shadow-xl flex overflow-hidden lg:min-h-0 min-h-[500px] group cursor-default">
                 {/* Left Sidebar */}
                 <div className="hidden sm:flex w-[70px] bg-[#0e1222] flex-col items-center py-6 gap-6 z-10 shrink-0">
-                  <div className="w-10 h-10 bg-blue-600 rounded-xl flex items-center justify-center text-white font-bold text-xl mb-4 shadow-lg shadow-blue-500/20">V</div>
+                  <div className="w-10 h-10 bg-zinc-600 rounded-xl flex items-center justify-center text-white font-bold text-xl mb-4 shadow-lg shadow-zinc-500/20">V</div>
                   <div className="flex flex-col gap-6 text-slate-500 w-full items-center">
                     <div className="p-2.5 bg-white/10 rounded-xl text-white"><Home className="w-5 h-5" /></div>
                     <FileText className="w-5 h-5 hover:text-white cursor-pointer transition-colors" />
@@ -438,7 +438,7 @@ const PortalFeature = ({
                     <div className="mt-auto border border-slate-100 rounded-xl p-4 bg-slate-50/50">
                       <div className="flex items-center justify-between border-b border-slate-100 pb-3 mb-3">
                         <h3 className="text-xs font-bold text-slate-700">Pending Requests</h3>
-                        <span className="text-[10px] font-bold text-blue-600 bg-blue-50 border border-blue-100 px-2 py-0.5 rounded-full">2 Action Required</span>
+                        <span className="text-[10px] font-bold text-zinc-600 bg-zinc-50 border border-zinc-100 px-2 py-0.5 rounded-full">2 Action Required</span>
                       </div>
                       <div className="space-y-3">
                         <div className="flex items-center justify-between">

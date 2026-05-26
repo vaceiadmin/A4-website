@@ -1,18 +1,18 @@
 {
   "meta": {
-    "pageTitle": "VACEI — Buchhaltungsdienstleistungen in Malta",
-    "pageDescription": "Professionelle Buchhaltung in Malta. Dedizierte Buchhalter. Volle finanzielle Transparenz über Ihr VACEI-Portal."
+    "pageTitle": "A4 — Buchhaltungsdienstleistungen in Malta",
+    "pageDescription": "Professionelle Buchhaltung in Malta. Dedizierte Buchhalter. Volle finanzielle Transparenz über Ihr A4-Portal."
   },
   "hero": {
     "tag": "Buchhaltungsdienstleistungen — Malta",
     "titleLine1": "Buchhaltung in Malta",
     "titleItalic1": "Genau, strukturiert",
     "titleItalic2": "und stets aktuell",
-    "sub": "VACEI bietet maltesischen Unternehmen professionelle Buchhaltung — durch ein dediziertes Team, gesteuert über ein strukturiertes Mandantenportal mit Echtzeit-Finanztransparenz.",
+    "sub": "A4 bietet maltesischen Unternehmen professionelle Buchhaltung — durch ein dediziertes Team, gesteuert über ein strukturiertes Mandantenportal mit Echtzeit-Finanztransparenz.",
     "btnPrimary": "Buchhaltungsangebot anfragen →",
     "btnLine": "So funktioniert es",
     "note": "Konto erstellen, Portal öffnen und Ihr maßgeschneidertes Angebot in wenigen Minuten anfragen.",
-    "portalChromeTitle": "VACEI — Buchhaltungsportal",
+    "portalChromeTitle": "A4 — Buchhaltungsportal",
     "portalUser": "Rose · KUNDE",
     "portalBannerGreeting": "Guten Tag, Rose!",
     "portalBannerSub": "Hier ist Ihr Finanzüberblick und die heutige Aktivität Ihrer Konten.",
@@ -50,7 +50,7 @@
     "t5": "Unterstützt von A4 Services, Malta"
   },
   "why": {
-    "tag": "Warum VACEI",
+    "tag": "Warum A4",
     "titleLine1": "Buchhaltung richtig gemacht —",
     "titleItalic": "nicht nur erfasst",
     "sub": "Ein dediziertes Team, Echtzeit-Transparenz und ein strukturiertes Portal — von Tag eins auf Ihr maltesisches Unternehmen zugeschnitten.",
@@ -58,7 +58,7 @@
     "stat2Label": "Malta-USt-Compliance — korrekt eingereicht, jedes Mal",
     "stat3Label": "Alles an einem Ort — keine E-Mails, keine PDFs",
     "stat4Label": "Live-Einblick in Ihre Finanzlage, jederzeit",
-    "a4Txt": "Die VACEI-Buchhaltung in Malta wird über <strong>A4 Services</strong> erbracht — eine etablierte Kanzlei mit lokaler Expertise, regulatorischem Know-how und professioneller Aufsicht in jedem Mandat.",
+    "a4Txt": "Die A4-Buchhaltung in Malta wird über <strong>A4 Services</strong> erbracht — eine etablierte Kanzlei mit lokaler Expertise, regulatorischem Know-how und professioneller Aufsicht in jedem Mandat.",
     "badge1": "In Malta registriert",
     "badge2": "MIA-konform"
   },
@@ -66,7 +66,7 @@
     "kicker": "KI-gestützte Abstimmung",
     "titleLine1": "Jede Transaktion",
     "titleItalic": "erkannt & kategorisiert",
-    "p": "Ihr VACEI-Team nutzt KI, um Händler sofort zu erkennen, Transaktionen korrekt zuzuordnen und Auffälliges zu markieren — für saubere Bücher ohne manuellen Aufwand.",
+    "p": "Ihr A4-Team nutzt KI, um Händler sofort zu erkennen, Transaktionen korrekt zuzuordnen und Auffälliges zu markieren — für saubere Bücher ohne manuellen Aufwand.",
     "feat1": "Händler automatisch aus Banktexten erkannt",
     "feat2": "Transaktionen den richtigen Konten und USt-Codes zugeordnet",
     "feat3": "Ausnahmen durch Ihren Buchhalter geprüft und korrigiert",
@@ -80,18 +80,33 @@
     "chipSupplies": "Büromaterial",
     "chipLedger": "Professionelle Dienstleistungen",
     "txns": {
-      "bolt": { "meta": "Transport · Ride-Hailing · Malta", "label": "Reisen & Transport" },
-      "wolt": { "meta": "Essenslieferung · Bewirtung", "label": "Bewirtung & Repräsentation" },
-      "xero": { "meta": "Buchhaltungssoftware · Abo", "label": "Software & Abonnements" },
-      "amazon": { "meta": "Bürobedarf · E-Commerce", "label": "Büromaterial" },
-      "deloitte": { "meta": "Professionelle Dienstleistungen · Advisory", "label": "Professionelle Dienstleistungen" }
+      "bolt": {
+        "meta": "Transport · Ride-Hailing · Malta",
+        "label": "Reisen & Transport"
+      },
+      "wolt": {
+        "meta": "Essenslieferung · Bewirtung",
+        "label": "Bewirtung & Repräsentation"
+      },
+      "xero": {
+        "meta": "Buchhaltungssoftware · Abo",
+        "label": "Software & Abonnements"
+      },
+      "amazon": {
+        "meta": "Bürobedarf · E-Commerce",
+        "label": "Büromaterial"
+      },
+      "deloitte": {
+        "meta": "Professionelle Dienstleistungen · Advisory",
+        "label": "Professionelle Dienstleistungen"
+      }
     }
   },
   "toggle": {
-    "tag": "So arbeitet VACEI",
-    "title": "Buchhaltung mit VACEI einfach erklärt",
-    "lead": "VACEI verbindet ein dediziertes Buchhaltungsteam mit einem strukturierten Mandantenportal — für volle Transparenz über Ihre Finanzlage jederzeit.",
-    "ariaTablist": "So arbeitet VACEI",
+    "tag": "So arbeitet A4",
+    "title": "Buchhaltung mit A4 einfach erklärt",
+    "lead": "A4 verbindet ein dediziertes Buchhaltungsteam mit einem strukturierten Mandantenportal — für volle Transparenz über Ihre Finanzlage jederzeit.",
+    "ariaTablist": "So arbeitet A4",
     "tabTeam": "Ihr Buchhaltungsteam",
     "tabPortal": "Ihr Portal",
     "teamBadge": "Ihr dediziertes Buchhaltungsteam",
@@ -106,7 +121,7 @@
     "teamFeat3Desc": "USt-Erklärungen vorbereitet und fristgerecht eingereicht.",
     "teamFeat4Title": "Managementberichte",
     "teamFeat4Desc": "Klare monatliche Einblicke in Ihre Performance.",
-    "miniTeamChrome": "VACEI-Portal — Ihr Team",
+    "miniTeamChrome": "A4-Portal — Ihr Team",
     "miniTeamSection": "Ihr Buchhaltungsteam",
     "recentActivity": "Letzte Aktivität",
     "act1": "April-Buchhaltung abgeschlossen",
@@ -117,7 +132,7 @@
     "portalBadge": "Ihr Mandantenportal",
     "portalH": "Sehen Sie Ihre Finanzen.",
     "portalH2": "Jederzeit.",
-    "portalP": "Melden Sie sich im VACEI-Portal an und sehen Sie Ihr Gesamtbild — Forderungen, Verbindlichkeiten, Bankguthaben und Teamaktivität. Ohne Warten.",
+    "portalP": "Melden Sie sich im A4-Portal an und sehen Sie Ihr Gesamtbild — Forderungen, Verbindlichkeiten, Bankguthaben und Teamaktivität. Ohne Warten.",
     "portalFeat1Title": "Live-Dashboard",
     "portalFeat1Desc": "Ihre Finanzlage in Echtzeit, stets aktualisiert.",
     "portalFeat2Title": "Liquidität & Salden",
@@ -126,7 +141,7 @@
     "portalFeat3Desc": "USt-Position und anstehende Fristen klar dargestellt.",
     "portalFeat4Title": "Direkter Austausch",
     "portalFeat4Desc": "Nachricht an Ihr Buchhaltungsteam direkt im Portal.",
-    "miniOverviewChrome": "VACEI-Portal — Übersicht",
+    "miniOverviewChrome": "A4-Portal — Übersicht",
     "kpiOwed": "Forderungen",
     "kpiYouOwe": "Verbindlichkeiten",
     "kpiBank": "Bank",
@@ -146,7 +161,7 @@
     "tag": "Was Sie erhalten",
     "titleLine1": "Nicht nur eine Kanzlei.",
     "titleLine2": "Ein strukturierter Finanzservice.",
-    "lead": "VACEI verbindet dediziertes Buchhaltungsteam und strukturiertes Portal — volle Transparenz ohne Nachfassen und ohne Verzögerungen.",
+    "lead": "A4 verbindet dediziertes Buchhaltungsteam und strukturiertes Portal — volle Transparenz ohne Nachfassen und ohne Verzögerungen.",
     "c1Title": "Ausgelagerte Buchhaltung",
     "c1Desc": "Jede Transaktion erfasst, abgestimmt und gepflegt — laufend, ohne Ihren Aufwand.",
     "c2Title": "Managementberichte",
@@ -165,7 +180,7 @@
     "title": "Drei Schritte zu besserer Buchhaltung",
     "lead": "Kein langes Onboarding. Keine komplexen Formulare. In Minuten startklar.",
     "s1Title": "Konto erstellen",
-    "s1Desc": "Sofortiger Zugang zum VACEI-Portal. Ihr sicheres Dashboard ist ab Anmeldung live.",
+    "s1Desc": "Sofortiger Zugang zum A4-Portal. Ihr sicheres Dashboard ist ab Anmeldung live.",
     "s1Micro": "Unter 2 Minuten →",
     "s2Title": "Angebot anfragen",
     "s2Desc": "Beschreiben Sie Ihr Unternehmen und Ihre Bedürfnisse — maßgeschneidertes Angebot direkt im Portal.",
@@ -185,7 +200,7 @@
     "check5": "Finanzielle Trends im Zeitverlauf",
     "check6": "USt-Position und anstehende Fristen",
     "note": "Klar. Strukturiert. Stets aktuell.",
-    "miniChrome": "VACEI-Portal — Finanzstatus",
+    "miniChrome": "A4-Portal — Finanzstatus",
     "sectionLabel": "Finanzstatus",
     "phase1": "Buchhaltung — April 2026",
     "phase2": "Bankabstimmung",
@@ -200,16 +215,16 @@
   "pricing": {
     "tag": "Preise",
     "title": "Transparente Buchhaltungspreise",
-    "lead": "Beginnen Sie mit dem, was Sie brauchen, und skalieren Sie, wenn Ihr Unternehmen wächst. Alle Pakete beinhalten VACEI-Portalzugang.",
+    "lead": "Beginnen Sie mit dem, was Sie brauchen, und skalieren Sie, wenn Ihr Unternehmen wächst. Alle Pakete beinhalten A4-Portalzugang.",
     "hotBadge": "Am beliebtesten",
-    "p1Name": "Vacei Basic",
+    "p1Name": "A4 Basic",
     "p1Desc": "Für kleine Unternehmen, die saubere Buchungen und grundlegende Unterstützung benötigen.",
     "p1Price": "ab €140/Monat",
     "p1From": "Exkl. MwSt.",
     "p1f1": "Saubere Buchungen",
     "p1f2": "Grundlegende Unterstützung",
-    "p1f3": "VACEI-Portalzugang",
-    "p2Name": "Vacei Core",
+    "p1f3": "A4-Portalzugang",
+    "p2Name": "A4 Core",
     "p2Desc": "Für aktive Unternehmen, die Buchhaltung, MwSt.-Unterstützung, Abstimmungen, Fristenverfolgung und Buchhalterprüfung benötigen.",
     "p2Price": "ab €350/Monat",
     "p2From": "Exkl. MwSt.",
@@ -217,8 +232,8 @@
     "p2f2": "Bankabstimmungen",
     "p2f3": "Fristenverfolgung",
     "p2f4": "Buchhalterprüfung",
-    "p2f5": "VACEI-Portalzugang",
-    "p3Name": "Vacei Finance Office",
+    "p2f5": "A4-Portalzugang",
+    "p3Name": "A4 Finance Office",
     "p3Desc": "Für wachsende Unternehmen, die Buchhaltung, Gehaltsabrechnung, Management-Reporting, Beratung, Cashflow-Unterstützung und vorrangige Unterstützung benötigen.",
     "p3Price": "ab €700/Monat",
     "p3From": "Exkl. MwSt.",
@@ -226,25 +241,25 @@
     "p3f2": "Management-Reporting",
     "p3f3": "Beratung & vorrangige Unterstützung",
     "p3f4": "Cashflow-Unterstützung",
-    "foot": "Alle Preise exkl. MwSt. Alle Pakete beinhalten VACEI-Portalzugang. Der endgültige Preis hängt vom Transaktionsvolumen, der Anzahl der Einheiten, der MwSt.-Komplexität und den Berichtsanforderungen ab.",
+    "foot": "Alle Preise exkl. MwSt. Alle Pakete beinhalten A4-Portalzugang. Der endgültige Preis hängt vom Transaktionsvolumen, der Anzahl der Einheiten, der MwSt.-Komplexität und den Berichtsanforderungen ab.",
     "footLink": "Fordern Sie ein maßgeschneidertes Angebot an →"
   },
   "supported": {
     "badge": "Lokale Expertise",
-    "titleLine1": "Angetrieben von VACEI.",
+    "titleLine1": "Angetrieben von A4.",
     "titleLine2": "Unterstützt von A4 Services.",
     "p1": "Für unsere maltesischen Mandanten erfolgt die Buchhaltung in Partnerschaft mit <strong>A4 Services</strong> — einem etablierten Buchhaltungs- und Corporate-Services-Haus in Malta.",
-    "p2": "Sie erhalten VACEI-Technologie und sofortige Transparenz, ergänzt durch lokale Expertise und Compliance-Strenge von A4 Services."
+    "p2": "Sie erhalten A4-Technologie und sofortige Transparenz, ergänzt durch lokale Expertise und Compliance-Strenge von A4 Services."
   },
   "testimonial": {
-    "quote": "VACEI hat verändert, wie wir Finanzen führen. Ein Portal mit Live-Lage und ein Team, das im Hintergrund alles erledigt — stark.",
+    "quote": "A4 hat verändert, wie wir Finanzen führen. Ein Portal mit Live-Lage und ein Team, das im Hintergrund alles erledigt — stark.",
     "author": "Geschäftsführer — Technologieagentur, Malta"
   },
   "cta": {
     "tag": "Bereit zu starten?",
     "titleLine1": "Moderne Buchhaltung für",
     "titleLine2": "ambitionierte Unternehmen.",
-    "p": "Schließen Sie sich Unternehmen an, die auf VACEI für saubere Bücher, Compliance und klare Finanzlage setzen.",
+    "p": "Schließen Sie sich Unternehmen an, die auf A4 für saubere Bücher, Compliance und klare Finanzlage setzen.",
     "btnPrimary": "Einrichtung starten",
     "btnSecondary": "So funktioniert es",
     "note": "Keine Bindung für den ersten Portalzugang."
@@ -254,16 +269,34 @@
       "kickerMid": "Alles an einem Ort",
       "h2": "Ihre Finanzen, ",
       "h2Span": "vollständig vernetzt",
-      "p": "Alle Facetten Ihrer Unternehmensfinanzen — sichtbar, strukturiert und durch Ihr VACEI-Team über ein Portal geführt."
+      "p": "Alle Facetten Ihrer Unternehmensfinanzen — sichtbar, strukturiert und durch Ihr A4-Team über ein Portal geführt."
     },
     "ariaTablist": "Portalbereiche",
-    "chrome": { "live": "Live", "user": "Rose · KUNDE" },
+    "chrome": {
+      "live": "Live",
+      "user": "Rose · KUNDE"
+    },
     "tabs": {
-      "bank": { "label": "Bankkonten", "url": "portal.vacei.com / bankkonten" },
-      "bills": { "label": "Rechnungen & Ausgaben", "url": "portal.vacei.com / rechnungen-ausgaben" },
-      "invoices": { "label": "Rechnungen", "url": "portal.vacei.com / rechnungen" },
-      "payroll": { "label": "Lohn", "url": "portal.vacei.com / lohn" },
-      "vat": { "label": "USt", "url": "portal.vacei.com / umsatzsteuer" }
+      "bank": {
+        "label": "Bankkonten",
+        "url": "portal.A4.com / bankkonten"
+      },
+      "bills": {
+        "label": "Rechnungen & Ausgaben",
+        "url": "portal.A4.com / rechnungen-ausgaben"
+      },
+      "invoices": {
+        "label": "Rechnungen",
+        "url": "portal.A4.com / rechnungen"
+      },
+      "payroll": {
+        "label": "Lohn",
+        "url": "portal.A4.com / lohn"
+      },
+      "vat": {
+        "label": "USt",
+        "url": "portal.A4.com / umsatzsteuer"
+      }
     },
     "badges": {
       "overdue": "Überfällig",
@@ -272,6 +305,13 @@
       "current": "Aktuell",
       "paymentDue": "Zahlung fällig"
     },
-    "months": { "nov": "Nov", "dec": "Dez", "jan": "Jan", "feb": "Feb", "mar": "Mär", "apr": "Apr" }
+    "months": {
+      "nov": "Nov",
+      "dec": "Dez",
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mär",
+      "apr": "Apr"
+    }
   }
 }

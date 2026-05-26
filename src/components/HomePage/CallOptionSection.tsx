@@ -22,7 +22,7 @@ const CallOptionSection = ({ isDark = true }: { isDark?: boolean }) => {
             <div className="flex items-center justify-center lg:justify-start gap-4">
               <div className={cn(
                 "w-12 h-12 rounded-xl flex items-center justify-center transition-all duration-700",
-                isDark ? "bg-primary-blue/20 text-primary-blue shadow-[0_0_20px_rgba(37,99,235,0.2)]" : "bg-blue-100 text-blue-600"
+                isDark ? "bg-primary-blue/20 text-primary-blue shadow-[0_0_20px_rgba(37,99,235,0.2)]" : "bg-zinc-100 text-zinc-600"
               )}>
                 <PhoneCall className="w-6 h-6" />
               </div>
@@ -49,7 +49,7 @@ const CallOptionSection = ({ isDark = true }: { isDark?: boolean }) => {
               )}
             >
               <span>{t("callOption.cta")}</span>
-              <div className="w-8 h-8 rounded-full bg-blue-500/10 flex items-center justify-center transition-transform group-hover:rotate-12">
+              <div className="w-8 h-8 rounded-full bg-zinc-500/10 flex items-center justify-center transition-transform group-hover:rotate-12">
                 <ArrowRight className="w-4 h-4" />
               </div>
             </LocalizedLink>

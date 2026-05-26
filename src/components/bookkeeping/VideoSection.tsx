@@ -93,16 +93,16 @@ export default function VideoSection() {
 
         <ul className="video-points mt-6">
           <li>
-            <CheckCircle2 size={16} className="text-blue-500" /> {t("bookkeeping.video.point1")}
+            <CheckCircle2 size={16} className="text-zinc-500" /> {t("bookkeeping.video.point1")}
           </li>
           <li>
-            <CheckCircle2 size={16} className="text-blue-500" /> {t("bookkeeping.video.point2")}
+            <CheckCircle2 size={16} className="text-zinc-500" /> {t("bookkeeping.video.point2")}
           </li>
           <li>
-            <CheckCircle2 size={16} className="text-blue-500" /> {t("bookkeeping.video.point3")}
+            <CheckCircle2 size={16} className="text-zinc-500" /> {t("bookkeeping.video.point3")}
           </li>
           <li>
-            <CheckCircle2 size={16} className="text-blue-500" /> {t("bookkeeping.video.point4")}
+            <CheckCircle2 size={16} className="text-zinc-500" /> {t("bookkeeping.video.point4")}
           </li>
         </ul>
         <p className="video-note">{t("bookkeeping.video.note")}</p>

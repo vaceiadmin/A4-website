@@ -4,8 +4,8 @@ const SERVICES_PATH = "/assets/videos/services";
 /** Hero section - Main Render.gif as primary visual */
 export const HERO_MAIN_GIF = `${SERVICE_VIDEOS_BASE_PATH}/Main Render.gif`;
 
-/** How It Works section - Vacei (2) X2V2.mp4, no poster */
-export const HOW_IT_WORKS_VIDEO = `${SERVICE_VIDEOS_BASE_PATH}/Vacei (2) X2V2.mp4`;
+/** How It Works section - A4 (2) X2V2.mp4, no poster */
+export const HOW_IT_WORKS_VIDEO = `${SERVICE_VIDEOS_BASE_PATH}/A4 (2) X2V2.mp4`;
 
 /** Insights & Resources home section — YouTube IDs for the inline gallery (order matches `insightsResources.videoPlaylist` in locale `home.json`) */
 export const INSIGHTS_RESOURCES_YOUTUBE_IDS = [

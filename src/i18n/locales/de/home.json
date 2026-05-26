@@ -96,7 +96,7 @@
     "title": "Ein gemanagtes System – nicht nur lose Dienstleistungen",
     "badge": "Digitales Ökosystem",
     "highlight": "Alles erledigt.",
-    "cardBody": "Vollständig in Ihren VACEI-Arbeitsbereich integriert – für Transparenz und Kontrolle.",
+    "cardBody": "Vollständig in Ihren A4-Arbeitsbereich integriert – für Transparenz und Kontrolle.",
     "cardMeta": "Modulare Leistung",
     "items": [
       "Festes Team für Ihr Unternehmen",
@@ -152,7 +152,7 @@
     "columnHeadingLine1": "Einfach.",
     "columnMid": "Strukturiert.",
     "columnHeadingAccent": "Schnell.",
-    "columnBody": "So verlagern Sie Ihr Business-Management zu VACEI.",
+    "columnBody": "So verlagern Sie Ihr Business-Management zu A4.",
     "back": "Zurück",
     "submitting": "Wird gesendet...",
     "nextStepFallback": "Nächster Schritt",
@@ -307,7 +307,7 @@
       "Gemeinsamer Dokumentenraum",
       "Vollständige Aktivitätshistorie"
     ],
-    "videoAlt": "Berater im VACEI-Arbeitsbereich einladen",
+    "videoAlt": "Berater im A4-Arbeitsbereich einladen",
     "cta": "Portal öffnen"
   },
   "conversion": {
@@ -330,23 +330,23 @@
     "badge": "Internationale Reichweite",
     "titleLine1": "Ein strukturierter Zugang ",
     "titleHighlight": "nach Europa.",
-    "body": "VACEI bietet die digitale Umgebung für internationale Unternehmen und Gründer, um europäische Aktivitäten sicher zu gründen, zu managen und zu skalieren.",
+    "body": "A4 bietet die digitale Umgebung für internationale Unternehmen und Gründer, um europäische Aktivitäten sicher zu gründen, zu managen und zu skalieren.",
     "chips": [
       "27 Länder",
       "Einheitliche API",
       "Lokale Experten"
     ],
-    "hubAlt": "VACEI Hub"
+    "hubAlt": "A4 Hub"
   },
   "workspaceEntry": {
     "sectionTitleLine1": "Ein Arbeitsbereich für Ihr Unternehmen –",
     "sectionTitleHighlight": "und alle Ihre Services",
-    "sectionBody": "Buchhaltung, Prüfung, Recht und Compliance gehören nicht auseinander.\n\nVACEI bündelt alles in einer strukturierten Plattform – Services, Dokumente und Fristen an einem Ort.\n\nKeine E-Mail-Ketten. Keine verstreuten Dateien. Keine Unsicherheit.",
+    "sectionBody": "Buchhaltung, Prüfung, Recht und Compliance gehören nicht auseinander.\n\nA4 bündelt alles in einer strukturierten Plattform – Services, Dokumente und Fristen an einem Ort.\n\nKeine E-Mail-Ketten. Keine verstreuten Dateien. Keine Unsicherheit.",
     "activeEntities": "Aktive Einheiten",
     "card1TitleBefore": "Ihr Unternehmen – ",
     "card1TitleAccent": "voll organisiert",
     "card1Body": "Erstellen Sie einen Arbeitsbereich und managen Sie alles an einem Ort.\n\nServices, Dokumente und Berater laufen über eine Plattform – volle Kontrolle ohne Komplexität.",
-    "card1CoordinationNote": "Alle Services werden über VACEI koordiniert und über ein Netzwerk vertrauenswürdiger Kanzleien erbracht.",
+    "card1CoordinationNote": "Alle Services werden über A4 koordiniert und über ein Netzwerk vertrauenswürdiger Kanzleien erbracht.",
     "whatYouCanDo": "Was Sie tun können",
     "card1Bullets": [
       "Volle Sichtbarkeit über Mandate",
@@ -377,7 +377,7 @@
     "viewAll": "Alle Ressourcen",
     "watchVideo": "Video ansehen",
     "readMore": "Mehr lesen",
-    "videoModalEyebrow": "VACEI Insights",
+    "videoModalEyebrow": "A4 Insights",
     "videoModalHint": "Video auswählen",
     "videoNowPlaying": "Wird abgespielt",
     "videoModalCloseAria": "Video schließen",
@@ -399,7 +399,7 @@
       {
         "type": "Video",
         "category": "Insights",
-        "title": "Zwei kurze Videos von Vacei",
+        "title": "Zwei kurze Videos von A4",
         "desc": "Was schiefgehen kann, wenn Wachstum ohne die passenden Grundlagen läuft, und wie KI Teams spürbar entlasten kann—wählen Sie einen Clip in der Playlist unten."
       },
       {
@@ -420,16 +420,16 @@
   },
   "heroLeft": {
     "scrollDown": "Nach unten",
-    "title": "What Vacei Is",
-    "body": "VACEI ist ein modernes Unternehmen für Buchhaltung, Prüfung und Corporate Services – aufgebaut um eine strukturierte digitale Plattform. Wir erledigen Buchhaltung, Compliance, Corporate und Prüfung Ende-zu-Ende mit eigener Technologie für Klarheit, Tempo und Transparenz. VACEI ist keine DIY-Software und kein Marktplatz. Wir sind ein professionelles Unternehmen, das die Arbeit für Sie erledigt, unterstützt durch ein sicheres Kundenportal.",
+    "title": "What A4 Is",
+    "body": "A4 ist ein modernes Unternehmen für Buchhaltung, Prüfung und Corporate Services – aufgebaut um eine strukturierte digitale Plattform. Wir erledigen Buchhaltung, Compliance, Corporate und Prüfung Ende-zu-Ende mit eigener Technologie für Klarheit, Tempo und Transparenz. A4 ist keine DIY-Software und kein Marktplatz. Wir sind ein professionelles Unternehmen, das die Arbeit für Sie erledigt, unterstützt durch ein sicheres Kundenportal.",
     "footerTitle": "Feste Teams. Klare Verantwortung.",
-    "footerBody": "Jeder Mandant wird von einem benannten VACEI-Team betreut."
+    "footerBody": "Jeder Mandant wird von einem benannten A4-Team betreut."
   },
   "auditPlatform": {},
   "inviteAdvisors": {
     "titleLine1": "Laden Sie Ihre Berater ein.",
     "titleHighlight": "Behalten Sie alles an einem Ort.",
-    "body": "Sie arbeiten bereits mit einem Buchhalter, Wirtschaftsprüfer, Anwalt oder Firmendienstleister zusammen? Bringen Sie sie in Ihren VACEI-Arbeitsbereich und verwalten Sie Anfragen, Dokumente, Genehmigungen und Fristen in einer strukturierten Umgebung.",
+    "body": "Sie arbeiten bereits mit einem Buchhalter, Wirtschaftsprüfer, Anwalt oder Firmendienstleister zusammen? Bringen Sie sie in Ihren A4-Arbeitsbereich und verwalten Sie Anfragen, Dokumente, Genehmigungen und Fristen in einer strukturierten Umgebung.",
     "bullets": [
       "Behalten Sie Ihre bestehenden Beraterbeziehungen bei",
       "Dokumente, Anfragen und Genehmigungen zentralisieren",
@@ -451,7 +451,7 @@
       "badge": "STARTEN SIE AUF IHRE WEISE",
       "titleLine1": "Zwei Wege für den ",
       "titleHighlight": "Einstieg",
-      "subtitle": "Egal, ob Sie einen neuen Anbieter suchen oder bereits mit vertrauenswürdigen Beratern zusammenarbeiten, VACEI bietet Ihnen einen strukturierten Arbeitsbereich, um alles an einem Ort zu verwalten.",
+      "subtitle": "Egal, ob Sie einen neuen Anbieter suchen oder bereits mit vertrauenswürdigen Beratern zusammenarbeiten, A4 bietet Ihnen einen strukturierten Arbeitsbereich, um alles an einem Ort zu verwalten.",
       "marketplaceBadge": "MARKTPLATZ",
       "recommendedBadge": "EMPFOHLEN",
       "marketplaceTitle": "Finden Sie den richtigen Berater",
@@ -485,7 +485,7 @@
     "badge": "Professionelles Ökosystem",
     "titleLine1": "Professionelle Dienste über ",
     "titleHighlight": "eine vernetzte Plattform",
-    "subtitle": "VACEI hilft Ihrem Unternehmen, professionelle Dienstleistungen über einen strukturierten Arbeitsbereich abzurufen und zu verwalten.",
+    "subtitle": "A4 hilft Ihrem Unternehmen, professionelle Dienstleistungen über einen strukturierten Arbeitsbereich abzurufen und zu verwalten.",
     "tabServices": "Dienste",
     "tabProducts": "Produkte",
     "explorePhase": "Entdeckungsphase",
@@ -531,7 +531,7 @@
     "badge": "Angebotsmarktplatz",
     "titleLine1": "Ein Marktplatz auf ",
     "titleHighlight": "Basis von Vertrauen.",
-    "body": "Senden Sie eine Ausschreibung (RFP) an erstklassige Firmen. Wählen Sie zwischen lokalen, regionalen und globalen Anbietern. Der VACEI-Marktplatz bietet Ihnen direkten Zugang zu einem Netzwerk verifizierter Fachbetriebe.",
+    "body": "Senden Sie eine Ausschreibung (RFP) an erstklassige Firmen. Wählen Sie zwischen lokalen, regionalen und globalen Anbietern. Der A4-Marktplatz bietet Ihnen direkten Zugang zu einem Netzwerk verifizierter Fachbetriebe.",
     "registerCta": "Registrieren für Angebote",
     "gifAlt": "Service-Anfrage Schnittstelle",
     "steps": [
@@ -542,7 +542,7 @@
       },
       {
         "number": "02",
-        "title": "VACEI-Koordination",
+        "title": "A4-Koordination",
         "desc": "Wir benachrichtigen verifizierte Partnerfirmen und koordinieren den Angebotsprozess, um Qualität und Geschwindigkeit zu gewährleisten."
       },
       {
@@ -557,17 +557,17 @@
       }
     ]
   },
-  "whyVacei": {
-    "badge": "Der VACEI-Vorteil",
+  "whyA4": {
+    "badge": "Der A4-Vorteil",
     "titleLine1": "Strukturiert. ",
     "titleHighlight": "Sicher. Skalierbar.",
-    "subtitle": "VACEI ist für das moderne Unternehmen gebaut. Egal, ob Sie ein Startup oder ein etablierter Konzern sind, unsere Plattform bietet die Struktur, die Sie zum Wachsen benötigen.",
+    "subtitle": "A4 ist für das moderne Unternehmen gebaut. Egal, ob Sie ein Startup oder ein etablierter Konzern sind, unsere Plattform bietet die Struktur, die Sie zum Wachsen benötigen.",
     "card1Title": "Zentrale Informationsquelle",
     "card1Body": "Alle Ihre Unternehmen, Dienstleistungen, Dokumente und Berater an einem Ort. Kein Suchen mehr in E-Mails oder fragmentierten Tabellenkalkulationen.",
     "card2Title": "Verifizierte Firmen",
     "card2Body": "Wir arbeiten nur mit vorab geprüften Firmen zusammen, die unsere hohen Standards für Lieferung, Kommunikation und technisches Fachwissen erfüllen.",
     "qualityLabel": "Qualität garantiert",
-    "cta": "VACEI erleben"
+    "cta": "A4 erleben"
   },
   "trust": {
     "badge": "Sicherheit zuerst",
@@ -576,7 +576,7 @@
     "subtitle": "Vom Onboarding bis zur laufenden Compliance läuft alles über einen Arbeitsbereich. Werden Sie Teil der Zukunft des Managements professioneller Dienstleistungen.",
     "largeCardTitleLine1": "Globale Infrastruktur, ",
     "largeCardTitleHighlight": "für Zuverlässigkeit gebaut.",
-    "largeCardBody": "VACEI bietet eine belastbare digitale Umgebung für eine einheitliche Koordination und stellt sicher, dass Ihr Unternehmen in jedem Territorium betriebsbereit und compliant bleibt.",
+    "largeCardBody": "A4 bietet eine belastbare digitale Umgebung für eine einheitliche Koordination und stellt sicher, dass Ihr Unternehmen in jedem Territorium betriebsbereit und compliant bleibt.",
     "multiRegionLabel": "Multi-Region Redundanz",
     "uptimeTitle": "Unübertroffene Laufzeit",
     "uptimeBody": "Unsere Plattform arbeitet mit einer Verfügbarkeit von 99,99 % und stellt sicher, dass Ihr Arbeitsbereich immer bereit ist, wenn Sie ihn benötigen.",
@@ -602,7 +602,7 @@
     "badge": "Gründung einfach gemacht",
     "titleLine1": "Unternehmensgründung ",
     "titleHighlight": "mühelos gestaltet.",
-    "subtitle": "Egal, ob Sie in den VAE oder weltweit gründen, VACEI bietet die Struktur, die Sie für Start und Wachstum benötigen.",
+    "subtitle": "Egal, ob Sie in den VAE oder weltweit gründen, A4 bietet die Struktur, die Sie für Start und Wachstum benötigen.",
     "col1Title": "Expertenberatung",
     "col1Items": [
       "Neugründung von Unternehmen",
@@ -646,7 +646,7 @@
     "badge": "Multi-Entity Management",
     "titleLine1": "Skalieren ohne ",
     "titleHighlight": "Komplexität.",
-    "body": "Ein Unternehmen zu verwalten ist schwer. Zehn zu verwalten sollte es nicht sein. VACEI wurde für Gründer und Gruppen gebaut, die mehrere Einheiten verwalten.",
+    "body": "Ein Unternehmen zu verwalten ist schwer. Zehn zu verwalten sollte es nicht sein. A4 wurde für Gründer und Gruppen gebaut, die mehrere Einheiten verwalten.",
     "foundersHub": "Gründer-Hub",
     "activeLabel": "Aktiv",
     "switchLabel": "Wechseln",
@@ -681,7 +681,7 @@
     "badge": "Plattform-Intelligenz",
     "titleLine1": "Eine intelligentere Art, ",
     "titleHighlight": "Unternehmensdienstleistungen zu verwalten.",
-    "body": "VACEI bietet die Struktur und Transparenz, die erforderlich sind, um mit mehreren professionellen Firmen zu koordinieren, die Compliance zu verwalten und Ihre Abläufe über eine sichere Plattform zu skalieren.",
+    "body": "A4 bietet die Struktur und Transparenz, die erforderlich sind, um mit mehreren professionellen Firmen zu koordinieren, die Compliance zu verwalten und Ihre Abläufe über eine sichere Plattform zu skalieren.",
     "highlights": [
       "Volle Sichtbarkeit bei jedem geschäftlichen Engagement",
       "Sichere Dokumentenverwaltung und historische Nachverfolgung",
@@ -690,7 +690,7 @@
     ],
     "createWorkspaceCta": "Arbeitsbereich erstellen",
     "registerQuoteCta": "Registrieren für Sofortangebot",
-    "workspaceLabel": "VACEI Arbeitsbereich",
+    "workspaceLabel": "A4 Arbeitsbereich",
     "auditAssurance": "Prüfung & Assurance",
     "activeEngagement": "Aktiver Auftrag",
     "teamNotifications": "Team-Benachrichtigungen",
@@ -744,7 +744,7 @@
     ]
   },
   "faqSection": {
-    "badge": "Warum VACEI",
+    "badge": "Warum A4",
     "title": "Strukturierte ",
     "titleHighlight": "Zusammenarbeit",
     "subtitle": "Erschließen Sie Klarheit und Kontrolle mit einem einheitlichen digitalen Arbeitsbereich, der auf professionelle Dienstleistungen zugeschnitten ist.",

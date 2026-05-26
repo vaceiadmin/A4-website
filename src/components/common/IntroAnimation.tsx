@@ -154,7 +154,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                   repeat: Infinity,
                   ease: "easeInOut",
                 }}
-                className="absolute w-[180px] h-[180px] border-2 border-cyan-400/30"
+                className="absolute w-[180px] h-[180px] border-2 border-zinc-400/30"
                 style={{
                   boxShadow: isIPhone || isLowPerformance ? 'none' : '0 0 25px rgba(34, 211, 238, 0.3)',
                   willChange: 'transform',
@@ -167,7 +167,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                 { x: 100, y: 100, delay: 1, color: 'bg-primary-blue' },
               ] : [
                 { x: -100, y: -100, delay: 0, color: 'bg-primary-blue' },
-                { x: 100, y: -100, delay: 0.5, color: 'bg-cyan-400' },
+                { x: 100, y: -100, delay: 0.5, color: 'bg-zinc-400' },
                 { x: 100, y: 100, delay: 1, color: 'bg-primary-blue' },
                 { x: -100, y: 100, delay: 1.5, color: 'bg-primary-blue' },
               ]).map((dot, index) => (
@@ -235,8 +235,8 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                 <div className="relative flex items-center justify-center">
                   <div className="relative w-[220px] h-[80px] md:w-[260px] md:h-[95px]">
                     <Image
-                      src="/assets/images/Logo.png"
-                      alt="VACEI logo"
+                      src="/assets/images/a4-logo-new.webp"
+                      alt="A4 logo"
                       fill
                       priority
                       sizes="260px"
@@ -313,7 +313,7 @@ const IntroAnimation = ({ onComplete }: IntroAnimationProps) => {
                 <motion.div
                   initial={{ width: "0%" }}
                   animate={{ width: `${progress}%` }}
-                  className="relative h-full bg-linear-to-r from-primary-blue via-cyan-400 to-primary-blue rounded-full"
+                  className="relative h-full bg-linear-to-r from-primary-blue via-zinc-400 to-primary-blue rounded-full"
                   style={{
                     boxShadow: '0 0 20px rgba(59, 73, 230, 0.8), 0 0 40px rgba(59, 73, 230, 0.4)',
                   }}

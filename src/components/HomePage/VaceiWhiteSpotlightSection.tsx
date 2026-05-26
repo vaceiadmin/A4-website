@@ -13,7 +13,7 @@ const pillarIcons = [
   <LayoutDashboard key="c" className="w-7 h-7" strokeWidth={1.5} />,
 ];
 
-export default function VaceiWhiteSpotlightSection() {
+export default function A4WhiteSpotlightSection() {
   const { t } = useTranslation("home");
 
   const pillars = useMemo(() => {
@@ -25,16 +25,16 @@ export default function VaceiWhiteSpotlightSection() {
 
   return (
     <section
-      id="vacei-spotlight"
+      id="A4-spotlight"
       className="relative w-full py-20 sm:py-24 bg-[#FAFBFF] overflow-hidden rounded-[48px] border border-slate-100/80"
     >
       <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-0 right-0 w-[min(720px,90vw)] h-[min(480px,50vh)] bg-blue-400/10 rounded-full blur-[100px]" />
+        <div className="absolute top-0 right-0 w-[min(720px,90vw)] h-[min(480px,50vh)] bg-zinc-400/10 rounded-full blur-[100px]" />
         <div className="absolute bottom-0 left-0 w-[min(560px,80vw)] h-[min(400px,45vh)] bg-primary-blue/5 rounded-full blur-[90px]" />
         <div
           className="absolute inset-0 opacity-[0.35]"
           style={{
-            backgroundImage: "radial-gradient(#3b49e6 0.5px, transparent 0.5px)",
+            backgroundImage: "radial-gradient(#000000 0.5px, transparent 0.5px)",
             backgroundSize: "28px 28px",
           }}
         />
@@ -46,7 +46,7 @@ export default function VaceiWhiteSpotlightSection() {
             initial={{ opacity: 0, y: 8 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-50 border border-blue-100 text-blue-700 text-[10px] font-black uppercase tracking-[0.2em]"
+            className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-50 border border-zinc-100 text-zinc-700 text-[10px] font-black uppercase tracking-[0.2em]"
           >
             {t("homeSpotlight.badge")}
           </motion.span>
@@ -88,7 +88,7 @@ export default function VaceiWhiteSpotlightSection() {
                 "hover:border-primary-blue/25 hover:shadow-lg hover:shadow-primary-blue/5 transition-all duration-500"
               )}
             >
-              <div className="mb-5 inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-blue-50 text-primary-blue border border-blue-100 group-hover:bg-primary-blue group-hover:text-white group-hover:border-primary-blue transition-colors duration-500">
+              <div className="mb-5 inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-zinc-50 text-primary-blue border border-zinc-100 group-hover:bg-primary-blue group-hover:text-white group-hover:border-primary-blue transition-colors duration-500">
                 {pillarIcons[index] ?? pillarIcons[0]}
               </div>
               <h3 className="text-xl font-black text-slate-900 tracking-tight mb-3 group-hover:text-primary-blue transition-colors">

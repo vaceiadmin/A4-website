@@ -55,7 +55,7 @@ const QuoteProcess = () => {
         },
         {
             id: 4,
-            title: "Why VACEI Quotes Are Different",
+            title: "Why A4 Quotes Are Different",
             description: "Our approach to quoting is designed to be transparent and helpful:",
             points: [
                 "No hidden fees or surprise charges",
@@ -112,7 +112,7 @@ const QuoteProcess = () => {
                                     <p className="text-base md:text-lg text-white/90 mb-6 leading-relaxed">
                                         {card.description}
                                     </p>
-                                    
+
                                     <ul className="space-y-3 mb-6">
                                         {card.points.map((point, pointIndex) => (
                                             <li key={pointIndex} className="flex items-start gap-3 text-base md:text-lg text-white">
@@ -121,7 +121,7 @@ const QuoteProcess = () => {
                                             </li>
                                         ))}
                                     </ul>
-                                    
+
                                     <p className="text-base md:text-lg text-white/90 leading-relaxed">
                                         {card.conclusion}
                                     </p>

@@ -26,19 +26,19 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
         isDark && "mx-4 sm:mx-6 lg:mx-8",
         isDark
           ? "rounded-[48px] bg-[#05050A] text-white shadow-2xl"
-          : "rounded-[48px] border border-slate-100 bg-[#FAFBFF] text-slate-900 shadow-xl shadow-blue-500/5"
+          : "rounded-[48px] border border-slate-100 bg-[#FAFBFF] text-slate-900 shadow-xl shadow-zinc-500/5"
       )}
     >
       <div
         className={cn(
           "pointer-events-none absolute -left-20 top-1/4 h-[420px] w-[420px] rounded-full blur-[100px]",
-          isDark ? "bg-blue-600/15" : "bg-blue-400/20"
+          isDark ? "bg-zinc-600/15" : "bg-zinc-400/20"
         )}
       />
       <div
         className={cn(
           "pointer-events-none absolute -right-10 bottom-0 h-[360px] w-[360px] rounded-full blur-[90px]",
-          isDark ? "bg-violet-600/10" : "bg-violet-400/15"
+          isDark ? "bg-zinc-600/10" : "bg-zinc-400/15"
         )}
       />
 
@@ -49,13 +49,13 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "inline-flex items-center gap-2 rounded-full border px-4 py-1.5",
-                isDark ? "border-white/10 bg-white/5" : "border-blue-100 bg-blue-50"
+                isDark ? "border-white/10 bg-white/5" : "border-zinc-100 bg-zinc-50"
               )}
             >
-              <span className="h-2 w-2 animate-pulse rounded-full bg-blue-500" />
+              <span className="h-2 w-2 animate-pulse rounded-full bg-zinc-500" />
               <span
                 className={cn(
-                  "text-[11px] font-black uppercase tracking-widest text-blue-500"
+                  "text-[11px] font-black uppercase tracking-widest text-zinc-500"
                 )}
               >
                 {t("twoWaysToStart.badge")}
@@ -82,7 +82,7 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
             <div
               className={cn(
                 "absolute -inset-3 rounded-[2.25rem] opacity-70 blur-2xl",
-                "bg-gradient-to-br from-blue-500/30 via-violet-600/20 to-cyan-500/25"
+                "bg-gradient-to-br from-zinc-500/30 via-zinc-600/20 to-zinc-500/25"
               )}
             />
             <div
@@ -90,7 +90,7 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
                 "relative overflow-hidden rounded-[2rem] border shadow-2xl",
                 isDark
                   ? "border-white/10 bg-[#070814] shadow-black/40"
-                  : "border-slate-200/80 bg-white shadow-blue-500/10"
+                  : "border-slate-200/80 bg-white shadow-zinc-500/10"
               )}
             >
               {/* Top meta row */}
@@ -105,15 +105,15 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
                     className={cn(
                       "flex h-10 w-10 items-center justify-center rounded-xl border",
                       isDark
-                        ? "border-blue-500/30 bg-blue-500/10 text-blue-400"
-                        : "border-blue-200 bg-blue-500/10 text-blue-600"
+                        ? "border-zinc-500/30 bg-zinc-500/10 text-zinc-400"
+                        : "border-zinc-200 bg-zinc-500/10 text-zinc-600"
                     )}
                   >
                     <Sparkles className="h-5 w-5" />
                   </div>
                   <p
                     className={cn(
-                      "text-[11px] font-black uppercase tracking-[0.2em] text-blue-500"
+                      "text-[11px] font-black uppercase tracking-[0.2em] text-zinc-500"
                     )}
                   >
                     {t("twoWaysToStart.spotlightBadge")}
@@ -155,7 +155,7 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
                           isDark ? "text-slate-500" : "text-slate-400"
                         )}
                       >
-                        client.vacei.com
+                        client.A4.com
                       </span>
                     </div>
                     <div className="relative aspect-video w-full overflow-hidden bg-black/40">
@@ -224,10 +224,10 @@ const TwoWaysToStartSection = ({ isDark = true }: { isDark?: boolean }) => {
 
                     <GetInstantQuoteButton
                       text={t("twoWaysToStart.cta")}
-                      href="https://client.vacei.com/onboarding"
+                      href="https://client.A4.com/onboarding"
                       className={cn(
                         "h-14 w-full rounded-2xl text-base font-bold sm:w-auto sm:px-10",
-                        !isDark && "shadow-lg shadow-blue-500/15"
+                        !isDark && "shadow-lg shadow-zinc-500/15"
                       )}
                     />
                   </div>

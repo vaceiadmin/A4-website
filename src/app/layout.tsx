@@ -28,13 +28,13 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://vacei.com"),
+  metadataBase: new URL("https://A4.com"),
   title: {
     default: "Global Accounting, Tax, Audit — and More. Done for You.",
     template: "%s",
   },
   description:
-    "VACEI is a structured digital platform for accounting, audit, legal and corporate services. Get a dedicated team, full visibility, and one place for documents, deadlines, and communication.",
+    "A4 is a structured digital platform for accounting, audit, legal and corporate services. Get a dedicated team, full visibility, and one place for documents, deadlines, and communication.",
   alternates: {
     canonical: "/",
   },
@@ -43,14 +43,14 @@ export const metadata: Metadata = {
     url: "/",
     title: "Global Accounting, Tax, Audit — and More. Done for You.",
     description:
-      "VACEI is a structured digital platform for accounting, audit, legal and corporate services. Get a dedicated team, full visibility, and one place for documents, deadlines, and communication.",
-    siteName: "VACEI",
+      "A4 is a structured digital platform for accounting, audit, legal and corporate services. Get a dedicated team, full visibility, and one place for documents, deadlines, and communication.",
+    siteName: "A4",
   },
   twitter: {
     card: "summary_large_image",
     title: "Global Accounting, Tax, Audit — and More. Done for You.",
     description:
-      "VACEI is a structured digital platform for accounting, audit, legal and corporate services. Get a dedicated team, full visibility, and one place for documents, deadlines, and communication.",
+      "A4 is a structured digital platform for accounting, audit, legal and corporate services. Get a dedicated team, full visibility, and one place for documents, deadlines, and communication.",
   },
   icons: {
     icon: "/favicon.png",

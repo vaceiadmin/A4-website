@@ -42,10 +42,10 @@ export async function generateMetadata({
     .accountingMalta;
 
   return {
-    title: am?.meta?.pageTitle ?? "VACEI — Accounting Services in Malta",
+    title: am?.meta?.pageTitle ?? "A4 — Accounting Services in Malta",
     description:
       am?.meta?.pageDescription ??
-      "Professional accounting services in Malta. Dedicated accountants. Full financial visibility through your VACEI portal.",
+      "Professional accounting services in Malta. Dedicated accountants. Full financial visibility through your A4 portal.",
   };
 }
 

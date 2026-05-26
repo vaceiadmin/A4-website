@@ -25,7 +25,7 @@ import { useReduceMotion, usePerformance } from "@/contexts/ReduceMotionContext"
 import { servicesData } from "@/data/servicesData";
 
 // Logo path from assets
-const Logo = "/assets/images/Logo.png";
+const Logo = "/assets/images/a4-logo-new.webp";
 
 type NavDropdownId = "platform" | "services" | "resources";
 
@@ -137,12 +137,12 @@ const Navbar = () => {
 
       // Check for dark background classes first
       const isDarkClass = bgClass.includes('bg-hero') ||
-        bgClass.includes('bg-[#111235]') ||
+        bgClass.includes('bg-[#000000]') ||
         bgClass.includes('bg-card') ||
         bgClass.includes('bg-gradient-container') ||
         bgClass.includes('bg-hero-dark') ||
-        bgClass.includes('bg-[#1e2040]') ||
-        bgClass.includes('bg-[#2a2d55]') ||
+        bgClass.includes('bg-[#111111]') ||
+        bgClass.includes('bg-[#222222]') ||
         bgClass.includes('bg-[#1e1e2f]');
 
       if (isDarkClass) return true;
@@ -319,61 +319,61 @@ const Navbar = () => {
 
   const navLinks = useMemo(
     () => [
-          {
-            id: "home",
-            dropdownId: undefined,
-            label: t("nav.home"),
-            href: "/",
-            hasDropdown: false,
-            isOpen: undefined,
-            setIsOpen: undefined,
-          },
-          {
-            id: "platform",
-            dropdownId: "platform" as NavDropdownId,
-            label: t("nav.platform"),
-            href: "/#platform",
-            hasDropdown: true,
-            isOpen: portalsOpen,
-            setIsOpen: setPortalsOpen,
-          },
-          {
-            id: "services",
-            dropdownId: "services" as NavDropdownId,
-            label: t("nav.services"),
-            href: "/#services",
-            hasDropdown: true,
-            isOpen: servicesOpen,
-            setIsOpen: setServicesOpen,
-          },
-          {
-            id: "partners",
-            dropdownId: undefined,
-            label: t("nav.partners"),
-            href: "/partners",
-            hasDropdown: false,
-            isOpen: undefined,
-            setIsOpen: undefined,
-          },
-          {
-            id: "pricing",
-            dropdownId: undefined,
-            label: t("nav.pricing"),
-            href: "/pricing",
-            hasDropdown: false,
-            isOpen: undefined,
-            setIsOpen: undefined,
-          },
-          {
-            id: "resources",
-            dropdownId: "resources" as NavDropdownId,
-            label: t("nav.resources"),
-            href: "/resources",
-            hasDropdown: true,
-            isOpen: resourcesOpen,
-            setIsOpen: setResourcesOpen,
-          },
-        ],
+      {
+        id: "home",
+        dropdownId: undefined,
+        label: t("nav.home"),
+        href: "/",
+        hasDropdown: false,
+        isOpen: undefined,
+        setIsOpen: undefined,
+      },
+      {
+        id: "platform",
+        dropdownId: "platform" as NavDropdownId,
+        label: t("nav.platform"),
+        href: "/#platform",
+        hasDropdown: true,
+        isOpen: portalsOpen,
+        setIsOpen: setPortalsOpen,
+      },
+      {
+        id: "services",
+        dropdownId: "services" as NavDropdownId,
+        label: t("nav.services"),
+        href: "/#services",
+        hasDropdown: true,
+        isOpen: servicesOpen,
+        setIsOpen: setServicesOpen,
+      },
+      {
+        id: "partners",
+        dropdownId: undefined,
+        label: t("nav.partners"),
+        href: "/partners",
+        hasDropdown: false,
+        isOpen: undefined,
+        setIsOpen: undefined,
+      },
+      {
+        id: "pricing",
+        dropdownId: undefined,
+        label: t("nav.pricing"),
+        href: "/pricing",
+        hasDropdown: false,
+        isOpen: undefined,
+        setIsOpen: undefined,
+      },
+      {
+        id: "resources",
+        dropdownId: "resources" as NavDropdownId,
+        label: t("nav.resources"),
+        href: "/resources",
+        hasDropdown: true,
+        isOpen: resourcesOpen,
+        setIsOpen: setResourcesOpen,
+      },
+    ],
     [t, portalsOpen, servicesOpen, resourcesOpen]
   );
 
@@ -400,29 +400,29 @@ const Navbar = () => {
     () =>
       useCompactNav
         ? [
-            { label: t("nav.resource.insights"), href: "/insights" },
-            { label: t("nav.resource.bookkeeping"), href: "/bookkeeping" },
-            { label: t("nav.resource.accountingMalta"), href: "/accounting-malta" },
-            { label: t("nav.product.aiReview"), href: "/ai-review" },
-            { label: t("nav.resource.howItWorks"), href: "/how-it-works" },
-            { label: t("nav.resource.about"), href: "/about" },
-            { label: t("nav.resource.faqs"), href: "/faq" },
-            { label: t("nav.resource.contact"), href: "/contact" },
-            { label: t("nav.resource.security"), href: "/security-compliance" },
-            { label: t("nav.product.cpePodcast"), href: "/cpe" },
-          ]
+          { label: t("nav.resource.insights"), href: "/insights" },
+          { label: t("nav.resource.bookkeeping"), href: "/bookkeeping" },
+          { label: t("nav.resource.accountingMalta"), href: "/accounting-malta" },
+          { label: t("nav.product.aiReview"), href: "/ai-review" },
+          { label: t("nav.resource.howItWorks"), href: "/how-it-works" },
+          { label: t("nav.resource.about"), href: "/about" },
+          { label: t("nav.resource.faqs"), href: "/faq" },
+          { label: t("nav.resource.contact"), href: "/contact" },
+          { label: t("nav.resource.security"), href: "/security-compliance" },
+          { label: t("nav.product.cpePodcast"), href: "/cpe" },
+        ]
         : [
-            { label: t("nav.resource.insights"), href: "/insights" },
-            { label: t("nav.resource.bookkeeping"), href: "/bookkeeping" },
-            { label: t("nav.resource.accountingMalta"), href: "/accounting-malta" },
-            { label: t("nav.product.aiReview"), href: "/ai-review" },
-            { label: t("nav.resource.howItWorks"), href: "/how-it-works" },
-            { label: t("nav.resource.about"), href: "/about" },
-            { label: t("nav.resource.faqs"), href: "/faq" },
-            { label: t("nav.resource.contact"), href: "/contact" },
-            { label: t("nav.resource.security"), href: "/security-compliance" },
-            { label: t("nav.product.cpePodcast"), href: "/cpe" },
-          ],
+          { label: t("nav.resource.insights"), href: "/insights" },
+          { label: t("nav.resource.bookkeeping"), href: "/bookkeeping" },
+          { label: t("nav.resource.accountingMalta"), href: "/accounting-malta" },
+          { label: t("nav.product.aiReview"), href: "/ai-review" },
+          { label: t("nav.resource.howItWorks"), href: "/how-it-works" },
+          { label: t("nav.resource.about"), href: "/about" },
+          { label: t("nav.resource.faqs"), href: "/faq" },
+          { label: t("nav.resource.contact"), href: "/contact" },
+          { label: t("nav.resource.security"), href: "/security-compliance" },
+          { label: t("nav.product.cpePodcast"), href: "/cpe" },
+        ],
     [t, useCompactNav]
   );
 
@@ -447,13 +447,12 @@ const Navbar = () => {
           {/* Navbar Container – sleek floating pill layout */}
           <motion.div
             initial={false}
-            className={`relative pointer-events-auto w-full mx-auto rounded-full ${
-              isMobile
+            className={`relative pointer-events-auto w-full mx-auto rounded-full ${isMobile
                 ? "bg-white border border-gray-200/80 text-black"
                 : useDarkNavbarTheme
                   ? `bg-white/10 ${isIPhone || isLowPerformance ? "" : "backdrop-blur-xl"} border border-white/20 text-white`
                   : `bg-white/80 ${isIPhone || isLowPerformance ? "" : "backdrop-blur-xl"} border border-gray-200/60 text-black`
-            } shadow-lg shadow-black/5 px-4  sm:px-6 lg:px-8 transition-all duration-300`}
+              } shadow-lg shadow-black/5 px-4  sm:px-6 lg:px-8 transition-all duration-300`}
           >
             <div className="flex items-center justify-between min-h-[56px] sm:min-h-[64px] lg:min-h-[80px]">
               {/* Logo - smaller on mobile */}
@@ -461,10 +460,13 @@ const Navbar = () => {
                 <div className="flex items-center justify-center">
                   <Image
                     src={Logo}
-                    alt="VACEI"
+                    alt="A4"
                     width={100}
                     height={70}
-                    className="object-contain w-20 h-12 sm:w-24 sm:h-14 lg:w-[100px] lg:h-[70px]"
+                    className={cn(
+                      "object-contain w-20 h-12 sm:w-24 sm:h-14 lg:w-[100px] lg:h-[70px] transition-all duration-300",
+                      useDarkNavbarTheme ? "brightness-0 invert" : ""
+                    )}
                   />
                 </div>
               </LocalizedLink>
@@ -548,10 +550,10 @@ const Navbar = () => {
                                     ))}
                                   </div>
                                 </div>
-                                <div className="hidden sm:flex w-[240px] lg:w-[280px] shrink-0 rounded-2xl p-6 bg-linear-to-br from-blue-50 to-blue-100 border border-blue-100 flex-col justify-between relative overflow-hidden group">
-                                  <div className="absolute -right-4 -top-4 w-24 h-24 bg-blue-500/10 rounded-full blur-xl group-hover:scale-150 transition-transform duration-500 pointer-events-none" />
+                                <div className="hidden sm:flex w-[240px] lg:w-[280px] shrink-0 rounded-2xl p-6 bg-linear-to-br from-zinc-50 to-zinc-100 border border-zinc-100 flex-col justify-between relative overflow-hidden group">
+                                  <div className="absolute -right-4 -top-4 w-24 h-24 bg-zinc-500/10 rounded-full blur-xl group-hover:scale-150 transition-transform duration-500 pointer-events-none" />
                                   <div className="relative z-10">
-                                    <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-blue-600 shadow-sm mb-4">
+                                    <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center text-zinc-600 shadow-sm mb-4">
                                       <Layers className="w-5 h-5" />
                                     </div>
                                     <h4 className="text-[15px] font-bold text-slate-900 mb-2">{t("nav.unifiedServices")}</h4>
@@ -559,7 +561,7 @@ const Navbar = () => {
                                       {t("nav.unifiedServicesBody")}
                                     </p>
                                   </div>
-                                  <LocalizedLink href="/services/advisory-growth" className="relative z-10 flex items-center gap-2 text-xs font-bold text-blue-600 group-hover:gap-3 transition-all" onClick={() => link.setIsOpen?.(false)}>
+                                  <LocalizedLink href="/services/advisory-growth" className="relative z-10 flex items-center gap-2 text-xs font-bold text-zinc-600 group-hover:gap-3 transition-all" onClick={() => link.setIsOpen?.(false)}>
                                     {t("nav.exploreMethodology")} <ArrowRight className="w-4 h-4" />
                                   </LocalizedLink>
                                 </div>
@@ -583,11 +585,11 @@ const Navbar = () => {
                                     ))}
                                   </div>
                                 </div>
-                                <div className="hidden sm:flex w-[240px] lg:w-[280px] shrink-0 rounded-2xl p-6 bg-[#020410] border border-blue-900/30 flex-col justify-between relative overflow-hidden group">
-                                  <div className="absolute inset-x-0 bottom-0 h-32 bg-linear-to-t from-blue-600/20 to-transparent blur-xl group-hover:opacity-100 opacity-50 transition-opacity duration-500 pointer-events-none" />
+                                <div className="hidden sm:flex w-[240px] lg:w-[280px] shrink-0 rounded-2xl p-6 bg-[#020410] border border-zinc-900/30 flex-col justify-between relative overflow-hidden group">
+                                  <div className="absolute inset-x-0 bottom-0 h-32 bg-linear-to-t from-zinc-600/20 to-transparent blur-xl group-hover:opacity-100 opacity-50 transition-opacity duration-500 pointer-events-none" />
                                   <div className="relative z-10">
                                     <div className="flex items-center justify-between mb-5">
-                                      <div className="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white shadow-lg shadow-blue-500/20">
+                                      <div className="w-10 h-10 rounded-xl bg-zinc-600 flex items-center justify-center text-white shadow-lg shadow-zinc-500/20">
                                         <ShieldCheck className="w-5 h-5" />
                                       </div>
                                       <div className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20">
@@ -600,7 +602,7 @@ const Navbar = () => {
                                       {t("nav.securePlatformBody")}
                                     </p>
                                   </div>
-                                  <LocalizedLink href="/portal/client-portal" className="relative z-10 flex items-center justify-center w-full py-2.5 rounded-xl bg-blue-600 text-white text-xs font-bold hover:bg-blue-500 transition-colors shadow-sm" onClick={() => link.setIsOpen?.(false)}>
+                                  <LocalizedLink href="/portal/client-portal" className="relative z-10 flex items-center justify-center w-full py-2.5 rounded-xl bg-zinc-600 text-white text-xs font-bold hover:bg-zinc-500 transition-colors shadow-sm" onClick={() => link.setIsOpen?.(false)}>
                                     {t("nav.goToDashboard")}
                                   </LocalizedLink>
                                 </div>
@@ -632,12 +634,12 @@ const Navbar = () => {
                                       </div>
                                       <span className="text-[9px] font-bold text-orange-600 uppercase tracking-widest bg-orange-50 px-2 py-1 rounded-full border border-orange-100/50 hidden lg:block">{t("nav.newGuide")}</span>
                                     </div>
-                                    <h4 className="text-[15px] font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors">{t("nav.auditReadiness")}</h4>
+                                    <h4 className="text-[15px] font-bold text-slate-900 mb-2 group-hover:text-zinc-600 transition-colors">{t("nav.auditReadiness")}</h4>
                                     <p className="text-xs text-slate-500 leading-relaxed mb-6">
                                       {t("nav.auditReadinessBody")}
                                     </p>
                                   </div>
-                                  <LocalizedLink href="/insights" className="flex items-center gap-2 text-xs font-bold text-slate-700 bg-white border border-slate-200 px-4 py-2.5 rounded-xl w-max hover:bg-slate-50 hover:text-blue-600 transition-all shadow-sm" onClick={() => link.setIsOpen?.(false)}>
+                                  <LocalizedLink href="/insights" className="flex items-center gap-2 text-xs font-bold text-slate-700 bg-white border border-slate-200 px-4 py-2.5 rounded-xl w-max hover:bg-slate-50 hover:text-zinc-600 transition-all shadow-sm" onClick={() => link.setIsOpen?.(false)}>
                                     {t("nav.readNow")}
                                   </LocalizedLink>
                                 </div>
@@ -656,10 +658,10 @@ const Navbar = () => {
                 <div className="hidden lg:flex items-center gap-2 xl:gap-3">
 
                   <LocalizedLink
-                    href="https://client.vacei.com/onboarding"
+                    href="https://client.A4.com/onboarding"
                     className={`flex items-center justify-center ${useDarkNavbarTheme
-                        ? "text-white/90 hover:text-white"
-                        : "text-black/90 hover:text-primary-blue"
+                      ? "text-white/90 hover:text-white"
+                      : "text-black/90 hover:text-primary-blue"
                       } font-medium text-[15px] transition-colors px-2`}
                   >
                     <span>{t("nav.login")}</span>
@@ -667,7 +669,7 @@ const Navbar = () => {
 
                   <GetInstantQuoteButton
                     hasShadow={false}
-                    href="https://client.vacei.com/onboarding"
+                    href="https://client.A4.com/onboarding"
                     text={t("nav.registerQuote")}
                   />
                 </div>
@@ -738,7 +740,7 @@ const Navbar = () => {
                 <LocalizedLink href="/" className="flex items-center gap-2" onClick={() => setMobileMenuOpen(false)}>
                   <Image
                     src={Logo}
-                    alt="VACEI"
+                    alt="A4"
                     width={120}
                     height={56}
                     className="object-contain h-10 w-auto"
@@ -844,7 +846,7 @@ const Navbar = () => {
                 ))}
                 <div className="mt-6 pt-4 border-t border-gray-200 space-y-3">
                   <LocalizedLink
-                    href="https://client.vacei.com/onboarding"
+                    href="https://client.A4.com/onboarding"
                     className="flex w-full items-center justify-center rounded-xl border border-gray-200 bg-white py-3 text-[15px] font-medium text-black transition-colors hover:border-primary-blue/40 hover:text-primary-blue"
                     onClick={() => setMobileMenuOpen(false)}
                   >
@@ -854,7 +856,7 @@ const Navbar = () => {
                     <GetInstantQuoteButton
                       hasShadow={false}
                       className="w-full justify-center"
-                      href="https://client.vacei.com/onboarding"
+                      href="https://client.A4.com/onboarding"
                       text={t("nav.registerQuote")}
                     />
                   </div>
@@ -904,7 +906,7 @@ const Navbar = () => {
                     <div className=" flex items-center justify-center">
                       <Image
                         src={Logo}
-                        alt="VACEI"
+                        alt="A4"
                         width={150}
                         height={80}
                         className="object-contain"
@@ -942,7 +944,7 @@ const Navbar = () => {
                   <h3 className="text-white font-bold text-lg">{t("nav.sidebar.quickActions")}</h3>
                   <div className="space-y-3">
                     <LocalizedLink
-                      href="https://client.vacei.com/onboarding"
+                      href="https://client.A4.com/onboarding"
                       onClick={() => setSidebarOpen(false)}
                       className="flex items-center justify-between px-4 py-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/20 transition-all"
                     >
@@ -1029,10 +1031,10 @@ const Navbar = () => {
                         {t("nav.sidebar.email")}
                       </p>
                       <a
-                        href="mailto:info@vacei.com"
+                        href="mailto:info@A4.com"
                         className="text-white text-base hover:text-primary-blue transition-colors"
                       >
-                        info@vacei.com
+                        info@A4.com
                       </a>
                     </div>
                   </div>

@@ -1,5 +1,5 @@
 {
-  "brand": "VACEI",
+  "brand": "A4",
   "glossary": {
     "getInstantQuote": "Obtenir un Devis Instantané",
     "bookDemo": "Prendre RDV pour Démo",
@@ -55,13 +55,13 @@
       "bookkeeping": "Tenue de livres",
       "accountingMalta": "Comptabilité Malte",
       "howItWorks": "Comment ça marche",
-      "about": "À Propos de VACEI",
+      "about": "À Propos de A4",
       "faqs": "FAQs",
       "contact": "Contactez-nous",
       "security": "Sécurité & Conformité"
     },
     "sidebar": {
-      "description": "VACEI est un cabinet moderne de comptabilité, d'audit et de services aux entreprises structuré autour d'une plateforme numérique. Nous gérons la comptabilité, la conformité et l'audit de bout en bout grâce à notre propre technologie.",
+      "description": "A4 est un cabinet moderne de comptabilité, d'audit et de services aux entreprises structuré autour d'une plateforme numérique. Nous gérons la comptabilité, la conformité et l'audit de bout en bout grâce à notre propre technologie.",
       "quickActions": "Actions Rapides",
       "requestQuoteTitle": "Demander un devis",
       "requestQuoteSubtitle": "Partagez vos besoins en quelques étapes.",
@@ -74,13 +74,13 @@
     }
   },
   "footer": {
-    "tagline": "VACEI est l'espace de travail numérique structuré où entreprises et fondateurs gèrent services professionnels et conformité en toute sécurité.",
+    "tagline": "A4 est l'espace de travail numérique structuré où entreprises et fondateurs gèrent services professionnels et conformité en toute sécurité.",
     "platform": "Plateforme",
     "overview": "Aperçu",
     "howItWorks": "Comment ça marche",
     "pricing": "Tarifs",
     "security": "Sécurité & Conformité",
-    "whyVacei": "Pourquoi VACEI",
+    "whyA4": "Pourquoi A4",
     "services": "Services",
     "corporate": "Services aux Entreprises",
     "audit": "Audit & Assurance",
@@ -89,7 +89,7 @@
     "legal": "Services Juridiques",
     "vatPayroll": "TVA & Paie",
     "company": "Cabinet",
-    "about": "À Propos de VACEI",
+    "about": "À Propos de A4",
     "faqs": "FAQs",
     "insights": "Insights",
     "whiteLabelLanding": "Plateforme White-Label",
@@ -97,11 +97,11 @@
     "contact": "Contactez-nous",
     "cpePodcast": "CPE & Podcast",
     "contactUs": "Contactez-nous",
-    "disclaimer": "Les services professionnels via VACEI sont fournis par un réseau de cabinets vérifiés. VACEI fournit l'environnement numérique pour gérer ces missions.",
+    "disclaimer": "Les services professionnels via A4 sont fournis par un réseau de cabinets vérifiés. A4 fournit l'environnement numérique pour gérer ces missions.",
     "terms": "Conditions Générales",
     "privacy": "Politique de Confidentialité",
     "cookies": "Politique de Cookies",
-    "copyright": "© 2026 What VACEI Is. Tous droits réservés."
+    "copyright": "© 2026 What A4 Is. Tous droits réservés."
   },
   "pageHeader": {
     "home": "Accueil"
@@ -119,7 +119,7 @@
     "botAskName": "Parfait, à quel nom devons-nous adresser notre réponse ?",
     "botAskEmail": "Merci ! Quelle est la meilleure adresse e-mail pour vous joindre ?",
     "botSuccess": "Merci pour votre temps. Notre équipe support examinera cette conversation et vous contactera dès que possible.",
-    "botErrorSend": "Envoi impossible. Réessayez ou écrivez-nous à info@vacei.com.",
+    "botErrorSend": "Envoi impossible. Réessayez ou écrivez-nous à info@A4.com.",
     "submitErrorFailed": "Échec de l'envoi.",
     "startNewChat": "Nouvelle conversation",
     "inputPlaceholder": "Écrivez un message…"

@@ -8,9 +8,9 @@ import { useTranslation } from "react-i18next";
 const ServiceCTA = () => {
   const { t } = useTranslation("services");
   return (
-    <section className="w-full py-16 bg-[#F0F8FF] border-y border-blue-50">
+    <section className="w-full py-16 bg-[#F0F8FF] border-y border-zinc-50">
       <div className="max-w-6xl mx-auto px-4 md:px-6 lg:px-8">
-        <FadeInUp className="bg-white rounded-3xl p-8 md:p-12 shadow-lg shadow-blue-900/5 flex flex-col md:flex-row items-center justify-between gap-8 border border-blue-100">
+        <FadeInUp className="bg-white rounded-3xl p-8 md:p-12 shadow-lg shadow-zinc-900/5 flex flex-col md:flex-row items-center justify-between gap-8 border border-zinc-100">
           <div className="max-w-2xl">
             <h2 className="text-2xl md:text-3xl font-bold text-text-heading mb-4">
               {t("shared.ctaTitle")}

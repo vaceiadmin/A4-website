@@ -40,7 +40,7 @@ const BlogTemplate: React.FC<BlogTemplateProps> = ({ blog, relatedBlogs = [] }) 
         <div className="max-w-[1240px] mx-auto px-6 md:px-8">
           {/* Breadcrumbs */}
           <nav className="flex items-center gap-2 text-[13px] text-gray-400 mb-6">
-            <LocalizedLink href="/" className="hover:text-primary-blue transition-colors">VACEI</LocalizedLink>
+            <LocalizedLink href="/" className="hover:text-primary-blue transition-colors">A4</LocalizedLink>
             <ChevronRight size={10} className="text-gray-300" />
             <LocalizedLink href="/insights" className="hover:text-primary-blue transition-colors">Insights</LocalizedLink>
             <ChevronRight size={10} className="text-gray-300" />
@@ -67,7 +67,7 @@ const BlogTemplate: React.FC<BlogTemplateProps> = ({ blog, relatedBlogs = [] }) 
 
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pt-10 border-t border-gray-100">
             <div className="flex items-center gap-4">
-              <div className="w-11 h-11 rounded-full bg-gradient-to-br from-primary-blue to-blue-600 flex items-center justify-center font-lora font-bold text-white uppercase">
+              <div className="w-11 h-11 rounded-full bg-gradient-to-br from-primary-blue to-zinc-600 flex items-center justify-center font-lora font-bold text-white uppercase">
                 {blog.author?.[0] || 'V'}
               </div>
               <div>
@@ -137,7 +137,7 @@ const BlogTemplate: React.FC<BlogTemplateProps> = ({ blog, relatedBlogs = [] }) 
               <div className="absolute top-0 right-0 w-24 h-24 bg-primary-blue/20 blur-2xl pointer-events-none"></div>
               <h5 className="font-lora text-lg font-bold mb-3 leading-tight relative z-10">{t('article.needAuditTitle')}</h5>
               <p className="text-[12px] text-white/60 mb-6 leading-relaxed relative z-10">{t('article.needAuditBody')}</p>
-              <LocalizedLink href="/quote" className="block w-full py-3.5 bg-primary-blue text-white rounded-xl text-sm font-bold hover:bg-blue-600 transition-all mb-4 relative z-10">
+              <LocalizedLink href="/quote" className="block w-full py-3.5 bg-primary-blue text-white rounded-xl text-sm font-bold hover:bg-zinc-600 transition-all mb-4 relative z-10">
                 {t('article.getStarted')} →
               </LocalizedLink>
               <span className="text-[10px] text-white/40 block relative z-10">Team assigned within 72 hours</span>

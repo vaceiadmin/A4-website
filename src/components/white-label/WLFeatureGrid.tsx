@@ -56,7 +56,7 @@ const WLFeatureGrid: React.FC<WLFeatureGridProps> = ({
                   {sectionTitle}
                </motion.h2>
             )}
-            <div className="w-24 h-1.5 bg-gradient-to-r from-primary-blue to-blue-700 mx-auto rounded-full mt-6" />
+            <div className="w-24 h-1.5 bg-gradient-to-r from-primary-blue to-zinc-700 mx-auto rounded-full mt-6" />
           </div>
         )}
 
@@ -73,7 +73,7 @@ const WLFeatureGrid: React.FC<WLFeatureGridProps> = ({
                 className="group relative h-full"
               >
                 {/* Decorative background glow on hover */}
-                <div className="absolute inset-0 bg-gradient-to-br from-primary-blue/5 to-blue-600/5 rounded-[2.5rem] opacity-0 group-hover:opacity-100 transition-opacity duration-500 blur-2xl" />
+                <div className="absolute inset-0 bg-gradient-to-br from-primary-blue/5 to-zinc-600/5 rounded-[2.5rem] opacity-0 group-hover:opacity-100 transition-opacity duration-500 blur-2xl" />
                 
                 <div className="relative h-full p-10 bg-white border border-gray-200/80 rounded-[2.5rem] shadow-xl shadow-gray-200/40 group-hover:!bg-primary-blue hover:shadow-2xl hover:shadow-primary-blue/30 hover:border-primary-blue/30 transition-all duration-500 flex flex-col items-start overflow-hidden">
                   {/* Subtle Gradient Accent */}

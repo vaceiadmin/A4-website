@@ -378,7 +378,7 @@ export default function ToggleHowAccountingMalta() {
               {t(`${p}eqPortal`)}
             </div>
             <span className="eq-plus">=</span>
-            <div className="eq-chip ec-ink">VACEI</div>
+            <div className="eq-chip ec-ink">A4</div>
           </div>
           <p className="eq-sub">{t(`${p}eqSub`)}</p>
           <div className="eq-quote">{t(`${p}eqQuote`)}</div>

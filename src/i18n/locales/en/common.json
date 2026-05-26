@@ -1,5 +1,5 @@
 {
-  "brand": "VACEI",
+  "brand": "A4",
   "glossary": {
     "getInstantQuote": "Get Instant Quote",
     "bookDemo": "Book a Demo",
@@ -55,13 +55,13 @@
       "bookkeeping": "Bookkeeping",
       "accountingMalta": "Accounting Malta",
       "howItWorks": "How It Works",
-      "about": "About VACEI",
+      "about": "About A4",
       "faqs": "FAQs",
       "contact": "Contact Us",
       "security": "Security & Compliance"
     },
     "sidebar": {
-      "description": "VACEI is a modern accounting, audit and corporate services firm built around one structured digital platform. We handle accounting, compliance, corporate and audit work end to end, using our own technology to deliver clarity, speed and visibility.",
+      "description": "A4 is a modern accounting, audit and corporate services firm built around one structured digital platform. We handle accounting, compliance, corporate and audit work end to end, using our own technology to deliver clarity, speed and visibility.",
       "quickActions": "Quick actions",
       "requestQuoteTitle": "Request a quote",
       "requestQuoteSubtitle": "Share your requirements in a few steps.",
@@ -74,13 +74,13 @@
     }
   },
   "footer": {
-    "tagline": "VACEI is the structured digital workspace where businesses and founders manage professional services, compliance, and workflows in one secure environment.",
+    "tagline": "A4 is the structured digital workspace where businesses and founders manage professional services, compliance, and workflows in one secure environment.",
     "platform": "Platform",
     "overview": "Overview",
     "howItWorks": "How It Works",
     "pricing": "Pricing",
     "security": "Security & Compliance",
-    "whyVacei": "Why VACEI",
+    "whyA4": "Why A4",
     "services": "Services",
     "corporate": "Corporate Services",
     "audit": "Audit & Assurance",
@@ -89,7 +89,7 @@
     "legal": "Legal Services",
     "vatPayroll": "VAT & Payroll",
     "company": "Company",
-    "about": "About VACEI",
+    "about": "About A4",
     "faqs": "FAQs",
     "insights": "Insights",
     "whiteLabelLanding": "White-Label Platform",
@@ -97,11 +97,11 @@
     "contact": "Contact Us",
     "cpePodcast": "CPE & Podcast",
     "contactUs": "Contact Us",
-    "disclaimer": "Professional services through VACEI are delivered by a network of verified professional firms. VACEI provide the digital environment to manage these engagements efficiently and securely.",
+    "disclaimer": "Professional services through A4 are delivered by a network of verified professional firms. A4 provide the digital environment to manage these engagements efficiently and securely.",
     "terms": "Terms & Conditions",
     "privacy": "Privacy Policy",
     "cookies": "Cookie Policy",
-    "copyright": "© 2026 What VACEI Is All right reserved"
+    "copyright": "© 2026 What A4 Is All right reserved"
   },
   "pageHeader": {
     "home": "Home"
@@ -119,7 +119,7 @@
     "botAskName": "Great, who should we address our reply to?",
     "botAskEmail": "Thanks! What's the best email to reach you on?",
     "botSuccess": "Thank you for your time. Our support team will review this conversation and contact you as soon as possible.",
-    "botErrorSend": "We couldn't send your request. Please try again or email us at info@vacei.com.",
+    "botErrorSend": "We couldn't send your request. Please try again or email us at info@A4.com.",
     "submitErrorFailed": "Failed to submit.",
     "startNewChat": "Start new chat",
     "inputPlaceholder": "Type a message..."

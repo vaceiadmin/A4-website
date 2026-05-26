@@ -22,8 +22,8 @@ const PositioningLine = ({ isDark = false }: { isDark?: boolean }) => {
         className={cn(
           "pointer-events-none absolute inset-x-0 top-0 h-px",
           isDark
-            ? "bg-gradient-to-r from-transparent via-blue-500/35 to-transparent"
-            : "bg-gradient-to-r from-transparent via-blue-400/40 to-transparent"
+            ? "bg-gradient-to-r from-transparent via-zinc-500/35 to-transparent"
+            : "bg-gradient-to-r from-transparent via-zinc-400/40 to-transparent"
         )}
       />
       <div
@@ -40,13 +40,13 @@ const PositioningLine = ({ isDark = false }: { isDark?: boolean }) => {
         <div
           className={cn(
             "absolute -left-10 top-1/2 h-44 w-44 -translate-y-1/2 rounded-full blur-[70px]",
-            isDark ? "bg-blue-500/12" : "bg-blue-400/18"
+            isDark ? "bg-zinc-500/12" : "bg-zinc-400/18"
           )}
         />
         <div
           className={cn(
             "absolute -right-12 top-1/3 h-52 w-52 rounded-full blur-[80px]",
-            isDark ? "bg-violet-500/10" : "bg-violet-400/14"
+            isDark ? "bg-zinc-500/10" : "bg-zinc-400/14"
           )}
         />
 
@@ -55,7 +55,7 @@ const PositioningLine = ({ isDark = false }: { isDark?: boolean }) => {
           className={cn(
             "absolute left-[8%] top-6 hidden sm:flex items-center justify-center rounded-2xl border backdrop-blur-md",
             "h-12 w-12",
-            isDark ? "border-white/10 bg-white/[0.04] text-blue-300/70" : "border-slate-200/80 bg-white/70 text-blue-600/60"
+            isDark ? "border-white/10 bg-white/[0.04] text-zinc-300/70" : "border-slate-200/80 bg-white/70 text-zinc-600/60"
           )}
           aria-hidden
         >
@@ -65,7 +65,7 @@ const PositioningLine = ({ isDark = false }: { isDark?: boolean }) => {
           className={cn(
             "absolute right-[10%] top-10 hidden md:flex items-center justify-center rounded-2xl border backdrop-blur-md",
             "h-12 w-12",
-            isDark ? "border-white/10 bg-white/[0.04] text-violet-200/60" : "border-slate-200/80 bg-white/70 text-violet-500/55"
+            isDark ? "border-white/10 bg-white/[0.04] text-zinc-200/60" : "border-slate-200/80 bg-white/70 text-zinc-500/55"
           )}
           aria-hidden
         >
@@ -98,8 +98,8 @@ const PositioningLine = ({ isDark = false }: { isDark?: boolean }) => {
               className={cn(
                 "h-2 w-2 rounded-full",
                 isDark
-                  ? "bg-blue-400 shadow-[0_0_14px_rgba(96,165,250,0.65)]"
-                  : "bg-blue-600 shadow-[0_0_12px_rgba(37,99,235,0.35)]"
+                  ? "bg-zinc-400 shadow-[0_0_14px_rgba(96,165,250,0.65)]"
+                  : "bg-zinc-600 shadow-[0_0_12px_rgba(37,99,235,0.35)]"
               )}
             />
             <p className={cn("text-base sm:text-lg font-bold tracking-tight", isDark ? "text-slate-100" : "text-slate-900")}>
@@ -111,8 +111,8 @@ const PositioningLine = ({ isDark = false }: { isDark?: boolean }) => {
             className={cn(
               "pointer-events-none mx-auto mt-5 h-px w-56",
               isDark
-                ? "bg-gradient-to-r from-transparent via-blue-500/35 to-transparent"
-                : "bg-gradient-to-r from-transparent via-blue-500/25 to-transparent"
+                ? "bg-gradient-to-r from-transparent via-zinc-500/35 to-transparent"
+                : "bg-gradient-to-r from-transparent via-zinc-500/25 to-transparent"
             )}
           />
         </div>

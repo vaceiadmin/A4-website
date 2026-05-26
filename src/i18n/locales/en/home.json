@@ -28,7 +28,11 @@
       "Direct Support"
     ],
     "trustStrip": "One team. One platform. Everything handled.",
-    "trustPillLabels": ["One Team", "One Platform", "Everything Handled"]
+    "trustPillLabels": [
+      "One Team",
+      "One Platform",
+      "Everything Handled"
+    ]
   },
   "interactiveBlock": {
     "title": "Create your account in 2 minutes",
@@ -97,7 +101,7 @@
     "title": "A managed system — not just disconnected services",
     "badge": "Digital ecosystem",
     "highlight": "Everything handled.",
-    "cardBody": "Fully integrated into your VACEI workspace for visibility and control.",
+    "cardBody": "Fully integrated into your A4 workspace for visibility and control.",
     "cardMeta": "Modular service",
     "items": [
       "Dedicated team assigned to your business",
@@ -153,7 +157,7 @@
     "columnHeadingLine1": "Simple.",
     "columnMid": "Structured.",
     "columnHeadingAccent": "Fast.",
-    "columnBody": "Follow these steps to migrate your business management to VACEI.",
+    "columnBody": "Follow these steps to migrate your business management to A4.",
     "back": "Back",
     "submitting": "Submitting...",
     "nextStepFallback": "Next Step",
@@ -179,9 +183,18 @@
         "title": "Tell us about you",
         "subtitle": "Briefly describe your business needs.",
         "fields": {
-          "name": { "label": "Full Name", "placeholder": "Your name" },
-          "email": { "label": "Work Email", "placeholder": "email@company.com" },
-          "message": { "label": "Business Overview", "placeholder": "Briefly describe your company operations..." }
+          "name": {
+            "label": "Full Name",
+            "placeholder": "Your name"
+          },
+          "email": {
+            "label": "Work Email",
+            "placeholder": "email@company.com"
+          },
+          "message": {
+            "label": "Business Overview",
+            "placeholder": "Briefly describe your company operations..."
+          }
         },
         "primaryLabel": "Next: Services"
       },
@@ -189,8 +202,14 @@
         "title": "Select Services",
         "subtitle": "Which area of your business needs management?",
         "fields": {
-          "service": { "label": "Required Services", "placeholder": "Select one or more..." },
-          "additionalDetails": { "label": "Specific Requirements", "placeholder": "Any specific jurisdictions or complexity we should know about?" }
+          "service": {
+            "label": "Required Services",
+            "placeholder": "Select one or more..."
+          },
+          "additionalDetails": {
+            "label": "Specific Requirements",
+            "placeholder": "Any specific jurisdictions or complexity we should know about?"
+          }
         },
         "primaryLabel": "Next: Communication"
       },
@@ -198,15 +217,34 @@
         "title": "Final Details",
         "subtitle": "How would you like us to contact you?",
         "fields": {
-          "communicationChannel": { "label": "Preferred Channel", "placeholder": "Email/WhatsApp/Call" },
-          "updateCadence": { "label": "Update Cadence", "placeholder": "Weekly/Monthly/On-demand" },
-          "phone": { "label": "WhatsApp/Phone Number", "placeholder": "+1..." }
+          "communicationChannel": {
+            "label": "Preferred Channel",
+            "placeholder": "Email/WhatsApp/Call"
+          },
+          "updateCadence": {
+            "label": "Update Cadence",
+            "placeholder": "Weekly/Monthly/On-demand"
+          },
+          "phone": {
+            "label": "WhatsApp/Phone Number",
+            "placeholder": "+1..."
+          }
         },
         "primaryLabel": "Submit Quote Request"
       }
     },
-    "communicationOptions": ["Email", "WhatsApp", "Call", "Video Call"],
-    "updateOptions": ["Weekly", "Bi-weekly", "Monthly", "Real-time"]
+    "communicationOptions": [
+      "Email",
+      "WhatsApp",
+      "Call",
+      "Video Call"
+    ],
+    "updateOptions": [
+      "Weekly",
+      "Bi-weekly",
+      "Monthly",
+      "Real-time"
+    ]
   },
   "globalDelivery": {
     "badge": "Global Reach",
@@ -274,7 +312,7 @@
       "Shared document vault",
       "Full activity history"
     ],
-    "videoAlt": "Inviting an advisor in the VACEI workspace",
+    "videoAlt": "Inviting an advisor in the A4 workspace",
     "cta": "Open your portal"
   },
   "conversion": {
@@ -297,19 +335,23 @@
     "badge": "International Reach",
     "titleLine1": "A structured gateway ",
     "titleHighlight": "to Europe.",
-    "body": "VACEI provides the digital environment for international businesses and founders to incorporate, manage, and scale their European operations with confidence.",
-    "chips": ["27 Countries", "Unified API", "Local Experts"],
-    "hubAlt": "VACEI Hub"
+    "body": "A4 provides the digital environment for international businesses and founders to incorporate, manage, and scale their European operations with confidence.",
+    "chips": [
+      "27 Countries",
+      "Unified API",
+      "Local Experts"
+    ],
+    "hubAlt": "A4 Hub"
   },
   "workspaceEntry": {
     "sectionTitleLine1": "One workspace for your business —",
     "sectionTitleHighlight": "and all your services",
-    "sectionBody": "Managing accounting, audit, legal, and compliance shouldn’t be fragmented.\n\nVACEI brings everything into one structured platform — where your services, documents, and deadlines are managed in one place.\n\nNo emails. No scattered files. No uncertainty.",
+    "sectionBody": "Managing accounting, audit, legal, and compliance shouldn’t be fragmented.\n\nA4 brings everything into one structured platform — where your services, documents, and deadlines are managed in one place.\n\nNo emails. No scattered files. No uncertainty.",
     "activeEntities": "Active Entities",
     "card1TitleBefore": "Your business — ",
     "card1TitleAccent": "fully organised",
     "card1Body": "Create a workspace for your business and manage everything in one place.\n\nYour services, documents, and advisors are structured through one platform — giving you full control without complexity.",
-    "card1CoordinationNote": "All services are coordinated through VACEI and delivered through a network of trusted firms.",
+    "card1CoordinationNote": "All services are coordinated through A4 and delivered through a network of trusted firms.",
     "whatYouCanDo": "What you can do",
     "card1Bullets": [
       "Full visibility over engagements",
@@ -342,13 +384,17 @@
     "readMore": "Read more",
     "articleType": "Article",
     "noPosts": "No insights published yet.",
-    "videoModalEyebrow": "VACEI insights",
+    "videoModalEyebrow": "A4 insights",
     "videoModalHint": "Select a video to play",
     "videoNowPlaying": "Now playing",
     "videoModalCloseAria": "Close video",
     "videoPlaylist": [
-      { "title": "The Modern Business" },
-      { "title": "How AI Actually Improves Work-Life Balance" }
+      {
+        "title": "The Modern Business"
+      },
+      {
+        "title": "How AI Actually Improves Work-Life Balance"
+      }
     ],
     "resources": [
       {
@@ -360,7 +406,7 @@
       {
         "type": "Video",
         "category": "Insights",
-        "title": "Two short explainers from Vacei",
+        "title": "Two short explainers from A4",
         "desc": "What breaks when scaling without the right foundations, and how AI can meaningfully ease pressure on teams—pick a track in the playlist below."
       },
       {

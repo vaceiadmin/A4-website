@@ -77,7 +77,7 @@ const ServicesSection = () => {
   const products: BaseCard[] = [
     {
       id: 1,
-      title: "VACEI Accounting Portal",
+      title: "A4 Accounting Portal",
       subtitle: "Your entire business, in one place.",
       image: "/assets/images/Cube 1.png",
       hoverImage: "/assets/images/Accounting 1.png",
@@ -85,7 +85,7 @@ const ServicesSection = () => {
     },
     {
       id: 2,
-      title: "VACEI Client Portal",
+      title: "A4 Client Portal",
       subtitle: "Your entire business, in one place.",
       image: "/assets/images/Pyramid 2.png",
       hoverImage: "/assets/images/portal.png",
@@ -93,7 +93,7 @@ const ServicesSection = () => {
     },
     {
       id: 3,
-      title: "VACEI Audit Portal",
+      title: "A4 Audit Portal",
       subtitle: "Your entire business, in one place.",
       image: "/assets/images/Thorus Knot.png",
       hoverImage: "/assets/images/Audit 1.png",
@@ -153,11 +153,10 @@ const ServicesSection = () => {
                     setActiveTab(tab);
                     setCurrentIndex(0);
                   }}
-                  className={`px-8 py-2.5 rounded-full text-sm font-medium transition-all duration-300 ${
-                    activeTab === tab
+                  className={`px-8 py-2.5 rounded-full text-sm font-medium transition-all duration-300 ${activeTab === tab
                       ? "bg-tab-active text-white shadow-lg shadow-primary-blue"
                       : "text-gray hover:text-white hover:bg-white/5"
-                  }`}
+                    }`}
                 >
                   {tab.charAt(0).toUpperCase() + tab.slice(1)}
                 </button>

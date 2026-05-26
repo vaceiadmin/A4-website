@@ -7,16 +7,16 @@ export function generateStaticParams() {
 }
 
 export const metadata: Metadata = {
-  title: 'Best Bookkeeping Software for Malta Businesses in 2026 | VACEI',
+  title: 'Best Bookkeeping Software for Malta Businesses in 2026 | A4',
   description: "Xero, QuickBooks, Sage, FreshBooks, or Wave? We review the best bookkeeping software for Malta businesses — and explain why software alone isn't enough.",
   openGraph: {
-    title: 'Best Bookkeeping Software for Malta Businesses in 2026 | VACEI',
+    title: 'Best Bookkeeping Software for Malta Businesses in 2026 | A4',
     description: "Xero, QuickBooks, Sage, FreshBooks, or Wave? We review the best bookkeeping software for Malta businesses — and explain why software alone isn't enough.",
     type: 'article',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Best Bookkeeping Software for Malta Businesses in 2026 | VACEI',
+    title: 'Best Bookkeeping Software for Malta Businesses in 2026 | A4',
     description: "Xero, QuickBooks, Sage, FreshBooks, or Wave? We review the best bookkeeping software for Malta businesses — and explain why software alone isn't enough.",
   },
 };

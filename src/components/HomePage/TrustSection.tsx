@@ -27,7 +27,7 @@ const TrustSection = () => {
            {[6, 12, 8, 16, 10, 14, 8].map((h, i) => (
              <motion.div 
                 key={i}
-                className="w-1.5 bg-blue-500 rounded-full"
+                className="w-1.5 bg-zinc-500 rounded-full"
                 animate={{ height: [h, h * 1.5, h] }}
                 transition={{ duration: 1, repeat: Infinity, delay: i * 0.1 }}
              />
@@ -50,8 +50,8 @@ const TrustSection = () => {
       
       {/* Dynamic Background */}
       <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-blue-400/15 rounded-full blur-[160px] animate-pulse-subtle" />
-        <div className="absolute -top-40 -left-40 w-96 h-96 bg-blue-500/20 rounded-full blur-[120px]" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-zinc-400/15 rounded-full blur-[160px] animate-pulse-subtle" />
+        <div className="absolute -top-40 -left-40 w-96 h-96 bg-zinc-500/20 rounded-full blur-[120px]" />
         <div className="absolute -bottom-40 -right-40 w-96 h-96 bg-emerald-400/10 rounded-full blur-[120px]" />
       </div>
 
@@ -63,7 +63,7 @@ const TrustSection = () => {
              initial={{ opacity: 0, y: 20 }}
              whileInView={{ opacity: 1, y: 0 }}
              viewport={{ once: true }}
-             className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-blue-50 text-blue-600 text-[10px] font-black uppercase tracking-widest border border-blue-100 mb-8"
+             className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-zinc-50 text-zinc-600 text-[10px] font-black uppercase tracking-widest border border-zinc-100 mb-8"
            >
               <Activity className="w-3.5 h-3.5" />
               <span>{t("trust.badge")}</span>
@@ -103,28 +103,28 @@ const TrustSection = () => {
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="lg:col-span-8 group relative overflow-hidden rounded-[3.5rem] bg-white border border-slate-200/80 p-10 lg:p-14 shadow-sm transition-all duration-700 hover:border-blue-200 hover:shadow-[0_50px_100px_-20px_rgba(37,99,235,0.12)]"
+            className="lg:col-span-8 group relative overflow-hidden rounded-[3.5rem] bg-white border border-slate-200/80 p-10 lg:p-14 shadow-sm transition-all duration-700 hover:border-zinc-200 hover:shadow-[0_50px_100px_-20px_rgba(37,99,235,0.12)]"
           >
             {/* Immersive Background */}
             <div className="absolute inset-0 z-0 opacity-40 group-hover:opacity-50 transition-opacity pointer-events-none">
-               <div className="absolute inset-0 bg-gradient-to-br from-blue-50/80 via-transparent to-blue-100/60" />
+               <div className="absolute inset-0 bg-gradient-to-br from-zinc-50/80 via-transparent to-zinc-100/60" />
             </div>
 
             {/* Scan Line Effect */}
             <motion.div 
-              className="absolute inset-x-0 h-32 bg-gradient-to-b from-transparent via-blue-400/10 to-transparent z-10 pointer-events-none"
+              className="absolute inset-x-0 h-32 bg-gradient-to-b from-transparent via-zinc-400/10 to-transparent z-10 pointer-events-none"
               animate={{ top: ['-20%', '120%'] }}
               transition={{ duration: 4, repeat: Infinity, ease: "linear" }}
             />
 
             <div className="relative z-10 grid grid-cols-1 md:grid-cols-2 gap-12 items-center h-full">
               <div>
-                <div className="w-16 h-16 rounded-2xl bg-blue-600 flex items-center justify-center text-white mb-8 shadow-2xl shadow-blue-600/30 group-hover:scale-110 group-hover:rotate-3 transition-all duration-700">
+                <div className="w-16 h-16 rounded-2xl bg-zinc-600 flex items-center justify-center text-white mb-8 shadow-2xl shadow-zinc-600/30 group-hover:scale-110 group-hover:rotate-3 transition-all duration-700">
                   <ShieldCheck className="w-8 h-8" />
                 </div>
                 <h3 className="text-3xl lg:text-4xl font-black text-slate-900 mb-6 leading-tight">
                   {t("trust.largeCardTitleLine1")}<br />
-                  <span className="text-blue-600">{t("trust.largeCardTitleHighlight")}</span>
+                  <span className="text-zinc-600">{t("trust.largeCardTitleHighlight")}</span>
                 </h3>
                 <p className="text-slate-600 text-lg font-medium leading-relaxed mb-8">
                   {t("trust.largeCardBody")}
@@ -132,18 +132,18 @@ const TrustSection = () => {
                 <div className="flex items-center gap-4">
                   <div className="flex -space-x-3">
                     {[1, 2, 3].map(i => (
-                      <div key={i} className="w-10 h-10 rounded-full border-2 border-white bg-blue-50 flex items-center justify-center shadow-sm">
-                        <Globe className="w-5 h-5 text-blue-600" />
+                      <div key={i} className="w-10 h-10 rounded-full border-2 border-white bg-zinc-50 flex items-center justify-center shadow-sm">
+                        <Globe className="w-5 h-5 text-zinc-600" />
                       </div>
                     ))}
                   </div>
-                  <span className="text-xs font-black text-blue-600 uppercase tracking-widest">{t("trust.multiRegionLabel")}</span>
+                  <span className="text-xs font-black text-zinc-600 uppercase tracking-widest">{t("trust.multiRegionLabel")}</span>
                 </div>
               </div>
 
               <div className="relative aspect-square flex items-center justify-center">
-                <div className="absolute inset-0 bg-blue-600/10 rounded-full blur-3xl animate-pulse" />
-                <svg viewBox="0 0 200 200" className="w-full h-full text-blue-400/50 relative z-10">
+                <div className="absolute inset-0 bg-zinc-600/10 rounded-full blur-3xl animate-pulse" />
+                <svg viewBox="0 0 200 200" className="w-full h-full text-zinc-400/50 relative z-10">
                    <circle cx="100" cy="100" r="80" stroke="currentColor" fill="none" strokeWidth="0.5" strokeDasharray="4 8" />
                    <motion.circle 
                       cx="100" cy="100" r="60" 
@@ -159,7 +159,7 @@ const TrustSection = () => {
                       animate={{ scale: [1, 1.05, 1] }}
                       transition={{ duration: 5, repeat: Infinity }}
                    />
-                   <circle cx="100" cy="100" r="4" fill="currentColor" className="text-blue-500 shadow-[0_0_15px_rgba(59,130,246,0.5)]" />
+                   <circle cx="100" cy="100" r="4" fill="currentColor" className="text-zinc-500 shadow-[0_0_15px_rgba(59,130,246,0.5)]" />
                 </svg>
               </div>
             </div>
@@ -170,12 +170,12 @@ const TrustSection = () => {
             initial={{ opacity: 0, x: 20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
-            className="lg:col-span-4 group relative overflow-hidden rounded-[3.5rem] bg-white border border-slate-200/80 p-10 flex flex-col justify-between shadow-sm transition-all duration-700 hover:border-blue-200 hover:shadow-lg"
+            className="lg:col-span-4 group relative overflow-hidden rounded-[3.5rem] bg-white border border-slate-200/80 p-10 flex flex-col justify-between shadow-sm transition-all duration-700 hover:border-zinc-200 hover:shadow-lg"
           >
              <div>
-                <div className="h-2 w-12 bg-blue-100 rounded-full mb-8 overflow-hidden">
+                <div className="h-2 w-12 bg-zinc-100 rounded-full mb-8 overflow-hidden">
                    <motion.div 
-                      className="h-full bg-blue-600 w-full"
+                      className="h-full bg-zinc-600 w-full"
                       animate={{ x: ['-100%', '100%'] }}
                       transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
                    />
@@ -196,10 +196,10 @@ const TrustSection = () => {
                 </div>
                 <div className="p-4 rounded-2xl bg-slate-50 border border-slate-200 flex items-center justify-between">
                    <div className="flex items-center gap-3">
-                      <div className="w-1.5 h-1.5 rounded-full bg-blue-500 animate-pulse" />
+                      <div className="w-1.5 h-1.5 rounded-full bg-zinc-500 animate-pulse" />
                       <span className="text-[10px] font-black uppercase tracking-widest text-slate-600">{t("trust.statusDataSync")}</span>
                    </div>
-                   <span className="text-[10px] font-black text-blue-600">{t("trust.statusSynchronized")}</span>
+                   <span className="text-[10px] font-black text-zinc-600">{t("trust.statusSynchronized")}</span>
                 </div>
              </div>
           </motion.div>
@@ -213,15 +213,15 @@ const TrustSection = () => {
               viewport={{ once: true }}
               transition={{ delay: 0.1 * i + 0.3 }}
               className={cn(
-                "lg:col-span-6 group relative overflow-hidden rounded-[3rem] border border-slate-200/80 bg-white backdrop-blur-3xl p-8 sm:p-10 shadow-sm transition-all duration-500 hover:border-blue-200 hover:shadow-xl hover:shadow-slate-200/50 hover:-translate-y-1.5"
+                "lg:col-span-6 group relative overflow-hidden rounded-[3rem] border border-slate-200/80 bg-white backdrop-blur-3xl p-8 sm:p-10 shadow-sm transition-all duration-500 hover:border-zinc-200 hover:shadow-xl hover:shadow-slate-200/50 hover:-translate-y-1.5"
               )}
             >
               {/* Subtle Interior Gradient */}
-              <div className="absolute inset-0 bg-gradient-to-br from-blue-50/50 to-transparent pointer-events-none" />
+              <div className="absolute inset-0 bg-gradient-to-br from-zinc-50/50 to-transparent pointer-events-none" />
               
               {/* Scan Line Effect for small cards */}
               <motion.div 
-                className="absolute inset-x-0 h-16 bg-blue-500/5 z-10 pointer-events-none opacity-0 group-hover:opacity-100"
+                className="absolute inset-x-0 h-16 bg-zinc-500/5 z-10 pointer-events-none opacity-0 group-hover:opacity-100"
                 animate={{ top: ['0%', '100%'] }}
                 transition={{ duration: 3, repeat: Infinity, ease: "linear" }}
               />
@@ -229,13 +229,13 @@ const TrustSection = () => {
               <div className="relative z-10 flex flex-col h-full">
                 <div className={cn(
                   "w-14 h-14 rounded-2xl flex items-center justify-center mb-8 border transition-all duration-700",
-                  card.color === 'blue' ? "bg-blue-50 border-blue-100 text-blue-600 group-hover:scale-110 group-hover:rotate-6 group-hover:shadow-xl group-hover:shadow-blue-500/20" : 
+                  card.color === 'blue' ? "bg-zinc-50 border-zinc-100 text-zinc-600 group-hover:scale-110 group-hover:rotate-6 group-hover:shadow-xl group-hover:shadow-zinc-500/20" : 
                   "bg-emerald-50 border-emerald-100 text-emerald-600 group-hover:scale-110 group-hover:-rotate-6 group-hover:shadow-xl group-hover:shadow-emerald-500/20"
                 )}>
                   {card.icon}
                 </div>
                 
-                <h3 className="text-xl font-black text-slate-900 mb-4 group-hover:text-blue-600 transition-colors">
+                <h3 className="text-xl font-black text-slate-900 mb-4 group-hover:text-zinc-600 transition-colors">
                   {card.title}
                 </h3>
                 
@@ -262,18 +262,18 @@ const TrustSection = () => {
                 href="/security-compliance"
                 className="group inline-flex items-center gap-4 px-12 py-6 rounded-full bg-slate-900 text-white font-black text-xs uppercase tracking-widest hover:bg-slate-800 transition-all shadow-lg shadow-slate-900/20 hover:scale-105 active:scale-95"
               >
-                <ShieldCheck className="w-4 h-4 text-blue-400 transition-transform group-hover:scale-125" />
+                <ShieldCheck className="w-4 h-4 text-zinc-400 transition-transform group-hover:scale-125" />
                 {t("trust.securityCta")}
               </LocalizedLink>
               
               <div className="mt-8 flex items-center justify-center gap-4 text-slate-500 text-[10px] font-black uppercase tracking-widest">
                  <div className="flex items-center gap-1.5">
-                    <Zap className="w-3.5 h-3.5 text-blue-600" />
+                    <Zap className="w-3.5 h-3.5 text-zinc-600" />
                     {t("trust.footerRealTime")}
                  </div>
                  <div className="w-1 h-1 rounded-full bg-slate-300" />
                  <div className="flex items-center gap-1.5">
-                    <Globe className="w-3.5 h-3.5 text-blue-600" />
+                    <Globe className="w-3.5 h-3.5 text-zinc-600" />
                     {t("trust.footerGlobal")}
                  </div>
               </div>

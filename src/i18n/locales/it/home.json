@@ -96,7 +96,7 @@
     "title": "Un sistema gestito — non solo servizi scollegati",
     "badge": "Ecosistema digitale",
     "highlight": "Tutto gestito.",
-    "cardBody": "Pienamente integrato nel tuo workspace VACEI per visibilità e controllo.",
+    "cardBody": "Pienamente integrato nel tuo workspace A4 per visibilità e controllo.",
     "cardMeta": "Servizio modulare",
     "items": [
       "Team dedicato alla tua azienda",
@@ -152,7 +152,7 @@
     "columnHeadingLine1": "Semplice.",
     "columnMid": "Strutturato.",
     "columnHeadingAccent": "Veloce.",
-    "columnBody": "Segui questi passaggi per spostare la gestione aziendale su VACEI.",
+    "columnBody": "Segui questi passaggi per spostare la gestione aziendale su A4.",
     "back": "Indietro",
     "submitting": "Invio in corso...",
     "nextStepFallback": "Passo successivo",
@@ -307,7 +307,7 @@
       "Archivio documenti condiviso",
       "Storico attività completo"
     ],
-    "videoAlt": "Invitare un consulente nel workspace VACEI",
+    "videoAlt": "Invitare un consulente nel workspace A4",
     "cta": "Apri il portale"
   },
   "conversion": {
@@ -330,23 +330,23 @@
     "badge": "Portata internazionale",
     "titleLine1": "Un gateway strutturato ",
     "titleHighlight": "verso l’Europa.",
-    "body": "VACEI offre l’ambiente digitale per aziende internazionali e founder che vogliono costituire, gestire e scalare le operazioni europee con fiducia.",
+    "body": "A4 offre l’ambiente digitale per aziende internazionali e founder che vogliono costituire, gestire e scalare le operazioni europee con fiducia.",
     "chips": [
       "27 Paesi",
       "API unificata",
       "Esperti locali"
     ],
-    "hubAlt": "Hub VACEI"
+    "hubAlt": "Hub A4"
   },
   "workspaceEntry": {
     "sectionTitleLine1": "Un workspace per la tua azienda —",
     "sectionTitleHighlight": "e tutti i servizi",
-    "sectionBody": "Contabilità, revisione, legale e conformità non dovrebbero essere frammentati.\n\nVACEI riunisce tutto in una piattaforma strutturata — servizi, documenti e scadenze in un solo posto.\n\nNiente email infinite. Niente file sparsi. Niente incertezza.",
+    "sectionBody": "Contabilità, revisione, legale e conformità non dovrebbero essere frammentati.\n\nA4 riunisce tutto in una piattaforma strutturata — servizi, documenti e scadenze in un solo posto.\n\nNiente email infinite. Niente file sparsi. Niente incertezza.",
     "activeEntities": "Entità attive",
     "card1TitleBefore": "La tua azienda — ",
     "card1TitleAccent": "completamente organizzata",
     "card1Body": "Crea un workspace e gestisci tutto in un unico posto.\n\nServizi, documenti e consulenti sono strutturati su un’unica piattaforma — controllo totale senza complessità.",
-    "card1CoordinationNote": "Tutti i servizi sono coordinati tramite VACEI ed erogati tramite una rete di studi di fiducia.",
+    "card1CoordinationNote": "Tutti i servizi sono coordinati tramite A4 ed erogati tramite una rete di studi di fiducia.",
     "whatYouCanDo": "Cosa puoi fare",
     "card1Bullets": [
       "Piena visibilità sugli incarichi",
@@ -377,7 +377,7 @@
     "viewAll": "Vedi tutte le risorse",
     "watchVideo": "Guarda il video",
     "readMore": "Leggi di più",
-    "videoModalEyebrow": "Insight VACEI",
+    "videoModalEyebrow": "Insight A4",
     "videoModalHint": "Seleziona un video",
     "videoNowPlaying": "In riproduzione",
     "videoModalCloseAria": "Chiudi video",
@@ -399,7 +399,7 @@
       {
         "type": "Video",
         "category": "Insight",
-        "title": "Due video veloci dal team Vacei",
+        "title": "Due video veloci dal team A4",
         "desc": "Cosa si rompe quando si scala senza basi solide e come l'IA può alleggerire davvero il carico sulla squadra: scegli il video nell'playlist sotto."
       },
       {
@@ -420,16 +420,16 @@
   },
   "heroLeft": {
     "scrollDown": "Scorri",
-    "title": "What Vacei Is",
-    "body": "VACEI è uno studio moderno di contabilità, revisione e servizi societari costruito su un'unica piattaforma digitale strutturata. Gestiamo contabilità, compliance, corporate e revisione end-to-end con tecnologia interna per chiarezza, velocità e visibilità. VACEI non è software fai-da-te né un marketplace. Siamo uno studio professionale che svolge il lavoro per voi, con un portale clienti sicuro.",
+    "title": "What A4 Is",
+    "body": "A4 è uno studio moderno di contabilità, revisione e servizi societari costruito su un'unica piattaforma digitale strutturata. Gestiamo contabilità, compliance, corporate e revisione end-to-end con tecnologia interna per chiarezza, velocità e visibilità. A4 non è software fai-da-te né un marketplace. Siamo uno studio professionale che svolge il lavoro per voi, con un portale clienti sicuro.",
     "footerTitle": "Team dedicati. Chiara responsabilità.",
-    "footerBody": "Ogni cliente è seguito da un team VACEI dedicato."
+    "footerBody": "Ogni cliente è seguito da un team A4 dedicato."
   },
   "auditPlatform": {},
   "inviteAdvisors": {
     "titleLine1": "Invita i tuoi consulenti.",
     "titleHighlight": "Tieni tutto in un unico posto.",
-    "body": "Lavori già con un contabile, un revisore o un avvocato? Portali nel tuo spazio VACEI e gestisci richieste, documenti, approvazioni e scadenze in un ambiente strutturato.",
+    "body": "Lavori già con un contabile, un revisore o un avvocato? Portali nel tuo spazio A4 e gestisci richieste, documenti, approvazioni e scadenze in un ambiente strutturato.",
     "bullets": [
       "Mantieni i rapporti esistenti con i consulenti",
       "Centralizza documenti, richieste e approvazioni",
@@ -451,7 +451,7 @@
       "badge": "INIZIA COME PREFERISCI",
       "titleLine1": "Due modi per ",
       "titleHighlight": "cominciare",
-      "subtitle": "Che tu stia cercando un nuovo fornitore o lavori già con consulenti di fiducia, VACEI ti offre uno spazio strutturato per gestire tutto.",
+      "subtitle": "Che tu stia cercando un nuovo fornitore o lavori già con consulenti di fiducia, A4 ti offre uno spazio strutturato per gestire tutto.",
       "marketplaceBadge": "MARKETPLACE",
       "recommendedBadge": "RACCOMANDATO",
       "marketplaceTitle": "Trova il consulente giusto",
@@ -485,7 +485,7 @@
     "badge": "Ecosistema Professionale",
     "titleLine1": "Servizi professionali via ",
     "titleHighlight": "piattaforma connessa",
-    "subtitle": "VACEI aiuta la tua azienda ad accedere e gestire servizi professionali attraverso un'area di lavoro strutturata.",
+    "subtitle": "A4 aiuta la tua azienda ad accedere e gestire servizi professionali attraverso un'area di lavoro strutturata.",
     "tabServices": "Servizi",
     "tabProducts": "Prodotti",
     "explorePhase": "Fase esplorativa",
@@ -531,7 +531,7 @@
     "badge": "Marketplace Proposte",
     "titleLine1": "Un marketplace basato ",
     "titleHighlight": "sulla fiducia.",
-    "body": "Invia una richiesta di proposta (RFP) a studi di alto livello. Scegli tra fornitori locali, regionali e globali. Il marketplace VACEI ti dà accesso diretto a una rete di studi verificati.",
+    "body": "Invia una richiesta di proposta (RFP) a studi di alto livello. Scegli tra fornitori locali, regionali e globali. Il marketplace A4 ti dà accesso diretto a una rete di studi verificati.",
     "registerCta": "Registrati per Proposte",
     "gifAlt": "Interfaccia richiesta servizi",
     "steps": [
@@ -542,7 +542,7 @@
       },
       {
         "number": "02",
-        "title": "Coordinamento VACEI",
+        "title": "Coordinamento A4",
         "desc": "Notifichiamo i partner verificati e coordiniamo il processo per garantire qualità."
       },
       {
@@ -557,17 +557,17 @@
       }
     ]
   },
-  "whyVacei": {
-    "badge": "Il Vantaggio VACEI",
+  "whyA4": {
+    "badge": "Il Vantaggio A4",
     "titleLine1": "Strutturato. ",
     "titleHighlight": "Sicuro. Scalabile.",
-    "body": "VACEI è costruita per il business moderno. Che tu sia una startup o un gruppo affermato, la nostra piattaforma offre la struttura necessaria per crescere.",
+    "body": "A4 è costruita per il business moderno. Che tu sia una startup o un gruppo affermato, la nostra piattaforma offre la struttura necessaria per crescere.",
     "card1Title": "Unica Fonte di Verità",
     "card1Body": "Tutte le tue società, servizi, documenti e consulenti in un unico luogo. Niente più ricerche tra le e-mail.",
     "card2Title": "Studi Verificati",
     "card2Body": "Lavoriamo solo con studi pre-approvati che soddisfano i nostri elevati standard di consegna e comunicazione.",
     "qualityLabel": "Qualità Garantita",
-    "cta": "Vivi l'esperienza VACEI"
+    "cta": "Vivi l'esperienza A4"
   },
   "trust": {
     "badge": "Sicurezza al Primo Posto",
@@ -576,7 +576,7 @@
     "subtitle": "Dall'onboarding alla conformità continua, tutto in un unico spazio. Unisciti al futuro della gestione dei servizi professionali.",
     "largeCardTitleLine1": "Infrastruttura Globale, ",
     "largeCardTitleHighlight": "Fatta per Essere Affidabile.",
-    "largeCardBody": "VACEI offre un ambiente digitale resiliente per coordinamento unificato, garantendo che la tua attività resti operativa ovunque.",
+    "largeCardBody": "A4 offre un ambiente digitale resiliente per coordinamento unificato, garantendo che la tua attività resti operativa ovunque.",
     "multiRegionLabel": "Ridondanza Multi-Regione",
     "uptimeTitle": "Disponibilità Ineguagliata",
     "uptimeBody": "La nostra piattaforma opera con una disponibilità del 99,99%, garantendo che il tuo spazio sia sempre pronto.",
@@ -602,7 +602,7 @@
     "badge": "Costituzione Semplificata",
     "titleLine1": "Costituzione società ",
     "titleHighlight": "senza sforzo.",
-    "subtitle": "Che tu stia aprendo negli Emirati o a livello globale, VACEI offre la struttura per avviare e far crescere la tua attività.",
+    "subtitle": "Che tu stia aprendo negli Emirati o a livello globale, A4 offre la struttura per avviare e far crescere la tua attività.",
     "col1Title": "Consulenza Esperta",
     "col1Items": [
       "Nuove costituzioni societarie",
@@ -646,7 +646,7 @@
     "badge": "Gestione Multi-Entità",
     "titleLine1": "Scala senza ",
     "titleHighlight": "complessità.",
-    "body": "Gestire un'azienda è già difficile. Gestirne dieci non dovrebbe esserlo. VACEI è nata per fondatori e gruppi che gestiscono più società.",
+    "body": "Gestire un'azienda è già difficile. Gestirne dieci non dovrebbe esserlo. A4 è nata per fondatori e gruppi che gestiscono più società.",
     "foundersHub": "Hub Fondatori",
     "activeLabel": "Attivo",
     "switchLabel": "Cambia",
@@ -681,7 +681,7 @@
     "badge": "Intelligence di Piattaforma",
     "titleLine1": "Un modo più intelligente di ",
     "titleHighlight": "gestire i servizi aziendali.",
-    "body": "VACEI offre la struttura e la trasparenza necessarie per coordinarsi con più studi professionali, gestire la conformità e scalare le operazioni attraverso una piattaforma sicura.",
+    "body": "A4 offre la struttura e la trasparenza necessarie per coordinarsi con più studi professionali, gestire la conformità e scalare le operazioni attraverso una piattaforma sicura.",
     "highlights": [
       "Visibilità totale su ogni incarico professionale",
       "Gestione documentale sicura e tracciamento storico",
@@ -690,7 +690,7 @@
     ],
     "createWorkspaceCta": "Crea spazio",
     "registerQuoteCta": "Registrati per un preventivo",
-    "workspaceLabel": "Spazio VACEI",
+    "workspaceLabel": "Spazio A4",
     "auditAssurance": "Audit & Assurance",
     "activeEngagement": "Incarico attivo",
     "teamNotifications": "Notifiche del team",
@@ -744,7 +744,7 @@
     ]
   },
   "faqSection": {
-    "badge": "Perché VACEI",
+    "badge": "Perché A4",
     "title": "Collaborazione ",
     "titleHighlight": "Strutturata",
     "subtitle": "Ottieni chiarezza e controllo con un unico spazio di lavoro digitale progettato per i servizi professionali.",

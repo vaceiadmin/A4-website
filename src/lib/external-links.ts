@@ -1,5 +1,5 @@
-/** Client registration / quote flow (VACEI portal) */
-export const CLIENT_ONBOARDING_URL = "https://client.vacei.com/onboarding";
+/** Client registration / quote flow (A4 portal) */
+export const CLIENT_ONBOARDING_URL = "https://client.A4.com/onboarding";
 
 /** Schedule a demo (Calendly) */
-export const CALENDLY_DEMO_URL = "https://calendly.com/vacei-info/new-meeting";
+export const CALENDLY_DEMO_URL = "https://calendly.com/A4-info/new-meeting";

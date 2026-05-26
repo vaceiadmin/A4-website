@@ -13,7 +13,7 @@ const pricing = {
   hero: {
     badge: "Transparent Pricing",
     title: "Fair, Transparent, and Tailored to Your Needs",
-    p1: "At VACEI, we don't believe in one-size-fits-all pricing. Every business is unique, and your pricing should reflect the actual work involved.",
+    p1: "At A4, we don't believe in one-size-fits-all pricing. Every business is unique, and your pricing should reflect the actual work involved.",
     p2: "We provide tailored quotes based on scope, complexity, and requirements—with no hidden costs and no obligation to proceed.",
     checklist: ["No Fixed Packages", "No Hidden Fees", "Clear Communication"],
     card: {
@@ -27,7 +27,7 @@ const pricing = {
     badge: "Pricing Factors",
     title: "How Pricing is Determined",
     subtitle:
-      "Pricing at VACEI is based on a structured assessment of several factors. These factors allow us to define scope clearly and avoid surprises later.",
+      "Pricing at A4 is based on a structured assessment of several factors. These factors allow us to define scope clearly and avoid surprises later.",
     keyInsight: "Key Insight",
     factorLabel: "Factor {{id}}",
     viewingFactor: "Viewing Factor {{current}} of {{total}}",
@@ -193,7 +193,7 @@ const pricing = {
     includesBadge: "What's Included",
     everyTitle: "Every Quote Outlines",
     everyBody:
-      "Once initial information is reviewed, VACEI provides a clear quote that ensures complete transparency and understanding before any work begins.",
+      "Once initial information is reviewed, A4 provides a clear quote that ensures complete transparency and understanding before any work begins.",
     quoteIncludes: [
       "Services included",
       "Agreed scope",
@@ -213,7 +213,7 @@ const pricing = {
     badge: "Our Commitment",
     title: "What to Expect",
     subtitle:
-      "When working with VACEI, our goal is to ensure pricing reflects the work required and remains predictable throughout the engagement.",
+      "When working with A4, our goal is to ensure pricing reflects the work required and remains predictable throughout the engagement.",
     items: [
       {
         title: "Clear Pricing Discussions Upfront",

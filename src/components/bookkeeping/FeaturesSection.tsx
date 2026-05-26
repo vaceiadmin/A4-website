@@ -32,7 +32,7 @@ export default function FeaturesSection() {
         </p>
         <div className="feat-grid">
           <div className="feat-card-dark">
-            <div className="feat-icon fi-blue"><BookOpen size={20} className="text-blue-400" /></div>
+            <div className="feat-icon fi-blue"><BookOpen size={20} className="text-zinc-400" /></div>
             <div className="feat-title-dark">{t("bookkeeping.features.card1Title")}</div>
             <div className="feat-body-dark">
               {t("bookkeeping.features.card1Desc")}
@@ -53,7 +53,7 @@ export default function FeaturesSection() {
             </div>
           </div>
           <div className="feat-card-dark">
-            <div className="feat-icon fi-blue"><Monitor size={20} className="text-blue-400" /></div>
+            <div className="feat-icon fi-blue"><Monitor size={20} className="text-zinc-400" /></div>
             <div className="feat-title-dark">{t("bookkeeping.features.card4Title")}</div>
             <div className="feat-body-dark">
               {t("bookkeeping.features.card4Desc")}

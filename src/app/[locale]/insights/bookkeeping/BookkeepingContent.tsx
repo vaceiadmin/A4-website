@@ -11,7 +11,7 @@ import { cn } from '@/lib/utils';
 
 const Breadcrumbs = () => (
   <nav className="flex items-center gap-2 text-[13px] text-gray-400 mb-4 md:mb-6">
-    <LocalizedLink href="/" className="hover:text-primary-blue transition-colors">VACEI</LocalizedLink>
+    <LocalizedLink href="/" className="hover:text-primary-blue transition-colors">A4</LocalizedLink>
     <span className="text-[10px] text-gray-300 mt-0.5">›</span>
     <LocalizedLink href="/insights" className="hover:text-primary-blue transition-colors">Insights</LocalizedLink>
     <span className="text-[10px] text-gray-300 mt-0.5">›</span>
@@ -19,8 +19,8 @@ const Breadcrumbs = () => (
   </nav>
 );
 
-const SoftwareCard = ({ 
-  id, logo, name, tagline, rating, badge, scores, pros, cons, pricing, bestFor, logoBg, badgeClass, isVacei = false 
+const SoftwareCard = ({
+  id, logo, name, tagline, rating, badge, scores, pros, cons, pricing, bestFor, logoBg, badgeClass, isA4 = false
 }: any) => (
   <div id={id} className="sw-card opacity-0 translate-y-4 border border-gray-200 rounded-2xl overflow-hidden my-9 transition-all duration-500 hover:shadow-xl hover:shadow-gray-200/50 bg-white">
     <div className="bg-gray-50 p-6 md:p-8 flex flex-col md:flex-row items-start gap-4 md:gap-6 border-b border-gray-200">
@@ -100,16 +100,16 @@ const SoftwareCard = ({
         </div>
         <div>
           <h4 className="text-[11px] font-bold uppercase tracking-widest text-gray-400 mb-3">Best For</h4>
-          <div className={cn("p-4 rounded-xl border-l-4 text-sm leading-relaxed", isVacei ? "bg-primary-blue/5 border-primary-blue text-gray-700" : "bg-gray-50 border-gray-200 text-gray-600")}>
+          <div className={cn("p-4 rounded-xl border-l-4 text-sm leading-relaxed", isA4 ? "bg-primary-blue/5 border-primary-blue text-gray-700" : "bg-gray-50 border-gray-200 text-gray-600")}>
             {bestFor}
           </div>
         </div>
       </div>
-      
-      {!isVacei && (
+
+      {!isA4 && (
         <div className="mt-8 pt-6 border-t border-gray-100">
-          <LocalizedLink href={`#vacei`} className="inline-flex items-center gap-2 text-sm font-bold text-primary-blue hover:gap-3 transition-all">
-            See how VACEI manages this for you <ArrowUpRight size={16} />
+          <LocalizedLink href={`#A4`} className="inline-flex items-center gap-2 text-sm font-bold text-primary-blue hover:gap-3 transition-all">
+            See how A4 manages this for you <ArrowUpRight size={16} />
           </LocalizedLink>
         </div>
       )}
@@ -130,7 +130,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
 
       const tocLinks = document.querySelectorAll('.toc-link');
       const headings: HTMLElement[] = [];
-      document.querySelectorAll('h2[id], .sw-card[id], #vacei').forEach((h) => {
+      document.querySelectorAll('h2[id], .sw-card[id], #A4').forEach((h) => {
         headings.push(h as HTMLElement);
       });
 
@@ -175,7 +175,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
       <section className="pt-24 md:pt-32 pb-16 border-b border-gray-100">
         <div className="max-w-[1240px] mx-auto px-6 md:px-8">
           <Breadcrumbs />
-          
+
           <div className="flex flex-wrap items-center gap-3 mb-8">
             <span className="bg-primary-blue/10 text-primary-blue text-[10px] font-bold uppercase tracking-widest px-3 py-1 rounded-md">Software Review</span>
             <div className="w-1 h-1 rounded-full bg-gray-200"></div>
@@ -194,9 +194,9 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
 
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pt-10 border-t border-gray-100">
             <div className="flex items-center gap-4">
-              <div className="w-11 h-11 rounded-full bg-gradient-to-br from-primary-blue to-blue-600 flex items-center justify-center font-lora font-bold text-white">V</div>
+              <div className="w-11 h-11 rounded-full bg-gradient-to-br from-primary-blue to-zinc-600 flex items-center justify-center font-lora font-bold text-white">V</div>
               <div>
-                <div className="text-sm font-bold text-gray-900">VACEI Finance Team</div>
+                <div className="text-sm font-bold text-gray-900">A4 Finance Team</div>
                 <div className="text-[13px] text-gray-400">Accounting & Audit Specialists, Malta</div>
               </div>
             </div>
@@ -210,16 +210,16 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
       {/* MAIN CONTENT LAYOUT */}
       <section className="py-16 md:py-24">
         <div className="max-w-[1240px] mx-auto px-6 md:px-8 flex flex-col lg:grid lg:grid-cols-[1fr_300px] gap-16 md:gap-24 items-start">
-          
+
           <article className="w-full space-y-12">
-            
+
             {/* QUICK PICKS */}
             <div className="reveal opacity-0 translate-y-4 bg-gray-50 border border-gray-200 rounded-2xl p-8">
               <h4 className="text-[11px] font-bold uppercase tracking-widest text-gray-400 mb-6">Quick picks — Jump to the one that fits</h4>
               <div className="space-y-3">
                 {[
-                  { num: 1, name: "QuickBooks Online", tag: "Best overall — used by VACEI", id: "quickbooks" },
-                  { num: 2, name: "Xero", tag: "Best runner-up — VACEI integration coming", id: "xero" },
+                  { num: 1, name: "QuickBooks Online", tag: "Best overall — used by A4", id: "quickbooks" },
+                  { num: 2, name: "Xero", tag: "Best runner-up — A4 integration coming", id: "xero" },
                   { num: 3, name: "Sage Business Cloud", tag: "Best for established businesses", id: "sage" },
                   { num: 4, name: "FreshBooks", tag: "Best for service businesses", id: "freshbooks" },
                   { num: 5, name: "Wave", tag: "Best free option", id: "wave" },
@@ -232,8 +232,8 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                 ))}
                 <div className="pt-4 mt-2 border-t border-gray-200 flex items-center gap-4 group">
                   <span className="text-emerald-500 font-bold text-sm w-4 shrink-0">★</span>
-                  <LocalizedLink href="#vacei" className="text-sm font-bold text-primary-blue flex-1">VACEI Managed Service</LocalizedLink>
-                  <span className="hidden sm:block text-[11px] text-primary-blue bg-blue-50 border border-blue-100 px-3 py-1 rounded-full uppercase tracking-wider font-bold">The Better Way</span>
+                  <LocalizedLink href="#A4" className="text-sm font-bold text-primary-blue flex-1">A4 Managed Service</LocalizedLink>
+                  <span className="hidden sm:block text-[11px] text-primary-blue bg-zinc-50 border border-zinc-100 px-3 py-1 rounded-full uppercase tracking-wider font-bold">The Better Way</span>
                 </div>
               </div>
             </div>
@@ -241,7 +241,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             <div className="reveal opacity-0 translate-y-4 prose prose-slate max-w-none prose-p:text-gray-600 prose-p:leading-[1.8] prose-p:text-[17px] prose-strong:text-gray-900 prose-strong:font-bold">
               <p>Choosing accounting software for your Malta business is one of the most important operational decisions you'll make. Get it right and your books stay clean, your VAT returns go in on time, and you always know where your business stands financially.</p>
               <p>We've tested every major bookkeeping platform used by Malta businesses and put together an honest breakdown — what each tool does well, where it falls short, and what type of business it's actually built for.</p>
-              <p>We've also added one entry that most software comparison articles don't include: the <strong>VACEI managed service</strong>, which pairs dedicated Malta accountants with a structured client portal. Because for most business owners, the real problem isn't which software to choose — it's that software requires someone competent to use it.</p>
+              <p>We've also added one entry that most software comparison articles don't include: the <strong>A4 managed service</strong>, which pairs dedicated Malta accountants with a structured client portal. Because for most business owners, the real problem isn't which software to choose — it's that software requires someone competent to use it.</p>
             </div>
 
             <section id="what-to-look-for" className="reveal opacity-0 translate-y-4 pt-4">
@@ -284,15 +284,15 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             <section id="quickbooks" className="pt-12">
               <h2 className="font-lora text-3xl md:text-4xl font-bold text-gray-900 mb-6">1. QuickBooks Online — Best Overall</h2>
               <div className="reveal opacity-0 translate-y-4 space-y-6">
-                <p className="text-[17px] text-gray-600 leading-[1.8]">QuickBooks Online is VACEI's accounting platform of choice for Malta client engagements. We use it because it offers the most powerful combination of reporting depth, bank integration, VAT compliance, and real-time data.</p>
-                <SoftwareCard 
+                <p className="text-[17px] text-gray-600 leading-[1.8]">QuickBooks Online is A4's accounting platform of choice for Malta client engagements. We use it because it offers the most powerful combination of reporting depth, bank integration, VAT compliance, and real-time data.</p>
+                <SoftwareCard
                   id="card-qb"
                   name="QuickBooks Online"
                   logo="QB"
                   logoBg="bg-[#2CA01C]"
-                  tagline="VACEI's primary platform — powerful, reliable, and built for growing businesses"
+                  tagline="A4's primary platform — powerful, reliable, and built for growing businesses"
                   rating="4.6"
-                  badge="🏆 Top Pick · Used by VACEI"
+                  badge="🏆 Top Pick · Used by A4"
                   badgeClass="bg-amber-100 text-amber-800"
                   scores={[
                     { label: "Ease of use", value: 8.5 },
@@ -301,7 +301,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                     { label: "Value", value: 8.2 }
                   ]}
                   pros={[
-                    "Platform used by VACEI for managed accounts",
+                    "Platform used by A4 for managed accounts",
                     "Most powerful reporting suite of any SME platform",
                     "Excellent bank feed integration including BOV/HSBC",
                     "Strong VAT return support with Malta compliance"
@@ -313,7 +313,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                     "Pricing increases as you scale"
                   ]}
                   pricing={{ main: "From €17/mo", note: "Simple Start plan" }}
-                  bestFor="Malta businesses of all sizes who want professional-grade data and reporting. If you work with VACEI, your books run on QuickBooks."
+                  bestFor="Malta businesses of all sizes who want professional-grade data and reporting. If you work with A4, your books run on QuickBooks."
                 />
               </div>
             </section>
@@ -321,25 +321,25 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             {/* XERO */}
             <section id="xero" className="pt-12">
               <h2 className="font-lora text-3xl md:text-4xl font-bold text-gray-900 mb-6">2. Xero — Strong Runner-Up</h2>
-              
+
               <div className="reveal opacity-0 translate-y-4 bg-primary-blue rounded-2xl p-8 mb-12 text-white flex flex-col md:flex-row items-center justify-between gap-8">
                 <div className="max-w-md">
-                  <h3 className="font-lora text-2xl font-bold mb-3">VACEI × Xero is coming</h3>
-                  <p className="text-white/80 text-sm leading-relaxed">We are currently building a direct Xero integration. Connect your Xero account to the VACEI portal to see live visibility alongside our services.</p>
+                  <h3 className="font-lora text-2xl font-bold mb-3">A4 × Xero is coming</h3>
+                  <p className="text-white/80 text-sm leading-relaxed">We are currently building a direct Xero integration. Connect your Xero account to the A4 portal to see live visibility alongside our services.</p>
                 </div>
                 <LocalizedLink href="/contact" className="bg-white text-primary-blue px-6 py-3 rounded-xl font-bold text-sm whitespace-nowrap hover:bg-white/90 transition-all shrink-0">Notify me when live</LocalizedLink>
               </div>
 
               <div className="reveal opacity-0 translate-y-4 space-y-6">
-                <SoftwareCard 
+                <SoftwareCard
                   id="card-xero"
                   name="Xero"
                   logo="X"
                   logoBg="bg-[#00B5E2]"
-                  tagline="Excellent cloud accounting — VACEI direct integration arriving soon"
+                  tagline="Excellent cloud accounting — A4 direct integration arriving soon"
                   rating="4.6"
-                  badge="🔗 VACEI Integration Coming"
-                  badgeClass="bg-blue-100 text-primary-blue"
+                  badge="🔗 A4 Integration Coming"
+                  badgeClass="bg-zinc-100 text-primary-blue"
                   scores={[
                     { label: "Ease of use", value: 9.2 },
                     { label: "VAT compliance", value: 8.8 },
@@ -353,7 +353,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                     "Large app ecosystem (Stripe, HubDoc)"
                   ]}
                   cons={[
-                    "Not yet directly integrated with VACEI portal",
+                    "Not yet directly integrated with A4 portal",
                     "Payroll module limited in Malta",
                     "Advanced inventory is underpowered",
                     "Support is email/chat only"
@@ -367,7 +367,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             {/* SAGE */}
             <section id="sage" className="pt-12">
               <h2 className="font-lora text-3xl md:text-4xl font-bold text-gray-900 mb-6">3. Sage Business Cloud</h2>
-              <SoftwareCard 
+              <SoftwareCard
                 id="card-sage"
                 name="Sage Business Cloud"
                 logo="S"
@@ -402,7 +402,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             {/* FRESHBOOKS */}
             <section id="freshbooks" className="pt-12">
               <h2 className="font-lora text-3xl md:text-4xl font-bold text-gray-900 mb-6">4. FreshBooks — Best for Service Businesses</h2>
-              <SoftwareCard 
+              <SoftwareCard
                 id="card-fresh"
                 name="FreshBooks"
                 logo="F"
@@ -437,7 +437,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             {/* WAVE */}
             <section id="wave" className="pt-12">
               <h2 className="font-lora text-3xl md:text-4xl font-bold text-gray-900 mb-6">5. Wave — Best Free Option</h2>
-              <SoftwareCard 
+              <SoftwareCard
                 id="card-wave"
                 name="Wave"
                 logo="W"
@@ -505,7 +505,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                   </thead>
                   <tbody className="text-sm">
                     {[
-                      { name: "QuickBooks", vat: true, bank: true, audit: true, pay: "Add-on", price: "€17/mo", highlight: "★ VACEI Pick" },
+                      { name: "QuickBooks", vat: true, bank: true, audit: true, pay: "Add-on", price: "€17/mo", highlight: "★ A4 Pick" },
                       { name: "Xero", vat: true, bank: true, audit: true, pay: "Add-on", price: "€17/mo", highlight: "🔗 Soon" },
                       { name: "Sage", vat: true, bank: true, audit: true, pay: true, price: "€25/mo" },
                       { name: "FreshBooks", vat: "Limited", bank: "Limited", audit: false, pay: false, price: "€14/mo" },
@@ -523,7 +523,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                       </tr>
                     ))}
                     <tr className="bg-primary-blue/5 border-b border-primary-blue/20">
-                      <td className="py-5 px-5 font-bold text-primary-blue">VACEI Managed</td>
+                      <td className="py-5 px-5 font-bold text-primary-blue">A4 Managed</td>
                       <td className="py-5 px-5 text-center"><Check className="mx-auto text-primary-blue" size={18} strokeWidth={3} /></td>
                       <td className="py-5 px-5 text-center"><Check className="mx-auto text-primary-blue" size={18} strokeWidth={3} /></td>
                       <td className="py-5 px-5 text-center"><Check className="mx-auto text-primary-blue" size={18} strokeWidth={3} /></td>
@@ -535,26 +535,26 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
               </div>
             </section>
 
-            {/* VACEI MANAGED SECTION */}
-            <section id="vacei" className="reveal opacity-0 translate-y-4 py-16">
+            {/* A4 MANAGED SECTION */}
+            <section id="A4" className="reveal opacity-0 translate-y-4 py-16">
               <div className="bg-gray-900 rounded-[2rem] p-8 md:p-14 relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-96 h-96 bg-primary-blue/20 blur-[100px] pointer-events-none"></div>
-                
+
                 <div className="relative z-10">
                   <span className="text-primary-blue font-bold text-xs uppercase tracking-[0.2em] mb-6 block">★ The Better Model</span>
                   <h2 className="font-lora text-3xl md:text-5xl text-white font-bold leading-tight mb-6">
-                    Software + <span className="italic font-normal text-blue-300">a dedicated team</span> — built for Malta
+                    Software + <span className="italic font-normal text-zinc-300">a dedicated team</span> — built for Malta
                   </h2>
                   <p className="text-white/70 text-lg md:text-xl leading-relaxed mb-12 max-w-3xl">
-                    VACEI isn't bookkeeping software. It's a complete managed accounting service — a dedicated team of Malta-based accountants who handle your books, VAT, and management accounts.
+                    A4 isn't bookkeeping software. It's a complete managed accounting service — a dedicated team of Malta-based accountants who handle your books, VAT, and management accounts.
                   </p>
-                  
+
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-6 mb-14">
                     {[
                       "Dedicated Malta accounting team — not a tool",
                       "Automated bank feeds & expert reconciliation",
                       "Full Malta VAT submission handled by us",
-                      "Live financial dashboard through VACEI portal",
+                      "Live financial dashboard through A4 portal",
                       "Statutory audit-ready accounts every year",
                       "Expert advisory and growth consulting"
                     ].map((feat, i) => (
@@ -566,7 +566,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                   </div>
 
                   <div className="flex flex-wrap gap-4">
-                    <a href="https://client.vacei.com/onboarding" className="bg-white text-gray-900 px-8 py-4 rounded-xl font-bold text-base hover:shadow-2xl hover:shadow-white/10 hover:-translate-y-1 transition-all">Get a Managed Quote</a>
+                    <a href="https://client.A4.com/onboarding" className="bg-white text-gray-900 px-8 py-4 rounded-xl font-bold text-base hover:shadow-2xl hover:shadow-white/10 hover:-translate-y-1 transition-all">Get a Managed Quote</a>
                     <LocalizedLink href="/contact" className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold text-base hover:bg-white/20 transition-all">Talk to a Partner</LocalizedLink>
                   </div>
                 </div>
@@ -580,13 +580,13 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                 <div className="bg-gray-50 border border-gray-200 rounded-2xl p-8">
                   <h4 className="text-[11px] font-bold uppercase tracking-widest text-gray-400 mb-4">If you're choosing software only</h4>
                   <p className="text-[17px] text-gray-600 leading-relaxed">
-                    Use <span className="font-bold text-gray-900">QuickBooks Online</span> for most Malta businesses — it's VACEI's platform of choice, with the best reporting depth and VAT compliance. <span className="font-bold text-gray-900">Xero</span> is an excellent alternative with a cleaner interface, and a VACEI direct integration is coming. If you have payroll complexity, look at Sage. If you're a freelancer, FreshBooks is the simplest entry point.
+                    Use <span className="font-bold text-gray-900">QuickBooks Online</span> for most Malta businesses — it's A4's platform of choice, with the best reporting depth and VAT compliance. <span className="font-bold text-gray-900">Xero</span> is an excellent alternative with a cleaner interface, and a A4 direct integration is coming. If you have payroll complexity, look at Sage. If you're a freelancer, FreshBooks is the simplest entry point.
                   </p>
                 </div>
                 <div className="bg-primary-blue/5 border border-primary-blue/10 rounded-2xl p-8">
                   <h4 className="text-[11px] font-bold uppercase tracking-widest text-primary-blue/60 mb-4">If you want your accounting actually handled</h4>
                   <p className="text-[17px] text-gray-600 leading-relaxed">
-                    <span className="font-bold text-gray-900">VACEI</span> is the only option on this list where a qualified team manages everything for you. The portal gives you the visibility you'd get from logging into Xero — without any of the work. For Malta businesses that want clean books, accurate VAT returns, and monthly management accounts without doing it themselves, VACEI is the right answer.
+                    <span className="font-bold text-gray-900">A4</span> is the only option on this list where a qualified team manages everything for you. The portal gives you the visibility you'd get from logging into Xero — without any of the work. For Malta businesses that want clean books, accurate VAT returns, and monthly management accounts without doing it themselves, A4 is the right answer.
                   </p>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                   { q: "Is software enough for statutory audit purposes?", a: "Software is only as good as the records kept in it. For an audit, your records must be consistently reconciled and supported by documentation. Our managed service ensures your books are audit-ready at all times." }
                 ].map((faq, i) => (
                   <div key={i} className={cn("border border-gray-200 rounded-xl overflow-hidden transition-all", openFaq === i && "border-primary-blue/30 shadow-lg shadow-primary-blue/5")}>
-                    <button 
+                    <button
                       onClick={() => setOpenFaq(openFaq === i ? null : i)}
                       className={cn("w-full flex items-center justify-between p-5 text-left font-bold text-[15px] transition-colors", openFaq === i ? "bg-primary-blue/5 text-primary-blue" : "bg-white text-gray-900 hover:bg-gray-50")}
                     >
@@ -627,7 +627,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
 
           {/* SIDEBAR */}
           <aside className="w-full lg:sticky lg:top-24 space-y-8">
-            
+
             {/* TOC CARD */}
             <div className="bg-white border border-gray-100 rounded-2xl p-6 shadow-sm shadow-gray-100/50">
               <h5 className="text-[11px] font-bold uppercase tracking-widest text-gray-400 mb-4">On this page</h5>
@@ -641,7 +641,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                   { label: "Wave", href: "#wave", num: "5" },
                   { label: "Comparison Table", href: "#comparison", num: "→" },
                   { label: "Missing Logic", href: "#missing", num: "!" },
-                  { label: "VACEI Model", href: "#vacei", num: "★" },
+                  { label: "A4 Model", href: "#A4", num: "★" },
                   { label: "Verdict & FAQs", href: "#faq", num: "→" },
 
                 ].map(item => (
@@ -657,14 +657,14 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             <div className="bg-white border border-gray-100 rounded-2xl p-6 shadow-sm shadow-gray-100/50">
               <h5 className="text-[11px] font-bold uppercase tracking-widest text-gray-400 mb-4">Share this review</h5>
               <div className="flex gap-3">
-                <button 
+                <button
                   onClick={() => navigator.clipboard.writeText(window.location.href)}
                   className="flex-1 flex items-center justify-center gap-2 py-2.5 border border-gray-100 rounded-lg text-xs font-bold text-gray-600 hover:border-primary-blue hover:text-primary-blue transition-all"
                 >
                   Copy Link
                 </button>
-                <a 
-                  href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent('https://vacei.com/en/insights/bookkeeping')}`}
+                <a
+                  href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent('https://A4.com/en/insights/bookkeeping')}`}
                   target="_blank" rel="noopener noreferrer"
                   className="flex-1 flex items-center justify-center gap-2 py-2.5 border border-gray-100 rounded-lg text-xs font-bold text-gray-600 hover:border-primary-blue hover:text-primary-blue transition-all"
                 >
@@ -676,8 +676,8 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
             {/* CTA CARD */}
             <div className="bg-gray-900 rounded-2xl p-6 text-center text-white">
               <h5 className="font-lora text-lg font-bold mb-3 leading-tight">Stop managing software yourself</h5>
-              <p className="text-[11px] text-white/60 mb-5 leading-relaxed">Let VACEI handle your bookkeeping, VAT, and audit preparation while you focus on growth.</p>
-              <a href="https://client.vacei.com/onboarding" className="block w-full py-3 bg-primary-blue text-white rounded-xl text-sm font-bold hover:bg-blue-600 transition-all mb-3">See Managed Pricing</a>
+              <p className="text-[11px] text-white/60 mb-5 leading-relaxed">Let A4 handle your bookkeeping, VAT, and audit preparation while you focus on growth.</p>
+              <a href="https://client.A4.com/onboarding" className="block w-full py-3 bg-primary-blue text-white rounded-xl text-sm font-bold hover:bg-zinc-600 transition-all mb-3">See Managed Pricing</a>
               <span className="text-[10px] text-white/40">Free 30-minute consultation included.</span>
             </div>
 
@@ -707,7 +707,7 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                 <ArrowUpRight className="w-5 h-5" />
               </LocalizedLink>
             </div>
-            
+
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {relatedBlogs.map((relatedBlog) => (
                 <article
@@ -724,15 +724,15 @@ export default function BookkeepingContent({ relatedBlogs = [] }: { relatedBlogs
                         {format(new Date(relatedBlog.date), 'MMM dd, yyyy')}
                       </div>
                     </div>
-                    
+
                     <h3 className="text-lg font-bold text-gray-900 mb-3 group-hover:text-white transition-colors duration-300 line-clamp-2 font-lora">
                       {relatedBlog.title}
                     </h3>
-                    
+
                     <p className="text-gray-500 text-sm leading-relaxed mb-6 line-clamp-2 group-hover:text-white/80 transition-colors duration-300">
                       {relatedBlog.excerpt}
                     </p>
-                    
+
                     <div className="mt-auto flex items-center justify-between pt-6 border-t border-gray-50 group-hover:border-white/10 transition-colors duration-300">
                       <div className="flex flex-col">
                         <span className="text-sm font-bold text-gray-900 group-hover:text-white transition-colors duration-300">{relatedBlog.author}</span>

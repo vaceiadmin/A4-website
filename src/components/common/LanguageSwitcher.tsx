@@ -112,16 +112,16 @@ export default function LanguageSwitcher({
         type="button"
         onClick={() => setIsOpen(!isOpen)}
         className={cn(
-          "group flex items-center gap-2.5 rounded-full border-2 border-[#3b49e6]/35 bg-white py-2 pl-2 pr-4 shadow-[0_12px_40px_-8px_rgba(15,23,42,0.28),0_0_0_1px_rgba(15,23,42,0.06)] transition-all duration-300 hover:border-[#3b49e6]/60 hover:shadow-[0_16px_44px_-8px_rgba(59,73,230,0.35)]",
+          "group flex items-center gap-2.5 rounded-full border-2 border-[#000000]/35 bg-white py-2 pl-2 pr-4 shadow-[0_12px_40px_-8px_rgba(15,23,42,0.28),0_0_0_1px_rgba(15,23,42,0.06)] transition-all duration-300 hover:border-[#000000]/60 hover:shadow-[0_16px_44px_-8px_rgba(59,73,230,0.35)]",
           isOpen
-            ? "border-[#3b49e6] bg-slate-50 ring-4 ring-[#3b49e6]/15"
+            ? "border-[#000000] bg-slate-50 ring-4 ring-[#000000]/15"
             : ""
         )}
         aria-label={`${t("language.label")} — ${t(`language.${current}`)}`}
         aria-expanded={isOpen}
         aria-haspopup="listbox"
       >
-        <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#3b49e6] text-white shadow-inner shadow-black/10 ring-2 ring-white">
+        <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#000000] text-white shadow-inner shadow-black/10 ring-2 ring-white">
           <Globe className="h-5 w-5" strokeWidth={2} aria-hidden />
         </span>
         <span className="min-w-0 truncate text-sm font-bold tracking-wide text-slate-900">
@@ -129,7 +129,7 @@ export default function LanguageSwitcher({
         </span>
         <ChevronUp
           className={cn(
-            "ml-0.5 h-4 w-4 shrink-0 text-[#3b49e6] transition-transform duration-300 group-hover:text-[#2f3bc4]",
+            "ml-0.5 h-4 w-4 shrink-0 text-[#000000] transition-transform duration-300 group-hover:text-[#111111]",
             isOpen ? "rotate-180" : ""
           )}
           aria-hidden

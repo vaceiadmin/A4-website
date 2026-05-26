@@ -25,7 +25,7 @@ export default function SupportedByAccountingMalta() {
         <p className="sm-text" dangerouslySetInnerHTML={{ __html: t(`${p}p2`) }} />
 
         <div className="sm-logos">
-          <div className="sm-logo-box">VACEI</div>
+          <div className="sm-logo-box">A4</div>
           <div className="sm-logo-plus">+</div>
           <div className="sm-logo-box a4">A4 Services</div>
         </div>

@@ -35,7 +35,7 @@ const PricingHero = () => {
             >
               <SectionBadge
                 text={t("hero.badge")}
-                className="bg-white border border-blue-100 text-[#3b49e6] mb-6 shadow-sm"
+                className="bg-white border border-zinc-100 text-[#000000] mb-6 shadow-sm"
               />
 
               <TextAnimation
@@ -69,8 +69,8 @@ const PricingHero = () => {
           <div className="hidden lg:block relative">
             <div className="relative">
               <div className="relative w-full aspect-square">
-                <div className="absolute top-8 right-0 w-[85%] h-[85%] bg-linear-to-br from-blue-100 to-blue-50 rounded-3xl shadow-xl transform rotate-6 opacity-60" />
-                <div className="absolute top-4 right-4 w-[90%] h-[90%] bg-linear-to-br from-blue-50 to-blue-100 rounded-3xl shadow-2xl transform rotate-3 opacity-80" />
+                <div className="absolute top-8 right-0 w-[85%] h-[85%] bg-linear-to-br from-zinc-100 to-zinc-50 rounded-3xl shadow-xl transform rotate-6 opacity-60" />
+                <div className="absolute top-4 right-4 w-[90%] h-[90%] bg-linear-to-br from-zinc-50 to-zinc-100 rounded-3xl shadow-2xl transform rotate-3 opacity-80" />
 
                 <div
                   className={cn(
@@ -79,9 +79,9 @@ const PricingHero = () => {
                   )}
                 >
                   <div>
-                    <div className="inline-flex items-center gap-2 px-4 py-2 bg-blue-50 border border-blue-100 rounded-full mb-6">
-                      <div className={cn("w-2 h-2 bg-[#3b49e6] rounded-full", !isIPhone && !isLowPerformance && "animate-pulse")} />
-                      <span className="text-sm font-semibold text-[#3b49e6]">{t("hero.card.badge")}</span>
+                    <div className="inline-flex items-center gap-2 px-4 py-2 bg-zinc-50 border border-zinc-100 rounded-full mb-6">
+                      <div className={cn("w-2 h-2 bg-[#000000] rounded-full", !isIPhone && !isLowPerformance && "animate-pulse")} />
+                      <span className="text-sm font-semibold text-[#000000]">{t("hero.card.badge")}</span>
                     </div>
 
                     <h3 className="text-2xl font-bold text-[#1a1c35] mb-4">{t("hero.card.title")}</h3>
@@ -89,7 +89,7 @@ const PricingHero = () => {
                     <div className="space-y-3">
                       {cardRows.map((item, idx) => (
                         <div key={idx} className="flex items-center gap-3">
-                          <div className="w-8 h-8 rounded-lg bg-[#3b49e6] flex items-center justify-center text-white font-bold text-sm">
+                          <div className="w-8 h-8 rounded-lg bg-[#000000] flex items-center justify-center text-white font-bold text-sm">
                             {idx + 1}
                           </div>
                           <span className="text-gray-600 font-medium">{item}</span>
@@ -101,7 +101,7 @@ const PricingHero = () => {
                   <div className="pt-6 border-t border-gray-100">
                     <div className="flex items-center justify-between">
                       <span className="text-sm text-gray">{t("hero.card.footer")}</span>
-                      <svg className="w-6 h-6 text-[#3b49e6]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <svg className="w-6 h-6 text-[#000000]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
                     </div>
@@ -111,8 +111,8 @@ const PricingHero = () => {
 
               {!isIPhone && !isLowPerformance && (
                 <>
-                  <div className="absolute -bottom-12 -right-12 w-48 h-48 bg-blue-200/30 rounded-full blur-3xl -z-10 pointer-events-none" />
-                  <div className="absolute -top-12 -left-12 w-48 h-48 bg-blue-200/30 rounded-full blur-3xl -z-10 pointer-events-none" />
+                  <div className="absolute -bottom-12 -right-12 w-48 h-48 bg-zinc-200/30 rounded-full blur-3xl -z-10 pointer-events-none" />
+                  <div className="absolute -top-12 -left-12 w-48 h-48 bg-zinc-200/30 rounded-full blur-3xl -z-10 pointer-events-none" />
                 </>
               )}
             </div>

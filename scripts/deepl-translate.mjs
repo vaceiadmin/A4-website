@@ -16,7 +16,7 @@
  * translations for EVERY string in each file (recursive). For `home.json` that
  * is the full page, not one section: hero, auditPlatform, workspaceEntry,
  * inviteAdvisors, howItWorks, processSteps, beforeAfter, servicesSection,
- * marketplace, whyVacei, trust, companySetup, complianceDashboard,
+ * marketplace, whyA4, trust, companySetup, complianceDashboard,
  * multiCompany, activeEU — all keys under the English master.
  *
  * DeepL API docs: https://developers.deepl.com/docs/api/translate-text

@@ -30,10 +30,10 @@ const CustomCursor = () => {
 
     const handleMouseOver = useCallback((e: MouseEvent) => {
         const target = e.target as HTMLElement;
-        const isClickable = 
-            target.tagName === "A" || 
-            target.tagName === "BUTTON" || 
-            target.closest("button") || 
+        const isClickable =
+            target.tagName === "A" ||
+            target.tagName === "BUTTON" ||
+            target.closest("button") ||
             target.closest("a") ||
             target.getAttribute("role") === "button" ||
             target.classList.contains("cursor-pointer");
@@ -57,14 +57,14 @@ const CustomCursor = () => {
         window.addEventListener("mouseup", handleMouseUp);
         window.addEventListener("mouseover", handleMouseOver);
 
-        document.documentElement.classList.add("vacei-custom-cursor");
+        document.documentElement.classList.add("A4-custom-cursor");
 
         return () => {
             window.removeEventListener("mousemove", handleMouseMove);
             window.removeEventListener("mousedown", handleMouseDown);
             window.removeEventListener("mouseup", handleMouseUp);
             window.removeEventListener("mouseover", handleMouseOver);
-            document.documentElement.classList.remove("vacei-custom-cursor");
+            document.documentElement.classList.remove("A4-custom-cursor");
         };
     }, [handleMouseMove, handleMouseDown, handleMouseUp, handleMouseOver]);
 
@@ -88,7 +88,7 @@ const CustomCursor = () => {
                 }}
                 className={cn(
                     "absolute flex items-center justify-center rounded-full border-2 transition-colors duration-300",
-                    isHoveringLink ? "border-blue-500 bg-blue-500/10" : "border-white/40"
+                    isHoveringLink ? "border-zinc-500 bg-zinc-500/10" : "border-white/40"
                 )}
             >
                 {/* Optional: Add a small icon or text inside when hovering links */}
@@ -98,7 +98,7 @@ const CustomCursor = () => {
                             initial={{ opacity: 0, scale: 0 }}
                             animate={{ opacity: 1, scale: 1 }}
                             exit={{ opacity: 0, scale: 0 }}
-                            className="bg-blue-500 rounded-full w-2 h-2"
+                            className="bg-zinc-500 rounded-full w-2 h-2"
                         />
                     )}
                 </AnimatePresence>
@@ -116,7 +116,7 @@ const CustomCursor = () => {
                     scale: isClicking ? 1.5 : 1,
                     opacity: isHoveringLink ? 0 : 1,
                 }}
-                className="absolute w-1.5 h-1.5 bg-blue-500 rounded-full"
+                className="absolute w-1.5 h-1.5 bg-zinc-500 rounded-full"
             />
         </div>
     );

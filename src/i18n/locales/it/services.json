@@ -2,14 +2,18 @@
   "accounting-finance": {
     "title": "Contabilità e Finanza",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Contabilità e Finanza" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Contabilità e Finanza"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto continuo per contabilità e finanza per la tua azienda – dalla tenuta dei libri alla supervisione finanziaria di alto livello.",
-      "VACEI gestisce contabilità, reporting e supporto CFO affinché i tuoi numeri rimangano precisi, aggiornati e chiari.",
-      "Il lavoro è interamente gestito da VACEI e consegnato tramite il tuo portale clienti."
+      "A4 gestisce contabilità, reporting e supporto CFO affinché i tuoi numeri rimangano precisi, aggiornati e chiari.",
+      "Il lavoro è interamente gestito da A4 e consegnato tramite il tuo portale clienti."
     ],
     "featuresSection": {
       "title": "Cosa copriamo in Contabilità e Finanza",
@@ -46,13 +50,17 @@
   "tax-compliance": {
     "title": "Tasse e Conformità",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Tasse e Conformità" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Tasse e Conformità"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto continuo per le tasse aziendali, paghe e adempimenti di legge.",
-      "VACEI gestisce IVA, paghe, registrazioni e scadenze chiave affinché gli obblighi siano gestiti correttamente e in tempo.",
+      "A4 gestisce IVA, paghe, registrazioni e scadenze chiave affinché gli obblighi siano gestiti correttamente e in tempo.",
       "Tutto è coordinato tramite il tuo portale clienti per un monitoraggio chiaro e massima tranquillità."
     ],
     "featuresSection": {
@@ -101,14 +109,18 @@
   "audit-assurance": {
     "title": "Revisione e Assurance",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Revisione e Assurance" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Revisione e Assurance"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "I servizi di Revisione e Assurance coprono gli audit obbligatori e le analisi finanziarie strutturate.",
-      "VACEI esegue audit attraverso un processo chiaro e organizzato che offre visibilità, tempistiche prevedibili e risultati documentati.",
-      "Il lavoro di revisione è coordinato da VACEI e supportato da flussi di lavoro strutturati attraverso la piattaforma, riducendo al minimo le interruzioni delle operazioni."
+      "A4 esegue audit attraverso un processo chiaro e organizzato che offre visibilità, tempistiche prevedibili e risultati documentati.",
+      "Il lavoro di revisione è coordinato da A4 e supportato da flussi di lavoro strutturati attraverso la piattaforma, riducendo al minimo le interruzioni delle operazioni."
     ],
     "featuresSection": {
       "title": "Servizi di revisione e assurance strutturati",
@@ -156,13 +168,17 @@
   "corporate-csp-services": {
     "title": "Servizi Aziendali e CSP",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Servizi Aziendali e CSP" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Servizi Aziendali e CSP"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Servizi aziendali continui per società a Malta, inclusi sede legale e supporto statutario.",
-      "VACEI mantiene la tua società aggiornata, conforme e documentata durante tutto l'anno.",
+      "A4 mantiene la tua società aggiornata, conforme e documentata durante tutto l'anno.",
       "Tutto il lavoro è fornito tramite un processo strutturato e il portale clienti."
     ],
     "featuresSection": {
@@ -210,13 +226,17 @@
   "regulated-licensing": {
     "title": "Regolamentazione e Licenze",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Regolamentazione e Licenze" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Regolamentazione e Licenze"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per le imprese che operano in ambienti regolamentati o che richiedono licenze formali.",
-      "VACEI gestisce le domande di licenza, i rinnovi e le comunicazioni normative alle autorità.",
+      "A4 gestisce le domande di licenza, i rinnovi e le comunicazioni normative alle autorità.",
       "Il lavoro viene fornito attraverso flussi di lavoro chiari e strutturati."
     ],
     "featuresSection": {
@@ -265,13 +285,17 @@
   "advisory-growth": {
     "title": "Consulenza e Crescita",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Consulenza e Crescita" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Consulenza e Crescita"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per Consulenza e Crescita per le aziende oltre la conformità quotidiana.",
-      "VACEI ti aiuta a pianificare, crescere e affrontare le decisioni chiave con un allineamento finanziario e normativo.",
+      "A4 ti aiuta a pianificare, crescere e affrontare le decisioni chiave con un allineamento finanziario e normativo.",
       "Il lavoro è fornito insieme alla configurazione di base di contabilità, tasse e audit per massima coerenza."
     ],
     "featuresSection": {
@@ -310,13 +334,17 @@
   "company-structure-corporate-changes": {
     "title": "Struttura Aziendale e Modifiche Societarie",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Struttura Aziendale e Modifiche Societarie" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Struttura Aziendale e Modifiche Societarie"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto basato su progetti per modifiche alla struttura legale, proprietaria o gestionale della società.",
-      "VACEI prepara la documentazione, coordina i depositi e assicura che ogni modifica sia conforme e correttamente registrata.",
+      "A4 prepara la documentazione, coordina i depositi e assicura che ogni modifica sia conforme e correttamente registrata.",
       "Questo servizio è separato dai servizi aziendali (CSP) correnti e gestito come progetto definito."
     ],
     "featuresSection": {
@@ -354,13 +382,17 @@
   "liquidation-wind-down": {
     "title": "Liquidazione e Chiusura",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Liquidazione e Chiusura" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Liquidazione e Chiusura"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per le società che chiudono, si ristrutturano o non operano più.",
-      "VACEI gestisce il processo di liquidazione o chiusura affinché i requisiti legali e i depositi siano completati correttamente."
+      "A4 gestisce il processo di liquidazione o chiusura affinché i requisiti legali e i depositi siano completati correttamente."
     ],
     "featuresSection": {
       "title": "Servizi completi di liquidazione e chiusura",
@@ -408,14 +440,18 @@
   "international-business-structuring-expansion": {
     "title": "Strutture Aziendali Internazionali",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Strutture Aziendali Internazionali" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Strutture Aziendali Internazionali"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per la progettazione e gestione di strutture aziendali internazionali.",
-      "VACEI ti aiuta a impostare e coordinare strutture di gruppo, entità e banking in modo conforme.",
-      "Il lavoro è coordinato tramite il portale VACEI per visualizzare e gestire le strutture transfrontaliere in un unico posto."
+      "A4 ti aiuta a impostare e coordinare strutture di gruppo, entità e banking in modo conforme.",
+      "Il lavoro è coordinato tramite il portale A4 per visualizzare e gestire le strutture transfrontaliere in un unico posto."
     ],
     "featuresSection": {
       "title": "I nostri servizi di strutturazione internazionale",
@@ -479,13 +515,17 @@
   "crypto-digital-assets": {
     "title": "Cripto e Asset Digitali",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Cripto e Asset Digitali" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Cripto e Asset Digitali"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per strutturazione, banking e conformità relative ad attività cripto e asset digitali.",
-      "VACEI ti aiuta ad allineare le detenzioni cripto con una strutturazione fiscale legale e accesso bancario."
+      "A4 ti aiuta ad allineare le detenzioni cripto con una strutturazione fiscale legale e accesso bancario."
     ],
     "featuresSection": {
       "title": "Servizi di strutturazione cripto e asset digitali",
@@ -529,17 +569,21 @@
   "audit-readiness": {
     "title": "Preparazione all'Audit",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Preparazione all'Audit" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Preparazione all'Audit"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto alla preparazione affinché i registri e la documentazione siano pronti prima dell'inizio dell'audit.",
-      "VACEI revisiona registri, documentazione e processi affinché gli audit siano più fluidi e rapidi."
+      "A4 revisiona registri, documentazione e processi affinché gli audit siano più fluidi e rapidi."
     ],
     "featuresSection": {
       "title": "Cosa copriamo nella preparazione all'audit",
-      "subtitle": "Preparati all'audit utilizzando un processo strutturato tramite il portale VACEI.",
+      "subtitle": "Preparati all'audit utilizzando un processo strutturato tramite il portale A4.",
       "features": [
         {
           "title": "Registri finanziari",
@@ -597,13 +641,17 @@
   "group-consolidation": {
     "title": "Gruppo e Consolidamento",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Gruppo e Consolidamento" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Gruppo e Consolidamento"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per Gruppo e Consolidamento per aziende con molteplici entità.",
-      "VACEI coordina il reporting di gruppo, l'allineamento intercompany e il consolidamento."
+      "A4 coordina il reporting di gruppo, l'allineamento intercompany e il consolidamento."
     ],
     "featuresSection": {
       "title": "Cosa copriamo in gruppo e consolidamento",
@@ -656,13 +704,17 @@
   "banking-payments-support": {
     "title": "Supporto Banca e Pagamenti",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Supporto Banca e Pagamenti" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Supporto Banca e Pagamenti"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per l'accesso e il mantenimento di soluzioni bancarie e di pagamento affidabili.",
-      "VACEI prepara la documentazione, coordina l'onboarding e supporta i requisiti bancari continui."
+      "A4 prepara la documentazione, coordina l'onboarding e supporta i requisiti bancari continui."
     ],
     "featuresSection": {
       "title": "Cosa copriamo nel supporto banca e pagamenti",
@@ -724,13 +776,17 @@
   "corporate-transactions": {
     "title": "Operazioni Straordinarie",
     "breadcrumbs": [
-      { "label": "Servizi" },
-      { "label": "Operazioni Straordinarie" }
+      {
+        "label": "Servizi"
+      },
+      {
+        "label": "Operazioni Straordinarie"
+      }
     ],
     "descriptionHeading": "Di cosa si tratta",
     "descriptionParagraphs": [
       "Supporto per operazioni societarie definite quali cambi di proprietà, ristrutturazioni ed eventi una tantum.",
-      "VACEI coordina documentazione e depositi affinché ogni transazione sia accurata."
+      "A4 coordina documentazione e depositi affinché ogni transazione sia accurata."
     ],
     "featuresSection": {
       "title": "Cosa copriamo nelle operazioni straordinarie",
@@ -751,17 +807,17 @@
     "videoLabel": "Video panoramica del servizio",
     "videoPlaceholder": "Spazio riservato a un breve video muto in loop per questo servizio. Il layout rimane bilanciato anche se il video non è ancora inserito.",
     "ctaTitle": "Pronto a ottimizzare il tuo flusso di lavoro?",
-    "ctaBody": "Inizia oggi con VACEI e scopri i vantaggi di una piattaforma di consegna strutturata.",
+    "ctaBody": "Inizia oggi con A4 e scopri i vantaggi di una piattaforma di consegna strutturata.",
     "ctaButton": "Inizia"
   },
   "bookkeeping": {
-    "pageTitle": "VACEI — Contabilità per le Aziende a Malta",
-    "pageDescription": "Esternalizza la tua contabilità a Malta. VACEI offre alle aziende di Malta visibilità in tempo reale sulle proprie finanze, con un team dedicato.",
+    "pageTitle": "A4 — Contabilità per le Aziende a Malta",
+    "pageDescription": "Esternalizza la tua contabilità a Malta. A4 offre alle aziende di Malta visibilità in tempo reale sulle proprie finanze, con un team dedicato.",
     "hero": {
       "eyebrow": "Contabilità per le aziende di Malta — una singola piattaforma",
       "title": "Esternalizza la Tua Contabilità a Malta —",
       "titleEm": "Mantieni il Controllo",
-      "subtitle": "VACEI offre alle aziende a Malta visibilità in tempo reale sulle proprie finanze, con un team di contabilità dedicato che gestisce il lavoro dietro le quinte.",
+      "subtitle": "A4 offre alle aziende a Malta visibilità in tempo reale sulle proprie finanze, con un team di contabilità dedicato che gestisce il lavoro dietro le quinte.",
       "btnPrimary": "Inizia e Richiedi Preventivo →",
       "btnOutline": "Guarda Prima la Demo",
       "ctaHint": "Crea il tuo account, accedi al tuo portale e richiedi il tuo preventivo su misura in pochi minuti."
@@ -772,10 +828,10 @@
       "item3": "Supporto IVA e conformità",
       "item4": "Supportato da A4 Services, contabili stabiliti a Malta"
     },
-    "whatIsVacei": {
-      "eyebrow": "Come funziona VACEI",
-      "title": "Un modo semplice per capire VACEI",
-      "subtitle": "VACEI combina un team di contabilità dedicato con un potente portale clienti — dandoti totale visibilità sulla tua posizione finanziaria.",
+    "whatIsA4": {
+      "eyebrow": "Come funziona A4",
+      "title": "Un modo semplice per capire A4",
+      "subtitle": "A4 combina un team di contabilità dedicato con un potente portale clienti — dandoti totale visibilità sulla tua posizione finanziaria.",
       "btnTeam": "Il Tuo Team",
       "btnPortal": "Il Tuo Portale",
       "teamBadge": "Il Tuo Team Dedicato",
@@ -805,7 +861,7 @@
     },
     "video": {
       "eyebrow": "Guarda Come Funziona",
-      "title": "Vedi come funziona VACEI nella pratica",
+      "title": "Vedi come funziona A4 nella pratica",
       "desc": "Comprendi come viene gestita la tua contabilità, come funziona il tuo portale e come ottieni totale visibilità sulle finanze della tua azienda a Malta.",
       "point1": "Vedi come vengono caricati e processati i documenti",
       "point2": "Comprendi come la tua dashboard offra visibilità in tempo reale",
@@ -817,7 +873,7 @@
       "eyebrow": "Cosa Ottieni Realmente",
       "title1": "Non solo contabilità.",
       "title2": "Un modo più chiaro di gestire le tue finanze.",
-      "desc": "VACEI combina un team di contabilità dedicato con un portale clienti strutturato — dandoti visibilità costante. Niente rincorse agli aggiornamenti. Niente attese per i report.",
+      "desc": "A4 combina un team di contabilità dedicato con un portale clienti strutturato — dandoti visibilità costante. Niente rincorse agli aggiornamenti. Niente attese per i report.",
       "card1Title": "Contabilità Esternalizzata",
       "card1Desc": "Ogni transazione registrata, riconciliata e mantenuta con precisione — in modo continuo.",
       "card2Title": "Report Gestionali",
@@ -836,7 +892,7 @@
       "title": "Tre passi per una contabilità migliore",
       "desc": "Nessun onboarding infinito. Niente moduli complessi. Nessuna chiamata inutile.",
       "step1Title": "Crea il tuo account",
-      "step1Desc": "Accedi subito al tuo portale VACEI.",
+      "step1Desc": "Accedi subito al tuo portale A4.",
       "step1Micro": "Richiede meno di 2 minuti →",
       "step2Title": "Richiedi il tuo preventivo",
       "step2Desc": "Parlaci della tua azienda e di cosa ti serve — ricevi una proposta.",
@@ -867,15 +923,15 @@
       "whatsIncluded": "Cosa è incluso",
       "bestFor": "Ideale per",
       "viewAll": "Visualizza Tutte le Funzioni",
-      "notes1": "Tutti i pacchetti includono l'accesso al tuo portale VACEI per documenti, compiti, comunicazioni e visibilità finanziaria.",
+      "notes1": "Tutti i pacchetti includono l'accesso al tuo portale A4 per documenti, compiti, comunicazioni e visibilità finanziaria.",
       "notes2": "I prezzi finali dipendono dal volume delle transazioni, dai conti bancari, dalla complessità IVA, dalle buste paga e dalle esigenze di reporting.",
-      "notes3": "Per i clienti a Malta, VACEI è supportato da A4 Services, una società di revisione e contabilità consolidata.",
+      "notes3": "Per i clienti a Malta, A4 è supportato da A4 Services, una società di revisione e contabilità consolidata.",
       "ctaTitle": "Non sei sicuro di quale pacchetto sia il migliore?",
       "ctaDesc": "Crea il tuo account, richiedi un preventivo e ti raccomanderemo il giusto livello di supporto.",
       "ctaBtn": "Inizia e Richiedi Preventivo →",
       "pkg0": {
-        "label": "Vacei Basic",
-        "title": "Vacei Basic",
+        "label": "A4 Basic",
+        "title": "A4 Basic",
         "pos": "Per piccole imprese che necessitano di registrazioni pulite e supporto di base.",
         "desc": "Per piccole imprese che necessitano di registrazioni pulite e supporto di base.",
         "bestFor": "Piccole imprese che necessitano di registrazioni pulite e supporto di base.",
@@ -884,12 +940,12 @@
         "inc1": "Registrazioni pulite",
         "inc2": "Supporto di base",
         "inc3": "Centro di caricamento documenti",
-        "inc4": "Accesso al portale VACEI",
+        "inc4": "Accesso al portale A4",
         "inc5": "Aggiornamento contabile mensile"
       },
       "pkg1": {
-        "label": "Vacei Core",
-        "title": "Vacei Core",
+        "label": "A4 Core",
+        "title": "A4 Core",
         "pos": "Per imprese attive che necessitano di tenuta della contabilità, supporto IVA, riconciliazioni, monitoraggio delle scadenze e revisione contabile.",
         "desc": "Per imprese attive che necessitano di tenuta della contabilità, supporto IVA, riconciliazioni, monitoraggio delle scadenze e revisione contabile.",
         "bestFor": "Imprese attive che necessitano di tenuta della contabilità, supporto IVA, riconciliazioni, monitoraggio delle scadenze e revisione contabile.",
@@ -902,11 +958,11 @@
         "inc5": "Connessione bancaria live",
         "inc6": "Dashboard in tempo reale",
         "inc7": "Revisione mensile dei saldi",
-        "inc8": "Accesso al portale VACEI"
+        "inc8": "Accesso al portale A4"
       },
       "pkg2": {
-        "label": "Vacei Finance Office",
-        "title": "Vacei Finance Office",
+        "label": "A4 Finance Office",
+        "title": "A4 Finance Office",
         "pos": "Per imprese in crescita che necessitano di contabilità, buste paga, reporting gestionale, consulenza, supporto al flusso di cassa e assistenza prioritaria.",
         "desc": "Per imprese in crescita che necessitano di contabilità, buste paga, reporting gestionale, consulenza, supporto al flusso di cassa e assistenza prioritaria.",
         "bestFor": "Imprese in crescita che necessitano di contabilità, buste paga, reporting gestionale, consulenza, supporto al flusso di cassa e assistenza prioritaria.",
@@ -918,16 +974,16 @@
         "inc4": "Supporto al flusso di cassa",
         "inc5": "Revisione della posizione IVA",
         "inc6": "Report di sintesi mensile",
-        "inc7": "Accesso al portale VACEI"
+        "inc7": "Accesso al portale A4"
       }
     },
     "credibility": {
       "title": "Supportato da A4 Services",
-      "p1": "Per i clienti a Malta, VACEI è supportato da A4 Services, una consolidata società di revisione e contabilità a Malta.",
-      "p2": "Questo offre supervisione professionale e familiarità con i requisiti di conformità di Malta — mentre VACEI rimane il tuo portale principale."
+      "p1": "Per i clienti a Malta, A4 è supportato da A4 Services, una consolidata società di revisione e contabilità a Malta.",
+      "p2": "Questo offre supervisione professionale e familiarità con i requisiti di conformità di Malta — mentre A4 rimane il tuo portale principale."
     },
     "testimonial": {
-      "quote": "\"Ora so esattamente a che punto è la mia azienda ogni singolo giorno. VACEI ha eliminato le incertezze e mi ha restituito ore ogni settimana.\"",
+      "quote": "\"Ora so esattamente a che punto è la mia azienda ogni singolo giorno. A4 ha eliminato le incertezze e mi ha restituito ore ogni settimana.\"",
       "author": "— Imprenditore a Malta"
     },
     "finalCta": {

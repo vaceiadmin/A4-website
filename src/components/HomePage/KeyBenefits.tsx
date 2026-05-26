@@ -25,7 +25,7 @@ const KeyBenefits = ({ isDark = true }: { isDark?: boolean }) => {
             <h2 className="text-4xl sm:text-5xl font-black tracking-tight leading-tight mb-8">
               {t("keyBenefits.title")}
             </h2>
-            <div className={cn("w-20 h-2", isDark ? "bg-primary-blue" : "bg-blue-600")} />
+            <div className={cn("w-20 h-2", isDark ? "bg-primary-blue" : "bg-zinc-600")} />
             <p className={cn("mt-8 text-xl font-medium leading-relaxed", isDark ? "text-slate-400" : "text-slate-500")}>
                Strategic advantages designed for modern business scale.
             </p>
@@ -42,7 +42,7 @@ const KeyBenefits = ({ isDark = true }: { isDark?: boolean }) => {
                     "relative group flex flex-col sm:flex-row items-start gap-8 p-10 sm:p-14 rounded-[3rem] border transition-all duration-700",
                     isDark
                       ? "bg-[#0A0A0F] border-white/5 hover:border-primary-blue/30"
-                      : "bg-slate-50 border-slate-100 hover:border-blue-600 hover:-translate-y-1 hover:shadow-[0_28px_70px_-28px_rgba(37,99,235,0.25)] hover:bg-white",
+                      : "bg-slate-50 border-slate-100 hover:border-zinc-600 hover:-translate-y-1 hover:shadow-[0_28px_70px_-28px_rgba(37,99,235,0.25)] hover:bg-white",
                     i % 2 === 0 ? "sm:translate-x-0" : "sm:translate-x-12"
                   )}
                 >
@@ -55,7 +55,7 @@ const KeyBenefits = ({ isDark = true }: { isDark?: boolean }) => {
                     </span>
                     <div className={cn(
                         "w-14 h-14 rounded-2xl flex items-center justify-center border transition-all duration-700",
-                        isDark ? "bg-white/5 border-white/10 text-primary-blue group-hover:bg-primary-blue group-hover:text-white" : "bg-white border-slate-200 text-blue-600 group-hover:bg-blue-600 group-hover:text-white"
+                        isDark ? "bg-white/5 border-white/10 text-primary-blue group-hover:bg-primary-blue group-hover:text-white" : "bg-white border-slate-200 text-zinc-600 group-hover:bg-zinc-600 group-hover:text-white"
                     )}>
                         <Icon className="w-6 h-6" />
                     </div>

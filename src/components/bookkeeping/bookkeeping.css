@@ -1,4 +1,4 @@
-/* VACEI Brand Colours — extracted from portal */
+/* A4 Brand Colours — extracted from portal */
 :root {
   --navy: #020205;
   --navy-2: #08080C;
@@ -1299,7 +1299,7 @@
   margin: 0;
 }
 
-/* VACEI Explainer Section */
+/* A4 Explainer Section */
 .wx-section {
   background: var(--navy);
   padding: 96px 6vw;
@@ -1902,7 +1902,7 @@ svg.wx-chart {
   background: rgba(16, 185, 129, 0.15);
 }
 
-.vacei-pill {
+.A4-pill {
   background: rgba(255, 255, 255, 0.07);
   color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.14);

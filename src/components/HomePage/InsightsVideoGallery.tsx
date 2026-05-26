@@ -164,7 +164,7 @@ function InsightsVideoGalleryInner({ isDark = true }: InsightsVideoGalleryProps)
                       type="button"
                       onClick={onPosterActivate}
                       className={cn(
-                        "group/poster absolute inset-0 z-0 flex h-full w-full flex-col items-center justify-center overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2",
+                        "group/poster absolute inset-0 z-0 flex h-full w-full flex-col items-center justify-center overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-zinc-500 focus-visible:ring-offset-2",
                         isDark ? "focus-visible:ring-offset-[#0c0d12]" : "focus-visible:ring-offset-slate-100"
                       )}
                       aria-label={t("insightsResources.watchVideo")}
@@ -217,11 +217,11 @@ function InsightsVideoGalleryInner({ isDark = true }: InsightsVideoGalleryProps)
                   aria-current={selected ? "true" : undefined}
                   className={cn(
                     "group/thumb flex w-[min(260px,78vw)] shrink-0 snap-start flex-col gap-2.5 rounded-2xl p-2 text-left transition-all duration-300 lg:w-full",
-                    "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-500/70 focus-visible:ring-offset-2",
+                    "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-zinc-500/70 focus-visible:ring-offset-2",
                     isDark ? "focus-visible:ring-offset-[#0c0d12]" : "focus-visible:ring-offset-slate-100",
                     selected
                       ? isDark
-                        ? "bg-gradient-to-b from-blue-500/20 to-blue-600/10 shadow-[0_0_0_1px_rgba(59,130,246,0.55),0_12px_40px_-12px_rgba(59,130,246,0.35)]"
+                        ? "bg-gradient-to-b from-zinc-500/20 to-zinc-600/10 shadow-[0_0_0_1px_rgba(59,130,246,0.55),0_12px_40px_-12px_rgba(59,130,246,0.35)]"
                         : "bg-white shadow-[0_0_0_1px_rgba(59,130,246,0.45),0_14px_36px_-14px_rgba(37,99,235,0.25)]"
                       : isDark
                         ? "bg-white/[0.05] hover:bg-white/[0.09] hover:shadow-[0_8px_32px_-12px_rgba(0,0,0,0.5)]"
@@ -232,7 +232,7 @@ function InsightsVideoGalleryInner({ isDark = true }: InsightsVideoGalleryProps)
                     className={cn(
                       "relative aspect-video w-full overflow-hidden rounded-xl",
                       selected
-                        ? "ring-2 ring-blue-500/60"
+                        ? "ring-2 ring-zinc-500/60"
                         : isDark
                           ? "ring-1 ring-white/20"
                           : "ring-1 ring-slate-300/80"
@@ -265,7 +265,7 @@ function InsightsVideoGalleryInner({ isDark = true }: InsightsVideoGalleryProps)
                       </span>
                     )}
                     {selected && (
-                      <span className="absolute bottom-2 left-2 right-2 flex items-center gap-1.5 rounded-md bg-blue-600/95 px-2 py-1 text-[10px] font-bold uppercase tracking-wide text-white shadow-lg backdrop-blur-sm">
+                      <span className="absolute bottom-2 left-2 right-2 flex items-center gap-1.5 rounded-md bg-zinc-600/95 px-2 py-1 text-[10px] font-bold uppercase tracking-wide text-white shadow-lg backdrop-blur-sm">
                         <span className="relative flex h-1.5 w-1.5">
                           <span className="absolute inline-flex h-full w-full motion-safe:animate-ping rounded-full bg-white opacity-60" />
                           <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-white" />

@@ -2,7 +2,7 @@
 title: "The ultimate checklist for scaling your operations"
 date: "2026-04-06"
 excerpt: "Use this comprehensive checklist to ensure your legal, accounting, and operational infrastructure is ready to scale."
-author: "VACEI Insights Team"
+author: "A4 Insights Team"
 featuredImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2026"
 tags: ["Operations", "Scaling", "Business Growth"]
 ---
@@ -48,7 +48,7 @@ As your team and advisor list (accountants, lawyers, auditors) grows, communicat
 
 ## Why Structure Matters
 
-Scaling without structure is like building a skyscraper on a wooden foundation. VACEI exists to provide that steel-frame infrastructure—bringing your companies, advisors, and workflows together into one unified dashboard.
+Scaling without structure is like building a skyscraper on a wooden foundation. A4 exists to provide that steel-frame infrastructure—bringing your companies, advisors, and workflows together into one unified dashboard.
 
 ---
-*Ready to scale? [Get started with VACEI](/) and build the foundation your business deserves.*
+*Ready to scale? [Get started with A4](/) and build the foundation your business deserves.*

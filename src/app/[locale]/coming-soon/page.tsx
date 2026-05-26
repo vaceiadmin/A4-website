@@ -13,7 +13,7 @@ const ComingSoonPage = () => {
     <main className="min-h-screen bg-background flex items-center justify-center px-4">
       <AnimatedSection className="max-w-2xl w-full">
         <div className="w-full text-center bg-white rounded-3xl shadow-xl border border-input px-8 py-12">
-          <p className="inline-flex items-center px-4 py-1 rounded-full text-xs font-semibold tracking-[0.18em] uppercase bg-[#EEF0FF] text-[#3b49e6] mb-4">
+          <p className="inline-flex items-center px-4 py-1 rounded-full text-xs font-semibold tracking-[0.18em] uppercase bg-[#EEF0FF] text-[#000000] mb-4">
             {t("badge")}
           </p>
           <h1 className="text-2xl md:text-3xl font-semibold text-heading mb-3">{t("title")}</h1>

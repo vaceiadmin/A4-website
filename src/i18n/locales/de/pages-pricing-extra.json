@@ -3,7 +3,7 @@
     "hero": {
       "badge": "Transparente Preisgestaltung",
       "title": "Fair, transparent und auf Ihre Bedürfnisse zugeschnitten",
-      "p1": "Wir bei VACEI glauben nicht an Einheitslösungen. Jedes Unternehmen ist einzigartig, und Ihre Preisgestaltung sollte den tatsächlichen Arbeitsaufwand widerspiegeln.",
+      "p1": "Wir bei A4 glauben nicht an Einheitslösungen. Jedes Unternehmen ist einzigartig, und Ihre Preisgestaltung sollte den tatsächlichen Arbeitsaufwand widerspiegeln.",
       "p2": "Wir erstellen maßgeschneiderte Angebote basierend auf Umfang, Komplexität und Anforderungen – ohne versteckte Kosten und ohne Verpflichtung fortzufahren.",
       "checklist": [
         "Keine Festpakete",
@@ -25,7 +25,7 @@
     "factors": {
       "badge": "Preisfaktoren",
       "title": "Wie die Preisgestaltung ermittelt wird",
-      "subtitle": "Die Preisgestaltung bei VACEI basiert auf einer strukturierten Bewertung mehrerer Faktoren. Diese Faktoren ermöglichen es uns, den Umfang klar zu definieren und spätere Überraschungen zu vermeiden.",
+      "subtitle": "Die Preisgestaltung bei A4 basiert auf einer strukturierten Bewertung mehrerer Faktoren. Diese Faktoren ermöglichen es uns, den Umfang klar zu definieren und spätere Überraschungen zu vermeiden.",
       "keyInsight": "Wichtige Erkenntnis",
       "factorLabel": "Faktor {{id}}",
       "viewingFactor": "Einsicht Faktor {{current}} von {{total}}",
@@ -222,7 +222,7 @@
       ],
       "includesBadge": "Was enthalten ist",
       "everyTitle": "Jedes Angebot enthält",
-      "everyBody": "Sobald die ersten Informationen geprüft wurden, stellt VACEI ein klares Angebot zur Verfügung, das volle Transparenz sicherstellt, bevor die Arbeit beginnt.",
+      "everyBody": "Sobald die ersten Informationen geprüft wurden, stellt A4 ein klares Angebot zur Verfügung, das volle Transparenz sicherstellt, bevor die Arbeit beginnt.",
       "quoteIncludes": [
         "Enthaltene Dienstleistungen",
         "Vereinbarter Umfang",
@@ -240,7 +240,7 @@
     "whatToExpect": {
       "badge": "Unser Versprechen",
       "title": "Was Sie erwartet",
-      "subtitle": "Bei der Zusammenarbeit mit VACEI ist es unser Ziel, sicherzustellen, dass die Preisgestaltung die erforderliche Arbeit widerspiegelt und während des gesamten Auftrags vorhersehbar bleibt.",
+      "subtitle": "Bei der Zusammenarbeit mit A4 ist es unser Ziel, sicherzustellen, dass die Preisgestaltung die erforderliche Arbeit widerspiegelt und während des gesamten Auftrags vorhersehbar bleibt.",
       "items": [
         {
           "title": "Klare Preisgespräche im Vorfeld",

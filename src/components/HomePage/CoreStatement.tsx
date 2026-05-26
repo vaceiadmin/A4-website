@@ -38,16 +38,16 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
           <div className="lg:col-span-6 space-y-6 sm:space-y-7 lg:space-y-8 text-center lg:text-left">
             <div className="space-y-3 sm:space-y-4">
               <div className="flex justify-center lg:justify-start">
-              <div className={cn(
-                "inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-[0.3em] border",
-                isDark ? "bg-primary-blue/10 border-primary-blue/20 text-primary-blue" : "bg-blue-50 border-blue-100 text-blue-600"
-              )}>
-                Our Core Promise
-              </div>
+                <div className={cn(
+                  "inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-[0.3em] border",
+                  isDark ? "bg-primary-blue/10 border-primary-blue/20 text-primary-blue" : "bg-zinc-50 border-zinc-100 text-zinc-600"
+                )}>
+                  Our Core Promise
+                </div>
               </div>
               <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black tracking-tight leading-[1.08] lg:leading-[1.05] max-w-xl mx-auto lg:mx-0">
                 {t("coreStatement.text").split(" — ")[0]} — <br />
-                <span className="font-bodoni italic text-blue-600">
+                <span className="font-bodoni italic text-zinc-600">
                   {t("coreStatement.text").split(" — ")[1]}
                 </span>
               </h2>
@@ -73,8 +73,8 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
               )}
             >
               <img
-                src="/assets/images/imgi_1_Logo-2.0 8.png"
-                alt="VACEI Hub"
+                src="/assets/images/a4-logo-new.webp"
+                alt="A4 Hub"
                 className="w-full h-full object-contain"
               />
             </div>
@@ -86,11 +86,11 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
                 >
                   <div className={cn(
                     "w-[4.5rem] h-[4.5rem] sm:w-20 sm:h-20 rounded-[1.35rem] sm:rounded-[2rem] flex items-center justify-center border transition-all duration-700 shadow-xl sm:shadow-2xl",
-                    isDark ? "bg-[#0A0A0F] border-white/10 group-active:border-primary-blue" : "bg-white border-slate-200 group-active:border-blue-500"
+                    isDark ? "bg-[#0A0A0F] border-white/10 group-active:border-primary-blue" : "bg-white border-slate-200 group-active:border-zinc-500"
                   )}>
                     <div className={cn(
                       "transition-all duration-700",
-                      isDark ? "text-primary-blue" : "text-blue-600"
+                      isDark ? "text-primary-blue" : "text-zinc-600"
                     )}>
                       {feat.icon}
                     </div>
@@ -122,8 +122,8 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
                 )}
               >
                 <img
-                  src="/assets/images/imgi_1_Logo-2.0 8.png"
-                  alt="VACEI Hub"
+                  src="/assets/images/a4-logo-new.webp"
+                  alt="A4 Hub"
                   className="w-full h-full object-contain"
                 />
               </div>
@@ -141,11 +141,11 @@ const CoreStatement = ({ isDark = true }: { isDark?: boolean }) => {
                   >
                     <div className={cn(
                       "w-16 h-16 sm:w-20 sm:h-20 rounded-[2rem] flex items-center justify-center border transition-all duration-700 shadow-2xl",
-                      isDark ? "bg-[#0A0A0F] border-white/10 group-hover:border-primary-blue" : "bg-white border-slate-200 group-hover:border-blue-500"
+                      isDark ? "bg-[#0A0A0F] border-white/10 group-hover:border-primary-blue" : "bg-white border-slate-200 group-hover:border-zinc-500"
                     )}>
                       <div className={cn(
                         "transition-all duration-700 group-hover:scale-120",
-                        isDark ? "text-primary-blue" : "text-blue-600"
+                        isDark ? "text-primary-blue" : "text-zinc-600"
                       )}>
                         {feat.icon}
                       </div>

@@ -5,13 +5,13 @@ import Image from "next/image";
 import { cn } from "@/lib/utils";
 import { AnimatedBeam } from "@/components/ui/animated-beam";
 import { motion } from "framer-motion";
-import { 
-  FileText, 
-  FileSpreadsheet, 
-  FileDown, 
-  Calculator, 
-  Landmark, 
-  ShieldCheck, 
+import {
+  FileText,
+  FileSpreadsheet,
+  FileDown,
+  Calculator,
+  Landmark,
+  ShieldCheck,
   User
 } from "lucide-react";
 import { useReduceMotion, usePerformance } from "@/contexts/ReduceMotionContext";
@@ -69,8 +69,8 @@ const Circle = forwardRef<
         animate={
           isInView && !isIPhone && !isLowPerformance
             ? {
-                y: [0, -6, 0],
-              }
+              y: [0, -6, 0],
+            }
             : { y: 0 }
         }
         transition={{
@@ -111,15 +111,15 @@ export default function AuditPlatformBeam({
   const doc1Ref = useRef<HTMLDivElement>(null);
   const doc2Ref = useRef<HTMLDivElement>(null);
   const doc3Ref = useRef<HTMLDivElement>(null);
-  
+
   // Column 2: Services
   const service1Ref = useRef<HTMLDivElement>(null);
   const service2Ref = useRef<HTMLDivElement>(null);
   const service3Ref = useRef<HTMLDivElement>(null);
-  
+
   // Column 3: Portal (Center)
   const portalRef = useRef<HTMLDivElement>(null);
-  
+
   // Column 4: Client
   const clientRef = useRef<HTMLDivElement>(null);
 
@@ -146,7 +146,7 @@ export default function AuditPlatformBeam({
       ref={containerRef}
     >
       <div className="flex h-full w-full flex-row items-center justify-between gap-1 sm:gap-2 px-1 sm:px-8">
-        
+
         {/* Column 1: Docs */}
         <div className="flex flex-col justify-around h-full py-4 sm:py-8">
           <Circle ref={doc1Ref} label="PDF" delay={0.1}>
@@ -156,7 +156,7 @@ export default function AuditPlatformBeam({
             <FileSpreadsheet className="w-5 h-5 sm:w-6 sm:h-6 text-green-600" />
           </Circle>
           <Circle ref={doc3Ref} label="Word" delay={0.5}>
-            <FileText className="w-5 h-5 sm:w-6 sm:h-6 text-blue-500" />
+            <FileText className="w-5 h-5 sm:w-6 sm:h-6 text-zinc-500" />
           </Circle>
         </div>
 
@@ -173,20 +173,20 @@ export default function AuditPlatformBeam({
           </Circle>
         </div>
 
-        {/* Column 3: Portal (Vacei) */}
+        {/* Column 3: Portal (A4) */}
         <div className="flex flex-col justify-center h-full">
-          <Circle 
-            ref={portalRef} 
+          <Circle
+            ref={portalRef}
             label="Portal"
             delay={1.5}
             className="h-14 w-14 sm:h-20 sm:w-20 border-primary-blue/30 p-2 sm:p-3 bg-white shadow-2xl z-20"
           >
-            <Image 
-              src="/assets/images/Logo.png" 
-              alt="VACEI" 
-              width={60} 
-              height={60} 
-              className="object-contain" 
+            <Image
+              src="/assets/images/a4-logo-new.webp"
+              alt="A4"
+              width={60}
+              height={60}
+              className="object-contain"
             />
           </Circle>
         </div>
@@ -218,7 +218,7 @@ export default function AuditPlatformBeam({
         pathColor="#94a3b8"
         pathOpacity={0.1}
         gradientStartColor="#ef4444"
-        gradientStopColor="#3b49e6"
+        gradientStopColor="#000000"
       />
       <AnimatedBeam
         containerRef={containerRef}
@@ -231,7 +231,7 @@ export default function AuditPlatformBeam({
         pathColor="#94a3b8"
         pathOpacity={0.1}
         gradientStartColor="#22c55e"
-        gradientStopColor="#3b49e6"
+        gradientStopColor="#000000"
       />
       <AnimatedBeam
         containerRef={containerRef}
@@ -243,8 +243,8 @@ export default function AuditPlatformBeam({
         curvature={0}
         pathColor="#94a3b8"
         pathOpacity={0.1}
-        gradientStartColor="#3b49e6"
-        gradientStopColor="#3b49e6"
+        gradientStartColor="#000000"
+        gradientStopColor="#000000"
       />
 
 
@@ -258,8 +258,8 @@ export default function AuditPlatformBeam({
         curvature={15}
         pathColor="#94a3b8"
         pathOpacity={0.1}
-        gradientStartColor="#3b49e6"
-        gradientStopColor="#3b49e6"
+        gradientStartColor="#000000"
+        gradientStopColor="#000000"
       />
       <AnimatedBeam
         containerRef={containerRef}
@@ -271,8 +271,8 @@ export default function AuditPlatformBeam({
         curvature={0}
         pathColor="#94a3b8"
         pathOpacity={0.1}
-        gradientStartColor="#3b49e6"
-        gradientStopColor="#3b49e6"
+        gradientStartColor="#000000"
+        gradientStopColor="#000000"
       />
       <AnimatedBeam
         containerRef={containerRef}
@@ -284,8 +284,8 @@ export default function AuditPlatformBeam({
         curvature={-15}
         pathColor="#94a3b8"
         pathOpacity={0.1}
-        gradientStartColor="#3b49e6"
-        gradientStopColor="#3b49e6"
+        gradientStartColor="#000000"
+        gradientStopColor="#000000"
       />
 
 
@@ -300,8 +300,8 @@ export default function AuditPlatformBeam({
         pathColor="#94a3b8"
         pathOpacity={0.15}
         pathWidth={3}
-        gradientStartColor="#3b49e6"
-        gradientStopColor="#3b49e6"
+        gradientStartColor="#000000"
+        gradientStopColor="#000000"
         endYOffset={portalClientEndY}
       />
 

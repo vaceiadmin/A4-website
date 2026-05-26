@@ -79,7 +79,7 @@ const HoverPlayGif = ({ src, alt, className, isDark = false, playDesktop, playMo
         {/* Play Overlay Indicator */}
         <div className={cn("absolute inset-0 flex items-center justify-center transition-all duration-500 z-20 pointer-events-none", !isMobile && "group-hover:opacity-0", isDark ? "bg-black/10" : "bg-white/10")}>
           <div className={cn("flex items-center gap-3 px-5 py-3 rounded-full backdrop-blur-xl shadow-2xl transition-transform duration-500 group-hover:scale-105 border", isDark ? "bg-black/60 border-white/10" : "bg-white/80 border-slate-200 shadow-xl shadow-black/5")}>
-             <PlayCircle className={cn("w-5 h-5", isDark ? "text-white" : "text-blue-600")} />
+             <PlayCircle className={cn("w-5 h-5", isDark ? "text-white" : "text-zinc-600")} />
              <span className={cn("text-[11px] font-bold uppercase tracking-widest", isDark ? "text-white" : "text-slate-800")}>
                {isMobile ? playMobile : playDesktop}
              </span>
@@ -96,22 +96,22 @@ const BeforeAndAfterSection = ({ isDark = false }: { isDark?: boolean }) => {
     <section className={cn(
         "py-24 sm:py-32 relative overflow-hidden isolate z-0 mb-12 sm:mb-20 rounded-[48px]",
         isDark && "mx-4 sm:mx-6 lg:mx-8",
-        isDark ? "bg-[#05050A] text-white shadow-2xl" : "bg-[#FAFBFF] text-slate-900 border border-slate-100 shadow-xl shadow-blue-500/5"
+        isDark ? "bg-[#05050A] text-white shadow-2xl" : "bg-[#FAFBFF] text-slate-900 border border-slate-100 shadow-xl shadow-zinc-500/5"
     )}>
       {/* Background Decor */}
       <div className={cn(
         "absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[500px] rounded-full blur-[120px] pointer-events-none -z-10",
-        isDark ? "bg-blue-600/10" : "bg-blue-400/5"
+        isDark ? "bg-zinc-600/10" : "bg-zinc-400/5"
       )} />
 
       <div className="mx-auto px-4 sm:px-6 lg:px-8 relative z-10 w-full max-w-7xl">
         <div className="text-center mb-16 lg:mb-24 max-w-3xl mx-auto space-y-6">
           <div className={cn(
             "inline-flex items-center gap-2 px-4 py-1.5 rounded-full border",
-            isDark ? "bg-white/5 border-white/10" : "bg-blue-50 border-blue-100"
+            isDark ? "bg-white/5 border-white/10" : "bg-zinc-50 border-zinc-100"
           )}>
-            <span className="w-2 h-2 rounded-full bg-blue-500 animate-ping" />
-            <span className="text-[11px] font-black text-blue-500 uppercase tracking-widest">{t('beforeAfter.badge')}</span>
+            <span className="w-2 h-2 rounded-full bg-zinc-500 animate-ping" />
+            <span className="text-[11px] font-black text-zinc-500 uppercase tracking-widest">{t('beforeAfter.badge')}</span>
           </div>
           <SectionTitleHero
             variant={isDark ? "dark" : "light"}
@@ -202,16 +202,16 @@ const BeforeAndAfterSection = ({ isDark = false }: { isDark?: boolean }) => {
             
             <div className={cn(
               "relative h-full flex flex-col rounded-[2.75rem] border overflow-hidden transition-all duration-700",
-              "bg-[#05050A] border-blue-500/35 ring-1 ring-blue-500/15 shadow-[0_0_60px_rgba(37,99,235,0.18)]"
+              "bg-[#05050A] border-zinc-500/35 ring-1 ring-zinc-500/15 shadow-[0_0_60px_rgba(37,99,235,0.18)]"
             )}>
-              <div className={cn("absolute top-0 right-0 w-64 h-64 blur-[100px] pointer-events-none bg-blue-500/10")} />
+              <div className={cn("absolute top-0 right-0 w-64 h-64 blur-[100px] pointer-events-none bg-zinc-500/10")} />
 
               <div className={cn(
                 "p-8 lg:p-10 border-b flex flex-col gap-6 backdrop-blur-md relative z-10 rounded-t-4xl",
                 "border-white/10 bg-white/5"
               )}>
                 <div className="flex items-center gap-4">
-                    <div className="w-12 h-12 rounded-2xl bg-blue-600 text-white flex items-center justify-center shadow-lg shadow-blue-500/40">
+                    <div className="w-12 h-12 rounded-2xl bg-zinc-600 text-white flex items-center justify-center shadow-lg shadow-zinc-500/40">
                         <CheckCircle2 className="w-6 h-6" />
                     </div>
                     <h4 className={cn("text-2xl lg:text-3xl font-black tracking-tight text-white")}>{t('beforeAfter.afterTitle')}</h4>
@@ -219,7 +219,7 @@ const BeforeAndAfterSection = ({ isDark = false }: { isDark?: boolean }) => {
                 <div className="flex flex-col gap-3">
                     {(t('beforeAfter.afterItems', { returnObjects: true }) as string[]).map((item, idx) => (
                       <div key={idx} className={cn("flex items-start gap-3 text-sm font-bold text-slate-200")}>
-                        <div className="flex-shrink-0 w-5 h-5 rounded-full bg-blue-500/10 text-blue-400 flex items-center justify-center mt-0.5">
+                        <div className="flex-shrink-0 w-5 h-5 rounded-full bg-zinc-500/10 text-zinc-400 flex items-center justify-center mt-0.5">
                            <Check className="w-3 h-3" />
                         </div>
                         <span className="leading-snug">{item}</span>
@@ -232,7 +232,7 @@ const BeforeAndAfterSection = ({ isDark = false }: { isDark?: boolean }) => {
                 "p-6 sm:p-10 flex-1 flex flex-col justify-center items-center relative overflow-hidden",
                 "bg-[#050505]"
               )}>
-                <div className="absolute inset-0 bg-blue-500/5 blur-[50px] pointer-events-none" />
+                <div className="absolute inset-0 bg-zinc-500/5 blur-[50px] pointer-events-none" />
                 <div className={cn(
                   "rounded-2xl overflow-hidden border shadow-2xl relative z-10 w-full transition-transform duration-500 group-hover/card:scale-[1.02]",
                   "bg-[#000] border-white/10"

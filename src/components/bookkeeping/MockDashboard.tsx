@@ -24,7 +24,7 @@ export default function MockDashboard() {
       <div className="db-kpis">
         <div className="db-kpi">
           <div className="db-kpi-head">
-            <div className="db-kpi-icon dki-blue"><Briefcase size={14} className="text-blue-400" /></div>
+            <div className="db-kpi-icon dki-blue"><Briefcase size={14} className="text-zinc-400" /></div>
             <span className="db-kpi-label">{t("bookkeeping.dashboard.cashPosition")}</span>
           </div>
           <div className="db-kpi-val dkv-white">€85,000</div>

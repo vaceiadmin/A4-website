@@ -163,7 +163,7 @@ const ClientPortalOverviewSection = ({
                       >
                         <span
                           className="h-2.5 w-2.5 rounded-full border-[2px] border-white"
-                          style={{ backgroundColor: item.color ?? "#3b49e6" }}
+                          style={{ backgroundColor: item.color ?? "#000000" }}
                         />
                       </span>
                       <div className="flex flex-col leading-tight">
