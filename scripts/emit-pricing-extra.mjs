@@ -1,0 +1,263 @@
+/**
+ * One-time / on-demand: writes src/i18n/locales/en/pages-pricing-extra.json
+ * Run: node scripts/emit-pricing-extra.mjs
+ */
+import fs from "fs/promises";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.join(__dirname, "..");
+
+const pricing = {
+  hero: {
+    badge: "Transparent Pricing",
+    title: "Fair, Transparent, and Tailored to Your Needs",
+    p1: "At VACEI, we don't believe in one-size-fits-all pricing. Every business is unique, and your pricing should reflect the actual work involved.",
+    p2: "We provide tailored quotes based on scope, complexity, and requirements—with no hidden costs and no obligation to proceed.",
+    checklist: ["No Fixed Packages", "No Hidden Fees", "Clear Communication"],
+    card: {
+      badge: "Tailored Quote",
+      title: "Your Custom Pricing",
+      rows: ["Scope Assessment", "Complexity Analysis", "Volume Evaluation", "Risk Consideration"],
+      footer: "Transparent & Fair",
+    },
+  },
+  factors: {
+    badge: "Pricing Factors",
+    title: "How Pricing is Determined",
+    subtitle:
+      "Pricing at VACEI is based on a structured assessment of several factors. These factors allow us to define scope clearly and avoid surprises later.",
+    keyInsight: "Key Insight",
+    factorLabel: "Factor {{id}}",
+    viewingFactor: "Viewing Factor {{current}} of {{total}}",
+    tip: "💡 Tip:",
+    tipBody: "Click on any factor card above to explore more details",
+    items: [
+      {
+        title: "Scope of Work",
+        shortDesc: "The most important factor in pricing is scope.",
+        details: [
+          "Services required",
+          "Deliverables expected",
+          "Level of involvement needed",
+          "Ongoing vs. project-based work",
+        ],
+        highlight: "Clear scope allows pricing to be defined accurately and predictably.",
+      },
+      {
+        title: "Business Size & Structure",
+        shortDesc: "Pricing takes into account the size and structure of the business.",
+        details: [
+          "Number of entities involved",
+          "Group or standalone structure",
+          "Jurisdictions of operation",
+          "Complexity of ownership or governance",
+        ],
+        highlight: "More complex structures typically require additional coordination and oversight.",
+      },
+      {
+        title: "Volume & Activity Levels",
+        shortDesc: "For operational services, pricing is influenced by activity levels.",
+        details: [
+          "Transaction volumes",
+          "Number of records processed",
+          "Frequency of reporting",
+          "Number of filings or submissions",
+        ],
+        highlight: "Higher volumes or more frequent reporting increase the level of work required.",
+      },
+      {
+        title: "Regulatory & Compliance",
+        shortDesc: "Some services are subject to higher regulatory requirements.",
+        details: [
+          "Applicable regulatory frameworks",
+          "Licensing or regulated activity",
+          "Audit or reporting obligations",
+          "Jurisdiction-specific requirements",
+        ],
+        highlight: "These factors affect the level of documentation, review, and oversight involved.",
+      },
+      {
+        title: "Risk & Responsibility",
+        shortDesc: "Professional responsibility and risk are considered when pricing services.",
+        details: [
+          "Nature of the work performed",
+          "Level of judgement required",
+          "Review and sign-off requirements",
+          "Exposure to regulatory or professional risk",
+        ],
+        highlight: "Higher-risk engagements require additional controls and review.",
+      },
+      {
+        title: "Duration & Timing",
+        shortDesc: "Pricing also considers timing and engagement length.",
+        details: [
+          "Length of the engagement",
+          "Recurring or one-off work",
+          "Urgency or fixed deadlines",
+          "Seasonal or time-sensitive requirements",
+        ],
+        highlight: "Time-sensitive or long-duration engagements may require different pricing structures.",
+      },
+    ],
+  },
+  overview: {
+    badge: "Service Pricing Models",
+    title: "Explore Our Service Categories",
+    subtitle:
+      "Each service is priced based on your specific requirements. Browse our categories to understand typical pricing models.",
+    tabs: ["Essentials", "Strategic", "Corporate"],
+    pricingModelLabel: "Pricing Model",
+    contactCard: {
+      title: "Need a custom quote?",
+      description: "Get a tailored proposal based on your exact requirements.",
+      cta: "Get a Quote",
+    },
+    essentials: [
+      {
+        title: "Accounting & Finance",
+        intro: "Core financial management.",
+        scope: "Monthly fee based on volume",
+        features: ["Monthly bookkeeping", "VAT & Tax compliance", "Management reporting", "Xero / QuickBooks setup"],
+        highlight: true,
+      },
+      {
+        title: "Tax & Compliance",
+        intro: "Stay fully compliant.",
+        scope: "Fixed annual or monthly",
+        features: ["Corporate tax returns", "VAT return filing", "Payroll processing", "Regulatory liaison"],
+        highlight: false,
+      },
+    ],
+    strategic: [
+      {
+        title: "Audit & Assurance",
+        intro: "Rigorous statutory audits.",
+        scope: "Quoted per engagement",
+        features: ["Statutory financial audit", "Internal control review", "Risk assessment", "Compliance assurance"],
+        highlight: false,
+      },
+      {
+        title: "Advisory & Growth",
+        intro: "Scale your business.",
+        scope: "Project or retainer",
+        features: ["Financial modeling", "M&A support", "Cash flow optimization", "Strategic planning"],
+        highlight: true,
+      },
+    ],
+    corporate: [
+      {
+        title: "Corporate Services",
+        intro: "Company administration.",
+        scope: "Annual & project fees",
+        features: ["Company formation", "Registered office", "Company secretary", "Share transfers"],
+        highlight: false,
+      },
+      {
+        title: "Licensing & Regulated",
+        intro: "Complex authorizations.",
+        scope: "Project based",
+        features: ["License applications", "Regulatory reporting", "Compliance monitoring", "Authority correspondence"],
+        highlight: true,
+      },
+    ],
+  },
+  quoteProcess: {
+    badge: "Quote Process",
+    title: "How Quotes Work",
+    subtitle: "A simple, transparent process from initial discussion to confirmed pricing.",
+    steps: [
+      {
+        number: "01",
+        title: "Initial Discussion",
+        description: "Share your requirements and business context with our team.",
+      },
+      {
+        number: "02",
+        title: "Scope Assessment",
+        description: "We review your needs and assess the scope, complexity, and requirements.",
+      },
+      {
+        number: "03",
+        title: "Clear Quote Provided",
+        description:
+          "Receive a detailed quote outlining services, scope, pricing structure, and assumptions.",
+      },
+      {
+        number: "04",
+        title: "Review & Confirm",
+        description: "Review the proposal at your own pace. No pressure, no obligation to proceed.",
+      },
+    ],
+    includesBadge: "What's Included",
+    everyTitle: "Every Quote Outlines",
+    everyBody:
+      "Once initial information is reviewed, VACEI provides a clear quote that ensures complete transparency and understanding before any work begins.",
+    quoteIncludes: [
+      "Services included",
+      "Agreed scope",
+      "Pricing structure",
+      "Assumptions or dependencies",
+      "Timeline and deliverables",
+      "Terms and conditions",
+    ],
+    mockTitle: "Service Quote",
+    mockSubtitle: "Tailored Proposal",
+    mockFooter: "Pricing confirmed before work starts",
+    scopeTitle: "Scope Changes",
+    scopeBody:
+      "If scope changes during an engagement, pricing is discussed and agreed before any additional work is carried out. We believe in complete transparency at every stage.",
+  },
+  whatToExpect: {
+    badge: "Our Commitment",
+    title: "What to Expect",
+    subtitle:
+      "When working with VACEI, our goal is to ensure pricing reflects the work required and remains predictable throughout the engagement.",
+    items: [
+      {
+        title: "Clear Pricing Discussions Upfront",
+        description: "We discuss pricing openly from the start, ensuring you understand how costs are determined.",
+      },
+      {
+        title: "No Hidden Fees",
+        description: "All costs are outlined clearly in your quote. What you see is what you get.",
+      },
+      {
+        title: "No Unexpected Charges",
+        description:
+          "You won't receive surprise invoices. Any changes to scope are discussed and agreed in advance.",
+      },
+      {
+        title: "Transparent Communication",
+        description:
+          "If requirements change during the engagement, we communicate openly and adjust pricing accordingly.",
+      },
+    ],
+    bottomTitle: "Pricing That Works For You",
+    bottomBody:
+      "Our approach ensures you only pay for the services you need, with complete clarity on what's included and how costs are calculated. No surprises, no hidden agendas—just honest, professional service.",
+    chips: ["Fair Pricing", "Full Transparency", "Predictable Costs"],
+  },
+  cta: {
+    badge: "Get Started Today",
+    title: "Ready to Discuss Pricing?",
+    body: "If you'd like to understand how pricing applies to your specific situation, you can request a quote or discuss your requirements with our team.",
+    requestQuote: "Request a Quote",
+    discussNeeds: "Discuss Your Needs",
+    responseLabel: "Response Time",
+    responseValue: "Within 24 hours",
+    commitmentLabel: "Commitment",
+    commitmentValue: "No obligation",
+    floatSteps: [
+      { step: "Step 1", label: "Get Quote" },
+      { step: "Step 2", label: "Discuss" },
+      { step: "Step 3", label: "Get Started" },
+    ],
+  },
+};
+
+const out = { pricing };
+const dest = path.join(ROOT, "src/i18n/locales/en/pages-pricing-extra.json");
+await fs.writeFile(dest, JSON.stringify(out, null, 2) + "\n", "utf8");
+console.log("Wrote", dest);

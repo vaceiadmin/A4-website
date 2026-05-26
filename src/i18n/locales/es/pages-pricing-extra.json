@@ -1,0 +1,296 @@
+{
+  "pricing": {
+    "hero": {
+      "badge": "Precios Transparentes",
+      "title": "Justo, Transparente y a su Medida",
+      "p1": "En VACEI, no creemos en precios únicos para todos. Cada negocio es único y su precio debe reflejar el trabajo real involucrado.",
+      "p2": "Proporcionamos presupuestos a medida basados en el alcance, la complejidad y los requisitos, sin costes ocultos y sin compromiso.",
+      "checklist": [
+        "Sin Paquetes Fijos",
+        "Sin Tarifas Ocultas",
+        "Comunicación Clara"
+      ],
+      "card": {
+        "badge": "Presupuesto a Medida",
+        "title": "Su Precio Personalizado",
+        "rows": [
+          "Evaluación del Alcance",
+          "Análisis de Complejidad",
+          "Evaluación de Volumen",
+          "Consideración de Riesgo"
+        ],
+        "footer": "Transparente y Justo"
+      }
+    },
+    "factors": {
+      "badge": "Factores de Precios",
+      "title": "Cómo se Determinamos los Precios",
+      "subtitle": "Los precios en VACEI se basan en una evaluación estructurada de varios factores. Estos factores nos permiten definir el alcance claramente y evitar sorpresas.",
+      "keyInsight": "Información Clave",
+      "factorLabel": "Factor {{id}}",
+      "viewingFactor": "Viendo Factor {{current}} de {{total}}",
+      "tip": "💡 Consejo:",
+      "tipBody": "Haga clic en cualquier tarjeta de factor de arriba para explorar más detalles",
+      "items": [
+        {
+          "title": "Alcance del Trabajo",
+          "shortDesc": "El factor más importante en el precio es el alcance.",
+          "details": [
+            "Servicios requeridos",
+            "Entregables esperados",
+            "Nivel de involucramiento",
+            "Trabajo recurrente vs. puntual"
+          ],
+          "highlight": "Un alcance claro permite definir el precio de forma precisa y previsible."
+        },
+        {
+          "title": "Tamaño y Estructura del Negocio",
+          "shortDesc": "El precio tiene en cuenta el tamaño y la estructura de la empresa.",
+          "details": [
+            "Número de entidades",
+            "Estructura de grupo o independiente",
+            "Jurisdicciones de operación",
+            "Complejidad de la propiedad o gobernanza"
+          ],
+          "highlight": "Las estructuras más complejas suelen requerir coordinación y supervisión adicionales."
+        },
+        {
+          "title": "Volumen y Niveles de Actividad",
+          "shortDesc": "Para los servicios operativos, el precio está influenciado por la actividad.",
+          "details": [
+            "Volúmenes de transacciones",
+            "Número de registros procesados",
+            "Frecuencia de informes",
+            "Número de presentaciones o envíos"
+          ],
+          "highlight": "Mayores volúmenes o informes más frecuentes aumentan el nivel de trabajo requerido."
+        },
+        {
+          "title": "Regulación y Cumplimiento",
+          "shortDesc": "Algunos servicios están sujetos a mayores requisitos regulatorios.",
+          "details": [
+            "Marcos regulatorios aplicables",
+            "Actividad con licencia o regulada",
+            "Obligaciones de auditoría o informe",
+            "Requisitos específicos de la jurisdicción"
+          ],
+          "highlight": "Estos factores afectan el nivel de documentación, revisión y supervisión."
+        },
+        {
+          "title": "Riesgo y Responsabilidad",
+          "shortDesc": "La responsabilidad profesional y el riesgo se consideran al fijar el precio.",
+          "details": [
+            "Naturaleza del trabajo realizado",
+            "Nivel de juicio requerido",
+            "Requisitos de revisión y firma",
+            "Exposición a riesgos regulatorios o profesionales"
+          ],
+          "highlight": "Los encargos de mayor riesgo requieren controles y revisiones adicionales."
+        },
+        {
+          "title": "Duración y Tiempos",
+          "shortDesc": "El precio también considera los tiempos y la duración del encargo.",
+          "details": [
+            "Duración del encargo",
+            "Trabajo recurrente o puntual",
+            "Urgencia o plazos fijos",
+            "Requisitos estacionales o críticos en tiempo"
+          ],
+          "highlight": "Los encargos críticos en tiempo o de larga duración pueden requerir estructuras de precios diferentes."
+        }
+      ]
+    },
+    "overview": {
+      "badge": "Modelos de Precios de Servicios",
+      "title": "Explore Nuestras Categorías de Servicios",
+      "subtitle": "Cada servicio tiene un precio según sus requisitos específicos. Explore nuestras categorías para entender los modelos de precios típicos.",
+      "tabs": [
+        "Essentials",
+        "Strategic",
+        "Corporate"
+      ],
+      "pricingModelLabel": "Modelo de Precios",
+      "contactCard": {
+        "title": "¿Necesita un presupuesto personalizado?",
+        "description": "Obtenga una propuesta a medida basada en sus necesidades exactas.",
+        "cta": "Obtener Presupuesto"
+      },
+      "essentials": [
+        {
+          "title": "Contabilidad y Finanzas",
+          "intro": "Gestión financiera central.",
+          "scope": "Tarifa mensual basada en volumen",
+          "features": [
+            "Contabilidad mensual",
+            "Cumplimiento de IVA e impuestos",
+            "Informes de gestión",
+            "Configuración Xero / QuickBooks"
+          ],
+          "highlight": true
+        },
+        {
+          "title": "Impuestos y Cumplimiento",
+          "intro": "Manténgase al día.",
+          "scope": "Fijo anual o mensual",
+          "features": [
+            "Declaraciones de impuestos de sociedades",
+            "Presentación de IVA",
+            "Procesamiento de nóminas",
+            "Enlace regulatorio"
+          ],
+          "highlight": false
+        }
+      ],
+      "strategic": [
+        {
+          "title": "Auditoría y Assurance",
+          "intro": "Auditorías legales rigurosas.",
+          "scope": "Presupuestado por encargo",
+          "features": [
+            "Auditoría financiera legal",
+            "Revisión de controles internos",
+            "Evaluación de riesgos",
+            "Garantía de cumplimiento"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Asesoría y Crecimiento",
+          "intro": "Escale su negocio.",
+          "scope": "Proyecto o cuota mensual",
+          "features": [
+            "Modelado financiero",
+            "Soporte M&A",
+            "Optimización de flujo de caja",
+            "Planificación estratégica"
+          ],
+          "highlight": true
+        }
+      ],
+      "corporate": [
+        {
+          "title": "Servicios Corporativos",
+          "intro": "Administración de empresas.",
+          "scope": "Tarifas anuales y por proyecto",
+          "features": [
+            "Constitución de empresas",
+            "Domicilio social",
+            "Secretaría corporativa",
+            "Transferencia de acciones"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Licencias y Regulados",
+          "intro": "Autorizaciones complejas.",
+          "scope": "Basado en proyecto",
+          "features": [
+            "Solicitudes de licencias",
+            "Informes regulatorios",
+            "Monitoreo de cumplimiento",
+            "Correspondencia de autoridad"
+          ],
+          "highlight": true
+        }
+      ]
+    },
+    "quoteProcess": {
+      "badge": "Proceso de Presupuesto",
+      "title": "Cómo Funcionan los Presupuestos",
+      "subtitle": "Un proceso simple y transparente desde la charla inicial hasta el precio confirmado.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Charla Inicial",
+          "description": "Comparta sus requisitos y contexto empresarial con equipo."
+        },
+        {
+          "number": "02",
+          "title": "Evaluación de Alcance",
+          "description": "Revisamos sus necesidades y evaluamos el alcance, la complejidad y los requisitos."
+        },
+        {
+          "number": "03",
+          "title": "Presupuesto Claro Proporcionado",
+          "description": "Reciba un presupuesto detallado que describe servicios, alcance, estructura de precios y supuestos."
+        },
+        {
+          "number": "04",
+          "title": "Revisión y Confirmación",
+          "description": "Revise la propuesta a su ritmo. Sin presiones, sin compromiso de proceder."
+        }
+      ],
+      "includesBadge": "Qué está Incluido",
+      "everyTitle": "Cada Presupuesto Detalla",
+      "everyBody": "Una vez revisada la información inicial, VACEI proporciona un presupuesto claro que garantiza la transparencia total antes de empezar cualquier trabajo.",
+      "quoteIncludes": [
+        "Servicios incluidos",
+        "Alcance acordado",
+        "Estructura de precios",
+        "Supuestos o dependencias",
+        "Cronograma y entregables",
+        "Términos y condiciones"
+      ],
+      "mockTitle": "Presupuesto de Servicio",
+      "mockSubtitle": "Propuesta a Medida",
+      "mockFooter": "Precios confirmados antes de empezar",
+      "scopeTitle": "Cambios de Alcance",
+      "scopeBody": "Si el alcance cambia durante un encargo, el precio se discute y acuerda antes de realizar cualquier trabajo adicional. Creemos en la transparencia total en cada etapa."
+    },
+    "whatToExpect": {
+      "badge": "Nuestro Compromiso",
+      "title": "Qué Esperar",
+      "subtitle": "Al trabajar con VACEI, nuestro objetivo es asegurar que el precio refleje el trabajo y siga siendo previsible.",
+      "items": [
+        {
+          "title": "Charlas de precios claras por adelantado",
+          "description": "Hablamos de precios abiertamente desde el principio, para que entienda cómo se determinan los costes."
+        },
+        {
+          "title": "Sin Tarifas Ocultas",
+          "description": "Todos los costes se detallan en su presupuesto. Lo que ve es lo que hay."
+        },
+        {
+          "title": "Sin Cargos Inesperados",
+          "description": "No recibirá facturas sorpresa. Cualquier cambio en el alcance se discute y acuerda previamente."
+        },
+        {
+          "title": "Comunicación Transparente",
+          "description": "Si los requisitos cambian durante el encargo, comunicamos abiertamente y ajustamos los precios acorde."
+        }
+      ],
+      "bottomTitle": "Precios que Funcionan para Usted",
+      "bottomBody": "Nuestro enfoque asegura que solo pague por los servicios que necesita, con claridad total de lo que está incluido. Sin sorpresas, solo servicio profesional honesto.",
+      "chips": [
+        "Precio Justo",
+        "Transparencia Total",
+        "Costes Previsibles"
+      ]
+    },
+    "cta": {
+      "badge": "Empiece Hoy Mismo",
+      "title": "¿Listo para hablar de precios?",
+      "body": "Si desea saber cómo se aplica el precio a su situación específica, puede solicitar un presupuesto o hablar con nuestro equipo.",
+      "requestQuote": "Solicitar Presupuesto",
+      "discussNeeds": "Hablar de Necesidades",
+      "responseLabel": "Tiempo de Respuesta",
+      "responseValue": "En menos de 24 horas",
+      "commitmentLabel": "Compromiso",
+      "commitmentValue": "Sin obligación",
+      "floatSteps": [
+        {
+          "step": "Paso 1",
+          "label": "Presupuesto"
+        },
+        {
+          "step": "Paso 2",
+          "label": "Hablar"
+        },
+        {
+          "step": "Paso 3",
+          "label": "Empezar"
+        }
+      ]
+    }
+  }
+}

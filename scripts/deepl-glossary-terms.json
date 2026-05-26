@@ -1,0 +1,12 @@
+{
+  "description": "Terms to register in the DeepL API dashboard as a multilingual glossary so they are never mistranslated. Create one glossary per source language (EN) with targets FR, DE, ES, IT, NL.",
+  "terms": [
+    "VACEI",
+    "Get Instant Quote",
+    "Partner Portal",
+    "Requests & Proposals",
+    "AI Review",
+    "CPE & Podcast",
+    "Insights"
+  ]
+}

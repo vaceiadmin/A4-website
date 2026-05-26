@@ -1,0 +1,1002 @@
+{
+  "accounting-finance": {
+    "title": "Buchhaltung & Finanzen",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Buchhaltung & Finanzen" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Kontinuierliche Unterstützung im Bereich Buchhaltung & Finanzen für Ihr Unternehmen – von der Finanzbuchhaltung bis hin zur leitenden Finanzaufsicht.",
+      "VACEI verwaltet die Buchhaltung, das Berichtswesen und die CFO-Unterstützung, damit Ihre Zahlen korrekt, aktuell und klar bleiben.",
+      "Die Arbeit wird vollständig von VACEI verwaltet und über Ihr Kundenportal bereitgestellt."
+    ],
+    "featuresSection": {
+      "title": "Was wir in Buchhaltung & Finanzen abdecken",
+      "subtitle": "Fordern Sie ein maßgeschneidertes Angebot basierend auf Ihren Buchhaltungs-, Berichts- und CFO-Anforderungen an.",
+      "features": [
+        {
+          "title": "Buchhaltung & Berichtswesen",
+          "items": [
+            "Online-Buchhaltung",
+            "Rechnungswesen und Finanzmanagement",
+            "Management-Berichte",
+            "Einrichtung von Xero / QuickBooks"
+          ]
+        },
+        {
+          "title": "Finanzplanung & Aufsicht",
+          "items": [
+            "Cashflow-Überwachung und -Prognose",
+            "Budgetierung und Leistungsverfolgung"
+          ]
+        },
+        {
+          "title": "CFO & Fractional CFO",
+          "items": [
+            "Finanzielle Aufsicht und Beratung",
+            "Unterstützung bei Managemententscheidungen",
+            "Finanzielle Bereitschaft für Prüfungen, Banken oder Investitionen",
+            "Laufende Koordination mit Buchhaltungs- und Compliance-Funktionen"
+          ]
+        }
+      ]
+    }
+  },
+  "tax-compliance": {
+    "title": "Steuern & Compliance",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Steuern & Compliance" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Laufende Unterstützung für Ihre Unternehmenssteuern, Lohnabrechnung und gesetzlichen Meldungen.",
+      "VACEI verwaltet MwSt., Lohnabrechnung, Registrierungen und wichtige Fristen, damit Verpflichtungen korrekt und pünktlich erfüllt werden.",
+      "Alles wird über Ihr Kundenportal koordiniert – für eine klare Verfolgung und Sicherheit."
+    ],
+    "featuresSection": {
+      "title": "Vollständiges Steuer- und Compliance-Management",
+      "subtitle": "Erhalten Sie ein Angebot basierend auf Ihren Anforderungen an MwSt., Lohnabrechnung und Meldungen.",
+      "features": [
+        {
+          "title": "MwSt.-Dienstleistungen",
+          "items": [
+            "MwSt.-Registrierung und -Abmeldung",
+            "Erstellung monatlicher/vierteljährlicher MwSt.-Erklärungen",
+            "MwSt.-Compliance-Prüfungen und -Optimierung",
+            "Meldungen für die Zusammenfassende Meldung (ZM) und Intrastat"
+          ]
+        },
+        {
+          "title": "Lohnabrechnung & Beschäftigung",
+          "items": [
+            "Lohnabrechnung und Erstellung von Lohnabrechnungsbelegen",
+            "Abführung von Lohnsteuer und Sozialversicherungsbeiträgen",
+            "Einhaltung von Arbeitsverträgen",
+            "Jährliche Einreichung von FS3- und FS7-Formularen"
+          ]
+        },
+        {
+          "title": "Gesetzliche Meldungen",
+          "items": [
+            "Einreichung der Jahreserklärung beim Handelsregister",
+            "Erstellung und Einreichung von Steuererklärungen",
+            "Fristenverfolgung und Compliance-Überwachung",
+            "Verwaltung der Korrespondenz mit Behörden"
+          ]
+        },
+        {
+          "title": "Für wen es ist",
+          "items": [
+            "Unternehmen mit laufenden Steuerverpflichtungen",
+            "Unternehmen, die eine Lohnbuchhaltung benötigen",
+            "Organisationen, die Unterstützung bei der Compliance benötigen",
+            "Unternehmen, die ein Fristenmanagement suchen"
+          ]
+        }
+      ]
+    }
+  },
+  "audit-assurance": {
+    "title": "Wirtschaftsprüfung & Assurance",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Wirtschaftsprüfung & Assurance" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Prüfungs- und Assurance-Dienstleistungen umfassen gesetzliche Prüfungen und strukturierte Finanzprüfungen.",
+      "VACEI liefert Prüfungen durch einen klaren, organisierten Prozess, der Sichtbarkeit, vorhersehbare Zeitpläne und dokumentierte Ergebnisse bietet.",
+      "Die Prüfungsarbeit wird von VACEI koordiniert und durch strukturierte Workflows über die Plattform unterstützt, um Störungen Ihres Betriebs zu minimieren."
+    ],
+    "featuresSection": {
+      "title": "Strukturierte Prüfungs- und Assurance-Dienstleistungen",
+      "subtitle": "Fordern Sie ein Angebot basierend auf Ihren Prüfungsanforderungen und dem Umfang des Auftrags an.",
+      "features": [
+        {
+          "title": "Prüfungsdienstleistungen",
+          "items": [
+            "Gesetzliche Jahresabschlussprüfung",
+            "Unabhängige prüferische Durchsichten",
+            "Vereinbarte Untersuchungshandlungen",
+            "Prüfungen für besondere Zwecke"
+          ]
+        },
+        {
+          "title": "Assurance-Arbeiten",
+          "items": [
+            "Durchsicht von Jahresabschlüssen",
+            "Due-Diligence-Unterstützung",
+            "Bewertung interner Kontrollen",
+            "Compliance-Prüfungen"
+          ]
+        },
+        {
+          "title": "Prozess & Workflow",
+          "items": [
+            "Strukturierte Prüfungs-Workflows über die Plattform",
+            "Dokumentenmanagement und Beweiserhebung",
+            "Echtzeit-Verfolgung des Fortschritts",
+            "Automatisierte Tests und Validierungen"
+          ]
+        },
+        {
+          "title": "Für wen es ist",
+          "items": [
+            "Unternehmen, die gesetzliche Prüfungen benötigen",
+            "Unternehmen, die sich auf Investitionen vorbereiten",
+            "Organisationen, die Sicherheit benötigen",
+            "Einheiten mit regulatorischen Prüfungsanforderungen"
+          ]
+        }
+      ]
+    }
+  },
+  "corporate-csp-services": {
+    "title": "Unternehmensdienstleistungen (CSP)",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Corporate & CSP Services" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Umfassende Unternehmensdienstleistungen für maltesische Gesellschaften, einschließlich eingetragenem Sitz und gesetzlicher Unterstützung.",
+      "VACEI sorgt dafür, dass Ihr Unternehmen das ganze Jahr über gepflegt, konform und ordnungsgemäß dokumentiert bleibt.",
+      "Alle Arbeiten werden über einen strukturierten Prozess und das Kundenportal bereitgestellt."
+    ],
+    "featuresSection": {
+      "title": "Was wir in Corporate & CSP Services abdecken",
+      "subtitle": "Fordern Sie ein maßgeschneidertes Angebot basierend auf dem Umfang der benötigten Unternehmensverwaltung an.",
+      "features": [
+        {
+          "title": "CSP-Kerndienstleistungen",
+          "items": [
+            "Registrierter Sitz (Registered Office) und jährliche Erneuerung",
+            "Dienste des Company Secretary (Ernennung und Erneuerung)",
+            "Direktorendienste (natürliche Person / juristische Person, falls zutreffend)",
+            "Treuhanddirektor / Treuhandaktionär (falls zutreffend)"
+          ]
+        },
+        {
+          "title": "Governance & gesetzliche Pflege",
+          "items": [
+            "Pflege der gesetzlichen Register (Direktoren, Aktionäre, Belastungen)",
+            "Überwachung und Aktualisierung des Beneficial Ownership (UBO)",
+            "Unterstützung bei MBR-Meldungen (Annual Return A1 und gesetzliche Formulare)",
+            "Pflege der Unternehmensdokumentation (Beschlüsse, Aktienzertifikate, wichtige Gründungsdokumente)"
+          ]
+        },
+        {
+          "title": "Substanz & Compliance",
+          "items": [
+            "Substanz-Koordination und Dokumentationsunterstützung",
+            "Compliance-Aufsicht und Unterstützung bei der Bereitschaft",
+            "CSP-Compliance-Prüfungen (nach Bedarf)"
+          ]
+        },
+        {
+          "title": "Optionale Zusatzleistungen",
+          "items": [
+            "Postbearbeitung für den registrierten Sitz (Scannen / Weiterleiten)",
+            "Beglaubigte Kopien und Apostillen-Koordination",
+            "Unterstützung bei der Zusammenarbeit mit Banken (KYC-Koordination und Bestätigungen)",
+            "Bestätigungen und Erklärungen der Direktoren / Amtsträger"
+          ]
+        }
+      ]
+    }
+  },
+  "regulated-licensing": {
+    "title": "Regulierung & Lizenzierung",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Regulierung & Lizenzierung" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung für Unternehmen, die in regulierten Umfeldern tätig sind oder formelle Lizenzen benötigen.",
+      "VACEI verwaltet Lizenzanträge, Erneuerungen und wichtige regulatorische Einreichungen bei den Behörden.",
+      "Die Arbeit wird durch klare, strukturierte Workflows erbracht."
+    ],
+    "featuresSection": {
+      "title": "Unterstützung bei Regulierung & Lizenzierung",
+      "subtitle": "Fordern Sie ein Angebot basierend auf Ihren Lizenz- und Regulierungsanforderungen an.",
+      "features": [
+        {
+          "title": "Lizenzdienstleistungen",
+          "items": [
+            "Vorbereitung und Einreichung von Lizenzanträgen",
+            "Erneuerungsmanagement und -verfolgung",
+            "Compliance-Überwachung und Berichterstattung",
+            "Koordination der Korrespondenz mit Behörden"
+          ]
+        },
+        {
+          "title": "Regulatorische Unterstützung",
+          "items": [
+            "Analyse regulatorischer Rahmenbedingungen",
+            "Bewertung von Compliance-Lücken",
+            "Laufende Überwachung der Compliance",
+            "Management regulatorischer Änderungen"
+          ]
+        },
+        {
+          "title": "Betreute Branchen",
+          "items": [
+            "Finanzdienstleistungen und Investmentfirmen",
+            "Gaming- und Glücksspielanbieter",
+            "Immobilien und Bauträger",
+            "Freie Berufe, die Lizenzen benötigen"
+          ]
+        },
+        {
+          "title": "Für wen es ist",
+          "items": [
+            "Unternehmen in regulierten Sektoren",
+            "Unternehmen, die formelle Genehmigungen benötigen",
+            "Organisationen, die ein Lizenzmanagement benötigen",
+            "Einheiten mit laufenden regulatorischen Verpflichtungen"
+          ]
+        }
+      ]
+    }
+  },
+  "advisory-growth": {
+    "title": "Beratung & Wachstum",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Beratung & Wachstum" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung bei Beratung & Wachstum für Unternehmen über die tägliche Compliance hinaus.",
+      "VACEI hilft Ihnen bei der Planung, beim Wachstum und bei der Bewältigung wichtiger Entscheidungen, wobei finanzielle und regulatorische Aspekte aufeinander abgestimmt werden.",
+      "Die Arbeit wird zusammen mit Ihrem Kern-Setup für Buchhaltung, Steuern, Corporate und Audit erbracht, um Konsistenz zu gewährleisten."
+    ],
+    "featuresSection": {
+      "title": "Beratungs- & Wachstumsdienstleistungen",
+      "subtitle": "Fordern Sie ein Angebot an oder besprechen Sie Beratungs- und Wachstumsunterstützung für Ihr Unternehmen.",
+      "features": [
+        {
+          "title": "Unternehmensplanung & Strategie",
+          "items": [
+            "Businesspläne für Bankfinanzierungen",
+            "Businesspläne für Förderanträge",
+            "Businesspläne für Investorenpräsentationen",
+            "Interne Planung und Prognose"
+          ]
+        },
+        {
+          "title": "Zuschüsse & Finanzierung",
+          "items": [
+            "KI-Zuschüsse",
+            "Business Development Zuschüsse",
+            "Beschäftigungs- und Anreizprogramme",
+            "Bewertung der Förderfähigkeit und Unterstützung bei der Antragstellung"
+          ]
+        },
+        {
+          "title": "Projekt- & Transaktionsunterstützung",
+          "items": [
+            "Transaktionsunterstützung und -koordination",
+            "Projektbasierte Beratungsaufträge",
+            "Strukturierungsunterstützung abgestimmt auf regulatorische und finanzielle Anforderungen (gegebenenfalls mit externen Rechtsberatern)"
+          ]
+        }
+      ]
+    }
+  },
+  "company-structure-corporate-changes": {
+    "title": "Unternehmensstruktur & Änderungen",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Unternehmensstruktur & Änderungen" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Projektbezogene Unterstützung bei Änderungen der rechtlichen, Eigentums- oder Managementstruktur Ihres Unternehmens.",
+      "VACEI bereitet die Dokumentation vor, koordiniert die Einreichungen und stellt sicher, dass jede Änderung konform ist und ordnungsgemäß aufgezeichnet wird.",
+      "Dies ist getrennt von den laufenden Unternehmensdienstleistungen (CSP) und wird als definiertes Projekt behandelt."
+    ],
+    "featuresSection": {
+      "title": "Was wir bei Unternehmensstruktur & Änderungen abdecken",
+      "subtitle": "Fordern Sie ein Angebot basierend auf der spezifischen Unternehmensänderung oder dem Projekt an.",
+      "features": [
+        {
+          "title": "Eigentums- & Kapitaländerungen",
+          "items": [
+            "Aktienübertragungen",
+            "Aktienkapitalerhöhungen, -herabsetzungen und -umgliederungen",
+            "Änderungen und Aktualisierungen der Aktionäre"
+          ]
+        },
+        {
+          "title": "Management- & Unternehmensdetails",
+          "items": [
+            "Ernennung und Rücktritt von Direktoren",
+            "Änderungen des Firmennamens",
+            "Änderungen des Gesellschaftszwecks oder des Memorandums"
+          ]
+        },
+        {
+          "title": "Restrukturierung & komplexe Projekte",
+          "items": [
+            "Restrukturierung der Gruppe",
+            "Strukturierung vor einer Fusion",
+            "Sitzverlegung (Re-domiciliation, falls zutreffend)",
+            "Grenzüberschreitende Fusionen (projektbasiert, mehrstufig)"
+          ]
+        }
+      ]
+    }
+  },
+  "liquidation-wind-down": {
+    "title": "Liquidation & Abwicklung",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Liquidation & Abwicklung" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung für Unternehmen, die schließen, restrukturieren oder nicht mehr operativ tätig sind.",
+      "VACEI verwaltet den Liquidations- oder Abwicklungsprozess, damit gesetzliche Anforderungen und Einreichungen korrekt abgeschlossen werden."
+    ],
+    "featuresSection": {
+      "title": "Vollständige Liquidations- und Abwicklungsdienste",
+      "subtitle": "Fordern Sie ein Angebot basierend auf der Art der benötigten Liquidation oder Abwicklung an.",
+      "features": [
+        {
+          "title": "Freiwillige Liquidation",
+          "items": [
+            "Freiwillige Liquidation durch die Gesellschafter (MVL)",
+            "Freiwillige Liquidation durch die Gläubiger (CVL)",
+            "Liquidationsplanung und -durchführung",
+            "Vermögensrealisierung und -verteilung"
+          ]
+        },
+        {
+          "title": "Löschung & Auflösung",
+          "items": [
+            "Löschung ruhender Gesellschaften",
+            "Freiwillige Auflösungsverfahren",
+            "Erstellung des Schlussberichts",
+            "Einreichungen beim Handelsregister"
+          ]
+        },
+        {
+          "title": "Abwicklungsdienste",
+          "items": [
+            "Business-Schließungsplanung",
+            "Unterstützung bei Kündigungen",
+            "Vertragsbeendigungsmanagement",
+            "Abschließende Compliance und Einreichungen"
+          ]
+        },
+        {
+          "title": "Für wen es ist",
+          "items": [
+            "Unternehmen, die den Betrieb einstellen",
+            "Ruhende oder inaktive Unternehmen",
+            "Unternehmen, die eine formelle Liquidation benötigen",
+            "Gruppen, die Einheiten restrukturieren oder auflösen"
+          ]
+        }
+      ]
+    }
+  },
+  "international-business-structuring-expansion": {
+    "title": "Internationale Unternehmensstrukturen",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Internationale Unternehmensstrukturen" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung bei der Gestaltung und Verwaltung internationaler Unternehmensstrukturen.",
+      "VACEI hilft Ihnen beim Aufbau und der Koordination von Gruppenstrukturen, Einheiten und Bankbeziehungen auf konforme und steuerbewusste Weise.",
+      "Die Arbeit wird über das VACEI-Portal koordiniert, damit Sie grenzüberschreitende Strukturen an einem Ort sehen und verwalten können."
+    ],
+    "featuresSection": {
+      "title": "Unsere internationalen Strukturierungsdienste",
+      "subtitle": "Besprechen Sie Ihre internationale Struktur oder fordern Sie ein Angebot über ein kontrolliertes Portal an.",
+      "features": [
+        {
+          "title": "Gruppen- & Holdingstrukturen",
+          "items": [
+            "Strukturierung von Gruppen- und Holdinggesellschaften",
+            "Optimierung von Beteiligungen und Eigentumsverhältnissen",
+            "Gewinnfluss- und Dividendenplanung im rechtlichen Rahmen",
+            "Abstimmung von Substanz und Governance",
+            "Klare Dokumentation und vertretbare Begründung für alle Strukturen"
+          ]
+        },
+        {
+          "title": "Internationale Gründung & Expansion",
+          "items": [
+            "Unternehmensgründung in Malta",
+            "EU-Betriebsgesellschaften und Tochterunternehmen",
+            "Expansionsplanung für internationale Aktivitäten",
+            "Koordination mit lokalen Beratern, falls erforderlich",
+            "Zentrale Verwaltung neuer Einheiten innerhalb der weiteren Gruppenstruktur"
+          ]
+        },
+        {
+          "title": "Unterstützung bei Banken & Zahlungen",
+          "items": [
+            "Einführung bei EU- und internationalen Banken",
+            "EMI- und Fintech-Onboarding",
+            "Einrichtung von Mehrwährungskonten",
+            "Unterstützung bei komplexen oder zuvor abgelehnten Bankanträgen",
+            "Bankunterstützung integriert in Gruppenstruktur und Compliance"
+          ]
+        },
+        {
+          "title": "Grenzüberschreitende Steuern & Compliance",
+          "items": [
+            "Internationale Steuerkoordination über Gruppeneinheiten hinweg",
+            "MwSt.-Registrierungen und laufende MwSt.-Compliance",
+            "Lohnabrechnung und Beschäftigungsstrukturierung",
+            "Prüfungskoordination über Gruppeneinheiten hinweg",
+            "Ganzheitliche Planung, damit Steuern, Betrieb und Berichterstattung aligned bleiben"
+          ]
+        },
+        {
+          "title": "Laufendes Gruppenmanagement",
+          "items": [
+            "Überwachung der Gruppenbuchhaltung",
+            "Intercompany-Verfolgung und -Abstimmung",
+            "Konsolidierte Sichtbarkeit über Einheiten hinweg",
+            "Kontinuierliche Compliance-Überwachung",
+            "Strukturen bleiben überschaubar, transparent und konform, während Sie wachsen"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Besprechen Sie meine internationale Struktur",
+    "secondaryCtaText": "Angebot anfordern"
+  },
+  "crypto-digital-assets": {
+    "title": "Krypto & digitale Vermögenswerte",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Krypto & digitale Vermögenswerte" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung bei Strukturierung, Bankgeschäften und Compliance rund um Krypto- und Digital-Asset-Aktivitäten.",
+      "VACEI hilft Ihnen dabei, Kryptobestände mit rechtmäßiger Steuerstrukturierung, Bankzugang und Compliance-Anforderungen in Einklang zu bringen."
+    ],
+    "featuresSection": {
+      "title": "Strukturierungsdienste für Krypto & digitale Vermögenswerte",
+      "subtitle": "Besprechen Sie Ihre Kryptostruktur oder fordern Sie ein Angebot über den gleichen sicheren Prozess an.",
+      "features": [
+        {
+          "title": "Kryptostrukturierung & -vermögen",
+          "items": [
+            "Überprüfung der aktuellen Kryptobestände",
+            "Bewertung der Strukturierung auf Personen-, Unternehmens- und Gruppenebene",
+            "Trennung von Handels-, Investment- und operativen Aktivitäten",
+            "Gestaltung von Strukturen für rechtmäßige Steuereffizienz und Risikomanagement",
+            "Abstimmung der Kryptobestände mit Wohnsitz-, Substanz- und Governance-Anforderungen"
+          ]
+        },
+        {
+          "title": "Krypto-Fiat-Banking & Auszahlung",
+          "items": [
+            "Bewertung der Kryptoaktivitäten, der Transaktionshistorie und des Risikoprofils",
+            "Vorbereitung der Kunden auf das Bank- oder EMI-Onboarding",
+            "Unterstützung bei Dokumentation, Erläuterungen und Compliance-Bereitschaft",
+            "Einführung bei geeigneten EU- und internationalen Banken oder EMIs",
+            "Unterstützung bei der Strukturierung von Krypto-zu-Fiat-Konvertierungsflüssen und laufende Bankunterstützung"
+          ]
+        },
+        {
+          "title": "Buchhaltung, Steuern & Compliance",
+          "items": [
+            "Bilanzielle Behandlung von Kryptowerten und Transaktionen",
+            "Steuerberichterstattung abgestimmt auf geltende Regeln und Klassifizierungen",
+            "MwSt.-Überlegungen, wo anwendbar",
+            "Prüfungskoordination bei Krypto-Exposition",
+            "Dokumentation und Aufzeichnungen geeignet für künftige Prüfungen"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Meine Kryptostruktur besprechen",
+    "secondaryCtaText": "Angebot anfordern"
+  },
+  "audit-readiness": {
+    "title": "Audit-Bereitschaft",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Audit-Bereitschaft" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Vorbereitungsunterstützung, damit Ihre Unterlagen und Dokumentationen bereit sind, bevor die Prüfung beginnt.",
+      "VACEI überprüft Aufzeichnungen, Dokumentationen und Prozesse, damit Prüfungen reibungsloser, schneller und weniger störend verlaufen."
+    ],
+    "featuresSection": {
+      "title": "Was wir bei der Audit-Bereitschaft abdecken",
+      "subtitle": "Bereiten Sie sich auf die Prüfung vor, indem Sie einen strukturierten Prozess nutzen, der über das VACEI-Portal koordiniert wird.",
+      "features": [
+        {
+          "title": "Finanzunterlagen",
+          "items": [
+            "Überprüfung der Buchführungs- und Rechnungslegungsunterlagen",
+            "Bewertung von Periodenabgrenzungen und Beständen",
+            "Identifizierung von Lücken, Inkonsistenzen oder nicht belegten Zahlen",
+            "Abstimmung zwischen Summen- und Saldenliste, Managementergebnissen und gesetzlichen Formaten",
+            "Finanzdaten werden vollständig, konsistent und bereit für die Prüfung gemacht"
+          ]
+        },
+        {
+          "title": "Dokumentation & Beweise",
+          "items": [
+            "Überprüfung der unterstützenden Dokumentation für wichtige Bilanzposten",
+            "Strukturierung prüffähiger Dokumentenmappen",
+            "Zuordnung von Beweismitteln zu den Posten des Jahresabschlusses",
+            "Identifizierung fehlender oder schwacher Belege",
+            "Reduzierung des Zeitaufwands für die Beantwortung von Prüfungsfragen"
+          ]
+        },
+        {
+          "title": "Abstimmung von Corporate & Compliance",
+          "items": [
+            "Überprüfung der gesetzlichen und gesellschaftsrechtlichen Unterlagen",
+            "Abstimmung der Dokumentation zu Aktienkapital, Eigentumsverhältnissen und Governance",
+            "Bestätigung der Konsistenz zwischen Unternehmensunterlagen und Jahresabschluss",
+            "Compliance-Bereitschaftsprüfungen, wo anwendbar",
+            "Frühzeitige Lösung gängiger Abweichungen zwischen Corporate- und Finanzdaten"
+          ]
+        },
+        {
+          "title": "Interne Kontrollen & Prozesse",
+          "items": [
+            "Hochrangige Überprüfung der Buchhaltungs- und Genehmigungsprozesse",
+            "Identifizierung von Kontrolllücken, die das Prüfungsrisiko beeinflussen",
+            "Praktische Empfehlungen zur Stärkung der Dokumentations- und Genehmigungspfade",
+            "Fokus auf Änderungen, die Prüfungsprobleme reduzieren, nicht auf theoretische Kontrollen"
+          ]
+        },
+        {
+          "title": "Klärung von Problemen vor der Prüfung",
+          "items": [
+            "Vorzeitige Identifizierung potenzieller Prüfungsfeststellungen",
+            "Unterstützung bei der Lösung von Problemen vor Beginn der Feldarbeit",
+            "Koordination mit dem Management über Korrekturmaßnahmen",
+            "Dokumentation von Lösungen für die Prüfungsreferenz"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Auf Prüfung vorbereiten",
+    "secondaryCtaText": "Angebot anfordern"
+  },
+  "group-consolidation": {
+    "title": "Gruppe & Konsolidierung",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Gruppe & Konsolidierung" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung bei Gruppe & Konsolidierung für Unternehmen mit mehreren Einheiten.",
+      "VACEI koordiniert das Berichtswesen der Gruppe, die Abstimmung zwischen den Unternehmen und die Konsolidierung, damit die Informationen konsistent und nutzbar sind."
+    ],
+    "featuresSection": {
+      "title": "Was wir in Gruppe & Konsolidierung abdecken",
+      "subtitle": "Besprechen Sie das Berichtswesen der Gruppe oder fordern Sie ein Angebot für die Unterstützung auf Gruppenebene an.",
+      "features": [
+        {
+          "title": "Gruppenstruktur & Berichtswesen",
+          "items": [
+            "Überprüfung der Gruppenstruktur und der Beziehungen zwischen den Einheiten",
+            "Definition der Anforderungen für das Berichtswesen der Gruppe",
+            "Abstimmung der Rechnungslegungsgrundsätze über die Einheiten hinweg",
+            "Festlegung der Konsolidierungsmethodik",
+            "Konsistenter, wiederholbarer Ansatz für das Berichtswesen der Gruppe"
+          ]
+        },
+        {
+          "title": "Intercompany-Buchhaltung",
+          "items": [
+            "Identifizierung von Intercompany-Transaktionen und -Beständen",
+            "Koordination von Intercompany-Vereinbarungen und -Flüssen",
+            "Abstimmung von Intercompany-Salden über Einheiten hinweg",
+            "Lösung von Unstimmigkeiten und Inkonsistenzen",
+            "Klare Intercompany-Verfolgung zur Unterstützung von Prüfungen und Kreditgebern"
+          ]
+        },
+        {
+          "title": "Gruppenkonsolidierung",
+          "items": [
+            "Vorbereitung konsolidierter Finanzinformationen",
+            "Eliminierung von Intercompany-Salden und -Transaktionen",
+            "Konsolidierung über mehrere Währungen hinweg, falls zutreffend",
+            "Unterstützung beim Management-Reporting der Gruppe",
+            "Konsolidierungsergebnisse abgestimmt auf die Daten der zugrunde liegenden Einheiten"
+          ]
+        },
+        {
+          "title": "Laufende Gruppenaufsicht",
+          "items": [
+            "Regelmäßige Überprüfung des Berichtswesens der Einheiten auf Gruppenebene",
+            "Überwachung von Änderungen, die die Konsolidierung beeinflussen",
+            "Koordination mit lokalen Buchhaltungsteams oder Beratern",
+            "Kontinuierliche Verbesserung der Prozesse für das Berichtswesen der Gruppe"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Gruppen-Reporting besprechen",
+    "secondaryCtaText": "Angebot anfordern"
+  },
+  "banking-payments-support": {
+    "title": "Unterstützung bei Banken & Zahlungen",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Unterstützung bei Banken & Zahlungen" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung beim Zugang zu und der Pflege von zuverlässigen Bank- und Zahlungslösungen.",
+      "VACEI bereitet Dokumentationen vor, koordiniert das Onboarding und unterstützt laufende Bank- und Zahlungsanforderungen."
+    ],
+    "featuresSection": {
+      "title": "Was wir in der Unterstützung bei Banken & Zahlungen abdecken",
+      "subtitle": "Besprechen Sie die Bankunterstützung oder fordern Sie ein Angebot über einen strukturierten Prozess an.",
+      "features": [
+        {
+          "title": "Bank-Bereitschaft",
+          "items": [
+            "Überprüfung der Geschäftsaktivität, Struktur und des Risikoprofils",
+            "Bewertung von Herausforderungen bei Banken oder früheren Ablehnungen",
+            "Identifizierung geeigneter Bank- oder Zahlungswege",
+            "Abstimmung des Geschäftsmodells mit den Erwartungen der Banken",
+            "Realistische Positionierung, bevor Anträge gestellt werden"
+          ]
+        },
+        {
+          "title": "Einführung bei Banken & EMIs",
+          "items": [
+            "Einführung bei EU- und internationalen Banken",
+            "Einführung bei E-Geld-Instituten (EMI) und Fintech-Anbietern",
+            "Koordination der Onboarding-Prozesse",
+            "Unterstützung während des gesamten Antragslebenszyklus",
+            "Einführungen basierend auf Eignung und Zuständigkeit (Genehmigungen liegen im Ermessen der Bank)"
+          ]
+        },
+        {
+          "title": "Dokumentation & Compliance",
+          "items": [
+            "Erstellung von KYC- und Onboarding-Unterlagen",
+            "Koordination von Geschäftserläuterungen und unterstützenden Narrativen",
+            "Abstimmung von Corporate-, Buchhaltungs- und Steuerdokumentationen",
+            "Unterstützung bei der Beantwortung von Rückfragen der Institute",
+            "Gut vorbereitete Unterlagen zur Verbesserung der Onboarding-Effizienz"
+          ]
+        },
+        {
+          "title": "Zahlungsflüsse & Betrieb",
+          "items": [
+            "Strukturierung der eingehenden und ausgehenden Zahlungsflüsse",
+            "Unterstützung bei der Einrichtung von Mehrwährungskonten",
+            "Koordination von Zahlungslösungen",
+            "Laufende Unterstützung für betriebliche Bankanforderungen"
+          ]
+        },
+        {
+          "title": "Unterstützung bei der Bank-Compliance",
+          "items": [
+            "Unterstützung bei regelmäßigen Banküberprüfungen und Aktualisierungen",
+            "Koordination von Informationsanfragen",
+            "Unterstützung bei Änderungen der Aktivität oder Struktur",
+            "Laufende Pflege der Dokumentation zur Reduzierung des Kontorisikos"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Bank-Unterstützung besprechen",
+    "secondaryCtaText": "Angebot anfordern"
+  },
+  "corporate-transactions": {
+    "title": "Unternehmens-Transaktionen",
+    "breadcrumbs": [
+      { "label": "Dienstleistungen" },
+      { "label": "Unternehmens-Transaktionen" }
+    ],
+    "descriptionHeading": "Was es ist",
+    "descriptionParagraphs": [
+      "Unterstützung bei definierten Unternehmenstransaktionen wie Eigentümerwechseln, Umstrukturierungen und anderen einmaligen Ereignissen.",
+      "VACEI koordiniert Dokumentation, Einreichungen und Stakeholder, damit jede Transaktion genau und klar ausgeführt wird."
+    ],
+    "featuresSection": {
+      "title": "Was wir in Unternehmens-Transaktionen abdecken",
+      "subtitle": "Besprechen Sie eine Unternehmenstransaktion oder fordern Sie ein Angebot für ein definiertes Projekt an.",
+      "features": [
+        {
+          "title": "Eigentum & Beteiligungsverhältnisse",
+          "items": [
+            "Aktienübertragungen zwischen Personen oder Einheiten",
+            "Änderungen der Beteiligung Prozentsätze",
+            "Eintritt oder Austritt von Aktionären"
+          ]
+        }
+      ]
+    }
+  },
+  "shared": {
+    "videoLabel": "Übersichtsvideo zum Service",
+    "videoPlaceholder": "Platzhalter für ein kurzes, stummes Loop-Video zu diesem Service. Das Layout bleibt ausgewogen, auch wenn noch kein Video hinterlegt ist.",
+    "ctaTitle": "Bereit, Ihre Abläufe zu straffen?",
+    "ctaBody": "Starten Sie noch heute mit VACEI und erleben Sie die Vorteile einer strukturierten Delivery-Plattform.",
+    "ctaButton": "Loslegen"
+  },
+  "bookkeeping": {
+    "pageTitle": "VACEI — Buchhaltung für Unternehmen in Malta",
+    "pageDescription": "Lagern Sie Ihre Buchhaltung in Malta aus. VACEI bietet Unternehmen in Malta Echtzeit-Einblicke in ihre Finanzen mit einem engagierten Buchhaltungsteam.",
+    "hero": {
+      "eyebrow": "Buchhaltung für Malta-Unternehmen — eine Plattform",
+      "title": "Buchhaltung in Malta Auslagern —",
+      "titleEm": "Die Kontrolle Behalten",
+      "subtitle": "VACEI bietet Unternehmen in Malta Echtzeit-Einblicke in ihre Finanzen, während ein engagiertes Buchhaltungsteam die Arbeit im Hintergrund erledigt.",
+      "btnPrimary": "Loslegen & Angebot Anfordern →",
+      "btnOutline": "Zuerst Demo Ansehen",
+      "ctaHint": "Erstellen Sie Ihr Konto, greifen Sie auf Ihr Portal zu und fordern Sie in wenigen Minuten Ihr maßgeschneidertes Angebot an."
+    },
+    "trust": {
+      "item1": "Buchhaltung für Malta-Unternehmen",
+      "item2": "Ein Ihnen zugewiesenes Buchhaltungsteam",
+      "item3": "MwSt.- & Compliance-Unterstützung",
+      "item4": "Unterstützt durch A4 Services, etablierte Wirtschaftsprüfer in Malta"
+    },
+    "whatIsVacei": {
+      "eyebrow": "Wie VACEI funktioniert",
+      "title": "Ein einfacher Weg, VACEI zu verstehen",
+      "subtitle": "VACEI kombiniert ein engagiertes Buchhaltungsteam mit einem leistungsstarken Kundenportal — und gibt Ihnen vollen Einblick in Ihre Finanzlage.",
+      "btnTeam": "Ihr Team",
+      "btnPortal": "Ihr Portal",
+      "teamBadge": "Ihr engagiertes Team",
+      "teamTitle": "Wir kümmern uns um alles. Sie konzentrieren sich auf Ihr Geschäft.",
+      "teamDesc": "Ihr Buchhaltungsteam erledigt die Arbeit im Hintergrund — Buchhaltung, Kontenabstimmung, MwSt.-Unterstützung, Managementberichte und laufende finanzielle Aufgaben.",
+      "teamList1Title": "Buchhaltung",
+      "teamList1Desc": "Jede Transaktion wird laufend erfasst und abgestimmt.",
+      "teamList2Title": "Bankabstimmungen",
+      "teamList2Desc": "Regelmäßige Kontoabstimmungen, damit Ihre Zahlen genau bleiben.",
+      "teamList3Title": "MwSt.-Unterstützung",
+      "teamList3Desc": "MwSt.-Berichterstattung, Vorbereitung und Compliance-Anforderungen.",
+      "teamList4Title": "Managementberichte",
+      "teamList4Desc": "Klare monatliche Einblicke, die Ihre Leistung erklären.",
+      "portalBadge": "Ihr Kundenportal",
+      "portalTitle": "Sehen Sie alles. Jederzeit.",
+      "portalDesc": "Melden Sie sich jederzeit an und sehen Sie Forderungen, Verbindlichkeiten, Bankguthaben, MwSt.-Positionen, Aufgaben und Fortschritte. Keine E-Mails. Keine Wartezeiten.",
+      "portalList1Title": "Live-Dashboard",
+      "portalList1Desc": "Ihre finanzielle Position in Echtzeit, immer aktualisiert.",
+      "portalList2Title": "Bargeld & Salden",
+      "portalList2Desc": "Forderungen, Verbindlichkeiten und Bank — alles an einem Ort.",
+      "portalList3Title": "MwSt.-Sichtbarkeit",
+      "portalList3Desc": "MwSt.-Positionen und anstehende Verpflichtungen klar einsehen.",
+      "portalList4Title": "Direkte Kommunikation",
+      "portalList4Desc": "Nachrichten an Ihr Buchhaltungsteam direkt im Portal.",
+      "combinedDesc": "Ein verwalteter Buchhaltungsservice mit Echtzeit-Einblicken in Ihr Unternehmen.",
+      "combinedQuote": "\"Sie kümmern sich um alles, und ich kann alles sehen.\""
+    },
+    "video": {
+      "eyebrow": "Sehen Sie, Wie Es Funktioniert",
+      "title": "Sehen Sie, wie VACEI in der Praxis funktioniert",
+      "desc": "Verstehen Sie, wie Ihre Buchhaltung verwaltet wird, wie Ihr Portal funktioniert und wie Sie volle Kontrolle über die Finanzen Ihres Malta-Unternehmens erhalten.",
+      "point1": "Sehen Sie, wie Dokumente hochgeladen und verarbeitet werden",
+      "point2": "Erfahren Sie, wie Ihr Dashboard Echtzeit-Einblicke bietet",
+      "point3": "Sehen Sie, wie Aufgaben und Kommunikation abgewickelt werden",
+      "point4": "Lernen Sie, wie Ihr Buchhaltungsteam alles verwaltet",
+      "note": "Dies ist keine Demo — so wird Ihre Buchhaltung verwaltet."
+    },
+    "features": {
+      "eyebrow": "Was Sie Tatsächlich Erhalten",
+      "title1": "Nicht nur Buchhaltung.",
+      "title2": "Ein klarerer Weg zur Finanzverwaltung.",
+      "desc": "VACEI kombiniert ein engagiertes Buchhaltungsteam mit einem strukturierten Kundenportal. Keine Updates nachjagen. Kein Warten auf Berichte.",
+      "card1Title": "Ausgelagerte Buchhaltung",
+      "card1Desc": "Jede Transaktion wird erfasst, abgestimmt und kontinuierlich gepflegt.",
+      "card2Title": "Managementberichte",
+      "card2Desc": "Klare monatliche Einblicke in Ihre finanzielle Leistung.",
+      "card3Title": "MwSt.-Unterstützung",
+      "card3Desc": "Unterstützung bei der MwSt.-Berichterstattung und Compliance in Malta.",
+      "card4Title": "Portal-Zugang",
+      "card4Desc": "Zugriff auf Forderungen, Verbindlichkeiten, Salden und Trends.",
+      "card5Title": "Bankabstimmungen",
+      "card5Desc": "Regelmäßige Abstimmungen halten Ihre Zahlen genau und aktuell.",
+      "card6Title": "Engagiertes Buchhaltungsteam",
+      "card6Desc": "Ein Team für Ihr Unternehmen, das Ihre Zahlen kennt und verfügbar ist."
+    },
+    "howItWorks": {
+      "eyebrow": "Wie Es Funktioniert",
+      "title": "Drei Schritte zur besseren Buchhaltung",
+      "desc": "Kein langes Onboarding. Keine komplexen Formulare. Keine unnötigen Anrufe.",
+      "step1Title": "Konto erstellen",
+      "step1Desc": "Greifen Sie sofort auf Ihr VACEI-Portal zu.",
+      "step1Micro": "Dauert unter 2 Minuten →",
+      "step2Title": "Angebot anfordern",
+      "step2Desc": "Erzählen Sie uns von Ihrem Unternehmen — erhalten Sie ein Angebot im Portal.",
+      "step2Micro": "Keine Standardpreise →",
+      "step3Title": "Wir erledigen den Rest",
+      "step3Desc": "Ihr Team wird zugewiesen und die Einrichtung beginnt.",
+      "step3Micro": "Vollständig verwaltet ab Tag 1 →"
+    },
+    "portalVisibility": {
+      "eyebrow": "Ihr Dashboard",
+      "title": "Alles, was Sie wissen müssen — immer verfügbar",
+      "desc": "Kein Warten mehr auf Berichte. Keine Unsicherheit mehr. Melden Sie sich an und sehen Sie Ihre Finanzen in Echtzeit.",
+      "list1": "Was Ihrem Unternehmen geschuldet wird",
+      "list2": "Was Ihr Unternehmen schuldet",
+      "list3": "Aktuelle Bankguthaben",
+      "list4": "Eingehende und ausgehende Zahlungen",
+      "list5": "Finanztrends im Zeitverlauf",
+      "list6": "MwSt.-Positionen und Verpflichtungen",
+      "tagline": "Klar. Strukturiert. Immer aktuell."
+    },
+    "pricing": {
+      "eyebrow": "Preise",
+      "title": "Wählen Sie das richtige Support-Level",
+      "desc": "Beginnen Sie mit der Buchhaltung, fügen Sie Abstimmungen und Berichte hinzu, oder lagern Sie Ihre Finanzfunktion über eine Plattform aus.",
+      "from": "Ab",
+      "startingFrom": "Ab",
+      "month": "/Monat",
+      "whatsIncluded": "Was enthalten ist",
+      "bestFor": "Am besten für",
+      "viewAll": "Alle Funktionen ansehen",
+      "notes1": "Alle Pakete beinhalten Zugang zu Ihrem VACEI-Portal für Dokumente, Aufgaben, Kommunikation und Ihre finanzielle Position.",
+      "notes2": "Die endgültigen Preise hängen von Transaktionsvolumen, Bankkonten, MwSt.-Komplexität, Gehaltsabrechnung und Berichtsbedarf ab.",
+      "notes3": "Für Kunden in Malta wird VACEI von A4 Services, einer etablierten Prüfungs- und Wirtschaftsprüfungsgesellschaft, unterstützt.",
+      "ctaTitle": "Nicht sicher, welches Paket am besten passt?",
+      "ctaDesc": "Erstellen Sie Ihr Konto, fordern Sie ein Angebot an und wir empfehlen das richtige Support-Level.",
+      "ctaBtn": "Loslegen & Angebot Anfordern →",
+      "pkg0": {
+        "label": "Vacei Basic",
+        "title": "Vacei Basic",
+        "pos": "Für kleine Unternehmen, die saubere Buchungen und grundlegende Unterstützung benötigen.",
+        "desc": "Für kleine Unternehmen, die saubere Buchungen und grundlegende Unterstützung benötigen.",
+        "bestFor": "Kleine Unternehmen, die saubere Buchungen und grundlegende Unterstützung benötigen.",
+        "cta": "Loslegen",
+        "badge": "",
+        "inc1": "Saubere Buchungen",
+        "inc2": "Grundlegende Unterstützung",
+        "inc3": "Dokumenten-Upload-Center",
+        "inc4": "VACEI-Portalzugang",
+        "inc5": "Monatliches Buchhaltungs-Update"
+      },
+      "pkg1": {
+        "label": "Vacei Core",
+        "title": "Vacei Core",
+        "pos": "Für aktive Unternehmen, die Buchhaltung, MwSt.-Unterstützung, Abstimmungen, Fristenverfolgung und Buchhalterprüfung benötigen.",
+        "desc": "Für aktive Unternehmen, die Buchhaltung, MwSt.-Unterstützung, Abstimmungen, Fristenverfolgung und Buchhalterprüfung benötigen.",
+        "bestFor": "Aktive Unternehmen, die Buchhaltung, MwSt.-Unterstützung, Abstimmungen, Fristenverfolgung und Buchhalterprüfung benötigen.",
+        "cta": "Angebot Anfordern",
+        "badge": "Beliebtestes",
+        "inc1": "Buchhaltung & MwSt.-Unterstützung",
+        "inc2": "Bankabstimmungen",
+        "inc3": "Fristenverfolgung",
+        "inc4": "Buchhalterprüfung",
+        "inc5": "Live-Bank-Feed",
+        "inc6": "Echtzeit-Dashboard",
+        "inc7": "Monatliche Saldenüberprüfung",
+        "inc8": "VACEI-Portalzugang"
+      },
+      "pkg2": {
+        "label": "Vacei Finance Office",
+        "title": "Vacei Finance Office",
+        "pos": "Für wachsende Unternehmen, die Buchhaltung, Gehaltsabrechnung, Management-Reporting, Beratung, Cashflow-Unterstützung und vorrangige Unterstützung benötigen.",
+        "desc": "Für wachsende Unternehmen, die Buchhaltung, Gehaltsabrechnung, Management-Reporting, Beratung, Cashflow-Unterstützung und vorrangige Unterstützung benötigen.",
+        "bestFor": "Wachsende Unternehmen, die Buchhaltung, Gehaltsabrechnung, Management-Reporting, Beratung, Cashflow-Unterstützung und vorrangige Unterstützung benötigen.",
+        "cta": "Angebot Anfordern",
+        "badge": "",
+        "inc1": "Buchhaltung & Gehaltsabrechnung",
+        "inc2": "Management-Reporting",
+        "inc3": "Beratung & vorrangige Unterstützung",
+        "inc4": "Cashflow-Unterstützung",
+        "inc5": "MwSt.-Positionsüberprüfung",
+        "inc6": "Monatliche Zusammenfassung",
+        "inc7": "VACEI-Portalzugang"
+      }
+    },
+    "credibility": {
+      "title": "Unterstützt von A4 Services",
+      "p1": "Für Kunden in Malta wird VACEI von A4 Services, einer etablierten Prüfungs- und Buchhaltungsgesellschaft, unterstützt.",
+      "p2": "Dies bietet professionelle Aufsicht und Erfahrung mit Maltas Compliance-Anforderungen — während VACEI Ihr Hauptportal bleibt."
+    },
+    "testimonial": {
+      "quote": "\"Ich weiß endlich jeden Tag genau, wo mein Unternehmen steht. VACEI hat mir jede Woche Stunden an Zeit zurückgegeben.\"",
+      "author": "— Unternehmer in Malta"
+    },
+    "finalCta": {
+      "eyebrow": "Keine Verpflichtung erforderlich. Starten Sie Ihre Einrichtung in wenigen Minuten.",
+      "title": "Bereit, die Kontrolle über Ihre Buchhaltung zu übernehmen?",
+      "desc": "Erstellen Sie Ihr Konto, greifen Sie auf Ihr Portal zu und fordern Sie Ihr maßgeschneidertes Angebot an – alles in wenigen Minuten.",
+      "btnPrimary": "Loslegen & Angebot anfordern →",
+      "btnGhost": "Zuerst Demo ansehen"
+    },
+    "dashboard": {
+      "cashPosition": "Kassenbestand",
+      "bankReconciled": "Bank abgestimmt",
+      "runway": "Runway",
+      "months": "(Monate)",
+      "currentBurn": "Bei aktuellem Burn",
+      "monitor": "Überwachen",
+      "netProfit": "Nettogewinn",
+      "ytd": "(YTD)",
+      "monthValue": "Monat",
+      "cashFlow": "Cashflow",
+      "forecastPositive": "Prognose positiv",
+      "compliance": "Compliance",
+      "vatQ1": "USt. Q1 2026",
+      "due": "Fällig",
+      "corpTax": "Körperschaftsteuer",
+      "onTrack": "Im Plan",
+      "mgmtAccounts": "BWA / Reports",
+      "ready": "Bereit",
+      "annualReturns": "Jahresabschluss",
+      "filed": "Eingereicht",
+      "next30Days": "Nächste 30 Tage",
+      "forecast": "Prognose",
+      "incoming": "Eingang",
+      "outgoing": "Ausgang",
+      "net": "Netto",
+      "cashDrops": "Bestand sinkt auf",
+      "inDays": "in {{days}} Tagen",
+      "revenueVsExpenses": "Umsatz vs. Ausgaben",
+      "last6Months": "Letzte 6 Monate",
+      "revenue": "Umsatz",
+      "expenses": "Ausgaben",
+      "cashBalance": "Kassenbestand",
+      "risksAlerts": "Risiken & Alarme",
+      "invoicesOverdue": "Rechnungen über 30 Tage überfällig",
+      "totalExposure": "Gesamtrisiko:",
+      "vatPayableHigh": "USt.-Zahllast ungewöhnlich hoch",
+      "aboveAverage": "über Durchschnitt",
+      "missingReceipts": "Transaktionen ohne Beleg",
+      "actionRequired": "Aktion vom Team erforderlich",
+      "mgmtAccountsReady": "Q1 Reports bereit",
+      "availableInPortal": "Im Portal verfügbar",
+      "revenueBreakdown": "Umsatzverteilung",
+      "topClients": "Top-Kunden",
+      "vatPosition": "USt.-Position",
+      "netVatDue": "Netto-USt. fällig — Q1",
+      "vatCollected": "USt. vereinnahmt",
+      "vatReclaimable": "Vorsteuer abziehbar",
+      "netDue": "Netto fällig",
+      "booksReconciled": "Bücher abgestimmt",
+      "teamActive": "Team aktiv",
+      "updatedToday": "Heute aktualisiert",
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mär",
+      "apr": "Apr",
+      "may": "Mai",
+      "jun": "Jun",
+      "nov": "Nov",
+      "dec": "Dez"
+    }
+  }
+}

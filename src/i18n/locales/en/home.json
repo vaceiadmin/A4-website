@@ -1,0 +1,382 @@
+{
+  "hero": {
+    "titleLine1": "The operating system",
+    "titleLine2": "for your back office.",
+    "titleHighlight": "Everything handled.",
+    "body": "We handle incorporation, bookkeeping, audit, tax, legal, payroll, and compliance — all on one structured platform, with a dedicated team and real-time visibility so you can focus on growing your business.",
+    "body2": "",
+    "quoteCta": "Get Started",
+    "demoCta": "Book a Call",
+    "benefit1": "Dedicated Expert",
+    "benefit2": "One Platform",
+    "benefit3": "Real-time Visibility",
+    "serviceStrip": {
+      "bookkeeping": "Bookkeeping",
+      "audit": "Audit",
+      "payroll": "Payroll",
+      "incorporation": "Incorporation"
+    },
+    "marquee": [
+      "Incorporation",
+      "Bookkeeping",
+      "Audit",
+      "Tax",
+      "Legal",
+      "Payroll",
+      "Compliance",
+      "Global Network",
+      "Direct Support"
+    ],
+    "trustStrip": "One team. One platform. Everything handled.",
+    "trustPillLabels": ["One Team", "One Platform", "Everything Handled"]
+  },
+  "interactiveBlock": {
+    "title": "Create your account in 2 minutes",
+    "companyNameLabel": "Company Name",
+    "countryLabel": "Country",
+    "servicesLabel": "Services Needed",
+    "cta": "Create Your Portal",
+    "secondaryCta": "Talk to our team",
+    "microcopy": [
+      "Takes 2 minutes",
+      "No commitment required",
+      "Receive your quote within 24 hours"
+    ],
+    "typeDemo": {
+      "companyName": "Acme Global Ltd",
+      "country": "United Arab Emirates",
+      "services": "Accounting & Bookkeeping"
+    }
+  },
+  "coreStatement": {
+    "text": "We manage everything your business needs — from incorporation to compliance — anywhere in the world.",
+    "bullets": [
+      "A dedicated team",
+      "A one-to-one expert",
+      "Your own structured portal",
+      "Full visibility across everything"
+    ]
+  },
+  "valueSection": {
+    "title": "We don’t just provide services — we give you control",
+    "bullets": [
+      "Real-time financial data on your dashboard",
+      "Continuously updated bookkeeping",
+      "Full visibility over audit workflows",
+      "Tracked filings, milestones, and deadlines",
+      "Direct access to your dedicated team",
+      "The ability to schedule calls anytime"
+    ],
+    "footer": "So you always know what’s happening — without chasing anyone."
+  },
+  "keyBenefits": {
+    "title": "Everything you need to run your business — without complexity",
+    "items": [
+      {
+        "title": "Track your business in real time",
+        "desc": "No waiting. No uncertainty. Full visibility at all times."
+      },
+      {
+        "title": "Stay compliant automatically",
+        "desc": "Deadlines, filings, and obligations are tracked and managed."
+      },
+      {
+        "title": "Save more on tax",
+        "desc": "Structured setups and ongoing optimisation help you keep more."
+      },
+      {
+        "title": "Make better decisions",
+        "desc": "Clear data and expert support — when you need it."
+      }
+    ]
+  },
+  "positioningLine": {
+    "text": "You shouldn’t need multiple providers to manage one business."
+  },
+  "whatYouGet": {
+    "title": "A managed system — not just disconnected services",
+    "badge": "Digital ecosystem",
+    "highlight": "Everything handled.",
+    "cardBody": "Fully integrated into your VACEI workspace for visibility and control.",
+    "cardMeta": "Modular service",
+    "items": [
+      "Dedicated team assigned to your business",
+      "One-to-one expert support",
+      "Your own portal to manage everything",
+      "In-house bookkeeping with real-time updates",
+      "Audit workflows with full visibility",
+      "Tax and compliance management",
+      "Payroll support",
+      "Milestones and progress tracking",
+      "Automated deadline monitoring",
+      "Direct chat with your team",
+      "Call scheduling anytime"
+    ],
+    "footer": "You’re not hiring separate providers — you’re upgrading how your business is managed."
+  },
+  "flexibility": {
+    "title": "Use exactly what you need",
+    "options": [
+      "Use all services",
+      "Or only specific ones"
+    ],
+    "advisorsHeadline": "Already working with an accountant or lawyer?",
+    "advisorsBody": "Bring your existing advisors into your portal and manage everything in one place.",
+    "advisorsNote": "(Available under a monthly platform option)"
+  },
+  "processSteps": {
+    "badge": "How It Works",
+    "title": "Simple. Structured. Fast.",
+    "sidebarSteps": [
+      {
+        "title": "Create your account",
+        "description": "Your portal is ready instantly"
+      },
+      {
+        "title": "Request services",
+        "description": "Tell us what your business needs"
+      },
+      {
+        "title": "Schedule a call (if needed)",
+        "description": "Speak directly with your team"
+      },
+      {
+        "title": "Receive your quote",
+        "description": "Delivered within 24 hours"
+      },
+      {
+        "title": "Start and track everything",
+        "description": "We handle it — you stay in control"
+      }
+    ],
+    "columnTitle": "Step-by-Step",
+    "columnHeadingLine1": "Simple.",
+    "columnMid": "Structured.",
+    "columnHeadingAccent": "Fast.",
+    "columnBody": "Follow these steps to migrate your business management to VACEI.",
+    "back": "Back",
+    "submitting": "Submitting...",
+    "nextStepFallback": "Next Step",
+    "platformPowerLabel": "Platform Power",
+    "platformPowerLine1": "Everything runs through one platform.",
+    "platformPowerLine2": "Real-time visibility for your whole team.",
+    "registerDirectly": "Register Directly",
+    "subjectLine": "New Service Quote Request",
+    "errors": {
+      "fieldRequired": "{{field}} is required",
+      "invalidEmail": "Invalid email address",
+      "phoneRequired": "Phone number is required",
+      "generic": "Something went wrong. Please try again."
+    },
+    "success": {
+      "title": "Request Received",
+      "body": "Your dedicated expert will review your request and reach out shortly.",
+      "newRequest": "Submit Another Request",
+      "registerNow": "Visit Portal"
+    },
+    "form": {
+      "request": {
+        "title": "Tell us about you",
+        "subtitle": "Briefly describe your business needs.",
+        "fields": {
+          "name": { "label": "Full Name", "placeholder": "Your name" },
+          "email": { "label": "Work Email", "placeholder": "email@company.com" },
+          "message": { "label": "Business Overview", "placeholder": "Briefly describe your company operations..." }
+        },
+        "primaryLabel": "Next: Services"
+      },
+      "onboarding": {
+        "title": "Select Services",
+        "subtitle": "Which area of your business needs management?",
+        "fields": {
+          "service": { "label": "Required Services", "placeholder": "Select one or more..." },
+          "additionalDetails": { "label": "Specific Requirements", "placeholder": "Any specific jurisdictions or complexity we should know about?" }
+        },
+        "primaryLabel": "Next: Communication"
+      },
+      "preferences": {
+        "title": "Final Details",
+        "subtitle": "How would you like us to contact you?",
+        "fields": {
+          "communicationChannel": { "label": "Preferred Channel", "placeholder": "Email/WhatsApp/Call" },
+          "updateCadence": { "label": "Update Cadence", "placeholder": "Weekly/Monthly/On-demand" },
+          "phone": { "label": "WhatsApp/Phone Number", "placeholder": "+1..." }
+        },
+        "primaryLabel": "Submit Quote Request"
+      }
+    },
+    "communicationOptions": ["Email", "WhatsApp", "Call", "Video Call"],
+    "updateOptions": ["Weekly", "Bi-weekly", "Monthly", "Real-time"]
+  },
+  "globalDelivery": {
+    "badge": "Global Reach",
+    "title": "Operate anywhere — without complexity",
+    "body": "All services are delivered through a global network of verified professional firms.",
+    "bullets": [
+      "Local expertise in each country",
+      "Standardised workflows",
+      "One coordinated system"
+    ],
+    "footer": "You don’t manage multiple providers — we coordinate everything."
+  },
+  "realTimeControl": {
+    "title": "Know exactly where you stand — at all times",
+    "subtitle": "Inside your portal:",
+    "items": [
+      "real-time financial dashboard",
+      "bookkeeping updates",
+      "audit progress",
+      "tax filings and deadlines",
+      "payroll tracking",
+      "document management",
+      "service requests",
+      "call scheduling",
+      "direct communication with your team"
+    ],
+    "footer": "Everything in one place. No confusion."
+  },
+  "beforeAfter": {
+    "badge": "Infrastructure Upgrade",
+    "titleLine1": "From fragmented to ",
+    "titleHighlight": "fully structured",
+    "subtitle": "Moving from disconnected providers to one unified system.",
+    "beforeTitle": "Before",
+    "afterTitle": "After",
+    "beforeItems": [
+      "multiple providers",
+      "no visibility",
+      "constant follow-ups",
+      "missed deadlines"
+    ],
+    "afterItems": [
+      "one platform",
+      "one dedicated team",
+      "one-to-one expert",
+      "real-time data",
+      "everything tracked"
+    ],
+    "beforeGifAlt": "Frustrated with fragmented providers",
+    "afterGifAlt": "Success with unified platform",
+    "hoverPlayDesktop": "Hover to Play",
+    "hoverPlayMobile": "Tap to Play",
+    "footerLine": "Upgrade how your business is managed."
+  },
+  "twoWaysToStart": {
+    "badge": "Two ways to start",
+    "titleLine1": "Pick your path —",
+    "titleHighlight": "one workspace",
+    "subtitle": "Request services from the marketplace or invite your existing advisors. Both flows stay connected in the same portal.",
+    "spotlightBadge": "Workspace preview",
+    "spotlightTitle": "Invite advisors in a few clicks",
+    "spotlightBody": "Secure invites, clear roles, and a shared space for documents and updates — so nothing gets lost between firms.",
+    "spotlightBullets": [
+      "Role-based access",
+      "Shared document vault",
+      "Full activity history"
+    ],
+    "videoAlt": "Inviting an advisor in the VACEI workspace",
+    "cta": "Open your portal"
+  },
+  "conversion": {
+    "title": "Create your portal and get started",
+    "body": "Set up your account, request services, and receive your quote within 24 hours.",
+    "cta": "Create Your Portal"
+  },
+  "callOption": {
+    "title": "Prefer to speak with us?",
+    "body": "Schedule a call with your team anytime.",
+    "cta": "Schedule a Call"
+  },
+  "finalSection": {
+    "title": "Everything your business needs — managed in one place",
+    "body": "From incorporation to bookkeeping, audit, tax, payroll, and compliance — everything runs through one platform with full visibility.",
+    "note": "Use all services or only what you need.",
+    "finalLine": "One team. One platform. Real-time visibility. Everything handled."
+  },
+  "activeEU": {
+    "badge": "International Reach",
+    "titleLine1": "A structured gateway ",
+    "titleHighlight": "to Europe.",
+    "body": "VACEI provides the digital environment for international businesses and founders to incorporate, manage, and scale their European operations with confidence.",
+    "chips": ["27 Countries", "Unified API", "Local Experts"],
+    "hubAlt": "VACEI Hub"
+  },
+  "workspaceEntry": {
+    "sectionTitleLine1": "One workspace for your business —",
+    "sectionTitleHighlight": "and all your services",
+    "sectionBody": "Managing accounting, audit, legal, and compliance shouldn’t be fragmented.\n\nVACEI brings everything into one structured platform — where your services, documents, and deadlines are managed in one place.\n\nNo emails. No scattered files. No uncertainty.",
+    "activeEntities": "Active Entities",
+    "card1TitleBefore": "Your business — ",
+    "card1TitleAccent": "fully organised",
+    "card1Body": "Create a workspace for your business and manage everything in one place.\n\nYour services, documents, and advisors are structured through one platform — giving you full control without complexity.",
+    "card1CoordinationNote": "All services are coordinated through VACEI and delivered through a network of trusted firms.",
+    "whatYouCanDo": "What you can do",
+    "card1Bullets": [
+      "Full visibility over engagements",
+      "Centralised document management",
+      "Real-time tracking of deadlines"
+    ],
+    "createWorkspaceCta": "Create Workspace",
+    "oneClickSync": "One-click Sync",
+    "newFounders": "New Founders",
+    "card2Title": "Start your company and ",
+    "card2TitleAccent": "scale from day one.",
+    "card2Body": "Set up your company and centralise incorporation, approvals, compliance, and ongoing support in the same workspace you will use to run the business.",
+    "startIncorporationCta": "Start Incorporation",
+    "bookConsultationCta": "Book a Consultation",
+    "card1MicroLabel": "System integration",
+    "card1MicroAccent": "Operational workspace",
+    "card2MicroLabel": "Expansion engine",
+    "card2MicroAccent": "New venture launch",
+    "keyCapabilitiesHeading": "Key capabilities",
+    "builderBadge": "Builder package",
+    "builderDescription": "Complete incorporation, structural setup, and compliance ready in one unified package."
+  },
+  "insightsResources": {
+    "badge": "INSIGHTS & RESOURCES",
+    "titleLine1": "Practical insights",
+    "titleHighlight": "for modern businesses",
+    "subtitle": "Explore short videos, guides, and articles on accounting, audit, compliance, and business operations — designed to help businesses stay organised, informed, and ready to scale.",
+    "viewAll": "View all resources",
+    "watchVideo": "Watch video",
+    "readMore": "Read more",
+    "articleType": "Article",
+    "noPosts": "No insights published yet.",
+    "videoModalEyebrow": "VACEI insights",
+    "videoModalHint": "Select a video to play",
+    "videoNowPlaying": "Now playing",
+    "videoModalCloseAria": "Close video",
+    "videoPlaylist": [
+      { "title": "The Modern Business" },
+      { "title": "How AI Actually Improves Work-Life Balance" }
+    ],
+    "resources": [
+      {
+        "type": "Article",
+        "category": "Audit & Accounting",
+        "title": "How to prepare your business for a seamless audit",
+        "desc": "Discover the exact documents, workflows, and timelines required to navigate the audit process without friction."
+      },
+      {
+        "type": "Video",
+        "category": "Insights",
+        "title": "Two short explainers from Vacei",
+        "desc": "What breaks when scaling without the right foundations, and how AI can meaningfully ease pressure on teams—pick a track in the playlist below."
+      },
+      {
+        "type": "Guide",
+        "category": "Business Operations",
+        "title": "The ultimate checklist for scaling your operations",
+        "desc": "Use this comprehensive checklist to ensure your legal, accounting, and operational infrastructure is ready to scale."
+      }
+    ]
+  },
+  "footerCta": {
+    "badge": "Infrastructure Upgrade",
+    "titleLine1": "Stop managing multiple providers.",
+    "titleHighlight": "Everything handled.",
+    "body": "Set up your portal today and get a clear, structured quote for your business within 24 hours.",
+    "quoteCta": "Get Your Quote",
+    "demoCta": "Book a Demo"
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "pricing": {
+    "hero": {
+      "badge": "Tarification Transparente",
+      "title": "Juste, transparente et adaptée à vos besoins",
+      "p1": "Chez VACEI, nous ne croyons pas aux tarifs standardisés. Chaque entreprise est unique, et votre tarification doit refléter le travail réellement effectué.",
+      "p2": "Nous fournissons des devis personnalisés basés sur le périmètre, la complexité et les exigences — sans frais cachés et sans obligation de procéder.",
+      "checklist": [
+        "Aucun Forfait Fixe",
+        "Aucun Frais Caché",
+        "Communication Claire"
+      ],
+      "card": {
+        "badge": "Devis Personnalisé",
+        "title": "Votre Tarification Sur Mesure",
+        "rows": [
+          "Évaluation du périmètre",
+          "Analyse de la complexité",
+          "Évaluation du volume",
+          "Considération du risque"
+        ],
+        "footer": "Transparent & Juste"
+      }
+    },
+    "factors": {
+      "badge": "Facteurs de Prix",
+      "title": "Comment le prix est déterminé",
+      "subtitle": "La tarification chez VACEI repose sur une évaluation structurée de plusieurs facteurs. Ces facteurs nous permettent de définir clairement le périmètre et d'éviter les surprises ultérieures.",
+      "keyInsight": "Aperçu clé",
+      "factorLabel": "Facteur {{id}}",
+      "viewingFactor": "Consulter le facteur {{current}} sur {{total}}",
+      "tip": "💡 Conseil :",
+      "tipBody": "Cliquez sur n'importe quelle carte de facteur ci-dessus pour découvrir plus de détails",
+      "items": [
+        {
+          "title": "Périmètre de Travail",
+          "shortDesc": "Le facteur le plus important dans la tarification est le périmètre.",
+          "details": [
+            "Services requis",
+            "Livrables attendus",
+            "Niveau d'implication nécessaire",
+            "Travail continu vs ponctuel"
+          ],
+          "highlight": "Un périmètre clair permet de définir le prix de manière précise et prévisible."
+        },
+        {
+          "title": "Taille & Structure de l'Entreprise",
+          "shortDesc": "La tarification tient compte de la taille et de la structure de l'entreprise.",
+          "details": [
+            "Nombre d'entités concernées",
+            "Structure de groupe ou autonome",
+            "Juridictions d'exploitation",
+            "Complexité de l'actionnariat ou de la gouvernance"
+          ],
+          "highlight": "Des structures plus complexes nécessitent généralement une coordination et une surveillance accrues."
+        },
+        {
+          "title": "Volume & Niveaux d'Activité",
+          "shortDesc": "Pour les services opérationnels, le prix est influencé par les niveaux d'activité.",
+          "details": [
+            "Volumes de transactions",
+            "Nombre d'enregistrements traités",
+            "Fréquence des rapports",
+            "Nombre de dépôts ou de soumissions"
+          ],
+          "highlight": "Des volumes plus élevés ou des rapports plus fréquents augmentent le travail nécessaire."
+        },
+        {
+          "title": "Réglementation & Conformité",
+          "shortDesc": "Certains services sont soumis à des exigences réglementaires plus élevées.",
+          "details": [
+            "Cadres réglementaires applicables",
+            "Activités sous licence ou réglementées",
+            "Obligations d'audit ou de reporting",
+            "Exigences spécifiques aux juridictions"
+          ],
+          "highlight": "Ces facteurs affectent le niveau de documentation, de revue et de surveillance."
+        },
+        {
+          "title": "Risque & Responsabilité",
+          "shortDesc": "La responsabilité professionnelle et le risque sont pris en compte.",
+          "details": [
+            "Nature du travail effectué",
+            "Niveau de jugement requis",
+            "Exigences de revue et d'approbation",
+            "Exposition au risque réglementaire ou professionnel"
+          ],
+          "highlight": "Les missions à haut risque nécessitent des contrôles et des revues supplémentaires."
+        },
+        {
+          "title": "Durée & Calendrier",
+          "shortDesc": "La tarification considère également le calendrier et la durée de la mission.",
+          "details": [
+            "Durée de la mission",
+            "Travail récurrent ou ponctuel",
+            "Urgence ou échéances fixes",
+            "Exigences saisonnières ou critiques en temps"
+          ],
+          "highlight": "Les missions critiques en temps ou de longue durée peuvent nécessiter des structures de prix différentes."
+        }
+      ]
+    },
+    "overview": {
+      "badge": "Modèles de Tarification des Services",
+      "title": "Explorez nos catégories de services",
+      "subtitle": "Chaque service est facturé en fonction de vos besoins spécifiques. Parcourez nos catégories pour comprendre les modèles types.",
+      "tabs": [
+        "Essentials",
+        "Strategic",
+        "Corporate"
+      ],
+      "pricingModelLabel": "Modèle de Tarification",
+      "contactCard": {
+        "title": "Besoin d'un devis ?",
+        "description": "Obtenez une proposition personnalisée basée sur vos besoins exacts.",
+        "cta": "Obtenir un devis"
+      },
+      "essentials": [
+        {
+          "title": "Comptabilité & Finance",
+          "intro": "Gestion financière de base.",
+          "scope": "Frais mensuels basés sur le volume",
+          "features": [
+            "Tenue de livres mensuelle",
+            "Conformité TVA & fiscale",
+            "Reporting de gestion",
+            "Configuration Xero / QuickBooks"
+          ],
+          "highlight": true
+        },
+        {
+          "title": "Fiscalité & Conformité",
+          "intro": "Restez en conformité.",
+          "scope": "Fixe annuel ou mensuel",
+          "features": [
+            "Déclarations d'impôt sur les sociétés",
+            "Déclarations de TVA",
+            "Gestion de la paie",
+            "Liaison réglementaire"
+          ],
+          "highlight": false
+        }
+      ],
+      "strategic": [
+        {
+          "title": "Audit & Assurance",
+          "intro": "Audits légaux rigoureux.",
+          "scope": "Devis par mission",
+          "features": [
+            "Audit financier légal",
+            "Revue des contrôles internes",
+            "Évaluation des risques",
+            "Assurance de conformité"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Conseil & Croissance",
+          "intro": "Faites évoluer votre entreprise.",
+          "scope": "Projet ou forfait",
+          "features": [
+            "Modélisation financière",
+            "Support M&A",
+            "Optimisation du cash-flow",
+            "Planification stratégique"
+          ],
+          "highlight": true
+        }
+      ],
+      "corporate": [
+        {
+          "title": "Services aux Entreprises",
+          "intro": "Administration de société.",
+          "scope": "Frais annuels et par projet",
+          "features": [
+            "Constitution de société",
+            "Siège social",
+            "Secrétariat juridique",
+            "Transferts de parts"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Licences & Réglementé",
+          "intro": "Autorisations complexes.",
+          "scope": "Basé sur le projet",
+          "features": [
+            "Demandes de licences",
+            "Reporting réglementaire",
+            "Suivi de la conformité",
+            "Correspondance administrative"
+          ],
+          "highlight": true
+        }
+      ]
+    },
+    "quoteProcess": {
+      "badge": "Processus de Devis",
+      "title": "Comment fonctionnent les devis",
+      "subtitle": "Un processus simple et transparent de la discussion initiale au prix confirmé.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Discussion Initiale",
+          "description": "Partagez vos besoins et le contexte de votre entreprise avec notre équipe."
+        },
+        {
+          "number": "02",
+          "title": "Évaluation du Périmètre",
+          "description": "Nous revoyons vos besoins et évaluons le périmètre, la complexité et les exigences."
+        },
+        {
+          "number": "03",
+          "title": "Devis Clair Fourni",
+          "description": "Recevez un devis détaillé précisant les services, le périmètre, la structure de prix et les hypothèses."
+        },
+        {
+          "number": "04",
+          "title": "Révision & Confirmation",
+          "description": "Consultez la proposition à votre rythme. Aucune pression, aucune obligation de procéder."
+        }
+      ],
+      "includesBadge": "Ce qui est inclus",
+      "everyTitle": "Chaque devis précise",
+      "everyBody": "Une fois les informations initiales revues, VACEI fournit un devis clair garantissant une compréhension totale avant le début des travaux.",
+      "quoteIncludes": [
+        "Services inclus",
+        "Périmètre convenu",
+        "Structure de prix",
+        "Hypothèses ou dépendances",
+        "Calendrier et livrables",
+        "Conditions générales"
+      ],
+      "mockTitle": "Devis de Service",
+      "mockSubtitle": "Proposition Personnalisée",
+      "mockFooter": "Prix confirmé avant le début des travaux",
+      "scopeTitle": "Changements de Périmètre",
+      "scopeBody": "Si le périmètre change en cours de mission, le prix est discuté et convenu avant l'exécution de tout travail supplémentaire. Nous prônons la transparence totale à chaque étape."
+    },
+    "whatToExpect": {
+      "badge": "Notre Engagement",
+      "title": "À quoi s'attendre",
+      "subtitle": "En travaillant avec VACEI, notre objectif est de garantir que le prix reflète le travail requis et reste prévisible tout au long de la mission.",
+      "items": [
+        {
+          "title": "Discussions de prix claires dès le départ",
+          "description": "Nous abordons les tarifs ouvertement dès le début pour que vous compreniez comment les coûts sont déterminés."
+        },
+        {
+          "title": "Aucun frais caché",
+          "description": "Tous les coûts sont précisés clairement dans votre devis. Ce que vous voyez est ce que vous payez."
+        },
+        {
+          "title": "Aucune facturation inattendue",
+          "description": "Vous ne recevrez pas de factures surprises. Tout changement de périmètre est discuté et convenu à l'avance."
+        },
+        {
+          "title": "Communication transparente",
+          "description": "Si les besoins évoluent, nous communiquons ouvertement et ajustons les tarifs en conséquence."
+        }
+      ],
+      "bottomTitle": "Une Tarification qui vous convient",
+      "bottomBody": "Notre approche garantit que vous ne payez que pour les services dont vous avez besoin, avec une clarté totale sur ce qui est inclus. Pas de surprises, pas de frais cachés — juste un service professionnel et honnête.",
+      "chips": [
+        "Prix Justes",
+        "Transparence Totale",
+        "Coûts Prévisibles"
+      ]
+    },
+    "cta": {
+      "badge": "Commencer Dès Aujourd'hui",
+      "title": "Prêt à discuter de vos tarifs ?",
+      "body": "Pour comprendre comment nos tarifs s'appliquent à votre situation spécifique, demandez un devis ou discutez de vos besoins avec notre équipe.",
+      "requestQuote": "Demander un Devis",
+      "discussNeeds": "Discuter de vos Besoins",
+      "responseLabel": "Temps de Réponse",
+      "responseValue": "Sous 24 heures",
+      "commitmentLabel": "Engagement",
+      "commitmentValue": "Sans engagement",
+      "floatSteps": [
+        {
+          "step": "Étape 1",
+          "label": "Devis"
+        },
+        {
+          "step": "Étape 2",
+          "label": "Discussion"
+        },
+        {
+          "step": "Étape 3",
+          "label": "Démarrer"
+        }
+      ]
+    }
+  }
+}

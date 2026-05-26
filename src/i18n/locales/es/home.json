@@ -1,0 +1,775 @@
+{
+  "hero": {
+    "titleLine1": "El sistema operativo",
+    "titleLine2": "para su back office.",
+    "titleHighlight": "Todo bajo control.",
+    "body": "Nos encargamos de constitución, contabilidad, auditoría, impuestos, legal, nóminas y cumplimiento — todo en una plataforma estructurada, con un equipo dedicado y visibilidad en tiempo real, para que pueda centrarse en hacer crecer su negocio.",
+    "body2": "",
+    "quoteCta": "Empezar",
+    "demoCta": "Reservar una llamada",
+    "benefit1": "Experto dedicado",
+    "benefit2": "Una plataforma",
+    "benefit3": "Visibilidad en tiempo real",
+    "serviceStrip": {
+      "bookkeeping": "Contabilidad",
+      "audit": "Auditoría",
+      "payroll": "Nóminas",
+      "incorporation": "Constitución"
+    },
+    "marquee": [
+      "Constitución",
+      "Contabilidad",
+      "Auditoría",
+      "Impuestos",
+      "Legal",
+      "Nóminas",
+      "Cumplimiento",
+      "Red global",
+      "Soporte directo"
+    ],
+    "trustStrip": "Un equipo. Una plataforma. Todo bajo control.",
+    "trustPillLabels": [
+      "Un equipo",
+      "Una plataforma",
+      "Todo bajo control"
+    ]
+  },
+  "interactiveBlock": {
+    "title": "Cree su cuenta en 2 minutos",
+    "companyNameLabel": "Nombre de la empresa",
+    "countryLabel": "País",
+    "servicesLabel": "Servicios necesarios",
+    "cta": "Cree su portal",
+    "secondaryCta": "Hable con nuestro equipo",
+    "microcopy": [
+      "Solo 2 minutos",
+      "Sin compromiso",
+      "Presupuesto en 24 horas"
+    ]
+  },
+  "coreStatement": {
+    "text": "Gestionamos todo lo que su negocio necesita — desde la constitución hasta el cumplimiento — en cualquier parte del mundo.",
+    "bullets": [
+      "Un equipo dedicado",
+      "Un experto asignado",
+      "Su propio portal estructurado",
+      "Visibilidad completa de todo"
+    ]
+  },
+  "valueSection": {
+    "title": "No solo prestamos servicios — le damos control",
+    "bullets": [
+      "Datos financieros en tiempo real en su panel",
+      "Contabilidad actualizada de forma continua",
+      "Visibilidad total sobre los flujos de auditoría",
+      "Presentaciones, hitos y plazos rastreados",
+      "Acceso directo a su equipo dedicado",
+      "Posibilidad de programar llamadas en cualquier momento"
+    ],
+    "footer": "Así siempre sabe qué ocurre — sin perseguir a nadie."
+  },
+  "keyBenefits": {
+    "title": "Todo lo que necesita para gestionar su negocio — sin complejidad innecesaria",
+    "items": [
+      {
+        "title": "Siga su negocio en tiempo real",
+        "desc": "Sin esperas. Sin incertidumbre. Visibilidad total en todo momento."
+      },
+      {
+        "title": "Cumpla la normativa automáticamente",
+        "desc": "Plazos, presentaciones y obligaciones se rastrean y gestionan."
+      },
+      {
+        "title": "Ahorre más en impuestos",
+        "desc": "Estructuras claras y optimización continua le ayudan a retener más."
+      },
+      {
+        "title": "Tome mejores decisiones",
+        "desc": "Datos claros y apoyo experto — cuando lo necesite."
+      }
+    ]
+  },
+  "positioningLine": {
+    "text": "No debería necesitar varios proveedores para gestionar un solo negocio."
+  },
+  "whatYouGet": {
+    "title": "Un sistema gestionado — no solo servicios sueltos",
+    "badge": "Ecosistema digital",
+    "highlight": "Todo bajo control.",
+    "cardBody": "Totalmente integrado en su espacio de trabajo VACEI para visibilidad y control.",
+    "cardMeta": "Servicio modular",
+    "items": [
+      "Equipo dedicado a su negocio",
+      "Apoyo experto uno a uno",
+      "Su propio portal para gestionarlo todo",
+      "Contabilidad interna con actualizaciones en tiempo real",
+      "Flujos de auditoría con visibilidad total",
+      "Gestión fiscal y de cumplimiento",
+      "Soporte de nóminas",
+      "Hitos y seguimiento del progreso",
+      "Monitorización automática de plazos",
+      "Chat directo con su equipo",
+      "Programación de llamadas en cualquier momento"
+    ],
+    "footer": "No contrata proveedores sueltos — mejora cómo se gestiona su negocio."
+  },
+  "flexibility": {
+    "title": "Use exactamente lo que necesita",
+    "options": [
+      "Todos los servicios",
+      "O solo algunos"
+    ],
+    "advisorsHeadline": "¿Ya trabaja con un contable o abogado?",
+    "advisorsBody": "Traiga a sus asesores actuales al portal y gestione todo en un solo lugar.",
+    "advisorsNote": "(Disponible en una opción mensual de plataforma)"
+  },
+  "processSteps": {
+    "badge": "Cómo funciona",
+    "title": "Simple. Estructurado. Rápido.",
+    "sidebarSteps": [
+      {
+        "title": "Cree su cuenta",
+        "description": "Su portal está listo al instante"
+      },
+      {
+        "title": "Solicite servicios",
+        "description": "Díganos qué necesita su negocio"
+      },
+      {
+        "title": "Programe una llamada (si hace falta)",
+        "description": "Hable directamente con su equipo"
+      },
+      {
+        "title": "Reciba su presupuesto",
+        "description": "En un plazo de 24 horas"
+      },
+      {
+        "title": "Empiece y siga todo",
+        "description": "Nosotros ejecutamos — usted mantiene el control"
+      }
+    ],
+    "columnTitle": "Paso a paso",
+    "columnHeadingLine1": "Simple.",
+    "columnMid": "Estructurado.",
+    "columnHeadingAccent": "Rápido.",
+    "columnBody": "Siga estos pasos para pasar la gestión de su negocio a VACEI.",
+    "back": "Atrás",
+    "submitting": "Enviando...",
+    "nextStepFallback": "Siguiente paso",
+    "platformPowerLabel": "Potencia de la plataforma",
+    "platformPowerLine1": "Todo pasa por una sola plataforma.",
+    "platformPowerLine2": "Visibilidad en tiempo real para todo su equipo.",
+    "registerDirectly": "Registrarse directamente",
+    "subjectLine": "Nueva solicitud de presupuesto de servicio",
+    "errors": {
+      "fieldRequired": "{{field}} es obligatorio",
+      "invalidEmail": "Correo electrónico no válido",
+      "phoneRequired": "El teléfono es obligatorio",
+      "generic": "Algo salió mal. Inténtelo de nuevo."
+    },
+    "success": {
+      "title": "Solicitud recibida",
+      "body": "Su experto dedicado revisará la solicitud y se pondrá en contacto pronto.",
+      "newRequest": "Enviar otra solicitud",
+      "registerNow": "Ir al portal"
+    },
+    "form": {
+      "request": {
+        "title": "Cuéntenos sobre usted",
+        "subtitle": "Describa brevemente sus necesidades.",
+        "fields": {
+          "name": {
+            "label": "Nombre completo",
+            "placeholder": "Su nombre"
+          },
+          "email": {
+            "label": "Correo de trabajo",
+            "placeholder": "email@empresa.com"
+          },
+          "message": {
+            "label": "Resumen del negocio",
+            "placeholder": "Describa brevemente su actividad..."
+          }
+        },
+        "primaryLabel": "Siguiente: servicios"
+      },
+      "onboarding": {
+        "title": "Seleccionar servicios",
+        "subtitle": "¿Qué área de su negocio debe gestionarse?",
+        "fields": {
+          "service": {
+            "label": "Servicios requeridos",
+            "placeholder": "Seleccione uno o más..."
+          },
+          "additionalDetails": {
+            "label": "Requisitos específicos",
+            "placeholder": "¿Jurisdicciones o complejidad a tener en cuenta?"
+          }
+        },
+        "primaryLabel": "Siguiente: contacto"
+      },
+      "preferences": {
+        "title": "Últimos detalles",
+        "subtitle": "¿Cómo desea que le contactemos?",
+        "fields": {
+          "communicationChannel": {
+            "label": "Canal preferido",
+            "placeholder": "Correo/WhatsApp/Llamada"
+          },
+          "updateCadence": {
+            "label": "Frecuencia de actualizaciones",
+            "placeholder": "Semanal/Mensual/Bajo demanda"
+          },
+          "phone": {
+            "label": "WhatsApp/Teléfono",
+            "placeholder": "+34..."
+          }
+        },
+        "primaryLabel": "Enviar solicitud de presupuesto"
+      }
+    },
+    "communicationOptions": [
+      "Correo",
+      "WhatsApp",
+      "Llamada",
+      "Videollamada"
+    ],
+    "updateOptions": [
+      "Semanal",
+      "Quincenal",
+      "Mensual",
+      "Tiempo real"
+    ]
+  },
+  "globalDelivery": {
+    "badge": "Alcance global",
+    "title": "Opere en cualquier lugar — sin complejidad",
+    "body": "Todos los servicios se entregan a través de una red global de firmas profesionales verificadas.",
+    "bullets": [
+      "Experiencia local en cada país",
+      "Flujos de trabajo estandarizados",
+      "Un sistema coordinado"
+    ],
+    "footer": "No gestiona múltiples proveedores — nosotros coordinamos todo."
+  },
+  "realTimeControl": {
+    "title": "Sepa exactamente en qué situación está — siempre",
+    "subtitle": "Dentro de su portal:",
+    "items": [
+      "panel financiero en tiempo real",
+      "actualizaciones de contabilidad",
+      "progreso de auditoría",
+      "declaraciones fiscales y plazos",
+      "seguimiento de nóminas",
+      "gestión documental",
+      "solicitudes de servicio",
+      "programación de llamadas",
+      "comunicación directa con su equipo"
+    ],
+    "footer": "Todo en un solo lugar. Sin confusiones."
+  },
+  "beforeAfter": {
+    "badge": "Actualización de infraestructura",
+    "titleLine1": "De fragmentado a ",
+    "titleHighlight": "totalmente estructurado",
+    "subtitle": "Pasando de proveedores desconectados a un sistema unificado.",
+    "beforeTitle": "Antes",
+    "afterTitle": "Después",
+    "beforeItems": [
+      "varios proveedores",
+      "sin visibilidad",
+      "seguimiento constante",
+      "plazos perdidos"
+    ],
+    "afterItems": [
+      "una plataforma",
+      "un equipo dedicado",
+      "un experto asignado",
+      "datos en tiempo real",
+      "todo rastreado"
+    ],
+    "beforeGifAlt": "Frustración con proveedores fragmentados",
+    "afterGifAlt": "Éxito con plataforma unificada",
+    "hoverPlayDesktop": "Pase el cursor para reproducir",
+    "hoverPlayMobile": "Toque para reproducir",
+    "footerLine": "Mejore cómo se gestiona su negocio."
+  },
+  "twoWaysToStart": {
+    "badge": "Dos formas de empezar",
+    "titleLine1": "Elija su camino —",
+    "titleHighlight": "un solo espacio",
+    "subtitle": "Solicite servicios en el marketplace o invite a sus asesores actuales. Ambos flujos siguen conectados en el mismo portal.",
+    "spotlightBadge": "Vista del espacio de trabajo",
+    "spotlightTitle": "Invite asesores en unos clics",
+    "spotlightBody": "Invitaciones seguras, roles claros y un espacio compartido para documentos y actualizaciones — para que nada se pierda entre firmas.",
+    "spotlightBullets": [
+      "Acceso por roles",
+      "Repositorio documental compartido",
+      "Historial de actividad completo"
+    ],
+    "videoAlt": "Invitar a un asesor en el espacio de trabajo VACEI",
+    "cta": "Abrir su portal"
+  },
+  "conversion": {
+    "title": "Cree su portal y empiece",
+    "body": "Configure su cuenta, solicite servicios y reciba un presupuesto en 24 horas.",
+    "cta": "Cree su portal"
+  },
+  "callOption": {
+    "title": "¿Prefiere hablar con nosotros?",
+    "body": "Programe una llamada con su equipo en cualquier momento.",
+    "cta": "Programar una llamada"
+  },
+  "finalSection": {
+    "title": "Todo lo que su negocio necesita — gestionado en un solo lugar",
+    "body": "Desde constitución hasta contabilidad, auditoría, impuestos, nóminas y cumplimiento — todo fluye por una plataforma con visibilidad total.",
+    "note": "Use todos los servicios o solo los que necesite.",
+    "finalLine": "Un equipo. Una plataforma. Visibilidad en tiempo real. Todo bajo control."
+  },
+  "activeEU": {
+    "badge": "Alcance internacional",
+    "titleLine1": "Una puerta estructurada ",
+    "titleHighlight": "hacia Europa.",
+    "body": "VACEI ofrece el entorno digital para que empresas internacionales y fundadores constituyan, gestionen y escalen sus operaciones europeas con confianza.",
+    "chips": [
+      "27 países",
+      "API unificada",
+      "Expertos locales"
+    ],
+    "hubAlt": "Hub VACEI"
+  },
+  "workspaceEntry": {
+    "sectionTitleLine1": "Un espacio de trabajo para su negocio —",
+    "sectionTitleHighlight": "y todos sus servicios",
+    "sectionBody": "Contabilidad, auditoría, legal y cumplimiento no deberían estar dispersos.\n\nVACEI lo reúne todo en una plataforma estructurada — servicios, documentos y plazos en un solo sitio.\n\nSin cadenas de correo. Sin archivos dispersos. Sin incertidumbre.",
+    "activeEntities": "Entidades activas",
+    "card1TitleBefore": "Su negocio — ",
+    "card1TitleAccent": "totalmente organizado",
+    "card1Body": "Cree un espacio de trabajo y gestione todo en un solo lugar.\n\nServicios, documentos y asesores se estructuran en una plataforma — control total sin complejidad.",
+    "card1CoordinationNote": "Todos los servicios se coordinan a través de VACEI y se entregan mediante una red de firmas de confianza.",
+    "whatYouCanDo": "Qué puede hacer",
+    "card1Bullets": [
+      "Visibilidad completa de los encargos",
+      "Gestión documental centralizada",
+      "Seguimiento de plazos en tiempo real"
+    ],
+    "createWorkspaceCta": "Crear espacio de trabajo",
+    "oneClickSync": "Sincronización en un clic",
+    "newFounders": "Nuevos fundadores",
+    "card2Title": "Cree su empresa y ",
+    "card2TitleAccent": "escale desde el primer día.",
+    "card2Body": "Constituya su empresa y centralice constitución, aprobaciones, cumplimiento y soporte continuo en el mismo espacio con el que operará el negocio.",
+    "startIncorporationCta": "Iniciar constitución",
+    "bookConsultationCta": "Reservar una consulta",
+    "card1MicroLabel": "Integración de sistemas",
+    "card1MicroAccent": "Espacio operativo",
+    "card2MicroLabel": "Motor de expansión",
+    "card2MicroAccent": "Lanzamiento de nuevos proyectos",
+    "keyCapabilitiesHeading": "Capacidades clave",
+    "builderBadge": "Paquete Builder",
+    "builderDescription": "Constitución completa, estructura y cumplimiento listos en un paquete unificado."
+  },
+  "insightsResources": {
+    "badge": "INSIGHTS Y RECURSOS",
+    "titleLine1": "Ideas prácticas",
+    "titleHighlight": "para empresas modernas",
+    "subtitle": "Vídeos cortos, guías y artículos sobre contabilidad, auditoría, cumplimiento y operaciones — para mantenerse organizado, informado y listo para crecer.",
+    "viewAll": "Ver todos los recursos",
+    "watchVideo": "Ver vídeo",
+    "readMore": "Leer más",
+    "videoModalEyebrow": "Insights VACEI",
+    "videoModalHint": "Seleccione un vídeo",
+    "videoNowPlaying": "Reproduciendo",
+    "videoModalCloseAria": "Cerrar vídeo",
+    "videoPlaylist": [
+      {
+        "title": "La empresa moderna"
+      },
+      {
+        "title": "Cómo la IA mejora de verdad el equilibrio entre vida laboral y personal"
+      }
+    ],
+    "resources": [
+      {
+        "type": "Artículo",
+        "category": "Auditoría y contabilidad",
+        "title": "Cómo preparar su empresa para una auditoría sin fricción",
+        "desc": "Los documentos, flujos y plazos necesarios para un proceso de auditoría fluido."
+      },
+      {
+        "type": "Vídeo",
+        "category": "Insights",
+        "title": "Dos vídeos breves de Vacei",
+        "desc": "Qué suele fallar al escalar sin los cimientos adecuados y cómo la IA puede aliviar de forma real la carga del equipo — elija uno en la lista de reproducción de abajo."
+      },
+      {
+        "type": "Guía",
+        "category": "Operaciones",
+        "title": "La lista definitiva para escalar sus operaciones",
+        "desc": "Use esta lista para asegurar que su infraestructura legal, contable y operativa está lista para escalar."
+      }
+    ]
+  },
+  "footerCta": {
+    "badge": "Actualización de infraestructura",
+    "titleLine1": "Deje de gestionar múltiples proveedores.",
+    "titleHighlight": "Todo bajo control.",
+    "body": "Configure su portal hoy y obtenga un presupuesto claro y estructurado en 24 horas.",
+    "quoteCta": "Solicitar presupuesto",
+    "demoCta": "Reservar una demo"
+  },
+  "heroLeft": {
+    "scrollDown": "Desplazar",
+    "title": "What Vacei Is",
+    "body": "VACEI es una firma moderna de contabilidad, auditoría y servicios corporativos construida sobre una plataforma digital estructurada. Gestionamos contabilidad, cumplimiento, corporate y auditoría de principio a fin con tecnología propia para claridad, velocidad y visibilidad. VACEI no es software DIY ni un marketplace. Somos una firma profesional que hace el trabajo por usted, con un portal de clientes seguro.",
+    "footerTitle": "Equipos dedicados. Responsabilidad clara.",
+    "footerBody": "Cada cliente cuenta con un equipo VACEI asignado."
+  },
+  "auditPlatform": {},
+  "inviteAdvisors": {
+    "titleLine1": "Invite a sus asesores.",
+    "titleHighlight": "Mantenga todo en un lugar.",
+    "body": "¿Ya trabaja con un contador, auditor o abogado? Tráigalos a su espacio VACEI y gestione solicitudes, documentos, aprobaciones y plazos en un entorno estructurado.",
+    "bullets": [
+      "Mantenga sus relaciones actuales con asesores",
+      "Centralice documentos, solicitudes y aprobaciones",
+      "Rastree plazos y servicios en un solo lugar",
+      "Cree un flujo de trabajo más claro y profesional para todos"
+    ],
+    "createWorkspaceCta": "Crear Espacio de Trabajo",
+    "gifAlt": "Invitar asesor, asesor se une, espacio compartido",
+    "gifPlaceholderTitle": "Espacio para GIF",
+    "gifPlaceholderHint": "Por favor suba su GIF aquí:",
+    "gifPlaceholderPath": "/public/assets/videos/Invite_Advisor.gif"
+  },
+  "howItWorks": {
+    "badge": "Cómo funciona",
+    "titleLine1": "Simple. Estructurado.",
+    "titleHighlight": "Gestionado.",
+    "subtitle": "",
+    "twoWaysToStart": {
+      "badge": "EMPIECE A SU MANERA",
+      "titleLine1": "Dos formas de ",
+      "titleHighlight": "empezar",
+      "subtitle": "Ya sea que busque un nuevo proveedor o trabaje con asesores de confianza, VACEI ofrece un espacio estructurado para gestionarlo todo.",
+      "marketplaceBadge": "MARKETPLACE",
+      "recommendedBadge": "RECOMENDADO",
+      "marketplaceTitle": "Encuentre al asesor adecuado",
+      "marketplaceSubtitle": "Envíe una solicitud y reciba propuestas estructuradas de firmas verificadas. Compare opciones y elija al socio adecuado.",
+      "inviteBadge": "INVITAR",
+      "inviteTitle": "Trabaje con sus asesores",
+      "inviteSubtitle": "¿Ya tiene asesores de confianza? Tráigalos a su espacio de trabajo estructurado para gestionarlo todo en un solo lugar.",
+      "inviteFlowSteps": [
+        {
+          "title": "Invite a su asesor",
+          "desc": "Invite fácilmente a su contable, auditor o asesor actual a unirse a su espacio de trabajo y mantenerse conectado."
+        },
+        {
+          "title": "El asesor se une al espacio de trabajo",
+          "desc": "Su asesor se une de forma segura al perfil de su empresa, con acceso a documentos y solicitudes relevantes."
+        },
+        {
+          "title": "Colaboración centralizada",
+          "desc": "Trabajen juntos en un solo lugar: compartan documentos, gestionen solicitudes y hagan seguimiento del avance sin fricción."
+        },
+        {
+          "title": "Gestione y haga crecer la relación",
+          "desc": "Mantenga su relación actual y, al mismo tiempo, benefíciese de flujos más estructurados y eficientes."
+        }
+      ],
+      "footerCta": "Crear Espacio de Trabajo",
+      "footerNote": "Empiece en 2 minutos"
+    }
+  },
+  "servicesSection": {
+    "badge": "Ecosistema Profesional",
+    "titleLine1": "Servicios profesionales vía ",
+    "titleHighlight": "plataforma conectada",
+    "subtitle": "VACEI ayuda a su empresa a acceder y gestionar servicios profesionales a través de un espacio de trabajo estructurado.",
+    "tabServices": "Servicios",
+    "tabProducts": "Productos",
+    "explorePhase": "Fase exploración",
+    "launchDashboard": "Lanzar Tablero",
+    "categoryService": "Servicio",
+    "categoryPlatform": "Plataforma",
+    "defaultSubtitle": "Apoyo estructurado vía plataforma digital.",
+    "serviceTitles": {
+      "accounting-finance": "Contabilidad y Finanzas",
+      "audit-assurance": "Auditoría y Assurance",
+      "corporate-csp-services": "Servicios Corporativos",
+      "advisory-growth": "Asesoría Legal",
+      "tax-compliance": "Impuestos y Cumplimiento"
+    },
+    "serviceSubtitles": {
+      "accounting-finance": "Apoyo contable, flujos de teneduría, manejo documental y coordinación financiera.",
+      "tax-compliance": "Declaraciones, asesoría, plazos, registros contables y soporte continuo.",
+      "audit-assurance": "Auditorías legales, encargos de garantía, coordinación de papeles y entrega por hitos.",
+      "corporate-csp-services": "Secretaría corporativa, gobernanza, mantenimiento legal y administración.",
+      "regulated-licensing": "Apoyo en solicitudes de licencias, renovaciones y presentaciones regulatorias.",
+      "advisory-growth": "Asesoría legal corporativa, contratos, transacciones y soporte estructural.",
+      "vat-services": "Registros de IVA, declaraciones y asistencia en fiscalidad indirecta.",
+      "payroll-employment": "Administración de nóminas, apoyo en empleo y presentaciones de cumplimiento."
+    },
+    "products": [
+      {
+        "title": "Portal del Cliente",
+        "subtitle": "Documentos, solicitudes y comunicación segura.",
+        "badge": "Destacado"
+      },
+      {
+        "title": "Portal de Auditoría",
+        "subtitle": "Flujos estructurados y entrega de auditoría."
+      },
+      {
+        "title": "Portal Contable",
+        "subtitle": "Tablero financiero en tiempo real e informes.",
+        "badge": "Nuevo"
+      }
+    ]
+  },
+  "marketplace": {
+    "badge": "Marketplace de propuestas",
+    "titleLine1": "Un mercado basado en ",
+    "titleHighlight": "la confianza.",
+    "body": "Envíe un RFP a firmas de primer nivel. Elija entre proveedores locales, regionales y globales. El marketplace de VACEI le da acceso directo a una red de firmas verificadas.",
+    "registerCta": "Registro para ofertas",
+    "gifAlt": "Interfaz solicitud servicios",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Solicitar Servicio",
+        "desc": "Elija el servicio y proporcione detalles iniciales vía su espacio seguro."
+      },
+      {
+        "number": "02",
+        "title": "Coordinación VACEI",
+        "desc": "Notificamos a partners verificados y coordinamos el proceso para asegurar calidad."
+      },
+      {
+        "number": "03",
+        "title": "Propuestas estructuradas",
+        "desc": "Reciba propuestas estandarizadas vía su espacio, fáciles de comparar."
+      },
+      {
+        "number": "04",
+        "title": "Elegir y Contratar",
+        "desc": "Compare opciones, elija al asesor adecuado y empiece el trabajo de inmediato."
+      }
+    ]
+  },
+  "whyVacei": {
+    "badge": "La ventaja VACEI",
+    "titleLine1": "Estructurado. ",
+    "titleHighlight": "Seguro. Escalable.",
+    "body": "VACEI está hecho para el negocio moderno. Sea una startup o un grupo establecido, nuestra plataforma da la estructura para crecer.",
+    "card1Title": "Fuente única de verdad",
+    "card1Body": "Todas sus empresas, servicios, documentos y asesores en un lugar. No más buscar en correos.",
+    "card2Title": "Firmas verificadas",
+    "card2Body": "Solo trabajamos con firmas pre-aprobadas que cumplen nuestros altos estándares de entrega y comunicación.",
+    "qualityLabel": "Calidad garantizada",
+    "cta": "Vivir la experiencia"
+  },
+  "trust": {
+    "badge": "Seguridad Primero",
+    "titleLine1": "Con la confianza de ",
+    "titleHighlight": "negocios globales.",
+    "subtitle": "Desde el onboarding hasta el cumplimiento continuo, todo en un solo lugar. Únase al futuro de la gestión de servicios profesionales.",
+    "largeCardTitleLine1": "Infraestructura Global, ",
+    "largeCardTitleHighlight": "Hecha para Confiar.",
+    "largeCardBody": "VACEI provee un entorno digital resiliente para coordinación unificada, asegurando que su negocio siga operativo en cualquier territorio.",
+    "multiRegionLabel": "Redundancia Multi-Región",
+    "uptimeTitle": "Disponibilidad Inigualable",
+    "uptimeBody": "Nuestra plataforma opera con 99,99% de disponibilidad, asegurando que su espacio esté siempre listo.",
+    "statusCore": "Sistemas Centrales",
+    "statusOperational": "OPERATIVO",
+    "statusDataSync": "Sinc de Datos",
+    "statusSynchronized": "SINCRONIZADO",
+    "features": [
+      {
+        "title": "Cifrado Nivel Bancario",
+        "desc": "Documentos y comunicaciones protegidos con cifrado AES-256 en bóveda digital."
+      },
+      {
+        "title": "Soporte Enterprise 24/7",
+        "desc": "Equipo dedicado disponible día y noche para asistir en navegación y coordinación."
+      }
+    ],
+    "securityCta": "Ver Seguridad y Cumplimiento",
+    "footerRealTime": "Protección en tiempo real",
+    "footerGlobal": "Infraestructura Global"
+  },
+  "companySetup": {
+    "badge": "Constitución fácil",
+    "titleLine1": "Constitución de empresa ",
+    "titleHighlight": "sin esfuerzo.",
+    "subtitle": "Ya sea en EAU o globalmente, VACEI da la estructura para iniciar y crecer.",
+    "col1Title": "Asesoría Experta",
+    "col1Items": [
+      "Nuevas constituciones",
+      "Domicilio social y oficinas",
+      "Secretaría corporativa",
+      "Configuración y mantenimiento legal"
+    ],
+    "col2Title": "Automatización Documental",
+    "col2Items": [
+      "Visibilidad de presentaciones en tiempo real",
+      "Rastreo de plazos",
+      "Calendario de cumplimiento",
+      "Gestión de registros legales"
+    ],
+    "col3Title": "Alcance Global",
+    "col3Items": [
+      "Gestionar traspasos de acciones",
+      "Cambios de directores",
+      "Actualizaciones de estructura",
+      "Soporte expansión transfronteriza"
+    ],
+    "startIncorporationCta": "Iniciar Constitución",
+    "bookConsultationCta": "Reservar Consulta"
+  },
+  "complianceDashboard": {
+    "titleLine1": "Cumplimiento al día. ",
+    "titleHighlight": "Siempre adelante.",
+    "body": "El cumplimiento es continuo. Alertas automáticas, gestión de entidades y actualizaciones regulatorias le mantienen informado.",
+    "scoreLabel": "Puntos Cumplimiento",
+    "onTrack": "Al día",
+    "deadlinesHeading": "Próximos plazos",
+    "vatTitle": "Declaración IVA",
+    "vatDue": "Vence en 7 días",
+    "vatStatus": "Pendiente",
+    "annualTitle": "Cuentas Anuales",
+    "annualDue": "Vence en 20 días",
+    "annualStatus": "Planificado",
+    "footerNote": "Todo visible en un solo lugar: sin hojas de cálculo ni seguimientos manuales."
+  },
+  "multiCompany": {
+    "badge": "Gestión Multi-Entidad",
+    "titleLine1": "Escale sin ",
+    "titleHighlight": "complejidad.",
+    "body": "Gestionar una empresa es duro. Diez no deberían serlo. VACEI es para fundadores y grupos que manejan múltiples entidades.",
+    "foundersHub": "Hub Fundadores",
+    "activeLabel": "Activo",
+    "switchLabel": "Cambiar",
+    "engagementsSummary": "32 encargos activos en el grupo",
+    "highlights": [
+      "Tablero unificado de fundadores",
+      "Visibilidad nivel grupo",
+      "Cambio instantáneo de espacio",
+      "Coordinación estandarizada"
+    ],
+    "cta": "Registrar su Grupo",
+    "mockCompanies": [
+      {
+        "name": "Atlas Holding Ltd",
+        "type": "Matriz"
+      },
+      {
+        "name": "Nova Logistics SpA",
+        "type": "Filial"
+      },
+      {
+        "name": "Polaris Tech GmbH",
+        "type": "Sucursal"
+      },
+      {
+        "name": "Zenith Services Corp",
+        "type": "Nueva Entidad"
+      }
+    ]
+  },
+  "platformPower": {
+    "badge": "Inteligencia de Plataforma",
+    "titleLine1": "Una forma más inteligente de ",
+    "titleHighlight": "gestionar servicios empresariales.",
+    "body": "VACEI ofrece la estructura y transparencia necesarias para coordinar con múltiples firmas profesionales, gestionar el cumplimiento y escalar sus operaciones a través de una plataforma segura.",
+    "highlights": [
+      "Visibilidad total en cada compromiso empresarial",
+      "Gestión documental segura y seguimiento histórico",
+      "Comunicación integrada con asesores verificados",
+      "Monitoreo en tiempo real de presentaciones y plazos"
+    ],
+    "createWorkspaceCta": "Crear espacio",
+    "registerQuoteCta": "Registrarse para presupuesto",
+    "workspaceLabel": "Espacio VACEI",
+    "auditAssurance": "Auditoría y Assurance",
+    "activeEngagement": "Encargo activo",
+    "teamNotifications": "Notificaciones de equipo",
+    "notif1": "Borrador de estados financieros subido por el auditor",
+    "notif1Time": "hace 2 min",
+    "notif2": "El asesor fiscal solicitó documentos",
+    "notif2Time": "hace 1 h",
+    "docCompliance": "Cumplimiento Documental",
+    "syncHint": "Todo sincronizado con el asesor principal.",
+    "onTrack": "Al día",
+    "actionsPending": "2 acciones pendientes",
+    "pdfName": "IVA_T1.pdf",
+    "pendingReview": "Revisión pendiente"
+  },
+  "portalFeature": {
+    "featureLabel": "Función",
+    "features": [
+      {
+        "title": "La contabilidad que impulsa todo lo demás",
+        "description": "Su contabilidad funciona continuamente en segundo plano. Usted sube los documentos; nuestro equipo registra, limpia y verifica todo. Una vez finalizada la contabilidad, el IVA, los impuestos, la auditoría y los informes pueden fluir sin problemas.",
+        "content": [
+          "Estado de contabilidad mensual",
+          "Documentos faltantes listados claramente",
+          "Bancos y registros conciliados",
+          "Listo para IVA y Auditoría"
+        ],
+        "buttonText": "Cómo funciona la contabilidad"
+      },
+      {
+        "title": "IVA y Nóminas, periodo tras periodo",
+        "description": "El IVA y las nóminas funcionan en ciclos fijos. Cada presentación se rastrea, prepara, envía y archiva automáticamente. Si nada cambia, simplemente confirme y nosotros nos encargamos del resto.",
+        "content": [
+          "Periodos de IVA con fechas de vencimiento",
+          "Recibos de nómina por mes",
+          "Confirmaciones de presentación",
+          "Confirmaciones de 'sin cambios'"
+        ],
+        "buttonText": "IVA y Nóminas en acción"
+      },
+      {
+        "title": "Servicios corporativos con rastro de vencimiento",
+        "description": "Los servicios corporativos no son mensuales, tienen fecha de vencimiento. Los cargos, el domicilio social y la secretaría se monitorean por fecha de caducidad. Las renovaciones se activan automáticamente, con recordatorios y facturación.",
+        "content": [
+          "Servicios corporativos activos",
+          "Fechas de vencimiento claras",
+          "Alertas de renovación antes del plazo",
+          "Cero obligaciones perdidas"
+        ],
+        "buttonText": "Ver servicios corporativos"
+      }
+    ]
+  },
+  "faqSection": {
+    "badge": "Por qué VACEI",
+    "title": "Colaboración ",
+    "titleHighlight": "Estructurada",
+    "subtitle": "Obtenga claridad y control con un espacio de trabajo digital unificado diseñado para servicios profesionales.",
+    "items": [
+      {
+        "title": "Claridad",
+        "desc": "Visibilidad completa sobre encargos, documentos y plazos en un solo centro."
+      },
+      {
+        "title": "Estructura",
+        "desc": "Los flujos de trabajo definidos garantizan que los servicios profesionales se entreguen de manera consistente."
+      },
+      {
+        "title": "Colaboración",
+        "desc": "Trabaje sin problemas con múltiples asesores a través de una plataforma segura."
+      },
+      {
+        "title": "Control",
+        "desc": "Rastree el cumplimiento, las presentaciones y las operaciones desde un panel central."
+      }
+    ],
+    "healthLabel": "Salud Financiera",
+    "growthLabel": "Crecimiento",
+    "equityLabel": "Estado de la tabla de capital",
+    "issuedCap": "Capital Emitido",
+    "supportLabel": "Soporte Directo"
+  }
+}

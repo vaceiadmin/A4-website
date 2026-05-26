@@ -1,0 +1,296 @@
+{
+  "pricing": {
+    "hero": {
+      "badge": "Transparante Prijzen",
+      "title": "Eerlijk, Transparant en op Uw Maat",
+      "p1": "Bij VACEI geloven wij niet in prijzen die voor iedereen gelijk zijn. Elke onderneming is uniek en uw prijs moet het feitelijk uitgevoerde werk weerspiegelen.",
+      "p2": "Wij verstrekken offertes op maat, gebaseerd op de omvang, complexiteit en vereisten — zonder verborgen kosten en zonder verplichting om door te gaan.",
+      "checklist": [
+        "Geen vaste pakketten",
+        "Geen verborgen kosten",
+        "Heldere communicatie"
+      ],
+      "card": {
+        "badge": "Offerte op Maat",
+        "title": "Uw Gepersonaliseerde Prijs",
+        "rows": [
+          "Beoordeling van de reikwijdte",
+          "Analyse van complexiteit",
+          "Volume-evaluatie",
+          "Risico-overweging"
+        ],
+        "footer": "Transparant & Eerlijk"
+      }
+    },
+    "factors": {
+      "badge": "Prijsfactoren",
+      "title": "Hoe de Prijs Wordt Bepaald",
+      "subtitle": "De tarifering bij VACEI is gebaseerd op een gestructureerde beoordeling van diverse factoren. Deze factoren stellen ons in staat de reikwijdte helder te definiëren en verrassingen achteraf te voorkomen.",
+      "keyInsight": "Belangrijk Inzicht",
+      "factorLabel": "Factor {{id}}",
+      "viewingFactor": "Bekijk Factor {{current}} van {{total}}",
+      "tip": "💡 Tip:",
+      "tipBody": "Klik op een van de factor-kaarten hierboven voor meer details",
+      "items": [
+        {
+          "title": "Reikwijdte van het Werk",
+          "shortDesc": "De belangrijkste factor in de prijsbepaling is de reikwijdte.",
+          "details": [
+            "Vereiste diensten",
+            "Verwachte opleveringsproducten",
+            "Niveau van betrokkenheid",
+            "Doorlopend werk vs. eenmalig"
+          ],
+          "highlight": "Een heldere reikwijdte maakt nauwkeurige en voorspelbare prijzen mogelijk."
+        },
+        {
+          "title": "Bedrijfsomvang & Structuur",
+          "shortDesc": "De prijs houdt rekening met de omvang en structuur van het bedrijf.",
+          "details": [
+            "Aantal entiteiten",
+            "Groepsstructuur of zelfstandig",
+            "Landen van exploitatie",
+            "Complexiteit van eigendom of governance"
+          ],
+          "highlight": "Complexere structuren vereisen doorgaans meer coördinatie en toezicht."
+        },
+        {
+          "title": "Volume & Activiteitsniveau",
+          "shortDesc": "Voor operationele diensten wordt de prijs beïnvloed door de activiteit.",
+          "details": [
+            "Transactievolumes",
+            "Aantal verwerkte records",
+            "Frequentie van rapportage",
+            "Aantal indieningen of deponeringen"
+          ],
+          "highlight": "Hogere volumes of frequentere rapportage verhogen het benodigde werkniveau."
+        },
+        {
+          "title": "Regelgeving & Compliance",
+          "shortDesc": "Sommige diensten vallen onder hogere wettelijke vereisten.",
+          "details": [
+            "Toepasselijke regelgevingskaders",
+            "Gelicentieerde of gereguleerde activiteiten",
+            "Audit- of rapportageverplichtingen",
+            "Land-specifieke vereisten"
+          ],
+          "highlight": "Deze factoren beïnvloeden de mate van documentatie, review en toezicht."
+        },
+        {
+          "title": "Risico & Aansprakelijkheid",
+          "shortDesc": "Beroepsaansprakelijkheid en risico worden meegenomen in de prijs.",
+          "details": [
+            "Aard van de werkzaamheden",
+            "Benodigd professioneel oordeel",
+            "Review- en aftekenvereisten",
+            "Blootstelling aan wettelijk of professioneel risico"
+          ],
+          "highlight": "Opdrachten met een hoger risico vereisen extra controles en reviews."
+        },
+        {
+          "title": "Duur & Timing",
+          "shortDesc": "De prijs houdt ook rekening met de timing en duur van de opdracht.",
+          "details": [
+            "Looptijd van de opdracht",
+            "Recidiverend of eenmalig werk",
+            "Urgentie of vaste deadlines",
+            "Seizoensgebonden of tijdskritische vereisten"
+          ],
+          "highlight": "Tijdskritische of langlopende opdrachten kunnen verschillende prijsstructuren vereisen."
+        }
+      ]
+    },
+    "overview": {
+      "badge": "Prijsmodellen per Dienst",
+      "title": "Verken Onze Dienstcategorieën",
+      "subtitle": "Elke dienst is geprijsd op basis van uw specifieke vereisten. Bekijk onze categorieën voor meer informatie over marktconforme modellen.",
+      "tabs": [
+        "Essentials",
+        "Strategic",
+        "Corporate"
+      ],
+      "pricingModelLabel": "Prijsmodel",
+      "contactCard": {
+        "title": "Wilt u een offerte op maat?",
+        "description": "Ontvang een voorstel afgestemd op uw exacte behoeften.",
+        "cta": "Offerte Aanvragen"
+      },
+      "essentials": [
+        {
+          "title": "Boekhouding & Financiën",
+          "intro": "Kern financieel beheer.",
+          "scope": "Maandelijks tarief op basis van volume",
+          "features": [
+            "Maandelijkse administratie",
+            "Btw & Fiscale compliance",
+            "Management rapportages",
+            "Xero / QuickBooks inrichting"
+          ],
+          "highlight": true
+        },
+        {
+          "title": "Belasting & Compliance",
+          "intro": "Blijf volledig conform.",
+          "scope": "Jaarlijks of maandelijks vast",
+          "features": [
+            "Vennootschapsbelasting",
+            "Btw-aangiften",
+            "Loonadministratie",
+            "Contact met autoriteiten"
+          ],
+          "highlight": false
+        }
+      ],
+      "strategic": [
+        {
+          "title": "Audit & Assurance",
+          "intro": "Grondige wettelijke controles.",
+          "scope": "Offerte per opdracht",
+          "features": [
+            "Wettelijke financiële audit",
+            "Review interne controles",
+            "Risicobeoordeling",
+            "Compliance zekerheid"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Advisory & Groei",
+          "intro": "Schaal uw onderneming.",
+          "scope": "Project of maandelijkse fee",
+          "features": [
+            "Financiële modellering",
+            "M&A ondersteuning",
+            "Cashflow optimalisatie",
+            "Strategische planning"
+          ],
+          "highlight": true
+        }
+      ],
+      "corporate": [
+        {
+          "title": "Zakelijke Diensten",
+          "intro": "Bedrijfsadministratie.",
+          "scope": "Jaarlijkse fees en projectwerk",
+          "features": [
+            "Bedrijfsvorming",
+            "Statutaire zetel",
+            "Bedrijfssecretariaat",
+            "Aandelenoverdrachten"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Licenties & Gereguleerd",
+          "intro": "Complexe vergunningen.",
+          "scope": "Op projectbasis",
+          "features": [
+            "Vergunningsaanvragen",
+            "Reglementaire rapportage",
+            "Compliance bewaking",
+            "Correspondentie autoriteiten"
+          ],
+          "highlight": true
+        }
+      ]
+    },
+    "quoteProcess": {
+      "badge": "Offerteproces",
+      "title": "Hoe het Werkt",
+      "subtitle": "Een simpel en transparant proces van het eerste gesprek tot de definitieve prijs.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Eerste Gesprek",
+          "description": "Deel uw vereisten en bedrijfscontext met ons team."
+        },
+        {
+          "number": "02",
+          "title": "Beoordeling van de Reikwijdte",
+          "description": "Wij bekijken uw behoeften en beoordelen de omvang, complexiteit en eisen."
+        },
+        {
+          "number": "03",
+          "title": "Heldere Offerte",
+          "description": "U ontvangt een gedetailleerde offerte met diensten, reikwijdte, prijsstructuur en uitgangspunten."
+        },
+        {
+          "number": "04",
+          "title": "Review & Bevestiging",
+          "description": "Bekijk het voorstel in uw eigen tempo. Geen druk, geen verplichting."
+        }
+      ],
+      "includesBadge": "Wat is Inbegrepen",
+      "everyTitle": "Elke Offerte Bevat",
+      "everyBody": "Na review van de initiële informatie verstrekt VACEI een heldere offerte, wat volledige transparantie garandeert vóór aanvang van het werk.",
+      "quoteIncludes": [
+        "Inbegrepen diensten",
+        "Overeengekomen reikwijdte",
+        "Prijsstructuur",
+        "Uitgangspunten of afhankelijkheden",
+        "Tijdlijn en opleveringen",
+        "Algemene voorwaarden"
+      ],
+      "mockTitle": "Service Offerte",
+      "mockSubtitle": "Voorstel op Maat",
+      "mockFooter": "Prijs bevestigd voor aanvang",
+      "scopeTitle": "Wijzigingen in de Reikwijdte",
+      "scopeBody": "Als de reikwijdte wijzigt tijdens een opdracht, wordt de prijs besproken en overeengekomen voordat aanvullend werk wordt verricht. Wij geloven in volledige openheid in elke fase."
+    },
+    "whatToExpect": {
+      "badge": "Onze Toezegging",
+      "title": "Wat Kan U Verwachten",
+      "subtitle": "Ons doel bij samenwerking met VACEI is dat de prijs het werk weerspiegelt en voorspelbaar blijft.",
+      "items": [
+        {
+          "title": "Heldere prijsgesprekken vooraf",
+          "description": "Wij bespreken de tarifering openlijk vanaf het begin, zodat u begrijpt hoe kosten tot stand komen."
+        },
+        {
+          "title": "Geen verborgen kosten",
+          "description": "Alle kosten zijn duidelijk opgenomen in uw offerte. Wat u ziet is wat u krijgt."
+        },
+        {
+          "title": "Geen onverwachte facturen",
+          "description": "U ontvangt geen verrassingsfacturen. Elke wijziging in de reikwijdte wordt vooraf besproken."
+        },
+        {
+          "title": "Transparante communicatie",
+          "description": "Als behoeften veranderen tijdens de opdracht, communiceren wij open en passen wij de prijzen aan."
+        }
+      ],
+      "bottomTitle": "Prijzen die voor U Werken",
+      "bottomBody": "Onze aanpak zorgt ervoor dat u alleen betaalt voor de diensten die u nodig heeft, met volledige helderheid over wat inbegrepen is. Geen verrassingen, gewoon eerlijke professionele service.",
+      "chips": [
+        "Eerlijke Prijs",
+        "Volledige Transparantie",
+        "Voorspelbare Kosten"
+      ]
+    },
+    "cta": {
+      "badge": "Start Vandaag Nog",
+      "title": "Klaar om over de prijs te praten?",
+      "body": "Als u wilt weten hoe de prijs voor uw specifieke situatie uitpakt, kunt u een offerte aanvragen of uw behoeften met ons team bespreken.",
+      "requestQuote": "Vraag een Offerte Aan",
+      "discussNeeds": "Bespreek Uw Behoeften",
+      "responseLabel": "Reactietijd",
+      "responseValue": "Binnen 24 uur",
+      "commitmentLabel": "Verplichting",
+      "commitmentValue": "Vrijblijvend",
+      "floatSteps": [
+        {
+          "step": "Stap 1",
+          "label": "Offerte"
+        },
+        {
+          "step": "Stap 2",
+          "label": "Gersprek"
+        },
+        {
+          "step": "Stap 3",
+          "label": "Starten"
+        }
+      ]
+    }
+  }
+}

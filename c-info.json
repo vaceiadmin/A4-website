@@ -1,0 +1,180 @@
+{
+  "careers": {
+    "pageHeader": {
+      "title": "Careers",
+      "breadcrumbs": [
+        {
+          "label": "Careers"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Why VACEI?",
+      "subtitle": "We build more than just software; we build careers. Join a team where your work matters and your growth is prioritized.",
+      "features": [
+        {
+          "title": "Work-Life Balance",
+          "items": [
+            "Flexible working hours and remote options.",
+            "Generous paid time off and holidays.",
+            "Wellness programs and mental health support."
+          ]
+        },
+        {
+          "title": "Growth & Development",
+          "items": [
+            "Annual learning stipend for courses and conferences.",
+            "Internal mentorship programs.",
+            "Clear career progression paths."
+          ]
+        },
+        {
+          "title": "Culture & Perks",
+          "items": [
+            "Regular team retreats and social events.",
+            "Comprehensive health insurance for you and your family.",
+            "Performance-based bonuses and stock options."
+          ]
+        }
+      ]
+    },
+    "talentNetwork": {
+      "title": "Join Our Talent Network",
+      "subtitle": "Don't see a specific role that fits? We're always looking for exceptional talent. Send us your details and tell us how you can make an impact.",
+      "emailLabel": "Or email us a copy of your CV on",
+      "form": {
+        "labels": {
+          "name": "Full Name",
+          "email": "Email Address",
+          "role": "Area of Interest",
+          "message": "Your Message / Portfolio Link"
+        },
+        "placeholders": {
+          "name": "John Doe",
+          "email": "john@example.com",
+          "role": "Select a department",
+          "message": "Tell us a bit about yourself and include a link to your resume or portfolio..."
+        },
+        "roles": {
+          "audit": "Audit & Assurance",
+          "tax": "Taxation Services",
+          "corporate": "Corporate Services",
+          "tech": "Technology & Engineering",
+          "marketing": "Marketing & Sales",
+          "other": "Other"
+        },
+        "submit": "Send to HR Team",
+        "submitting": "Sending...",
+        "success": "Thank you! Your message has been sent to our HR team.",
+        "error": "Something went wrong. Please try again.",
+        "modalSuccessTitle": "Message sent",
+        "modalErrorTitle": "Something went wrong"
+      }
+    },
+    "openPositions": {
+      "title": "Open Positions",
+      "subtitle": "Ready to make an impact? Explore our current opportunities and find your next role at VACEI.",
+      "applyNow": "Apply Now",
+      "jobs": [
+        {
+          "id": 1,
+          "title": "Senior Audit Associate",
+          "department": "Audit & Assurance",
+          "location": "Singapore",
+          "type": "Full-time",
+          "link": "#"
+        },
+        {
+          "id": 2,
+          "title": "Corporate Secretarial Executive",
+          "department": "Corporate Services",
+          "location": "Singapore",
+          "type": "Full-time",
+          "link": "#"
+        },
+        {
+          "id": 3,
+          "title": "Tax Consultant",
+          "department": "Taxation",
+          "location": "Hybrid / Singapore",
+          "type": "Full-time",
+          "link": "#"
+        },
+        {
+          "id": 4,
+          "title": "Frontend Developer",
+          "department": "Technology",
+          "location": "Remote",
+          "type": "Full-time",
+          "link": "#"
+        }
+      ]
+    }
+  },
+  "ourTeam": {
+    "pageHeader": {
+      "title": "Our Team",
+      "breadcrumbs": [
+        {
+          "label": "Our Team"
+        }
+      ]
+    },
+    "grid": {
+      "title": "Meet Our Experts",
+      "subtitle": "Our diverse team of professionals is dedicated to simplifying your business journey.",
+      "members": [
+        {
+          "name": "Sarah Johnson",
+          "role": "CEO & Founder",
+          "bio": "Visionary leader with 15+ years of experience in fintech and business strategy."
+        },
+        {
+          "name": "David Chen",
+          "role": "Chief Technology Officer",
+          "bio": "Tech innovator passionate about building scalable solutions and AI integration."
+        },
+        {
+          "name": "Emily Rodriguez",
+          "role": "Head of Design",
+          "bio": "Creative director ensuring our user experience is sleek, intuitive, and beautiful."
+        },
+        {
+          "name": "Michael Brown",
+          "role": "Lead Developer",
+          "bio": "Full-stack expert specializing in secure and high-performance web architectures."
+        },
+        {
+          "name": "Jessica Lee",
+          "role": "Marketing Director",
+          "bio": "Driving brand growth through strategic marketing and community engagement."
+        },
+        {
+          "name": "Robert Wilson",
+          "role": "Operations Manager",
+          "bio": "Ensuring smooth day-to-day operations and optimizing business processes."
+        }
+      ]
+    },
+    "values": {
+      "title": "Driven by",
+      "titleAccent": "Values",
+      "description": "At VACEI, we believe that technology should empower people, not complicate their lives. Our core values guide every decision we make, ensuring we deliver meaningful impact for our clients.",
+      "cta": "Join Our Journey",
+      "items": [
+        {
+          "title": "Innovation",
+          "description": "We constantly push boundaries to bring you the latest in fintech solutions."
+        },
+        {
+          "title": "Integrity",
+          "description": "Transparency and honest commmunication are at the core of everything we do."
+        },
+        {
+          "title": "Excellence",
+          "description": "We strive for perfection in every detail, delivering premium quality results."
+        }
+      ]
+    }
+  }
+}

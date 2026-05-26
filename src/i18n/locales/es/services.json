@@ -1,0 +1,1002 @@
+{
+  "accounting-finance": {
+    "title": "Contabilidad y Finanzas",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Contabilidad y Finanzas" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte continuo de Contabilidad y Finanzas para su negocio, desde la teneduría de libros hasta la supervisión financiera de alto nivel.",
+      "VACEI gestiona la contabilidad, los informes y el soporte de CFO para que sus números sean precisos, oportunos y claros.",
+      "El trabajo es gestionado íntegramente por VACEI y se entrega a través de su portal de clientes."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en Contabilidad y Finanzas",
+      "subtitle": "Solicite un presupuesto a medida basado en sus necesidades de contabilidad, informes y soporte de CFO.",
+      "features": [
+        {
+          "title": "Contabilidad e informes",
+          "items": [
+            "Teneduría de libros en línea",
+            "Contabilidad y gestión financiera",
+            "Cuentas de gestión",
+            "Informes y análisis financieros"
+          ]
+        },
+        {
+          "title": "Planificación y supervisión financiera",
+          "items": [
+            "Monitoreo y previsión de flujo de caja",
+            "Presupuestación y seguimiento del rendimiento"
+          ]
+        },
+        {
+          "title": "CFO y CFO fraccional",
+          "items": [
+            "Supervisión y orientación financiera",
+            "Apoyo a la toma de decisiones de la dirección",
+            "Preparación financiera para auditoría, banca o inversión",
+            "Coordinación continua con las funciones de contabilidad y cumplimiento"
+          ]
+        }
+      ]
+    }
+  },
+  "tax-compliance": {
+    "title": "Impuestos y Cumplimiento",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Impuestos y Cumplimiento" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte continuo para los impuestos de su empresa, nóminas y declaraciones legales.",
+      "VACEI gestiona el IVA, las nóminas, los registros y los plazos clave para que las obligaciones se manejen correctamente y a tiempo.",
+      "Todo se coordina a través de su portal de clientes para un seguimiento claro y tranquilidad."
+    ],
+    "featuresSection": {
+      "title": "Gestión completa de impuestos y cumplimiento",
+      "subtitle": "Obtenga un presupuesto basado en sus requisitos de IVA, nómina y declaraciones.",
+      "features": [
+        {
+          "title": "Servicios de IVA",
+          "items": [
+            "Registro y baja de IVA",
+            "Preparación de declaraciones de IVA mensuales/trimestrales",
+            "Revisiones de cumplimiento de IVA y optimización",
+            "Listas de ventas de la CE e informes Intrastat"
+          ]
+        },
+        {
+          "title": "Nóminas y Empleo",
+          "items": [
+            "Procesamiento de nóminas y generación de recibos",
+            "Seguridad social y contribuciones",
+            "Cumplimiento de contratos de trabajo",
+            "Presentaciones anuales FS3 y FS7"
+          ]
+        },
+        {
+          "title": "Declaraciones Reglamentarias",
+          "items": [
+            "Presentación de declaraciones anuales al Registro de Sociedades",
+            "Preparación y presentación de declaraciones de impuestos",
+            "Seguimiento de plazos y monitoreo de cumplimiento",
+            "Gestión de correspondencia con la autoridad"
+          ]
+        },
+        {
+          "title": "Para quién es",
+          "items": [
+            "Empresas con obligaciones fiscales continuas",
+            "Negocios que requieren gestión de nóminas",
+            "Organizaciones que necesitan apoyo en cumplimiento",
+            "Empresas que buscan gestión de plazos"
+          ]
+        }
+      ]
+    }
+  },
+  "audit-assurance": {
+    "title": "Auditoría y Assurance",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Auditoría y Assurance" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Los servicios de Auditoría y Aseguramiento cubren auditorías legales y revisiones financieras estructuradas.",
+      "VACEI entrega auditorías a través de un proceso claro y organizado que proporciona visibilidad, plazos previsibles y resultados documentados.",
+      "El trabajo de auditoría es coordinado por VACEI y se apoya en flujos de trabajo estructurados a través de la plataforma, minimizando la interrupción de sus operaciones."
+    ],
+    "featuresSection": {
+      "title": "Servicios estructurados de auditoría y assurance",
+      "subtitle": "Solicite un presupuesto basado en sus requisitos de auditoría y el alcance del encargo",
+      "features": [
+        {
+          "title": "Servicios de Auditoría",
+          "items": [
+            "Auditoría legal de estados financieros",
+            "Encargos de revisión independiente",
+            "Procedimientos acordados",
+            "Auditorías para fines especiales"
+          ]
+        },
+        {
+          "title": "Trabajo de Assurance",
+          "items": [
+            "Revisiones de estados financieros",
+            "Soporte de due diligence",
+            "Evaluaciones de control interno",
+            "Auditorías de cumplimiento"
+          ]
+        },
+        {
+          "title": "Proceso y flujo de trabajo",
+          "items": [
+            "Flujos de trabajo de auditoría estructurados vía plataforma",
+            "Gestión de documentos y recogida de evidencias",
+            "Seguimiento del progreso en tiempo real",
+            "Pruebas y validaciones automatizadas"
+          ]
+        },
+        {
+          "title": "Para quién es",
+          "items": [
+            "Empresas que requieren auditorías legales",
+            "Negocios que se preparan para inversión",
+            "Organizaciones que necesitan garantía",
+            "Entidades con requisitos de auditoría reglamentarios"
+          ]
+        }
+      ]
+    }
+  },
+  "corporate-csp-services": {
+    "title": "Servicios Corporativos y CSP",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Servicios Corporativos y CSP" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Servicios corporativos continuos para empresas en Malta, incluyendo domicilio social y soporte legal.",
+      "VACEI mantiene su empresa actualizada, en cumplimiento y documentada durante todo el año.",
+      "Todo el trabajo se entrega a través de un proceso estructurado y el portal del cliente."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en Servicios Corporativos y CSP",
+      "subtitle": "Solicite un presupuesto a medida basado en el nivel de administración corporativa requerida.",
+      "features": [
+        {
+          "title": "Servicios centrales de CSP",
+          "items": [
+            "Domicilio Social (obligatorio) y renovación anual",
+            "Servicios de secretaría de la empresa (nombramiento y renovación)",
+            "Servicios de director (persona física / corporativo)",
+            "Director nominal / accionista nominal (si aplica)"
+          ]
+        },
+        {
+          "title": "Gobernanza y mantenimiento legal",
+          "items": [
+            "Mantenimiento de registros oficiales (directores, accionistas, cargas)",
+            "Monitoreo y actualización de Titularidad Real (UBO)",
+            "Soporte en presentaciones de MBR (Resumen Anual A1 y formularios)",
+            "Mantenimiento de actas, certificados de acciones y documentos constitutivos"
+          ]
+        },
+        {
+          "title": "Sustancia y cumplimiento",
+          "items": [
+            "Coordinación de sustancia y soporte documental",
+            "Supervisión del cumplimiento y apoyo a la preparación",
+            "Revisiones de cumplimiento de CSP (según sea necesario)"
+          ]
+        },
+        {
+          "title": "Adiciones opcionales",
+          "items": [
+            "Gestión de correo en el domicilio social (escaneo/envío)",
+            "Copias certificadas y coordinación de apostilla",
+            "Enlace bancario (coordinación de KYC y confirmaciones)",
+            "Confirmaciones y declaraciones de directores"
+          ]
+        }
+      ]
+    }
+  },
+  "regulated-licensing": {
+    "title": "Regulado y Licencias",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Regulado y Licencias" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte para negocios que operan en entornos regulados o requieren licencias formales.",
+      "VACEI gestiona solicitudes de licencias, renovaciones e informes regulatorios ante las autoridades.",
+      "El trabajo se entrega a través de flujos de trabajo claros y estructurados."
+    ],
+    "featuresSection": {
+      "title": "Soporte reglamentario y de licencias",
+      "subtitle": "Solicite un presupuesto basado en sus requisitos de licencias y regulación.",
+      "features": [
+        {
+          "title": "Servicios de Licencias",
+          "items": [
+            "Preparación y presentación de solicitudes de licencia",
+            "Gestión y seguimiento de renovaciones",
+            "Monitoreo de cumplimiento e informes",
+            "Coordinación de correspondencia con la autoridad"
+          ]
+        },
+        {
+          "title": "Soporte Reglamentario",
+          "items": [
+            "Análisis del marco regulatorio",
+            "Evaluaciones de brechas de cumplimiento",
+            "Monitoreo continuo del cumplimiento",
+            "Gestión del cambio regulatorio"
+          ]
+        },
+        {
+          "title": "Sectores Atendidos",
+          "items": [
+            "Firmas de servicios financieros e inversión",
+            "Operadores de juegos y azar",
+            "Promotores inmobiliarios",
+            "Servicios profesionales que requieren licencias"
+          ]
+        },
+        {
+          "title": "Para quién es",
+          "items": [
+            "Negocios que operan en sectores regulados",
+            "Empresas que requieren autorizaciones formales",
+            "Organizaciones que necesitan gestión de licencias",
+            "Entidades con obligaciones regulatorias continuas"
+          ]
+        }
+      ]
+    }
+  },
+  "advisory-growth": {
+    "title": "Asesoría y Crecimiento",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Asesoría y Crecimiento" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Apoyo de Asesoría y Crecimiento para negocios más allá del cumplimiento diario.",
+      "VACEI le ayuda a planificar, crecer y navegar decisiones clave con alineación financiera y regulatoria.",
+      "El trabajo se entrega junto a su configuración principal de contabilidad e impuestos para mayor consistencia."
+    ],
+    "featuresSection": {
+      "title": "Servicios de asesoría y crecimiento",
+      "subtitle": "Solicite un presupuesto o discuta el apoyo de asesoría y crecimiento para su negocio.",
+      "features": [
+        {
+          "title": "Planificación de negocios y estrategia",
+          "items": [
+            "Planes de negocio para financiación bancaria",
+            "Planes de negocio para subvenciones",
+            "Planes de negocio para presentaciones ante inversores",
+            "Planificación interna y previsión"
+          ]
+        },
+        {
+          "title": "Subvenciones y financiación",
+          "items": [
+            "Subvenciones de IA",
+            "Subvenciones para desarrollo de negocios",
+            "Programas de incentivos al empleo",
+            "Evaluación de elegibilidad y apoyo en solicitudes"
+          ]
+        },
+        {
+          "title": "Soporte a proyectos y transacciones",
+          "items": [
+            "Apoyo y coordinación de transacciones",
+            "Encargos de asesoría basados en proyectos",
+            "Soporte de estructuración alineado con requisitos reglamentarios (con asesores legales externos si se requiere)"
+          ]
+        }
+      ]
+    }
+  },
+  "company-structure-corporate-changes": {
+    "title": "Estructura de la Empresa y Cambios Corporativos",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Estructura de la Empresa y Cambios Corporativos" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte basado en proyectos para cambios en la estructura legal, de propiedad o de gestión de su empresa.",
+      "VACEI prepara la documentación, coordina las presentaciones y asegura que cada cambio sea conforme y se registre adecuadamente.",
+      "Esto es independiente de los servicios de CSP en curso y se maneja como un proyecto definido."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en Estructura de la Empresa y Cambios Corporativos",
+      "subtitle": "Solicite un presupuesto basado en el cambio corporativo o proyecto específico.",
+      "features": [
+        {
+          "title": "Cambios en propiedad y capital",
+          "items": [
+            "Transferencias de acciones",
+            "Aumentos, reducciones y reclasificaciones de capital",
+            "Cambios y actualizaciones de accionistas"
+          ]
+        },
+        {
+          "title": "Detalles de gestión y de la empresa",
+          "items": [
+            "Nombramientos y renuncias de directores",
+            "Cambios de nombre de la empresa",
+            "Modificaciones de los estatutos o memoria de la sociedad"
+          ]
+        },
+        {
+          "title": "Reestructuración y proyectos complejos",
+          "items": [
+            "Reestructuración de grupo",
+            "Estructuración previa a la fusión",
+            "Redomiciliación (donde sea aplicable)",
+            "Fusiones transfronterizas (por proyectos, multietapa)"
+          ]
+        }
+      ]
+    }
+  },
+  "liquidation-wind-down": {
+    "title": "Liquidación y Cierre",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Liquidación y Cierre" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte para empresas que cierran, se reestructuran o ya no operan.",
+      "VACEI gestiona el proceso de liquidación o cierre para que los requisitos legales y las presentaciones se completen correctamente."
+    ],
+    "featuresSection": {
+      "title": "Servicios completos de liquidación y cierre",
+      "subtitle": "Solicite un presupuesto basado en el tipo de liquidación o cierre requerido",
+      "features": [
+        {
+          "title": "Liquidación Voluntaria",
+          "items": [
+            "Liquidación voluntaria de socios (MVL)",
+            "Liquidación voluntaria de acreedores (CVL)",
+            "Planificación y ejecución de la liquidación",
+            "Realización y distribución de activos"
+          ]
+        },
+        {
+          "title": "Cancelación de Registro y Disolución",
+          "items": [
+            "Baja de empresas inactivas",
+            "Procedimientos de disolución voluntaria",
+            "Preparación de cuentas finales",
+            "Presentaciones ante el Registro de Sociedades"
+          ]
+        },
+        {
+          "title": "Servicios de Cierre",
+          "items": [
+            "Planificación de cierre de negocios",
+            "Soporte para finiquitos de empleados",
+            "Gestión de rescisión de contratos",
+            "Cumplimiento final y declaraciones"
+          ]
+        },
+        {
+          "title": "Para quién es",
+          "items": [
+            "Empresas que cesan operaciones",
+            "Empresas inactivas",
+            "Negocios que requieren liquidación formal",
+            "Grupos que reestructuran o cierran entidades"
+          ]
+        }
+      ]
+    }
+  },
+  "international-business-structuring-expansion": {
+    "title": "Estructuras Comerciales Internacionales",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Estructuras Comerciales Internacionales" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte para diseñar y gestionar estructuras de negocios internacionales.",
+      "VACEI le ayuda a configurar y coordinar estructuras de grupo, entidades y banca de forma correcta y eficiente.",
+      "El trabajo se coordina a través del portal para que pueda ver sus estructuras transfronterizas en un solo lugar."
+    ],
+    "featuresSection": {
+      "title": "Nuestros servicios de estructuración internacional",
+      "subtitle": "Discuta su estructura internacional o pida un presupuesto a través de un portal controlado.",
+      "features": [
+        {
+          "title": "Estructuras de grupo y holding",
+          "items": [
+            "Estructuración de holding y grupo",
+            "Optimización de propiedad y participaciones",
+            "Planificación de dividendos y flujos según marcos legales",
+            "Alineación de sustancia y gobernanza",
+            "Documentación clara para todas las estructuras"
+          ]
+        },
+        {
+          "title": "Constitución y expansión internacional",
+          "items": [
+            "Constitución de empresas en Malta",
+            "Sociedades operativas y filiales en la UE",
+            "Planificación de expansión para operaciones internacionales",
+            "Coordinación con asesores locales donde se requiera",
+            "Gestión centralizada de nuevas entidades en el grupo"
+          ]
+        },
+        {
+          "title": "Soporte de banca y pagos",
+          "items": [
+            "Introducciones a bancos de la UE e internacionales",
+            "Onboarding en EMI y fintech",
+            "Configuración de cuentas multimoneda",
+            "Soporte para aplicaciones bancarias complejas",
+            "Soporte bancario integrado con la estructura del grupo"
+          ]
+        },
+        {
+          "title": "Impuestos y cumplimiento transfronterizos",
+          "items": [
+            "Coordinación fiscal internacional entre entidades",
+            "Registros de IVA y cumplimiento continuo",
+            "Estructuración de nóminas y empleo",
+            "Coordinación de auditoría entre entidades del grupo",
+            "Planificación holística para que fiscalidad y operaciones estén alineadas"
+          ]
+        },
+        {
+          "title": "Gestión continua de grupos",
+          "items": [
+            "Supervisión contable del grupo",
+            "Seguimiento y conciliación entre compañías",
+            "Visibilidad consolidada de todas las entidades",
+            "Monitoreo continuo del cumplimiento",
+            "Estructuras manejables y transparentes mientras crece"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Discutir Mi Estructura Internacional",
+    "secondaryCtaText": "Solicitar Presupuesto"
+  },
+  "crypto-digital-assets": {
+    "title": "Cripto y Activos Digitales",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Cripto y Activos Digitales" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte para estructuración, banca y cumplimiento en torno a la actividad de criptomonedas y activos digitales.",
+      "VACEI le ayuda a alinear sus tenencias de cripto con una estructura fiscal legal y acceso bancario."
+    ],
+    "featuresSection": {
+      "title": "Servicios de estructuración de cripto y activos digitales",
+      "subtitle": "Discuta su estructura cripto o pida presupuesto usando el mismo proceso seguro.",
+      "features": [
+        {
+          "title": "Estructuración cripto y patrimonio",
+          "items": [
+            "Revisión de cómo se mantienen los activos cripto",
+            "Evaluar estructuración personal, de la empresa y del grupo",
+            "Separar actividades de trading, inversión y operativas",
+            "Diseñar estructuras para eficiencia fiscal legal",
+            "Alinear tenencias con requisitos de residencia y gobernanza"
+          ]
+        },
+        {
+          "title": "Banca cripto-fiat y salida a efectivo",
+          "items": [
+            "Evaluar actividad, historial y perfil de riesgo",
+            "Preparar clientes para onboarding bancario o EMI",
+            "Documentación y estado de preparación para cumplimiento",
+            "Introducir bancos o EMIs adecuados",
+            "Asistir en estructurar flujos de conversión de cripto a fiat"
+          ]
+        },
+        {
+          "title": "Contabilidad, impuestos y cumplimiento",
+          "items": [
+            "Tratamiento contable de activos cripto",
+            "Informes fiscales según reglas y clasificaciones",
+            "Consideraciones de IVA cuando aplique",
+            "Coordinación de auditoría con exposición cripto",
+            "Documentación adecuada para revisiones futuras"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Discutir Mi Estructura Cripto",
+    "secondaryCtaText": "Solicitar Presupuesto"
+  },
+  "audit-readiness": {
+    "title": "Preparación para Auditoría",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Preparación para Auditoría" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte de preparación para que sus registros y documentación estén listos antes de que empiece la auditoría.",
+      "VACEI revisa los registros, la documentación y los procesos para que las auditorías sean más fluidas y menos disruptivas."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en preparación para la auditoría",
+      "subtitle": "Prepárese para la auditoría utilizando un proceso estructurado coordinado a través del portal.",
+      "features": [
+        {
+          "title": "Registros financieros",
+          "items": [
+            "Revisión de teneduría de libros y registros contables",
+            "Evaluación de ajustes y saldos de cierre de periodo",
+            "Identificación de brechas o inconsistencias",
+            "Alineación entre balance de comprobación y formatos legales",
+            "Datos financieros listos para la revisión de auditoría"
+          ]
+        },
+        {
+          "title": "Documentación y Evidencia",
+          "items": [
+            "Revisión de documentación de soporte para saldos clave",
+            "Estructuración de archivos documentales listos para auditoría",
+            "Mapeo de evidencia con partidas del estado financiero",
+            "Identificación de soporte faltante o débil",
+            "Menor tiempo respondiendo a consultas de auditores"
+          ]
+        },
+        {
+          "title": "Alineación Corporativa y Cumplimiento",
+          "items": [
+            "Revisión de registros legales y corporativos",
+            "Alineación de capital, propiedad y gobernanza",
+            "Consistencia entre registros corporativos y estados financieros",
+            "Verificaciones de preparación para el cumplimiento",
+            "Resolución temprana de desalineaciones habituales"
+          ]
+        },
+        {
+          "title": "Controles internos y procesos",
+          "items": [
+            "Revisión de alto nivel de procesos contables y de aprobación",
+            "Identificación de brechas que afectan el riesgo de auditoría",
+            "Recomendaciones prácticas para reforzar la pista de auditoría",
+            "Foco en cambios que reduzcan problemas de auditoría"
+          ]
+        },
+        {
+          "title": "Resolución previa de problemas",
+          "items": [
+            "Identificación anticipada de hallazgos potenciales",
+            "Soporte para resolver problemas antes del trabajo de campo",
+            "Coordinación con gerencia en acciones correctivas",
+            "Documentación de resoluciones para referencia del auditor"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Preparar Auditoría",
+    "secondaryCtaText": "Solicitar Presupuesto"
+  },
+  "group-consolidation": {
+    "title": "Grupo y Consolidación",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Grupo y Consolidación" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Apoyo de Grupo y Consolidación para empresas con múltiples entidades.",
+      "VACEI coordina informes de grupo, alineación entre compañías y consolidación para que la información sea usable."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en grupo y consolidación",
+      "subtitle": "Hable sobre informes de grupo o pida presupuesto para soporte a nivel de grupo.",
+      "features": [
+        {
+          "title": "Estructura de grupo e informes",
+          "items": [
+            "Revisión de estructura y relaciones entre entidades",
+            "Definición de requisitos de informes de grupo",
+            "Alineación de políticas contables en todas las entidades",
+            "Establecimiento de metodología de consolidación",
+            "Enfoque consistente y repetible para informes de grupo"
+          ]
+        },
+        {
+          "title": "Contabilidad inter-compañía",
+          "items": [
+            "Identificación de transacciones y saldos entre empresas",
+            "Coordinación de acuerdos y flujos inter-compañía",
+            "Conciliación de saldos en todas las entidades",
+            "Resolución de desajustes e inconsistencias",
+            "Seguimiento claro para apoyar auditorías y prestamistas"
+          ]
+        },
+        {
+          "title": "Consolidación de grupo",
+          "items": [
+            "Preparación de información financiera consolidada",
+            "Eliminación de saldos y transacciones internas",
+            "Consolidación en múltiples monedas si aplica",
+            "Soporte para informes de gestión de grupo",
+            "Datos de consolidación alineados con los datos subyacentes"
+          ]
+        },
+        {
+          "title": "Supervisión continua de grupos",
+          "items": [
+            "Revisión periódica a nivel de grupo de los informes",
+            "Monitoreo de cambios que afecten la consolidación",
+            "Coordinación con equipos contables locales",
+            "Mejora continua de procesos de informes"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Discutir Informes de Grupo",
+    "secondaryCtaText": "Solicitar Presupuesto"
+  },
+  "banking-payments-support": {
+    "title": "Soporte de Banca y Pagos",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Soporte de Banca y Pagos" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Apoyo para acceder y mantener soluciones bancarias y de pago confiables.",
+      "VACEI prepara documentación, coordina el alta y apoya los requisitos bancarios habituales."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en soporte bancario y de pagos",
+      "subtitle": "Hable sobre soporte bancario o pida presupuesto a través de un proceso estructurado.",
+      "features": [
+        {
+          "title": "Preparación bancaria",
+          "items": [
+            "Revisión de actividad, estructura y perfil de riesgo",
+            "Evaluar desafíos bancarios o rechazos previos",
+            "Identificar rutas bancarias o de pago adecuadas",
+            "Alinear modelo de negocio con expectativas bancarias",
+            "Posicionamiento realista antes de aplicar"
+          ]
+        },
+        {
+          "title": "Introducciones a Bancos y EMI",
+          "items": [
+            "Introducciones a bancos de la UE e internacionales",
+            "Introducciones a instituciones de dinero electrónico",
+            "Coordinación de procesos de onboarding",
+            "Soporte durante todo el ciclo de la solicitud",
+            "Introducciones según idoneidad y jurisdicción"
+          ]
+        },
+        {
+          "title": "Documentación y Cumplimiento",
+          "items": [
+            "Preparación de KYC y documentos de alta",
+            "Coordinación de memorias de negocio",
+            "Alinear documentación corporativa, contable y fiscal",
+            "Soporte para responder a consultas de seguimiento",
+            "Documentos bien preparados para mejorar la eficiencia"
+          ]
+        },
+        {
+          "title": "Flujos de pago y operaciones",
+          "items": [
+            "Estructuración de flujos entrantes y salientes",
+            "Soporte para cuentas multimoneda",
+            "Coordinación de soluciones de cobro y pago",
+            "Soporte continuo para requisitos operativos"
+          ]
+        },
+        {
+          "title": "Soporte de cumplimiento bancario",
+          "items": [
+            "Apoyo en revisiones periódicas y actualizaciones bancarias",
+            "Coordinación de solicitudes de información",
+            "Asistencia en cambios de actividad o estructura",
+            "Mantenimiento de documentos para reducir riesgos"
+          ]
+        }
+      ]
+    },
+    "primaryCtaText": "Hablar sobre Soporte Bancario",
+    "secondaryCtaText": "Solicitar Presupuesto"
+  },
+  "corporate-transactions": {
+    "title": "Transacciones Corporativas",
+    "breadcrumbs": [
+      { "label": "Servicios" },
+      { "label": "Transacciones Corporativas" }
+    ],
+    "descriptionHeading": "De qué se trata",
+    "descriptionParagraphs": [
+      "Soporte para transacciones definidas como cambios de propiedad, reestructuraciones y otros eventos.",
+      "VACEI coordina documentos y presentaciones para que la transacción sea precisa."
+    ],
+    "featuresSection": {
+      "title": "Lo que cubrimos en transacciones corporativas",
+      "subtitle": "Hable de una transacción corporativa o pida presupuesto para un proyecto definido.",
+      "features": [
+        {
+          "title": "Propiedad y participaciones",
+          "items": [
+            "Traspaso de acciones entre personas o entidades",
+            "Cambios en porcentajes de propiedad",
+            "Entrada o salida de socios"
+          ]
+        }
+      ]
+    }
+  },
+  "shared": {
+    "videoLabel": "Vídeo resumen del servicio",
+    "videoPlaceholder": "Espacio reservado para un video en bucle, corto y sin sonido, para este servicio. El diseño se mantiene perfectamente equilibrado incluso si aún no se añade ningún video.",
+    "ctaTitle": "¿Listo para optimizar su flujo de trabajo?",
+    "ctaBody": "Comience con VACEI hoy y experimente la diferencia de una plataforma de entrega estructurada.",
+    "ctaButton": "Empezar"
+  },
+  "bookkeeping": {
+    "pageTitle": "VACEI — Contabilidad para Empresas en Malta",
+    "pageDescription": "Externalice su contabilidad en Malta. VACEI ofrece a las empresas maltesas visibilidad en tiempo real de sus finanzas, con un equipo contable dedicado.",
+    "hero": {
+      "eyebrow": "Contabilidad para empresas de Malta — una sola plataforma",
+      "title": "Externalice su Contabilidad en Malta —",
+      "titleEm": "Mantenga el Control",
+      "subtitle": "VACEI ofrece a las empresas en Malta visibilidad en tiempo real de sus finanzas, con un equipo de contabilidad dedicado que gestiona el trabajo entre bastidores.",
+      "btnPrimary": "Empezar y Solicitar Presupuesto →",
+      "btnOutline": "Ver la Demo Primero",
+      "ctaHint": "Cree su cuenta, acceda a su portal y solicite su presupuesto a medida en minutos."
+    },
+    "trust": {
+      "item1": "Contabilidad para empresas de Malta",
+      "item2": "Un equipo contable dedicado asignado a usted",
+      "item3": "Soporte para IVA y cumplimiento",
+      "item4": "Respaldado por A4 Services, contables establecidos en Malta"
+    },
+    "whatIsVacei": {
+      "eyebrow": "Cómo funciona VACEI",
+      "title": "Una manera sencilla de entender VACEI",
+      "subtitle": "VACEI combina un equipo de contabilidad dedicado con un potente portal para clientes — ofreciéndole visibilidad total sobre su posición financiera.",
+      "btnTeam": "Su Equipo",
+      "btnPortal": "Su Portal",
+      "teamBadge": "Su Equipo Dedicado",
+      "teamTitle": "Nosotros nos encargamos de todo. Usted se centra en su negocio.",
+      "teamDesc": "Su equipo contable dedicado gestiona el trabajo entre bastidores — contabilidad, conciliaciones, soporte de IVA, cuentas de gestión y tareas financieras continuas.",
+      "teamList1Title": "Contabilidad",
+      "teamList1Desc": "Cada transacción registrada y conciliada, de manera continua.",
+      "teamList2Title": "Conciliaciones bancarias",
+      "teamList2Desc": "Cuentas conciliadas regularmente para que sus cifras sean precisas.",
+      "teamList3Title": "Soporte de IVA",
+      "teamList3Desc": "Informes de IVA, preparación y requisitos de cumplimiento.",
+      "teamList4Title": "Cuentas de gestión",
+      "teamList4Desc": "Insights mensuales claros que explican su rendimiento.",
+      "portalBadge": "Su Portal de Clientes",
+      "portalTitle": "Vea todo. En cualquier momento.",
+      "portalDesc": "Inicie sesión en cualquier momento para ver lo que le deben a su empresa, lo que debe, sus saldos bancarios, posición de IVA, tareas y progreso. Sin correos. Sin esperas.",
+      "portalList1Title": "Panel en vivo",
+      "portalList1Desc": "Su posición financiera en tiempo real, siempre actualizada.",
+      "portalList2Title": "Efectivo y saldos",
+      "portalList2Desc": "Cuentas por cobrar, por pagar y bancos — todo en un solo lugar.",
+      "portalList3Title": "Visibilidad del IVA",
+      "portalList3Desc": "Vea claramente la posición del IVA y las obligaciones futuras.",
+      "portalList4Title": "Comunicación directa",
+      "portalList4Desc": "Envíe mensajes a su equipo contable sin salir del portal.",
+      "combinedDesc": "Un servicio de contabilidad gestionado con visibilidad en tiempo real de su empresa.",
+      "combinedQuote": "\"Ellos se encargan de todo, y yo puedo ver todo.\""
+    },
+    "video": {
+      "eyebrow": "Vea Cómo Funciona",
+      "title": "Vea cómo VACEI funciona en la práctica",
+      "desc": "Entienda cómo se gestiona su contabilidad, cómo funciona su portal y cómo obtiene visibilidad total de las finanzas de su empresa en Malta.",
+      "point1": "Vea cómo se cargan y procesan los documentos",
+      "point2": "Entienda cómo su panel de control ofrece visibilidad en tiempo real",
+      "point3": "Vea cómo se manejan las tareas y la comunicación",
+      "point4": "Aprenda cómo su equipo contable dedicado lo gestiona todo",
+      "note": "Esto no es una demo — es cómo se gestionará su contabilidad."
+    },
+    "features": {
+      "eyebrow": "Lo Que Realmente Obtiene",
+      "title1": "No solo contabilidad.",
+      "title2": "Una forma más clara de gestionar sus finanzas.",
+      "desc": "VACEI combina un equipo de contabilidad dedicado con un portal de clientes estructurado — dándole visibilidad en todo momento. Sin perseguir actualizaciones. Sin esperar informes.",
+      "card1Title": "Contabilidad Externalizada",
+      "card1Desc": "Cada transacción registrada, conciliada y mantenida con precisión — de forma continua.",
+      "card2Title": "Cuentas de Gestión",
+      "card2Desc": "Aclaraciones mensuales que explican su rendimiento financiero.",
+      "card3Title": "Soporte de IVA",
+      "card3Desc": "Soporte con informes de IVA, preparación y cumplimiento en Malta.",
+      "card4Title": "Acceso al Portal",
+      "card4Desc": "Acceda a cuentas por cobrar, pagar, saldos y tendencias — todo en un solo lugar.",
+      "card5Title": "Conciliaciones Bancarias",
+      "card5Desc": "Cuentas conciliadas para que sus cifras sigan siendo precisas y actuales.",
+      "card6Title": "Equipo Contable Dedicado",
+      "card6Desc": "Un equipo asignado a su negocio, familiarizado con sus cifras y disponible."
+    },
+    "howItWorks": {
+      "eyebrow": "Cómo Funciona",
+      "title": "Tres pasos para una mejor contabilidad",
+      "desc": "Sin procesos de integración largos. Sin formularios complejos. Sin llamadas innecesarias.",
+      "step1Title": "Cree su cuenta",
+      "step1Desc": "Acceda a su portal VACEI al instante.",
+      "step1Micro": "Toma menos de 2 minutos →",
+      "step2Title": "Solicite su presupuesto",
+      "step2Desc": "Háblenos de su empresa y lo que necesita — reciba una propuesta a medida.",
+      "step2Micro": "Sin precios genéricos →",
+      "step3Title": "Nosotros nos encargamos del resto",
+      "step3Desc": "Se asigna su equipo y comienza su configuración.",
+      "step3Micro": "Completamente gestionado desde el día uno →"
+    },
+    "portalVisibility": {
+      "eyebrow": "Su Panel de Control",
+      "title": "Todo lo que necesita saber — siempre disponible",
+      "desc": "No más esperas por los informes. No más incertidumbre. Inicie sesión y vea las finanzas de su empresa en tiempo real.",
+      "list1": "Lo que le deben a su empresa",
+      "list2": "Lo que debe su empresa",
+      "list3": "Saldos bancarios actuales",
+      "list4": "Efectivo entrante y saliente",
+      "list5": "Tendencias financieras a lo largo del tiempo",
+      "list6": "Posición de IVA y obligaciones futuras",
+      "tagline": "Claro. Estructurado. Siempre actualizado."
+    },
+    "pricing": {
+      "eyebrow": "Precios",
+      "title": "Elija el nivel de soporte adecuado",
+      "desc": "Comience con la contabilidad, agregue conciliaciones y reportes, o externalice su función financiera mediante una sola plataforma.",
+      "from": "Desde",
+      "startingFrom": "A partir de",
+      "month": "/mes",
+      "whatsIncluded": "Qué está incluido",
+      "bestFor": "Ideal para",
+      "viewAll": "Ver Todas las Funciones",
+      "notes1": "Todos los paquetes incluyen acceso a su portal VACEI para subir documentos, seguir tareas y ver su posición financiera.",
+      "notes2": "El precio final depende del volumen de transacciones, cuentas bancarias, complejidad del IVA y requisitos de informes.",
+      "notes3": "Para clientes en Malta, VACEI cuenta con el apoyo de A4 Services, una firma establecida de auditoría y contabilidad.",
+      "ctaTitle": "¿No está seguro de qué paquete se adapta mejor?",
+      "ctaDesc": "Cree su cuenta, solicite un presupuesto y le recomendaremos el nivel de soporte adecuado.",
+      "ctaBtn": "Empezar y Solicitar Presupuesto →",
+      "pkg0": {
+        "label": "Vacei Basic",
+        "title": "Vacei Basic",
+        "pos": "Para pequeñas empresas que necesitan registros limpios y soporte básico.",
+        "desc": "Para pequeñas empresas que necesitan registros limpios y soporte básico.",
+        "bestFor": "Pequeñas empresas que necesitan registros limpios y soporte básico.",
+        "cta": "Empezar",
+        "badge": "",
+        "inc1": "Registros limpios",
+        "inc2": "Soporte básico",
+        "inc3": "Centro de carga de documentos",
+        "inc4": "Acceso al portal VACEI",
+        "inc5": "Actualización mensual de teneduría de libros"
+      },
+      "pkg1": {
+        "label": "Vacei Core",
+        "title": "Vacei Core",
+        "pos": "Para empresas activas que necesitan teneduría de libros, soporte de IVA, conciliaciones, seguimiento de plazos y revisión contable.",
+        "desc": "Para empresas activas que necesitan teneduría de libros, soporte de IVA, conciliaciones, seguimiento de plazos y revisión contable.",
+        "bestFor": "Empresas activas que necesitan teneduría de libros, soporte de IVA, conciliaciones, seguimiento de plazos y revisión contable.",
+        "cta": "Solicitar Propuesta",
+        "badge": "Más Popular",
+        "inc1": "Teneduría de libros y soporte de IVA",
+        "inc2": "Conciliaciones bancarias",
+        "inc3": "Seguimiento de plazos",
+        "inc4": "Revisión contable",
+        "inc5": "Conexión de cuenta bancaria en vivo",
+        "inc6": "Panel de control en tiempo real",
+        "inc7": "Revisión mensual de saldos",
+        "inc8": "Acceso al portal VACEI"
+      },
+      "pkg2": {
+        "label": "Vacei Finance Office",
+        "title": "Vacei Finance Office",
+        "pos": "Para empresas en crecimiento que necesitan contabilidad, nómina, informes de gestión, asesoramiento, soporte de flujo de caja y asistencia prioritaria.",
+        "desc": "Para empresas en crecimiento que necesitan contabilidad, nómina, informes de gestión, asesoramiento, soporte de flujo de caja y asistencia prioritaria.",
+        "bestFor": "Empresas en crecimiento que necesitan contabilidad, nómina, informes de gestión, asesoramiento, soporte de flujo de caja y asistencia prioritaria.",
+        "cta": "Solicitar Propuesta",
+        "badge": "",
+        "inc1": "Contabilidad y nómina",
+        "inc2": "Informes de gestión",
+        "inc3": "Asesoramiento y asistencia prioritaria",
+        "inc4": "Soporte de flujo de caja",
+        "inc5": "Revisión de posición de IVA",
+        "inc6": "Informe de resumen mensual",
+        "inc7": "Acceso al portal VACEI"
+      }
+    },
+    "credibility": {
+      "title": "Respaldado por A4 Services",
+      "p1": "Para los clientes en Malta, VACEI está respaldado por A4 Services, una firma establecida de auditoría y contabilidad.",
+      "p2": "Esto aporta supervisión profesional y familiaridad con los requisitos de cumplimiento de Malta — mientras VACEI sigue siendo su portal principal."
+    },
+    "testimonial": {
+      "quote": "\"Por fin sé exactamente en qué situación se encuentra mi negocio cada día. VACEI eliminó las dudas y me devolvió horas cada semana.\"",
+      "author": "— Propietario de Empresa en Malta"
+    },
+    "finalCta": {
+      "eyebrow": "Sin compromiso. Comience su configuración en minutos.",
+      "title": "¿Listo para tomar el control de su contabilidad?",
+      "desc": "Cree su cuenta, acceda a su portal y solicite su presupuesto personalizado, todo en minutos.",
+      "btnPrimary": "Comenzar y Solicitar Presupuesto →",
+      "btnGhost": "Ver Demo Primero"
+    },
+    "dashboard": {
+      "cashPosition": "Posición de tesorería",
+      "bankReconciled": "Banco conciliado",
+      "runway": "Runway",
+      "months": "(meses)",
+      "currentBurn": "Al ritmo actual",
+      "monitor": "Monitorear",
+      "netProfit": "Beneficio neto",
+      "ytd": "(YTD)",
+      "monthValue": "Mes",
+      "cashFlow": "Flujo de caja",
+      "forecastPositive": "Previsión positiva",
+      "compliance": "Cumplimiento",
+      "vatQ1": "IVA Q1 2026",
+      "due": "Vencimiento",
+      "corpTax": "Impuesto sociedades",
+      "onTrack": "En curso",
+      "mgmtAccounts": "Cuentas de gestión",
+      "ready": "Listo",
+      "annualReturns": "Declaraciones anuales",
+      "filed": "Presentado",
+      "next30Days": "Próximos 30 días",
+      "forecast": "Previsión",
+      "incoming": "Entradas",
+      "outgoing": "Salidas",
+      "net": "Neto",
+      "cashDrops": "La tesorería cae a",
+      "inDays": "en {{days}} días",
+      "revenueVsExpenses": "Ingresos vs Gastos",
+      "last6Months": "Últimos 6 meses",
+      "revenue": "Ingresos",
+      "expenses": "Gastos",
+      "cashBalance": "Saldo de caja",
+      "risksAlerts": "Riesgos y Alertas",
+      "invoicesOverdue": "facturas vencidas +30 días",
+      "totalExposure": "Exposición total:",
+      "vatPayableHigh": "IVA a pagar inusualmente alto",
+      "aboveAverage": "por encima de la media",
+      "missingReceipts": "transacciones sin justificante",
+      "actionRequired": "Acción requerida por el equipo",
+      "mgmtAccountsReady": "Cuentas de gestión Q1 listas",
+      "availableInPortal": "Disponible en su portal",
+      "revenueBreakdown": "Desglose de ingresos",
+      "topClients": "Principales clientes",
+      "vatPosition": "Posición de IVA",
+      "netVatDue": "IVA neto a pagar — Q1",
+      "vatCollected": "IVA repercutido",
+      "vatReclaimable": "IVA deducible",
+      "netDue": "Netto a pagar",
+      "booksReconciled": "Libros conciliados",
+      "teamActive": "Equipo activo",
+      "updatedToday": "Actualizado hoy",
+      "jan": "Ene",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Abr",
+      "may": "May",
+      "jun": "Jun",
+      "nov": "Nov",
+      "dec": "Dic"
+    }
+  }
+}

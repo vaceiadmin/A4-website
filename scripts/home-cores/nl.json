@@ -1,0 +1,369 @@
+{
+  "hero": {
+    "titleLine1": "Stop met het managen van meerdere aanbieders.",
+    "titleLine2": "Run uw hele bedrijf vanaf één platform.",
+    "titleHighlight": "Alles geregeld.",
+    "body": "Wij verzorgen oprichting, boekhouding, audit, belasting, juridisch, loon en compliance — allemaal in één gestructureerd systeem.",
+    "body2": "Een vast team, een eigen expert en realtime inzicht — zodat u kunt focussen op groei.",
+    "quoteCta": "Aan de slag",
+    "demoCta": "Belafspraak maken",
+    "benefit1": "Toegewijde expert",
+    "benefit2": "Eén platform",
+    "benefit3": "Realtime inzicht",
+    "marquee": [
+      "Oprichting",
+      "Boekhouding",
+      "Audit",
+      "Belasting",
+      "Juridisch",
+      "Loon",
+      "Compliance",
+      "Wereldwijd netwerk",
+      "Directe support"
+    ],
+    "trustStrip": "Eén team. Eén platform. Alles geregeld.",
+    "trustPillLabels": ["Eén team", "Eén platform", "Alles geregeld"]
+  },
+  "interactiveBlock": {
+    "title": "Maak uw account in 2 minuten",
+    "companyNameLabel": "Bedrijfsnaam",
+    "countryLabel": "Land",
+    "servicesLabel": "Gewenste diensten",
+    "cta": "Portal aanmaken",
+    "secondaryCta": "Praat met ons team",
+    "microcopy": [
+      "Duurt 2 minuten",
+      "Geen verplichting",
+      "Offerte binnen 24 uur"
+    ]
+  },
+  "coreStatement": {
+    "text": "Wij beheren alles wat uw bedrijf nodig heeft — van oprichting tot compliance — overal ter wereld.",
+    "bullets": [
+      "Een vast team",
+      "Een eigen expert",
+      "Uw eigen gestructureerde portal",
+      "Volledig inzicht in alles"
+    ]
+  },
+  "valueSection": {
+    "title": "Wij leveren niet alleen diensten — wij geven u regie",
+    "bullets": [
+      "Realtime financiële data op uw dashboard",
+      "Doorlopend bijgewerkte boekhouding",
+      "Volledig inzicht in audit-workflows",
+      "Gevolgde aangiftes, mijlpalen en deadlines",
+      "Directe toegang tot uw team",
+      "Altijd gesprekken inplannen"
+    ],
+    "footer": "Zo weet u altijd wat er speelt — zonder achter mensen aan te moeten."
+  },
+  "keyBenefits": {
+    "title": "Alles wat u nodig heeft om te ondernemen — zonder onnodige complexiteit",
+    "items": [
+      {
+        "title": "Volg uw bedrijf in realtime",
+        "desc": "Geen wachten. Geen onzekerheid. Altijd volledig inzicht."
+      },
+      {
+        "title": "Blijf automatisch compliant",
+        "desc": "Deadlines, aangiftes en verplichtingen worden gevolgd en beheerd."
+      },
+      {
+        "title": "Bespaar meer op belasting",
+        "desc": "Gestructureerde opzet en doorlopende optimalisatie helpen u meer te behouden."
+      },
+      {
+        "title": "Neem betere beslissingen",
+        "desc": "Heldere data en experts — wanneer u ze nodig heeft."
+      }
+    ]
+  },
+  "positioningLine": {
+    "text": "U zou niet meerdere aanbieders nodig moeten hebben om één bedrijf te runnen."
+  },
+  "whatYouGet": {
+    "title": "Een beheersysteem — niet alleen losse diensten",
+    "badge": "Digitaal ecosysteem",
+    "highlight": "Alles geregeld.",
+    "cardBody": "Volledig geïntegreerd in uw VACEI-werkruimte voor inzicht en regie.",
+    "cardMeta": "Modulaire dienst",
+    "items": [
+      "Toegewijd team voor uw bedrijf",
+      "One-to-one expertsupport",
+      "Eigen portal om alles te beheren",
+      "Interne boekhouding met realtime updates",
+      "Audit-workflows met volledig inzicht",
+      "Belasting- en compliancebeheer",
+      "Loondienst-ondersteuning",
+      "Mijlpalen en voortgang",
+      "Automatische deadline-monitoring",
+      "Directe chat met uw team",
+      "Altijd gesprekken plannen"
+    ],
+    "footer": "U huurt geen losse aanbieders in — u verbetert hoe uw bedrijf wordt gerund."
+  },
+  "flexibility": {
+    "title": "Gebruik precies wat u nodig heeft",
+    "options": [
+      "Alle diensten",
+      "Of alleen specifieke"
+    ],
+    "advisorsHeadline": "Werkt u al met een accountant of advocaat?",
+    "advisorsBody": "Nodig bestaande adviseurs uit in uw portal en beheer alles op één plek.",
+    "advisorsNote": "(Beschikbaar in een maandelijks platformabonnement)"
+  },
+  "processSteps": {
+    "badge": "Hoe het werkt",
+    "title": "Eenvoudig. Gestructureerd. Snel.",
+    "sidebarSteps": [
+      {
+        "title": "Account aanmaken",
+        "description": "Uw portal is direct klaar"
+      },
+      {
+        "title": "Diensten aanvragen",
+        "description": "Vertel wat uw bedrijf nodig heeft"
+      },
+      {
+        "title": "Gesprek plannen (indien nodig)",
+        "description": "Spreek rechtstreeks met uw team"
+      },
+      {
+        "title": "Offerte ontvangen",
+        "description": "Binnen 24 uur geleverd"
+      },
+      {
+        "title": "Starten en alles volgen",
+        "description": "Wij voeren uit — u houdt de regie"
+      }
+    ],
+    "columnTitle": "Stap voor stap",
+    "columnHeadingLine1": "Eenvoudig.",
+    "columnMid": "Gestructureerd.",
+    "columnHeadingAccent": "Snel.",
+    "columnBody": "Volg deze stappen om uw bedrijfsvoering naar VACEI te brengen.",
+    "back": "Terug",
+    "submitting": "Verzenden...",
+    "nextStepFallback": "Volgende stap",
+    "platformPowerLabel": "Platformkracht",
+    "platformPowerLine1": "Alles loopt via één platform.",
+    "platformPowerLine2": "Realtime inzicht voor uw hele team.",
+    "registerDirectly": "Direct registreren",
+    "subjectLine": "Nieuwe offerteaanvraag dienst",
+    "errors": {
+      "fieldRequired": "{{field}} is verplicht",
+      "invalidEmail": "Ongeldig e-mailadres",
+      "phoneRequired": "Telefoonnummer is verplicht",
+      "generic": "Er ging iets mis. Probeer het opnieuw."
+    },
+    "success": {
+      "title": "Aanvraag ontvangen",
+      "body": "Uw toegewijde expert beoordeelt de aanvraag en neemt snel contact op.",
+      "newRequest": "Nog een aanvraag indienen",
+      "registerNow": "Naar portal"
+    },
+    "form": {
+      "request": {
+        "title": "Vertel over uzelf",
+        "subtitle": "Beschrijf kort uw behoeften.",
+        "fields": {
+          "name": { "label": "Volledige naam", "placeholder": "Uw naam" },
+          "email": { "label": "Zakelijke e-mail", "placeholder": "email@bedrijf.nl" },
+          "message": { "label": "Bedrijfsoverzicht", "placeholder": "Beschrijf kort uw activiteiten..." }
+        },
+        "primaryLabel": "Volgende: diensten"
+      },
+      "onboarding": {
+        "title": "Diensten selecteren",
+        "subtitle": "Welk deel van uw bedrijf moet worden beheerd?",
+        "fields": {
+          "service": { "label": "Gewenste diensten", "placeholder": "Selecteer een of meer..." },
+          "additionalDetails": { "label": "Specifieke vereisten", "placeholder": "Relevante landen of complexiteit?" }
+        },
+        "primaryLabel": "Volgende: contact"
+      },
+      "preferences": {
+        "title": "Laatste details",
+        "subtitle": "Hoe mogen we contact opnemen?",
+        "fields": {
+          "communicationChannel": { "label": "Voorkeurskanaal", "placeholder": "E-mail/WhatsApp/Bellen" },
+          "updateCadence": { "label": "Updatefrequentie", "placeholder": "Wekelijks/Maandelijks/Op aanvraag" },
+          "phone": { "label": "WhatsApp/Telefoon", "placeholder": "+31..." }
+        },
+        "primaryLabel": "Offerteaanvraag verzenden"
+      }
+    },
+    "communicationOptions": ["E-mail", "WhatsApp", "Bellen", "Videobellen"],
+    "updateOptions": ["Wekelijks", "Tweewekelijks", "Maandelijks", "Realtime"]
+  },
+  "globalDelivery": {
+    "badge": "Wereldwijde dekking",
+    "title": "Overal opereren — zonder complexiteit",
+    "body": "Alle diensten worden geleverd via een wereldwijd netwerk van gecontroleerde professionele kantoren.",
+    "bullets": [
+      "Lokale expertise per land",
+      "Gestandaardiseerde workflows",
+      "Eén gecoördineerd systeem"
+    ],
+    "footer": "U beheert niet meerdere aanbieders — wij coördineren alles."
+  },
+  "realTimeControl": {
+    "title": "Weet precies waar u staat — altijd",
+    "subtitle": "In uw portal:",
+    "items": [
+      "realtime financieel dashboard",
+      "boekhoudupdates",
+      "auditvoortgang",
+      "belastingaangiftes en deadlines",
+      "loontracking",
+      "documentbeheer",
+      "serviceverzoeken",
+      "gespreksplanning",
+      "directe communicatie met uw team"
+    ],
+    "footer": "Alles op één plek. Geen verwarring."
+  },
+  "beforeAfter": {
+    "badge": "Infrastructuur-upgrade",
+    "titleLine1": "Van gefragmenteerd naar ",
+    "titleHighlight": "volledig gestructureerd",
+    "subtitle": "Van losse aanbieders naar één geünificeerd systeem.",
+    "beforeTitle": "Voor",
+    "afterTitle": "Na",
+    "beforeItems": [
+      "meerdere aanbieders",
+      "geen inzicht",
+      "voortdurend nabellen",
+      "gemiste deadlines"
+    ],
+    "afterItems": [
+      "één platform",
+      "één vast team",
+      "eigen expert",
+      "realtime data",
+      "alles gevolgd"
+    ],
+    "beforeGifAlt": "Gefrustreerd door gefragmenteerde aanbieders",
+    "afterGifAlt": "Succes met één platform",
+    "hoverPlayDesktop": "Zweven om af te spelen",
+    "hoverPlayMobile": "Tik om af te spelen",
+    "footerLine": "Verbeter hoe uw bedrijf wordt gerund."
+  },
+  "twoWaysToStart": {
+    "badge": "Twee manieren om te starten",
+    "titleLine1": "Kies uw route —",
+    "titleHighlight": "één werkruimte",
+    "subtitle": "Vraag diensten aan in de marketplace of nodig uw bestaande adviseurs uit. Beide paden blijven verbonden in hetzelfde portaal.",
+    "spotlightBadge": "Werkruimte-preview",
+    "spotlightTitle": "Nodig adviseurs uit in een paar klikken",
+    "spotlightBody": "Veilige uitnodigingen, duidelijke rollen en een gedeelde plek voor documenten en updates — zodat er niets tussen kantoren verloren gaat.",
+    "spotlightBullets": [
+      "Toegang per rol",
+      "Gedeelde documentenkluis",
+      "Volledige activiteitsgeschiedenis"
+    ],
+    "videoAlt": "Een adviseur uitnodigen in de VACEI-werkruimte",
+    "cta": "Portaal openen"
+  },
+  "conversion": {
+    "title": "Maak uw portal en ga van start",
+    "body": "Stel uw account in, vraag diensten aan en ontvang binnen 24 uur een offerte.",
+    "cta": "Portal aanmaken"
+  },
+  "callOption": {
+    "title": "Liever persoonlijk spreken?",
+    "body": "Plan op elk moment een gesprek met uw team.",
+    "cta": "Gesprek plannen"
+  },
+  "finalSection": {
+    "title": "Alles wat uw bedrijf nodig heeft — beheerd op één plek",
+    "body": "Van oprichting tot boekhouding, audit, belasting, loon en compliance — alles loopt via één platform met volledig inzicht.",
+    "note": "Gebruik alle diensten of alleen wat u nodig heeft.",
+    "finalLine": "Eén team. Eén platform. Realtime inzicht. Alles geregeld."
+  },
+  "activeEU": {
+    "badge": "Internationaal bereik",
+    "titleLine1": "Een gestructureerde gateway ",
+    "titleHighlight": "naar Europa.",
+    "body": "VACEI biedt de digitale omgeving voor internationale bedrijven en founders om Europese activiteiten met vertrouwen op te richten, te beheren en te schalen.",
+    "chips": ["27 landen", "Eén API", "Lokale experts"],
+    "hubAlt": "VACEI-hub"
+  },
+  "workspaceEntry": {
+    "sectionTitleLine1": "Eén werkruimte voor uw bedrijf —",
+    "sectionTitleHighlight": "en al uw diensten",
+    "sectionBody": "Boekhouding, audit, juridisch en compliance horen niet verspreid te zijn.\n\nVACEI brengt alles samen op één gestructureerd platform — diensten, documenten en deadlines op één plek.\n\nGeen e-mailketens. Geen verspreide bestanden. Geen onzekerheid.",
+    "activeEntities": "Actieve entiteiten",
+    "card1TitleBefore": "Uw bedrijf — ",
+    "card1TitleAccent": "volledig georganiseerd",
+    "card1Body": "Maak een werkruimte en beheer alles op één plek.\n\nDiensten, documenten en adviseurs lopen via één platform — volledige regie zonder complexiteit.",
+    "card1CoordinationNote": "Alle diensten worden via VACEI gecoördineerd en geleverd via een netwerk van vertrouwde kantoren.",
+    "whatYouCanDo": "Wat u kunt doen",
+    "card1Bullets": [
+      "Volledig inzicht in opdrachten",
+      "Gecentraliseerd documentbeheer",
+      "Realtime deadline-tracking"
+    ],
+    "createWorkspaceCta": "Werkruimte aanmaken",
+    "oneClickSync": "Synchronisatie met één klik",
+    "newFounders": "Nieuwe founders",
+    "card2Title": "Start uw bedrijf en ",
+    "card2TitleAccent": "schaal vanaf dag één.",
+    "card2Body": "Richt uw bedrijf op en centraliseer oprichting, goedkeuringen, compliance en doorlopende ondersteuning in dezelfde werkruimte waarmee u het bedrijf runt.",
+    "startIncorporationCta": "Oprichting starten",
+    "bookConsultationCta": "Consult plannen",
+    "card1MicroLabel": "Systeemintegratie",
+    "card1MicroAccent": "Operationele werkruimte",
+    "card2MicroLabel": "Groei-engine",
+    "card2MicroAccent": "Nieuwe onderneming",
+    "keyCapabilitiesHeading": "Belangrijkste mogelijkheden",
+    "builderBadge": "Builder-pakket",
+    "builderDescription": "Volledige oprichting, opzet en compliance klaar in één uniform pakket."
+  },
+  "insightsResources": {
+    "badge": "INZICHTEN & BRONNEN",
+    "titleLine1": "Praktische inzichten",
+    "titleHighlight": "voor moderne bedrijven",
+    "subtitle": "Korte video’s, gidsen en artikelen over boekhouding, audit, compliance en operations — zodat u georganiseerd, geïnformeerd en schaalbaar blijft.",
+    "viewAll": "Alle bronnen bekijken",
+    "watchVideo": "Video bekijken",
+    "readMore": "Lees meer",
+    "videoModalEyebrow": "VACEI-inzichten",
+    "videoModalHint": "Kies een video",
+    "videoNowPlaying": "Nu aan het afspelen",
+    "videoModalCloseAria": "Video sluiten",
+    "videoPlaylist": [
+      { "title": "Het moderne bedrijf" },
+      { "title": "Hoe AI het werk-privé-evenwicht echt verbetert" }
+    ],
+    "resources": [
+      {
+        "type": "Artikel",
+        "category": "Audit & boekhouding",
+        "title": "Uw bedrijf voorbereiden op een soepele audit",
+        "desc": "Precies welke documenten, workflows en planning u nodig heeft voor een soepel auditproces."
+      },
+      {
+        "type": "Video",
+        "category": "Insights",
+        "title": "Twee korte video’s van Vacei",
+        "desc": "Wat spaak kan lopen bij schalen zonder de juiste basis, en hoe AI teams merkbaar kan ontlasten — kies een video in de afspeellijst hieronder."
+      },
+      {
+        "type": "Gids",
+        "category": "Operations",
+        "title": "De ultieme checklist om uw operations te schalen",
+        "desc": "Gebruik deze checklist om juridische, boekhoudkundige en operationele infrastructuur schaal-klaar te maken."
+      }
+    ]
+  },
+  "footerCta": {
+    "badge": "Infrastructuur-upgrade",
+    "titleLine1": "Stop met het managen van meerdere aanbieders.",
+    "titleHighlight": "Alles geregeld.",
+    "body": "Zet vandaag uw portal op en ontvang binnen 24 uur een heldere, gestructureerde offerte.",
+    "quoteCta": "Offerte aanvragen",
+    "demoCta": "Demo boeken"
+  }
+}

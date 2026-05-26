@@ -1,0 +1,296 @@
+{
+  "pricing": {
+    "hero": {
+      "badge": "Prezzo Trasparente",
+      "title": "Equo, trasparente e su misura per te",
+      "p1": "In VACEI, non crediamo in prezzi validi per tutti. Ogni attività è unica e il tuo prezzo deve riflettere il lavoro effettivo coinvolto.",
+      "p2": "Forniamo preventivi personalizzati in base all'ambito, alla complessità e ai requisiti — senza costi nascosti e senza obbligo di procedere.",
+      "checklist": [
+        "Nessun pacchetto fisso",
+        "Nessuna tariffa nascosta",
+        "Comunicazione chiara"
+      ],
+      "card": {
+        "badge": "Preventivo su Misura",
+        "title": "Tua Quotazione Personalizzata",
+        "rows": [
+          "Valutazione Ambito",
+          "Analisi Complessità",
+          "Valutazione Volumi",
+          "Considerazione Rischio"
+        ],
+        "footer": "Trasparente ed Equo"
+      }
+    },
+    "factors": {
+      "badge": "Fattori di Prezzo",
+      "title": "Come Viene Determinato il Prezzo",
+      "subtitle": "La quotazione di VACEI si basa su una valutazione strutturata di diversi fattori. Questi fattori ci permettono di definire chiaramente l'ambito ed evitare sorprese.",
+      "keyInsight": "Approfondimento Chiave",
+      "factorLabel": "Fattore {{id}}",
+      "viewingFactor": "Visualizzazione Fattore {{current}} di {{total}}",
+      "tip": "💡 Consiglio:",
+      "tipBody": "Fai clic su qualsiasi scheda fattore sopra per scoprire maggiori dettagli",
+      "items": [
+        {
+          "title": "Ambito del Lavoro",
+          "shortDesc": "Il fattore più importante nel calcolo del prezzo è l'ambito.",
+          "details": [
+            "Servizi richiesti",
+            "Deliverable attesi",
+            "Livello di coinvolgimento necessario",
+            "Lavoro continuativo o a progetto"
+          ],
+          "highlight": "Un ambito chiaro permette di definire il prezzo in modo accurato e prevedibile."
+        },
+        {
+          "title": "Dimensione e Struttura Aziendale",
+          "shortDesc": "Il prezzo tiene conto della dimensione e della struttura dell'azienda.",
+          "details": [
+            "Numero di entità coinvolte",
+            "Struttura di gruppo o autonoma",
+            "Giurisdizioni operative",
+            "Complessità della proprietà o governance"
+          ],
+          "highlight": "Strutture più complesse richiedono in genere coordinamento e supervisione supplementari."
+        },
+        {
+          "title": "Volume e Livelli di Attività",
+          "shortDesc": "Per i servizi operativi, il prezzo è influenzato dai livelli di attività.",
+          "details": [
+            "Volumi di transazioni",
+            "Numero di record elaborati",
+            "Frequenza di reportistica",
+            "Numero di invii o depositi"
+          ],
+          "highlight": "Volumi più elevati o reportistica più frequente aumentano il livello di lavoro necessario."
+        },
+        {
+          "title": "Regolamentazione e Conformità",
+          "shortDesc": "Alcuni servizi sono soggetti a requisiti normativi più elevati.",
+          "details": [
+            "Quadri normativi applicabili",
+            "Attività autorizzata o regolamentata",
+            "Obblighi di revisione o rendicontazione",
+            "Requisiti specifici per giurisdizione"
+          ],
+          "highlight": "Questi fattori influiscono sul livello di documentazione, revisione e supervisione."
+        },
+        {
+          "title": "Rischio e Responsabilità",
+          "shortDesc": "La responsabilità professionale e il rischio sono considerati nella quotazione.",
+          "details": [
+            "Natura del lavoro svolto",
+            "Livello di giudizio richiesto",
+            "Requisiti di revisione e firma",
+            "Esposizione a rischio normativo o professionale"
+          ],
+          "highlight": "Impegni a più alto rischio richiedono controlli e revisioni supplementari."
+        },
+        {
+          "title": "Durata e Tempistiche",
+          "shortDesc": "Il prezzo considera anche le tempistiche e la durata dell'incarico.",
+          "details": [
+            "Lunghezza dell'incarico",
+            "Lavoro ricorrente o una tantum",
+            "Urgenza o scadenze fisse",
+            "Requisiti stagionali o critici in termini di tempo"
+          ],
+          "highlight": "Incarichi critici in termini di tempo o di lunga durata possono richiedere diverse strutture di prezzo."
+        }
+      ]
+    },
+    "overview": {
+      "badge": "Modelli di Prezzo dei Servizi",
+      "title": "Esplora le Nostre Categorie di Servizio",
+      "subtitle": "Ogni servizio ha un prezzo basato sui tuoi requisiti specifici. Sfoglia le nostre categorie per comprendere i modelli di produzione tipici.",
+      "tabs": [
+        "Essentials",
+        "Strategic",
+        "Corporate"
+      ],
+      "pricingModelLabel": "Modello di Prezzo",
+      "contactCard": {
+        "title": "Ti serve un preventivo personalizzato?",
+        "description": "Ottieni una proposta su misura basata sui tuoi requisiti esatti.",
+        "cta": "Ottieni Preventivo"
+      },
+      "essentials": [
+        {
+          "title": "Contabilità e Finanza",
+          "intro": "Gestione finanziaria centrale.",
+          "scope": "Canone mensile basato sul volume",
+          "features": [
+            "Tenuta contabile mensile",
+            "Conformità IVA e fiscale",
+            "Reportistica gestionale",
+            "Configurazione Xero / QuickBooks"
+          ],
+          "highlight": true
+        },
+        {
+          "title": "Tasse e Conformità",
+          "intro": "Resta in regola.",
+          "scope": "Quota annuale o mensile fissa",
+          "features": [
+            "Dichiarazioni dei redditi",
+            "Invio dichiarazione IVA",
+            "Elaborazione buste paga",
+            "Contatti con autorità"
+          ],
+          "highlight": false
+        }
+      ],
+      "strategic": [
+        {
+          "title": "Revisione e Assurance",
+          "intro": "Revisioni legali rigorose.",
+          "scope": "Quotato per incarico",
+          "features": [
+            "Revisione contabile legale",
+            "Revisione controlli interni",
+            "Valutazione del rischio",
+            "Assicurazione conformità"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Advisory e Crescita",
+          "intro": "Scala il tuo business.",
+          "scope": "Progetto o canone",
+          "features": [
+            "Modelli finanziari",
+            "Supporto M&A",
+            "Ottimizzazione flussi di cassa",
+            "Pianificazione strategica"
+          ],
+          "highlight": true
+        }
+      ],
+      "corporate": [
+        {
+          "title": "Servizi Aziendali",
+          "intro": "Amministrazione società.",
+          "scope": "Tariffe annuali e a progetto",
+          "features": [
+            "Costituzione società",
+            "Ufficio registrato",
+            "Segretario aziendale",
+            "Trasferimento quote"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Licenze e Autorizzazioni",
+          "intro": "Autorizzazione complesse.",
+          "scope": "Basato sul progetto",
+          "features": [
+            "Domande di licenza",
+            "Reporting normativo",
+            "Monitoraggio conformità",
+            "Corrispondenza con autorità"
+          ],
+          "highlight": true
+        }
+      ]
+    },
+    "quoteProcess": {
+      "badge": "Processo di Preventivo",
+      "title": "Come Funzionano le Quotazioni",
+      "subtitle": "Un processo semplice e trasparente dal colloquio iniziale al prezzo confermato.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Colloquio Iniziale",
+          "description": "Condividi i tuoi requisiti e il contesto aziendale con il nostro team."
+        },
+        {
+          "number": "02",
+          "title": "Valutazione Ambito",
+          "description": "Rivediamo le tue necessità e valutiamo l'ambito, la complessità e i requisiti."
+        },
+        {
+          "number": "03",
+          "title": "Quotazione Chiara Fornita",
+          "description": "Ricevi un preventivo dettagliato che illustra servizi, ambito, struttura prezzi e assunzioni."
+        },
+        {
+          "number": "04",
+          "title": "Revisione e Conferma",
+          "description": "Esamina la proposta con calma. Nessuna pressione, nessun obbligo di procedere."
+        }
+      ],
+      "includesBadge": "Cosa è Incluso",
+      "everyTitle": "Ogni Preventivo Illustra",
+      "everyBody": "Una volta esaminate le informazioni iniziali, VACEI fornisce un preventivo chiaro che garantisce trasparenza completa prima dell'inizio di qualsiasi lavoro.",
+      "quoteIncludes": [
+        "Servizi inclusi",
+        "Ambito concordato",
+        "Struttura dei prezzi",
+        "Assunzioni o dipendenze",
+        "Tempistiche e deliverable",
+        "Termini e condizioni"
+      ],
+      "mockTitle": "Preventivo Servizi",
+      "mockSubtitle": "Proposta su Misura",
+      "mockFooter": "Prezzo confermato prima dell'inizio",
+      "scopeTitle": "Variazioni Ambito",
+      "scopeBody": "Se l'ambito cambia durante l'incarico, il prezzo viene discusso e concordato prima di effettuare qualsiasi lavoro supplementare. Crediamo nella trasparenza totale in ogni fase."
+    },
+    "whatToExpect": {
+      "badge": "Il Nostro Impegno",
+      "title": "Cosa Aspettarsi",
+      "subtitle": "Lavorando con VACEI, il nostro obiettivo è garantire che il prezzo rifletta il lavoro richiesto e rimanga prevedibile.",
+      "items": [
+        {
+          "title": "Colloqui sui prezzi chiari fin da subito",
+          "description": "Discutiamo i prezzi apertamente fin dall'inizio, assicurando che tu capisca come vengono determinati i costi."
+        },
+        {
+          "title": "Nessuna tariffa nascosta",
+          "description": "Tutti i costi sono chiaramente delineati nel preventivo. Quello che vedi è quello che paghi."
+        },
+        {
+          "title": "Nessun addebito imprevisto",
+          "description": "Non riceverai fatture a sorpresa. Ogni variazione di ambito viene discussa e concordata in anticipo."
+        },
+        {
+          "title": "Comunicazione trasparente",
+          "description": "Se i requisiti cambiano durante l'incarico, comunichiamo apertamente e regoliamo il prezzo di conseguenza."
+        }
+      ],
+      "bottomTitle": "Un Prezzo che Funziona per Te",
+      "bottomBody": "Il nostro approccio garantisce che tu paghi solo per i servizi di cui hai bisogno, con chiarezza su ciò che è incluso. Niente sorprese, solo serietà professionale.",
+      "chips": [
+        "Prezzo Equo",
+        "Piena Trasparenza",
+        "Costi Prevedibili"
+      ]
+    },
+    "cta": {
+      "badge": "Inizia Oggi Stesso",
+      "title": "Pronto a discutere i prezzi?",
+      "body": "Se desideri capire come il prezzo si applica alla tua situazione specifica, puoi richiedere un preventivo o discutere i tuoi requisiti con noi.",
+      "requestQuote": "Richiedi un Preventivo",
+      "discussNeeds": "Discuti i tuoi Bisogni",
+      "responseLabel": "Tempo di Risposta",
+      "responseValue": "Entro 24 ore",
+      "commitmentLabel": "Impegno",
+      "commitmentValue": "Nessun obbligo",
+      "floatSteps": [
+        {
+          "step": "Fase 1",
+          "label": "Preventivo"
+        },
+        {
+          "step": "Fase 2",
+          "label": "Discussione"
+        },
+        {
+          "step": "Fase 3",
+          "label": "Inizia"
+        }
+      ]
+    }
+  }
+}

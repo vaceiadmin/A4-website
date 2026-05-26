@@ -1,0 +1,296 @@
+{
+  "pricing": {
+    "hero": {
+      "badge": "Transparente Preisgestaltung",
+      "title": "Fair, transparent und auf Ihre Bedürfnisse zugeschnitten",
+      "p1": "Wir bei VACEI glauben nicht an Einheitslösungen. Jedes Unternehmen ist einzigartig, und Ihre Preisgestaltung sollte den tatsächlichen Arbeitsaufwand widerspiegeln.",
+      "p2": "Wir erstellen maßgeschneiderte Angebote basierend auf Umfang, Komplexität und Anforderungen – ohne versteckte Kosten und ohne Verpflichtung fortzufahren.",
+      "checklist": [
+        "Keine Festpakete",
+        "Keine versteckten Gebühren",
+        "Klare Kommunikation"
+      ],
+      "card": {
+        "badge": "Maßgeschneidertes Angebot",
+        "title": "Ihre individuelle Preisgestaltung",
+        "rows": [
+          "Umfangsbeurteilung",
+          "Komplexitätsanalyse",
+          "Volumenbewertung",
+          "Risikobetrachtung"
+        ],
+        "footer": "Transparent & Fair"
+      }
+    },
+    "factors": {
+      "badge": "Preisfaktoren",
+      "title": "Wie die Preisgestaltung ermittelt wird",
+      "subtitle": "Die Preisgestaltung bei VACEI basiert auf einer strukturierten Bewertung mehrerer Faktoren. Diese Faktoren ermöglichen es uns, den Umfang klar zu definieren und spätere Überraschungen zu vermeiden.",
+      "keyInsight": "Wichtige Erkenntnis",
+      "factorLabel": "Faktor {{id}}",
+      "viewingFactor": "Einsicht Faktor {{current}} von {{total}}",
+      "tip": "💡 Tipp:",
+      "tipBody": "Klicken Sie auf eine beliebige Faktorkarte oben, um weitere Details zu erfahren",
+      "items": [
+        {
+          "title": "Leistungsumfang",
+          "shortDesc": "Der wichtigste Faktor bei der Preisgestaltung ist der Umfang.",
+          "details": [
+            "Erforderliche Dienstleistungen",
+            "Erwartete Ergebnisse",
+            "Erforderlicher Grad der Beteiligung",
+            "Laufende vs. projektbasierte Arbeit"
+          ],
+          "highlight": "Ein klarer Umfang ermöglicht es, die Preise genau und vorhersehbar festzulegen."
+        },
+        {
+          "title": "Unternehmensgröße & Struktur",
+          "shortDesc": "Die Preisgestaltung berücksichtigt die Größe und Struktur des Unternehmens.",
+          "details": [
+            "Anzahl der beteiligten Einheiten",
+            "Konzern- oder Einzelstruktur",
+            "Jurisdiktionen des Betriebs",
+            "Komplexität der Eigentumsverhältnisse oder Corporate Governance"
+          ],
+          "highlight": "Komplexere Strukturen erfordern in der Regel zusätzliche Koordination und Aufsicht."
+        },
+        {
+          "title": "Volumen & Aktivitätsniveau",
+          "shortDesc": "Bei operativen Dienstleistungen wird die Preisgestaltung durch das Aktivitätsniveau beeinflusst.",
+          "details": [
+            "Transaktionsvolumina",
+            "Anzahl der verarbeiteten Datensätze",
+            "Häufigkeit der Berichterstattung",
+            "Anzahl der Einreichungen oder Meldungen"
+          ],
+          "highlight": "Höhere Volumina oder eine häufigere Berichterstattung erhöhen den Arbeitsaufwand."
+        },
+        {
+          "title": "Regulierung & Compliance",
+          "shortDesc": "Einige Dienstleistungen unterliegen höheren regulatorischen Anforderungen.",
+          "details": [
+            "Anwendbare regulatorische Rahmenbedingungen",
+            "Lizenzierte oder regulierte Tätigkeit",
+            "Prüfungs- oder Berichtspflichten",
+            "Länderspezifische Anforderungen"
+          ],
+          "highlight": "Diese Faktoren beeinflussen den Grad der Dokumentation, Überprüfung und Aufsicht."
+        },
+        {
+          "title": "Risiko & Verantwortung",
+          "shortDesc": "Berufliche Verantwortung und Risiko werden bei der Preisgestaltung berücksichtigt.",
+          "details": [
+            "Art der durchgeführten Arbeiten",
+            "Erforderlicher Grad an Urteilsvermögen",
+            "Überprüfungs- und Abnahmeanforderungen",
+            "Exponierung gegenüber regulatorischen oder beruflichen Risiken"
+          ],
+          "highlight": "Engagements mit höherem Risiko erfordern zusätzliche Kontrollen und Prüfungen."
+        },
+        {
+          "title": "Dauer & Zeitplanung",
+          "shortDesc": "Die Preisgestaltung berücksichtigt auch die Zeitplanung und die Dauer des Auftrags.",
+          "details": [
+            "Dauer des Auftrags",
+            "Wiederkehrende oder einmalige Arbeit",
+            "Dringlichkeit oder feste Termine",
+            "Saisonale oder zeitkritische Anforderungen"
+          ],
+          "highlight": "Zeitkritische oder langfristige Aufträge können unterschiedliche Preisstrukturen erfordern."
+        }
+      ]
+    },
+    "overview": {
+      "badge": "Service-Preismodelle",
+      "title": "Entdecken Sie unsere Service-Kategorien",
+      "subtitle": "Jede Dienstleistung wird basierend auf Ihren spezifischen Anforderungen bepreist. Durchsuchen Sie unsere Kategorien, um typische Preismodelle zu verstehen.",
+      "tabs": [
+        "Essentials",
+        "Strategic",
+        "Corporate"
+      ],
+      "pricingModelLabel": "Preismodell",
+      "contactCard": {
+        "title": "Benötigen Sie ein individuelles Angebot?",
+        "description": "Erhalten Sie einen maßgeschneiderten Vorschlag basierend auf Ihren genauen Anforderungen.",
+        "cta": "Angebot einholen"
+      },
+      "essentials": [
+        {
+          "title": "Buchhaltung & Finanzen",
+          "intro": "Zentrales Finanzmanagement.",
+          "scope": "Monatliche Gebühr basierend auf Volumen",
+          "features": [
+            "Monatliche Buchhaltung",
+            "MwSt.- & Steuer-Compliance",
+            "Management-Reporting",
+            "Einrichtung von Xero / QuickBooks"
+          ],
+          "highlight": true
+        },
+        {
+          "title": "Steuern & Compliance",
+          "intro": "Bleiben Sie voll compliant.",
+          "scope": "Festpreis jährlich oder monatlich",
+          "features": [
+            "Körperschaftsteuererklärungen",
+            "MwSt.-Voranmeldung",
+            "Gehaltsabrechnung",
+            "Staatliche Korrespondenz"
+          ],
+          "highlight": false
+        }
+      ],
+      "strategic": [
+        {
+          "title": "Prüfung & Assurance",
+          "intro": "Strenge gesetzliche Prüfungen.",
+          "scope": "Angebot pro Auftrag",
+          "features": [
+            "Gesetzliche Jahresabschlussprüfung",
+            "Überprüfung interner Kontrollen",
+            "Risikobewertung",
+            "Compliance-Zusicherung"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Beratung & Wachstum",
+          "intro": "Skalieren Sie Ihr Unternehmen.",
+          "scope": "Projekt oder Retainer",
+          "features": [
+            "Finanzmodellierung",
+            "M&A-Unterstützung",
+            "Cashflow-Optimierung",
+            "Strategische Planung"
+          ],
+          "highlight": true
+        }
+      ],
+      "corporate": [
+        {
+          "title": "Firmendienstleistungen",
+          "intro": "Unternehmensverwaltung.",
+          "scope": "Jährliche & Projektgebühren",
+          "features": [
+            "Unternehmensgründung",
+            "Eingetragener Firmensitz",
+            "Gesellschaftssekretär",
+            "Anteilsübertragungen"
+          ],
+          "highlight": false
+        },
+        {
+          "title": "Lizenzierung & Reguliert",
+          "intro": "Komplexe Autorisierungen.",
+          "scope": "Projektbasiert",
+          "features": [
+            "Lizenzanträge",
+            "Regulatorisches Reporting",
+            "Compliance-Überwachung",
+            "Behördenkorrespondenz"
+          ],
+          "highlight": true
+        }
+      ]
+    },
+    "quoteProcess": {
+      "badge": "Angebotsverfahren",
+      "title": "Wie Angebote funktionieren",
+      "subtitle": "Ein einfacher, transparenter Prozess vom ersten Gespräch bis zum bestätigten Preis.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Erstgespräch",
+          "description": "Teilen Sie Ihre Anforderungen und Ihren geschäftlichen Kontext mit unserem Team."
+        },
+        {
+          "number": "02",
+          "title": "Beurteilung des Umfangs",
+          "description": "Wir prüfen Ihren Bedarf und bewerten Umfang, Komplexität und Anforderungen."
+        },
+        {
+          "number": "03",
+          "title": "Klares Angebot bereitgestellt",
+          "description": "Erhalten Sie ein detailliertes Angebot mit Dienstleistungen, Umfang, Preisstruktur und Annahmen."
+        },
+        {
+          "number": "04",
+          "title": "Prüfung & Bestätigung",
+          "description": "Prüfen Sie das Angebot in Ihrem eigenen Tempo. Kein Druck, keine Verpflichtung fortzufahren."
+        }
+      ],
+      "includesBadge": "Was enthalten ist",
+      "everyTitle": "Jedes Angebot enthält",
+      "everyBody": "Sobald die ersten Informationen geprüft wurden, stellt VACEI ein klares Angebot zur Verfügung, das volle Transparenz sicherstellt, bevor die Arbeit beginnt.",
+      "quoteIncludes": [
+        "Enthaltene Dienstleistungen",
+        "Vereinbarter Umfang",
+        "Preisstruktur",
+        "Annahmen oder Abhängigkeiten",
+        "Zeitplan und Ergebnisse",
+        "Geschäftsbedingungen"
+      ],
+      "mockTitle": "Service-Angebot",
+      "mockSubtitle": "Maßgeschneiderter Vorschlag",
+      "mockFooter": "Preise vor Arbeitsbeginn bestätigt",
+      "scopeTitle": "Umfangsänderungen",
+      "scopeBody": "Wenn sich der Umfang während eines Auftrags ändert, wird die Preisgestaltung besprochen und vereinbart, bevor zusätzliche Arbeiten ausgeführt werden. Wir glauben an volle Transparenz in jeder Phase."
+    },
+    "whatToExpect": {
+      "badge": "Unser Versprechen",
+      "title": "Was Sie erwartet",
+      "subtitle": "Bei der Zusammenarbeit mit VACEI ist es unser Ziel, sicherzustellen, dass die Preisgestaltung die erforderliche Arbeit widerspiegelt und während des gesamten Auftrags vorhersehbar bleibt.",
+      "items": [
+        {
+          "title": "Klare Preisgespräche im Vorfeld",
+          "description": "Wir besprechen die Preise von Anfang an offen und stellen sicher, dass Sie verstehen, wie die Kosten ermittelt werden."
+        },
+        {
+          "title": "Keine versteckten Gebühren",
+          "description": "Alle Kosten sind in Ihrem Angebot klar aufgeführt. Was Sie sehen, ist das, was Sie erhalten."
+        },
+        {
+          "title": "Keine unerwarteten Gebühren",
+          "description": "Sie erhalten keine überraschenden Rechnungen. Jegliche Umfangsänderungen werden im Voraus besprochen und vereinbart."
+        },
+        {
+          "title": "Transparente Kommunikation",
+          "description": "Wenn sich die Anforderungen während des Auftrags ändern, kommunizieren wir offen und passen die Preise entsprechend an."
+        }
+      ],
+      "bottomTitle": "Preise, die für Sie funktionieren",
+      "bottomBody": "Unser Ansatz stellt sicher, dass Sie nur für die Dienstleistungen bezahlen, die Sie benötigen, mit vollkommener Klarheit darüber, was enthalten ist und wie die Kosten berechnet werden. Keine Überraschungen, keine versteckten Absichten – einfach ehrlicher, professioneller Service.",
+      "chips": [
+        "Faire Preise",
+        "Volle Transparenz",
+        "Vorhersehbare Kosten"
+      ]
+    },
+    "cta": {
+      "badge": "Starten Sie noch heute",
+      "title": "Bereit, über Preise zu sprechen?",
+      "body": "Wenn Sie verstehen möchten, wie die Preisgestaltung auf Ihre spezifische Situation zutrifft, können Sie ein Angebot anfordern oder Ihre Anforderungen mit unserem Team besprechen.",
+      "requestQuote": "Angebot anfordern",
+      "discussNeeds": "Bedarf besprechen",
+      "responseLabel": "Reaktionszeit",
+      "responseValue": "Innerhalb von 24 Stunden",
+      "commitmentLabel": "Verpflichtung",
+      "commitmentValue": "Keine Verpflichtung",
+      "floatSteps": [
+        {
+          "step": "Schritt 1",
+          "label": "Angebot erhalten"
+        },
+        {
+          "step": "Schritt 2",
+          "label": "Besprechen"
+        },
+        {
+          "step": "Schritt 3",
+          "label": "Erste Schritte"
+        }
+      ]
+    }
+  }
+}

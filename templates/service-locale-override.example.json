@@ -1,0 +1,27 @@
+{
+  "accounting-finance": {
+    "title": "Accounting & Finance",
+    "breadcrumbs": [{ "label": "Services" }, { "label": "Accounting & Finance" }],
+    "descriptionHeading": "What It Is",
+    "descriptionParagraphs": [
+      "Ongoing Accounting & Finance support for your business – from bookkeeping to senior financial oversight.",
+      "VACEI manages accounting, reporting, and CFO support so your numbers stay accurate, timely, and clear.",
+      "Work is fully managed by VACEI and delivered through your client portal."
+    ],
+    "featuresSection": {
+      "title": "What we cover in Accounting & Finance",
+      "subtitle": "Request a tailored quote based on your accounting, reporting, and CFO needs.",
+      "features": [
+        {
+          "title": "Accounting & reporting",
+          "items": [
+            "Online bookkeeping",
+            "Accounting and financial management",
+            "Management accounts",
+            "Financial reporting and analysis"
+          ]
+        }
+      ]
+    }
+  }
+}
