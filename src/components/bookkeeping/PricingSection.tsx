@@ -127,7 +127,7 @@ export default function PricingSection() {
       onClick={() => handleSelectPackage(pkg)}
       style={{
         backgroundColor: activePkg.id === pkg.id ? "var(--navy-3)" : "var(--white)",
-        borderColor: activePkg.id === pkg.id ? "var(--blue-mid)" : "var(--light-border)",
+        borderColor: activePkg.id === pkg.id ? "var(--zinc-mid)" : "var(--light-border)",
       }}
     >
               {pkg.badge ? (

@@ -79,12 +79,37 @@ const itPages = mergeLocaleJson(mergeLocaleJson(mergeLocaleJson(enPages, itPages
 /** Dutch pages with overrides */
 const nlPages = mergeLocaleJson(mergeLocaleJson(mergeLocaleJson(enPages, nlPagesCore), nlPagesContent), nlPagesPricingExtra);
 
+
+// New App Routes
+import enAccounting from "@/i18n/locales/en/accounting.json";
+import enBusiness from "@/i18n/locales/en/business.json";
+import enAuditorQuestionnaire from "@/i18n/locales/en/auditor-questionnaire.json";
+import frAccounting from "@/i18n/locales/fr/accounting.json";
+import frBusiness from "@/i18n/locales/fr/business.json";
+import frAuditorQuestionnaire from "@/i18n/locales/fr/auditor-questionnaire.json";
+import deAccounting from "@/i18n/locales/de/accounting.json";
+import deBusiness from "@/i18n/locales/de/business.json";
+import deAuditorQuestionnaire from "@/i18n/locales/de/auditor-questionnaire.json";
+import esAccounting from "@/i18n/locales/es/accounting.json";
+import esBusiness from "@/i18n/locales/es/business.json";
+import esAuditorQuestionnaire from "@/i18n/locales/es/auditor-questionnaire.json";
+import itAccounting from "@/i18n/locales/it/accounting.json";
+import itBusiness from "@/i18n/locales/it/business.json";
+import itAuditorQuestionnaire from "@/i18n/locales/it/auditor-questionnaire.json";
+import nlAccounting from "@/i18n/locales/nl/accounting.json";
+import nlBusiness from "@/i18n/locales/nl/business.json";
+import nlAuditorQuestionnaire from "@/i18n/locales/nl/auditor-questionnaire.json";
+
 export const resources = {
   en: { 
     common: enCommon, 
     home: enHome, 
     pages: enPages,
     services: enServicesWithAccountingMalta,
+    "accounting": enAccounting,
+    "business": enBusiness,
+    "auditor-questionnaire": enAuditorQuestionnaire,
+
   },
   fr: {
     common: mergeLocaleJson(enCommon, frCommon),

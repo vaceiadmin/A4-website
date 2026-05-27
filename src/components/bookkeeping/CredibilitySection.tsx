@@ -30,7 +30,7 @@ export default function CredibilitySection() {
             width: "48px",
             height: "48px",
             borderRadius: "12px",
-            background: "var(--blue-light)",
+            background: "var(--zinc-light)",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
@@ -47,7 +47,7 @@ export default function CredibilitySection() {
               fontWeight: 600,
               textTransform: "uppercase",
               letterSpacing: "0.12em",
-              color: "var(--blue-mid)",
+              color: "var(--zinc-mid)",
               marginBottom: "10px",
             }}
           >

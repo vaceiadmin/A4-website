@@ -47,7 +47,7 @@ export default function PortalTabsAccountingMalta() {
           ambient: "radial-gradient(circle, #71717A 0%, transparent 70%)",
           label: t(`${pt}tabs.vat.label`),
           pillColor: "#71717A",
-          pillGlow: "rgba(14,165,233,.5)",
+          pillGlow: "rgba(113,113,122,.5)",
         },
       }) as Record<TabKey, { url: string; ambient: string; label: string; pillColor: string; pillGlow: string }>,
     [t, i18n.language]
@@ -587,7 +587,7 @@ export default function PortalTabsAccountingMalta() {
                   <div className="pn-banner-s">{t(`${pt}vat.bannerS`)}</div>
                 </div>
                 <div className="pn-grid-3">
-                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#0369A1,#71717A)" }}>
+                  <div className="pn-stat" style={{ background: "linear-gradient(135deg,#52525B,#71717A)" }}>
                     <div className="pn-stat-label">{t(`${pt}vat.s1l`)}</div>
                     <div className="pn-stat-val">{t(`${pt}vat.s1v`)}</div>
                     <div className="pn-stat-sub">{t(`${pt}vat.s1s`)}</div>

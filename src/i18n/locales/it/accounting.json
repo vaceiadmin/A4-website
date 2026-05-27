@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "badge": "Built for accounting firms · SOC 2 certified",
+    "titleLine1": "Increase audit margins.",
+    "titleHighlight": "Delegate to AI agents.",
+    "body": "A4 Services gives your firm a complete AI-powered audit team — 8 specialist agents that handle planning, risk, fieldwork, compliance and reporting. Increase capacity without increasing headcount.",
+    "cta1": "Start for free →",
+    "cta2": "Meet the team",
+    "freePill": "✦ Your first full audit engagement — completely free. No contract.",
+    "stats": {
+      "val1": "70%",
+      "label1": "margin increase",
+      "val2": "8",
+      "label2": "specialist agents",
+      "val3": "48h",
+      "label3": "avg. turnaround",
+      "val4": "Free",
+      "label4": "first engagement"
+    }
+  },
+  "values": {
+    "c1": {
+      "title": "Built by a licensed audit firm",
+      "desc": "Developed by A4 Services Limited — a licensed audit and accounting practice. Not a tech startup guessing at audit."
+    },
+    "c2": {
+      "title": "100% of your general ledger reviewed",
+      "desc": "Our GL Anomaly Agent tests every single transaction — not a sample. Duplicate entries, unusual journals, late postings all flagged."
+    },
+    "c3": {
+      "title": "Your data stays yours",
+      "desc": "SOC 2 certified infrastructure, GDPR compliant. Your documents and financials are never shared or used to train models."
+    },
+    "c4": {
+      "title": "White-labelled to your firm",
+      "desc": "The client portal, all communications and documents are branded under your accountancy firm. Clients never see A4 Services."
+    }
+  },
+  "agents": {
+    "eyebrow": "Your AI Audit Team",
+    "titleLine1": "Meet the ",
+    "titleHighlight": "8 specialists",
+    "sub": "Each agent owns a precise stage of your audit engagement. Click any agent to learn more."
+  },
+  "how": {
+    "eyebrow": "How It Works",
+    "titleLine1": "One orchestrator. ",
+    "titleHighlight": "Eight specialists.",
+    "sub": "The Orchestrator Agent receives your engagement brief and intelligently dispatches every specialist agent — coordinating the entire audit in real time."
+  },
+  "portal": {
+    "title": "A single pane of glass.",
+    "sub": "Your firm’s partner portal gives you complete oversight of every engagement, every agent, and every working paper.",
+    "f1": "Real-time engagement tracking",
+    "f2": "Review and approve working papers",
+    "f3": "White-labelled client requests",
+    "f4": "Full audit trail and version control"
+  },
+  "pricing": {
+    "titleLine1": "Pay per engagement.",
+    "titleHighlight": "No fixed seats.",
+    "sub": "We align with your revenue. You only pay when you run a profitable audit engagement.",
+    "basic": {
+      "name": "Per Engagement",
+      "price": "10%",
+      "sub": "of your total audit fee",
+      "desc": "Perfect for scaling firms. Pay a flat percentage of what you charge the client.",
+      "c1": "Full 8-agent team",
+      "c2": "Unlimited users",
+      "c3": "White-labelled portal",
+      "c4": "Pay only when you bill"
+    },
+    "pro": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "sub": "Volume-based pricing",
+      "desc": "For top 100 firms running large volumes of audit engagements.",
+      "c1": "Dedicated infrastructure",
+      "c2": "Custom methodology mapping",
+      "c3": "API integrations",
+      "c4": "Priority support team"
+    }
+  },
+  "cta": {
+    "titleLine1": "Ready to upgrade ",
+    "titleHighlight": "your firm?",
+    "sub": "Set up your free account today and run your first complete audit engagement through A4 Services at zero cost.",
+    "btn1": "Start your free engagement →",
+    "btn2": "Book a demo"
+  }
+}

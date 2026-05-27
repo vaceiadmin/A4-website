@@ -41,7 +41,7 @@ const HeroLeftPanel = () => {
 
         <div className="mt-auto mb-10 flex flex-col lg:flex-row lg:items-end lg:justify-between gap-12 z-20">
           <div className="flex flex-col sm:flex-row gap-6 pl-2 pb-2">
-            <GetInstantQuoteButton className="h-[60px] w-[230px] shadow-primary-blue hover:shadow-[0_12px_50px_var(--primary-blue-shadow)] transition-shadow" />
+            <GetInstantQuoteButton className="h-[60px] w-[230px] shadow-primary-blue hover:shadow-[0_12px_50px_var(--primary-zinc-shadow)] transition-shadow" />
             <GetInstantQuoteButton
               variant="book-demo"
               href="/demo"

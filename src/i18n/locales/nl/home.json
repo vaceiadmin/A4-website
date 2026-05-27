@@ -1,775 +1,430 @@
 {
   "hero": {
-    "titleLine1": "Het besturingssysteem",
-    "titleLine2": "voor uw backoffice.",
-    "titleHighlight": "Alles geregeld.",
-    "body": "Wij verzorgen oprichting, boekhouding, audit, belasting, juridisch, loon en compliance — allemaal op één gestructureerd platform, met een vast team en realtime inzicht, zodat u zich kunt richten op de groei van uw bedrijf.",
-    "body2": "",
-    "quoteCta": "Aan de slag",
-    "demoCta": "Belafspraak maken",
-    "benefit1": "Toegewijde expert",
-    "benefit2": "Eén platform",
-    "benefit3": "Realtime inzicht",
+    "titleLine1": "A4 Services Limited",
+    "titleLine2": "Accounting & Audit Firm in Malta",
+    "titleHighlight": "for Modern Businesses",
+    "body": "A4 Services is a Malta-based firm providing comprehensive accounting, audit, tax, and advisory solutions for modern businesses.",
+    "body2": "We combine financial expertise with a digital portal and automated workflows to keep you compliant, organised, and in control.",
+    "quoteCta": "Book a Consultation",
+    "demoCta": "View Our Services",
+    "benefit1": "Qualified Professionals",
+    "benefit2": "Structured Workflows",
+    "benefit3": "Dedicated Portal",
     "serviceStrip": {
-      "bookkeeping": "Boekhouding",
-      "audit": "Audit",
-      "payroll": "Loon",
-      "incorporation": "Oprichting"
+      "bookkeeping": "Accounting",
+      "audit": "Statutory Audit",
+      "payroll": "Payroll",
+      "incorporation": "Tax & VAT"
     },
     "marquee": [
-      "Oprichting",
-      "Boekhouding",
-      "Audit",
-      "Belasting",
-      "Juridisch",
-      "Loon",
-      "Compliance",
-      "Wereldwijd netwerk",
-      "Directe support"
+      "Accounting",
+      "Statutory Audit",
+      "Tax",
+      "VAT",
+      "Payroll",
+      "Fractional CFO",
+      "Automated Bookkeeping"
     ],
-    "trustStrip": "Eén team. Eén platform. Alles geregeld.",
+    "trustStrip": "Accounting • Statutory Audit • Tax • VAT • Payroll • Fractional CFO • Automated Bookkeeping",
     "trustPillLabels": [
-      "Eén team",
-      "Eén platform",
-      "Alles geregeld"
+      "Professional Experts",
+      "Modern Solutions",
+      "Malta Based"
     ]
   },
   "interactiveBlock": {
-    "title": "Maak uw account in 2 minuten",
-    "companyNameLabel": "Bedrijfsnaam",
-    "countryLabel": "Land",
-    "servicesLabel": "Gewenste diensten",
-    "cta": "Portal aanmaken",
-    "secondaryCta": "Praat met ons team",
+    "title": "Professional Accounting & Audit Services in Malta",
+    "companyNameLabel": "Company Name",
+    "countryLabel": "Country",
+    "servicesLabel": "Services Needed",
+    "cta": "Book a Consultation",
+    "secondaryCta": "View Our Services",
     "microcopy": [
-      "Duurt 2 minuten",
-      "Geen verplichting",
-      "Offerte binnen 24 uur"
-    ]
+      "Expert Guidance",
+      "Timely Compliance",
+      "Clear Reporting"
+    ],
+    "typeDemo": {
+      "companyName": "Your Business Ltd",
+      "country": "Malta",
+      "services": "Accounting & Audit"
+    }
   },
   "coreStatement": {
-    "text": "Wij beheren alles wat uw bedrijf nodig heeft — van oprichting tot compliance — overal ter wereld.",
+    "text": "Running a business in Malta requires more than filing accounts and meeting deadlines.",
     "bullets": [
-      "Een vast team",
-      "Een eigen expert",
-      "Uw eigen gestructureerde portal",
-      "Volledig inzicht in alles"
+      "Accurate financial records",
+      "Timely compliance",
+      "Clear reporting",
+      "A finance team that understands your business"
     ]
   },
   "valueSection": {
-    "title": "Wij leveren niet alleen diensten — wij geven u regie",
+    "title": "A Malta Accounting & Audit Firm Built Around Your Business",
     "bullets": [
-      "Realtime financiële data op uw dashboard",
-      "Doorlopend bijgewerkte boekhouding",
-      "Volledig inzicht in audit-workflows",
-      "Gevolgde aangiftes, mijlpalen en deadlines",
-      "Directe toegang tot uw team",
-      "Altijd gesprekken inplannen"
+      "Professional Expertise",
+      "Technology-Driven Workflows",
+      "Dedicated Client Portal",
+      "Clear Communication",
+      "International Reach Through BOKS",
+      "Structured Internal Processes"
     ],
-    "footer": "Zo weet u altijd wat er speelt — zonder achter mensen aan te moeten."
+    "footer": "We do not just process numbers. We help businesses understand them, manage them, and use them to grow."
   },
   "keyBenefits": {
-    "title": "Alles wat u nodig heeft om te ondernemen — zonder onnodige complexiteit",
+    "title": "Client Outcomes - What We Help Businesses Achieve",
     "items": [
       {
-        "title": "Volg uw bedrijf in realtime",
-        "desc": "Geen wachten. Geen onzekerheid. Altijd volledig inzicht."
+        "title": "Cleaner Records",
+        "desc": "Your financial documents, transactions, and reports are kept organised and easier to review."
       },
       {
-        "title": "Blijf automatisch compliant",
-        "desc": "Deadlines, aangiftes en verplichtingen worden gevolgd en beheerd."
+        "title": "Better Compliance",
+        "desc": "We help you manage accounting, audit, tax, VAT, and payroll obligations more effectively."
       },
       {
-        "title": "Bespaar meer op belasting",
-        "desc": "Gestructureerde opzet en doorlopende optimalisatie helpen u meer te behouden."
+        "title": "Less Administration",
+        "desc": "Our portal and automated workflows reduce manual document chasing and scattered communication."
       },
       {
-        "title": "Neem betere beslissingen",
-        "desc": "Heldere data en experts — wanneer u ze nodig heeft."
+        "title": "More Control",
+        "desc": "You gain visibility over pending items, deadlines, financial performance, and compliance requirements."
       }
     ]
   },
   "positioningLine": {
-    "text": "U zou niet meerdere aanbieders nodig moeten hebben om één bedrijf te runnen."
+    "text": "Our goal is simple: to help you remain compliant, reduce financial administration, and make better business decisions."
   },
   "whatYouGet": {
-    "title": "Een beheersysteem — niet alleen losse diensten",
-    "badge": "Digitaal ecosysteem",
-    "highlight": "Alles geregeld.",
-    "cardBody": "Volledig geïntegreerd in uw A4-werkruimte voor inzicht en regie.",
-    "cardMeta": "Modulaire dienst",
+    "title": "Your Accounting, Audit, Tax, VAT, Payroll, and Documents in One Place",
+    "badge": "A4 Client Portal",
+    "highlight": "One central portal.",
+    "cardBody": "A dedicated online portal designed to make financial administration easier, faster, and more organised.",
+    "cardMeta": "Digital Platform",
     "items": [
-      "Toegewijd team voor uw bedrijf",
-      "One-to-one expertsupport",
-      "Eigen portal om alles te beheren",
-      "Interne boekhouding met realtime updates",
-      "Audit-workflows met volledig inzicht",
-      "Belasting- en compliancebeheer",
-      "Loondienst-ondersteuning",
-      "Mijlpalen en voortgang",
-      "Automatische deadline-monitoring",
-      "Directe chat met uw team",
-      "Altijd gesprekken plannen"
+      "Upload invoices, receipts, and audit documents",
+      "View document requests from our team",
+      "Track missing information",
+      "Monitor deadlines and pending tasks",
+      "Access reports and submitted documents",
+      "Communicate with our team",
+      "Store financial documentation in one space",
+      "Manage VAT, audit, tax, and accounting documentation",
+      "Reduce email back-and-forth",
+      "Keep a clear record of submitted information"
     ],
-    "footer": "U huurt geen losse aanbieders in — u verbetert hoe uw bedrijf wordt gerund."
+    "footer": "The portal gives clients better visibility, stronger organisation, and a smoother experience."
   },
   "flexibility": {
-    "title": "Gebruik precies wat u nodig heeft",
+    "title": "Bookkeeping Subscription Packages",
     "options": [
-      "Alle diensten",
-      "Of alleen specifieke"
+      "Essential Bookkeeping",
+      "Growth Finance",
+      "Finance Department"
     ],
-    "advisorsHeadline": "Werkt u al met een accountant of advocaat?",
-    "advisorsBody": "Nodig bestaande adviseurs uit in uw portal en beheer alles op één plek.",
-    "advisorsNote": "(Beschikbaar in een maandelijks platformabonnement)"
+    "advisorsHeadline": "Monthly Bookkeeping, Powered by Automation",
+    "advisorsBody": "Clients upload documents through the portal, and our systems help process, extract, organise, and match financial information. Our team then reviews, reconciles, and finalises the records.",
+    "advisorsNote": "(Reviewed by Professionals)"
   },
   "processSteps": {
-    "badge": "Hoe het werkt",
-    "title": "Eenvoudig. Gestructureerd. Snel.",
+    "badge": "Our Process",
+    "title": "How we work with you",
     "sidebarSteps": [
       {
-        "title": "Account aanmaken",
-        "description": "Uw portal is direct klaar"
+        "title": "1. Initial Consultation",
+        "description": "We understand your business, structure, and goals."
       },
       {
-        "title": "Diensten aanvragen",
-        "description": "Vertel wat uw bedrijf nodig heeft"
+        "title": "2. Service Assessment",
+        "description": "We identify the accounting, audit, or tax services you need."
       },
       {
-        "title": "Gesprek plannen (indien nodig)",
-        "description": "Spreek rechtstreeks met uw team"
+        "title": "3. Portal Setup",
+        "description": "We set up your client portal to manage documents efficiently."
       },
       {
-        "title": "Offerte ontvangen",
-        "description": "Binnen 24 uur geleverd"
+        "title": "4. Structured Delivery",
+        "description": "Our team manages the agreed services with professional review."
       },
       {
-        "title": "Starten en alles volgen",
-        "description": "Wij voeren uit — u houdt de regie"
+        "title": "5. Ongoing Support",
+        "description": "We continue supporting your business throughout the year."
       }
     ],
-    "columnTitle": "Stap voor stap",
-    "columnHeadingLine1": "Eenvoudig.",
-    "columnMid": "Gestructureerd.",
-    "columnHeadingAccent": "Snel.",
-    "columnBody": "Volg deze stappen om uw bedrijfsvoering naar A4 te brengen.",
-    "back": "Terug",
-    "submitting": "Verzenden...",
-    "nextStepFallback": "Volgende stap",
-    "platformPowerLabel": "Platformkracht",
-    "platformPowerLine1": "Alles loopt via één platform.",
-    "platformPowerLine2": "Realtime inzicht voor uw hele team.",
-    "registerDirectly": "Direct registreren",
-    "subjectLine": "Nieuwe offerteaanvraag dienst",
+    "columnTitle": "Step-by-Step",
+    "columnHeadingLine1": "Simple.",
+    "columnMid": "Structured.",
+    "columnHeadingAccent": "Effective.",
+    "columnBody": "Follow these steps to engage A4 Services for your business.",
+    "back": "Back",
+    "submitting": "Submitting...",
+    "nextStepFallback": "Next Step",
+    "platformPowerLabel": "A4 Client Portal",
+    "platformPowerLine1": "Everything runs through one platform.",
+    "platformPowerLine2": "Visibility and organisation for your business.",
+    "registerDirectly": "Learn More",
+    "subjectLine": "New Consultation Request",
     "errors": {
-      "fieldRequired": "{{field}} is verplicht",
-      "invalidEmail": "Ongeldig e-mailadres",
-      "phoneRequired": "Telefoonnummer is verplicht",
-      "generic": "Er ging iets mis. Probeer het opnieuw."
+      "fieldRequired": "{{field}} is required",
+      "invalidEmail": "Invalid email address",
+      "phoneRequired": "Phone number is required",
+      "generic": "Something went wrong. Please try again."
     },
     "success": {
-      "title": "Aanvraag ontvangen",
-      "body": "Uw toegewijde expert beoordeelt de aanvraag en neemt snel contact op.",
-      "newRequest": "Nog een aanvraag indienen",
-      "registerNow": "Naar portal"
+      "title": "Request Received",
+      "body": "Our team will review your request and reach out shortly.",
+      "newRequest": "Submit Another Request",
+      "registerNow": "Visit Website"
     },
     "form": {
       "request": {
-        "title": "Vertel over uzelf",
-        "subtitle": "Beschrijf kort uw behoeften.",
+        "title": "Tell us about you",
+        "subtitle": "Briefly describe your business needs.",
         "fields": {
           "name": {
-            "label": "Volledige naam",
-            "placeholder": "Uw naam"
+            "label": "Full Name",
+            "placeholder": "Your name"
           },
           "email": {
-            "label": "Zakelijke e-mail",
-            "placeholder": "email@bedrijf.nl"
+            "label": "Work Email",
+            "placeholder": "email@company.com"
           },
           "message": {
-            "label": "Bedrijfsoverzicht",
-            "placeholder": "Beschrijf kort uw activiteiten..."
+            "label": "Business Overview",
+            "placeholder": "Briefly describe your company operations..."
           }
         },
-        "primaryLabel": "Volgende: diensten"
+        "primaryLabel": "Next: Services"
       },
       "onboarding": {
-        "title": "Diensten selecteren",
-        "subtitle": "Welk deel van uw bedrijf moet worden beheerd?",
+        "title": "Select Services",
+        "subtitle": "Which area of your business needs management?",
         "fields": {
           "service": {
-            "label": "Gewenste diensten",
-            "placeholder": "Selecteer een of meer..."
+            "label": "Required Services",
+            "placeholder": "Select one or more..."
           },
           "additionalDetails": {
-            "label": "Specifieke vereisten",
-            "placeholder": "Relevante landen of complexiteit?"
+            "label": "Specific Requirements",
+            "placeholder": "Any specific jurisdictions or complexity we should know about?"
           }
         },
-        "primaryLabel": "Volgende: contact"
+        "primaryLabel": "Next: Communication"
       },
       "preferences": {
-        "title": "Laatste details",
-        "subtitle": "Hoe mogen we contact opnemen?",
+        "title": "Final Details",
+        "subtitle": "How would you like us to contact you?",
         "fields": {
           "communicationChannel": {
-            "label": "Voorkeurskanaal",
-            "placeholder": "E-mail/WhatsApp/Bellen"
+            "label": "Preferred Channel",
+            "placeholder": "Email/WhatsApp/Call"
           },
           "updateCadence": {
-            "label": "Updatefrequentie",
-            "placeholder": "Wekelijks/Maandelijks/Op aanvraag"
+            "label": "Update Cadence",
+            "placeholder": "Weekly/Monthly/On-demand"
           },
           "phone": {
-            "label": "WhatsApp/Telefoon",
-            "placeholder": "+31..."
+            "label": "WhatsApp/Phone Number",
+            "placeholder": "+1..."
           }
         },
-        "primaryLabel": "Offerteaanvraag verzenden"
+        "primaryLabel": "Submit Request"
       }
     },
     "communicationOptions": [
-      "E-mail",
+      "Email",
       "WhatsApp",
-      "Bellen",
-      "Videobellen"
+      "Call",
+      "Video Call"
     ],
     "updateOptions": [
-      "Wekelijks",
-      "Tweewekelijks",
-      "Maandelijks",
-      "Realtime"
+      "Weekly",
+      "Monthly",
+      "Quarterly",
+      "Annually"
     ]
   },
   "globalDelivery": {
-    "badge": "Wereldwijde dekking",
-    "title": "Overal opereren — zonder complexiteit",
-    "body": "Alle diensten worden geleverd via een wereldwijd netwerk van gecontroleerde professionele kantoren.",
+    "badge": "BOKS International",
+    "title": "Local Expertise. International Reach.",
+    "body": "A4 Services Limited is an independent member of BOKS International. Through this international association, we can support clients who require cross-border professional assistance.",
     "bullets": [
-      "Lokale expertise per land",
-      "Gestandaardiseerde workflows",
-      "Eén gecoördineerd systeem"
+      "Cross-border professional assistance",
+      "International coordination",
+      "Access to trusted advisors in other jurisdictions"
     ],
-    "footer": "U beheert niet meerdere aanbieders — wij coördineren alles."
+    "footer": "Particularly valuable for businesses with international structures or overseas shareholders."
   },
   "realTimeControl": {
-    "title": "Weet precies waar u staat — altijd",
-    "subtitle": "In uw portal:",
+    "title": "We Combine Professional Advice With Digital Efficiency",
+    "subtitle": "With A4 Services, clients benefit from:",
     "items": [
-      "realtime financieel dashboard",
-      "boekhoudupdates",
-      "auditvoortgang",
-      "belastingaangiftes en deadlines",
-      "loontracking",
-      "documentbeheer",
-      "serviceverzoeken",
-      "gespreksplanning",
-      "directe communicatie met uw team"
+      "A professional accounting and audit team",
+      "Malta-based expertise",
+      "Dedicated client portal access",
+      "Automated bookkeeping workflows",
+      "Structured document management",
+      "Clear communication",
+      "Technology-supported processes",
+      "Practical business advice",
+      "Support beyond compliance"
     ],
-    "footer": "Alles op één plek. Geen verwarring."
+    "footer": "Move from reactive finance administration to structured financial management."
   },
   "beforeAfter": {
-    "badge": "Infrastructuur-upgrade",
-    "titleLine1": "Van gefragmenteerd naar ",
-    "titleHighlight": "volledig gestructureerd",
-    "subtitle": "Van losse aanbieders naar één geünificeerd systeem.",
-    "beforeTitle": "Voor",
-    "afterTitle": "Na",
+    "badge": "Modern Alternative",
+    "titleLine1": "From traditional firms to ",
+    "titleHighlight": "modern accounting",
+    "subtitle": "Many businesses are used to accounting firms that work reactively. A4 Services is built differently.",
+    "beforeTitle": "Traditional Accounting Firm",
+    "afterTitle": "A4 Services",
     "beforeItems": [
-      "meerdere aanbieders",
-      "geen inzicht",
-      "voortdurend nabellen",
-      "gemiste deadlines"
+      "Manual document collection",
+      "Long email chains",
+      "Limited visibility",
+      "Reactive communication",
+      "Delayed reporting",
+      "Disorganised records"
     ],
     "afterItems": [
-      "één platform",
-      "één vast team",
-      "eigen expert",
-      "realtime data",
-      "alles gevolgd"
+      "Dedicated client portal",
+      "Digital document workflows",
+      "Automated bookkeeping options",
+      "Clear deadline tracking",
+      "Professional review",
+      "Faster communication"
     ],
-    "beforeGifAlt": "Gefrustreerd door gefragmenteerde aanbieders",
-    "afterGifAlt": "Succes met één platform",
-    "hoverPlayDesktop": "Zweven om af te spelen",
-    "hoverPlayMobile": "Tik om af te spelen",
-    "footerLine": "Verbeter hoe uw bedrijf wordt gerund."
+    "beforeGifAlt": "Traditional Accounting",
+    "afterGifAlt": "A4 Services",
+    "hoverPlayDesktop": "Hover to Play",
+    "hoverPlayMobile": "Tap to Play",
+    "footerLine": "We combine professional expertise with modern systems."
   },
   "twoWaysToStart": {
-    "badge": "Twee manieren om te starten",
-    "titleLine1": "Kies uw route —",
-    "titleHighlight": "één werkruimte",
-    "subtitle": "Vraag diensten aan in de marketplace of nodig uw bestaande adviseurs uit. Beide paden blijven verbonden in hetzelfde portaal.",
-    "spotlightBadge": "Werkruimte-preview",
-    "spotlightTitle": "Nodig adviseurs uit in een paar klikken",
-    "spotlightBody": "Veilige uitnodigingen, duidelijke rollen en een gedeelde plek voor documenten en updates — zodat er niets tussen kantoren verloren gaat.",
+    "badge": "Built for Malta Businesses",
+    "titleLine1": "We support businesses operating in Malta — ",
+    "titleHighlight": "across a wide range of sectors.",
+    "subtitle": "Whether you are launching a new company, managing growth, or preparing for audit, A4 Services can support you.",
+    "spotlightBadge": "Our Clients",
+    "spotlightTitle": "Who we work with",
+    "spotlightBody": "We understand the local compliance environment, reporting obligations, VAT requirements, and practical challenges faced by businesses in Malta.",
     "spotlightBullets": [
-      "Toegang per rol",
-      "Gedeelde documentenkluis",
-      "Volledige activiteitsgeschiedenis"
+      "Startups & growing companies",
+      "Local & international trading businesses",
+      "Regulated entities & high-net-worth individuals"
     ],
-    "videoAlt": "Een adviseur uitnodigen in de A4-werkruimte",
-    "cta": "Portaal openen"
+    "videoAlt": "Working with A4 Services",
+    "cta": "Speak to our team"
   },
   "conversion": {
-    "title": "Maak uw portal en ga van start",
-    "body": "Stel uw account in, vraag diensten aan en ontvang binnen 24 uur een offerte.",
-    "cta": "Portal aanmaken"
+    "title": "When Should You Contact A4 Services?",
+    "body": "You should speak to us if you need an accounting firm in Malta, your company requires a statutory audit, your bookkeeping is behind, or you want better visibility over your business numbers.",
+    "cta": "Book a Consultation"
   },
   "callOption": {
-    "title": "Liever persoonlijk spreken?",
-    "body": "Plan op elk moment een gesprek met uw team.",
-    "cta": "Gesprek plannen"
+    "title": "Prefer to view our services first?",
+    "body": "Explore our full range of accounting, audit, tax, and advisory services.",
+    "cta": "View Our Services"
   },
   "finalSection": {
-    "title": "Alles wat uw bedrijf nodig heeft — beheerd op één plek",
-    "body": "Van oprichting tot boekhouding, audit, belasting, loon en compliance — alles loopt via één platform met volledig inzicht.",
-    "note": "Gebruik alle diensten of alleen wat u nodig heeft.",
-    "finalLine": "Eén team. Eén platform. Realtime inzicht. Alles geregeld."
+    "title": "A4 Services Limited",
+    "body": "Accounting & Audit Firm in Malta helping businesses stay compliant, organised, and financially informed through professional services.",
+    "note": "www.a4.com.mt",
+    "finalLine": "Accounting • Statutory Audit • Tax • VAT • Payroll • Fractional CFO • Automated Bookkeeping"
   },
   "activeEU": {
-    "badge": "Internationaal bereik",
-    "titleLine1": "Een gestructureerde gateway ",
-    "titleHighlight": "naar Europa.",
-    "body": "A4 biedt de digitale omgeving voor internationale bedrijven en founders om Europese activiteiten met vertrouwen op te richten, te beheren en te schalen.",
+    "badge": "Our Services",
+    "titleLine1": "Comprehensive Accounting & ",
+    "titleHighlight": "Audit Solutions",
+    "body": "A4 Services provides organised and reliable accounting, statutory audit, tax, VAT, and payroll support to help businesses maintain clean financial records and meet reporting obligations.",
     "chips": [
-      "27 landen",
-      "Eén API",
-      "Lokale experts"
+      "Accounting",
+      "Statutory Audit",
+      "Tax & VAT",
+      "Payroll"
     ],
-    "hubAlt": "A4-hub"
+    "hubAlt": "A4 Services"
   },
   "workspaceEntry": {
-    "sectionTitleLine1": "Eén werkruimte voor uw bedrijf —",
-    "sectionTitleHighlight": "en al uw diensten",
-    "sectionBody": "Boekhouding, audit, juridisch en compliance horen niet verspreid te zijn.\n\nA4 brengt alles samen op één gestructureerd platform — diensten, documenten en deadlines op één plek.\n\nGeen e-mailketens. Geen verspreide bestanden. Geen onzekerheid.",
-    "activeEntities": "Actieve entiteiten",
-    "card1TitleBefore": "Uw bedrijf — ",
-    "card1TitleAccent": "volledig georganiseerd",
-    "card1Body": "Maak een werkruimte en beheer alles op één plek.\n\nDiensten, documenten en adviseurs lopen via één platform — volledige regie zonder complexiteit.",
-    "card1CoordinationNote": "Alle diensten worden via A4 gecoördineerd en geleverd via een netwerk van vertrouwde kantoren.",
-    "whatYouCanDo": "Wat u kunt doen",
+    "sectionTitleLine1": "Automated Bookkeeping — ",
+    "sectionTitleHighlight": "Reviewed by Professionals",
+    "sectionBody": "A4 Services offers automated bookkeeping subscriptions directly through our client portal.\n\nThis service is designed for businesses that want modern bookkeeping without losing the support of a professional accounting team.",
+    "activeEntities": "Subscription Options",
+    "card1TitleBefore": "Essential ",
+    "card1TitleAccent": "Bookkeeping",
+    "card1Body": "For small businesses that need clean records and basic monthly accounting support.",
+    "card1CoordinationNote": "Includes client portal access, monthly document uploads, and basic reporting.",
+    "whatYouCanDo": "Best for: small businesses, consultants, freelancers",
     "card1Bullets": [
-      "Volledig inzicht in opdrachten",
-      "Gecentraliseerd documentbeheer",
-      "Realtime deadline-tracking"
+      "Basic bookkeeping",
+      "Bank reconciliation",
+      "Invoice processing"
     ],
-    "createWorkspaceCta": "Werkruimte aanmaken",
-    "oneClickSync": "Synchronisatie met één klik",
-    "newFounders": "Nieuwe founders",
-    "card2Title": "Start uw bedrijf en ",
-    "card2TitleAccent": "schaal vanaf dag één.",
-    "card2Body": "Richt uw bedrijf op en centraliseer oprichting, goedkeuringen, compliance en doorlopende ondersteuning in dezelfde werkruimte waarmee u het bedrijf runt.",
-    "startIncorporationCta": "Oprichting starten",
-    "bookConsultationCta": "Consult plannen",
-    "card1MicroLabel": "Systeemintegratie",
-    "card1MicroAccent": "Operationele werkruimte",
-    "card2MicroLabel": "Groei-engine",
-    "card2MicroAccent": "Nieuwe onderneming",
-    "keyCapabilitiesHeading": "Belangrijkste mogelijkheden",
-    "builderBadge": "Builder-pakket",
-    "builderDescription": "Volledige oprichting, opzet en compliance klaar in één uniform pakket."
+    "createWorkspaceCta": "View Plans",
+    "oneClickSync": "Professional Review",
+    "newFounders": "Established Businesses",
+    "card2Title": "Finance ",
+    "card2TitleAccent": "Department",
+    "card2Body": "For businesses that want a fully outsourced finance function, including payroll, cash flow reporting, and strategic financial advice.",
+    "startIncorporationCta": "Speak to Our Team",
+    "bookConsultationCta": "Book a Consultation",
+    "card1MicroLabel": "Monthly support",
+    "card1MicroAccent": "Clean records",
+    "card2MicroLabel": "Outsourced finance",
+    "card2MicroAccent": "Strategic advice",
+    "keyCapabilitiesHeading": "Growth Finance",
+    "builderBadge": "Growing companies",
+    "builderDescription": "Everything in Essential, plus VAT support, management reports, and deadline tracking."
   },
   "insightsResources": {
-    "badge": "INZICHTEN & BRONNEN",
-    "titleLine1": "Praktische inzichten",
-    "titleHighlight": "voor moderne bedrijven",
-    "subtitle": "Korte video’s, gidsen en artikelen over boekhouding, audit, compliance en operations — zodat u georganiseerd, geïnformeerd en schaalbaar blijft.",
-    "viewAll": "Alle bronnen bekijken",
-    "watchVideo": "Video bekijken",
-    "readMore": "Lees meer",
-    "videoModalEyebrow": "A4-inzichten",
-    "videoModalHint": "Kies een video",
-    "videoNowPlaying": "Nu aan het afspelen",
-    "videoModalCloseAria": "Video sluiten",
+    "badge": "FAQ",
+    "titleLine1": "Frequently Asked ",
+    "titleHighlight": "Questions",
+    "subtitle": "Find answers about our services, processes, and how we can support your business in Malta.",
+    "viewAll": "View all FAQs",
+    "watchVideo": "Read Answer",
+    "readMore": "Read more",
+    "articleType": "Answer",
+    "noPosts": "No FAQs available.",
+    "videoModalEyebrow": "A4 FAQ",
+    "videoModalHint": "Select a question",
+    "videoNowPlaying": "Viewing Answer",
+    "videoModalCloseAria": "Close answer",
     "videoPlaylist": [
       {
-        "title": "Het moderne bedrijf"
+        "title": "Is A4 Services an accounting firm in Malta?"
       },
       {
-        "title": "Hoe AI het werk-privé-evenwicht echt verbetert"
+        "title": "Do you provide statutory audit services?"
       }
     ],
     "resources": [
       {
-        "type": "Artikel",
-        "category": "Audit & boekhouding",
-        "title": "Uw bedrijf voorbereiden op een soepele audit",
-        "desc": "Precies welke documenten, workflows en planning u nodig heeft voor een soepel auditproces."
+        "type": "Answer",
+        "category": "General",
+        "title": "Is A4 Services an accounting firm in Malta?",
+        "desc": "Yes. A4 Services Limited is an accounting and audit firm in Malta providing accounting, statutory audit, tax, VAT, payroll, and advisory services."
       },
       {
-        "type": "Video",
-        "category": "Insights",
-        "title": "Twee korte video’s van A4",
-        "desc": "Wat spaak kan lopen bij schalen zonder de juiste basis, en hoe AI teams merkbaar kan ontlasten — kies een video in de afspeellijst hieronder."
+        "type": "Answer",
+        "category": "Services",
+        "title": "Do you provide statutory audit services?",
+        "desc": "Yes. We provide statutory audit and assurance services for companies requiring audit support in Malta."
       },
       {
-        "type": "Gids",
-        "category": "Operations",
-        "title": "De ultieme checklist om uw operations te schalen",
-        "desc": "Gebruik deze checklist om juridische, boekhoudkundige en operationele infrastructuur schaal-klaar te maken."
+        "type": "Answer",
+        "category": "Services",
+        "title": "Do you offer monthly bookkeeping?",
+        "desc": "Yes. We provide monthly bookkeeping services, including automated bookkeeping subscriptions through our client portal."
       }
     ]
   },
   "footerCta": {
-    "badge": "Infrastructuur-upgrade",
-    "titleLine1": "Stop met het managen van meerdere aanbieders.",
-    "titleHighlight": "Alles geregeld.",
-    "body": "Zet vandaag uw portal op en ontvang binnen 24 uur een heldere, gestructureerde offerte.",
-    "quoteCta": "Offerte aanvragen",
-    "demoCta": "Demo boeken"
-  },
-  "heroLeft": {
-    "scrollDown": "Scroll omlaag",
-    "title": "What A4 Is",
-    "body": "A4 is een modern kantoor voor accountancy, audit en corporate services rond één gestructureerd digitaal platform. Wij verzorgen accountancy, compliance, corporate en audit end-to-end met eigen technologie voor duidelijkheid, snelheid en inzicht. A4 is geen doe-het-zelf-software en geen marketplace. Wij zijn een professioneel kantoor dat het werk voor u doet, met een veilig cliëntenportaal.",
-    "footerTitle": "Toegewezen teams. Duidelijke verantwoordelijkheid.",
-    "footerBody": "Elke klant wordt ondersteund door een vast A4-team."
-  },
-  "auditPlatform": {},
-  "inviteAdvisors": {
-    "titleLine1": "Nodig uw adviseurs uit.",
-    "titleHighlight": "Houd alles op één plek.",
-    "body": "Werkt u al samen met een accountant, auditor of advocaat? Breng ze naar uw A4-ruimte en beheer verzoeken, documenten, goedkeuringen en deadlines in een gestructureerde omgeving.",
-    "bullets": [
-      "Behoud uw bestaande adviseursrelaties",
-      "Centraliseer documenten, verzoeken en goedkeuringen",
-      "Volg deadlines en diensten op dezelfde plek",
-      "Creëer een heldere, professionele werkwijze voor iedereen"
-    ],
-    "createWorkspaceCta": "Maak Werkruimte Aan",
-    "gifAlt": "Nodig adviseur uit, adviseur sluit aan, gedeelde ruimte",
-    "gifPlaceholderTitle": "Video/GIF-plek",
-    "gifPlaceholderHint": "Upload hier uw GIF:",
-    "gifPlaceholderPath": "/public/assets/videos/Invite_Advisor.gif"
-  },
-  "howItWorks": {
-    "badge": "Hoe het werkt",
-    "titleLine1": "Eenvoudig. Gestructureerd.",
-    "titleHighlight": "Beheerd.",
-    "subtitle": "",
-    "twoWaysToStart": {
-      "badge": "START OP UW MANIER",
-      "titleLine1": "Twee manieren om te ",
-      "titleHighlight": "starten",
-      "subtitle": "Of u nu een nieuwe aanbieder zoekt of met vertrouwde adviseurs werkt, A4 biedt de structuur om alles te beheren.",
-      "marketplaceBadge": "MARKTPLAATS",
-      "recommendedBadge": "AANBEVOLEN",
-      "marketplaceTitle": "Vind de juiste adviseur",
-      "marketplaceSubtitle": "Dien een verzoek in en ontvang gestructureerde voorstellen van geverifieerde kantoren. Vergelijk opties en kies de beste partner.",
-      "inviteBadge": "UITNODIGEN",
-      "inviteTitle": "Werk met uw eigen adviseurs",
-      "inviteSubtitle": "Heeft u al vertrouwde adviseurs? Breng ze naar uw gestructureerde werkruimte om alles op één plek te beheren.",
-      "inviteFlowSteps": [
-        {
-          "title": "Nodig uw adviseur uit",
-          "desc": "Nodig eenvoudig uw huidige accountant, auditor of adviseur uit om mee te doen in uw werkruimte en verbonden te blijven."
-        },
-        {
-          "title": "Adviseur neemt deel aan de werkruimte",
-          "desc": "Uw adviseur voegt zich veilig bij het bedrijfsprofiel en krijgt toegang tot relevante documenten en verzoeken."
-        },
-        {
-          "title": "Gecentraliseerde samenwerking",
-          "desc": "Werk samen op één plek — deel documenten, beheer verzoeken en volg de voortgang naadloos."
-        },
-        {
-          "title": "Relatie beheren en laten groeien",
-          "desc": "Behoud uw bestaande relatie en profiteer tegelijk van een gestructureerdere en efficiëntere manier van werken."
-        }
-      ],
-      "footerCta": "Maak Werkruimte Aan",
-      "footerNote": "Start in 2 minuten"
-    }
-  },
-  "servicesSection": {
-    "badge": "Professioneel Ecosysteem",
-    "titleLine1": "Diensten via een ",
-    "titleHighlight": "verbonden platform",
-    "subtitle": "A4 helpt uw onderneming professionele diensten te benaderen en beheren via een gestructureerde werkruimte.",
-    "tabServices": "Diensten",
-    "tabProducts": "Producten",
-    "explorePhase": "Exploratie-fase",
-    "launchDashboard": "Lanceer Dashboard",
-    "categoryService": "Dienst",
-    "categoryPlatform": "Platform",
-    "defaultSubtitle": "Gestructureerde ondersteuning via één digitaal portaal.",
-    "serviceTitles": {
-      "accounting-finance": "Boekhouding & Financiën",
-      "audit-assurance": "Audit & Assurance",
-      "corporate-csp-services": "Zakelijke Diensten",
-      "advisory-growth": "Juridische Diensten",
-      "tax-compliance": "Belasting & Compliance"
-    },
-    "serviceSubtitles": {
-      "accounting-finance": "Boekhoudkundige ondersteuning, administratieve stromen, documentbeheer en financiële coördinatie.",
-      "tax-compliance": "Aangiften, advies, deadlines en doorlopende ondersteuning.",
-      "audit-assurance": "Wettelijke controles, zekerheidsopdrachten, coördinatie van werkdossiers en oplevering per mijlpaal.",
-      "corporate-csp-services": "Bedrijfssecretariaat, governance, statutair onderhoud en administratie.",
-      "regulated-licensing": "Ondersteuning bij licentieaanvragen, verlengingen en belangrijke wettelijke indieningen.",
-      "advisory-growth": "Juridische ondersteuning voor bedrijven, contracten, transacties en advies.",
-      "vat-services": "Btw-registraties, aangiften en ondersteuning bij indirecte belastingen.",
-      "payroll-employment": "Loonadministratie, ondersteuning bij personeelszaken en compliance-indieningen."
-    },
-    "products": [
-      {
-        "title": "Cliëntenportaal",
-        "subtitle": "Documenten, verzoeken en veilige communicatie.",
-        "badge": "Uitgelicht"
-      },
-      {
-        "title": "Auditportaal",
-        "subtitle": "Gestructureerde workflows en auditlevering."
-      },
-      {
-        "title": "Boekhoudportaal",
-        "subtitle": "Realtime financieel dashboard en rapportage.",
-        "badge": "Nieuw"
-      }
-    ]
-  },
-  "marketplace": {
-    "badge": "Voorstellen Marktplaats",
-    "titleLine1": "Een marktplaats gebaseerd ",
-    "titleHighlight": "op vertrouwen.",
-    "body": "Stuur een Request for Proposal (RFP) naar topkantoren. Kies uit lokale, regionale en wereldwijde aanbieders. De A4 Marktplaats geeft u direct toegang tot een geverifieerd netwerk.",
-    "registerCta": "Registreren voor Voorstellen",
-    "gifAlt": "Interface voor dienstaanvraag",
-    "steps": [
-      {
-        "number": "01",
-        "title": "Dienst Aanvragen",
-        "desc": "Kies de dienst en geef de eerste details door via uw beveiligde ruimte."
-      },
-      {
-        "number": "02",
-        "title": "A4 Coördinatie",
-        "desc": "Wij informeren geverifieerde partners en coördineren het proces voor kwaliteit."
-      },
-      {
-        "number": "03",
-        "title": "Gestructureerde Voorstellen",
-        "desc": "Ontvang gestandaardiseerde aanbiedingen via uw werkruimte, makkelijk te vergelijken."
-      },
-      {
-        "number": "04",
-        "title": "Kiezen & Engage",
-        "desc": "Vergelijk opties, kies de juiste adviseur en start direct met het werk."
-      }
-    ]
-  },
-  "whyA4": {
-    "badge": "Het A4 Voordeel",
-    "titleLine1": "Gestructureerd. ",
-    "titleHighlight": "Veilig. Schaalbaar.",
-    "body": "A4 is gebouwd voor het moderne bedrijfsleven. Of u nu een startup bent of een gevestigde groep, ons platform biedt de structuur om te groeien.",
-    "card1Title": "Single Source of Truth",
-    "card1Body": "Al uw entiteiten, diensten, documenten en adviseurs op één plek. Niet meer zoeken in e-mails.",
-    "card2Title": "Geverifieerde Kantoren",
-    "card2Body": "Wij werken alleen met vooraf goedgekeurde kantoren die aan onze hoge standaarden voldoen.",
-    "qualityLabel": "Kwaliteit Gegarandeerd",
-    "cta": "Ontdek de Ervaring"
-  },
-  "trust": {
-    "badge": "Veiligheid Voorop",
-    "titleLine1": "Vertrouwd door ",
-    "titleHighlight": "wereldwijde bedrijven.",
-    "subtitle": "Van onboarding tot doorlopende compliance, alles in één beveiligde ruimte. Sluit u aan bij de toekomst van zakelijk beheer.",
-    "largeCardTitleLine1": "Wereldwijde Infrastructuur, ",
-    "largeCardTitleHighlight": "Betrouwbaar Ontworpen.",
-    "largeCardBody": "A4 biedt een veerkrachtige digitale omgeving voor uniforme coördinatie, zodat uw business overal ter wereld door kan gaan.",
-    "multiRegionLabel": "Multi-Regio Redundantie",
-    "uptimeTitle": "Ongeëvenaarde Uptime",
-    "uptimeBody": "Ons platform opereert met een 99,99% beschikbaarheidsgarantie, zodat uw werkruimte altijd klaar staat.",
-    "statusCore": "Core Systemen",
-    "statusOperational": "OPERATIONEEL",
-    "statusDataSync": "Datasynchronisatie",
-    "statusSynchronized": "GESYNCHRONISEERD",
-    "features": [
-      {
-        "title": "Bancaire Versleuteling",
-        "desc": "Alle documenten en communicatie beschermd door AES-256 in een digitale kluis."
-      },
-      {
-        "title": "Enterprise Support 24/7",
-        "desc": "Toegewijd supportteam dag en nacht beschikbaar voor navigatie en coördinatie."
-      }
-    ],
-    "securityCta": "Bekijk Veiligheid & Compliance",
-    "footerRealTime": "Realtime bescherming",
-    "footerGlobal": "Wereldwijde Infra"
-  },
-  "companySetup": {
-    "badge": "Eenvoudige Bedrijfsvorming",
-    "titleLine1": "Moeiteloze ",
-    "titleHighlight": "oprichting.",
-    "subtitle": "Of u nu start in de Emiraten of wereldwijd, A4 biedt de structuur om te lanceren en te groeien.",
-    "col1Title": "Deskundig Advies",
-    "col1Items": [
-      "Nieuwe bedrijfsvormingen",
-      "Statutaire zetel & domicile",
-      "Bedrijfssecretariaat",
-      "Setup & Statutair onderhoud"
-    ],
-    "col2Title": "Document Automatisering",
-    "col2Items": [
-      "Realtime zicht op deponeringen",
-      "Deadline tracking",
-      "Compliance kalender",
-      "Beheer van statutaire registers"
-    ],
-    "col3Title": "Wereldwijd Bereik",
-    "col3Items": [
-      "Aandelenoverdrachten beheren",
-      "Bestuurswijzigingen doorvoeren",
-      "Structuur-updates",
-      "Ondersteuning internationale expansie"
-    ],
-    "startIncorporationCta": "Start Bedrijfsvorming",
-    "bookConsultationCta": "Boek een Consultatie"
-  },
-  "complianceDashboard": {
-    "titleLine1": "Blijf compliant. ",
-    "titleHighlight": "Blijf voorop.",
-    "body": "Compliance is geen eenmalige actie, maar een continu proces. Automatische meldingen, entiteitsbeheer en updates houden u op de hoogte.",
-    "scoreLabel": "Compliance Score",
-    "onTrack": "Op Schema",
-    "deadlinesHeading": "Aankomende Deadlines",
-    "vatTitle": "Btw-aangifte",
-    "vatDue": "Verloop over 7 dagen",
-    "vatStatus": "In afwachting",
-    "annualTitle": "Jaarrekening Deponering",
-    "annualDue": "Verloopt over 20 dagen",
-    "annualStatus": "Gepland",
-    "footerNote": "Alles zichtbaar op één plek – geen spreadsheets of handmatige lijstjes meer."
-  },
-  "multiCompany": {
-    "badge": "Multi-Entiteit Beheer",
-    "titleLine1": "Schaal zonder ",
-    "titleHighlight": "complexiteit.",
-    "body": "Eén bedrijf runnen is lastig. Tien runnen zou dat niet moeten zijn. A4 is gebouwd voor oprichters en groepen met meerdere entiteiten.",
-    "foundersHub": "Oprichters Hub",
-    "activeLabel": "Actief",
-    "switchLabel": "Wisselen",
-    "engagementsSummary": "32 actieve opdrachten in de groep",
-    "highlights": [
-      "Unified Founders Dashboard",
-      "Zichtbaarheid op groepsniveau",
-      "Direct tussen ruimtes wisselen",
-      "Gestandaardiseerde coördinatie"
-    ],
-    "cta": "Registreer uw Groep",
-    "mockCompanies": [
-      {
-        "name": "Atlas Holding Ltd",
-        "type": "Moedermaatschappij"
-      },
-      {
-        "name": "Nova Logistics SpA",
-        "type": "Dochteronderneming"
-      },
-      {
-        "name": "Polaris Tech GmbH",
-        "type": "Branch Office"
-      },
-      {
-        "name": "Zenith Services Corp",
-        "type": "Nieuwe Entiteit"
-      }
-    ]
-  },
-  "platformPower": {
-    "badge": "Platform Intelligentie",
-    "titleLine1": "Een slimmere manier om ",
-    "titleHighlight": "zakelijke diensten te beheren.",
-    "body": "A4 biedt de structuur en transparantie die nodig zijn om te coördineren met meerdere professionele firma's, compliance te beheren en uw activiteiten te schalen via een veilig platform.",
-    "highlights": [
-      "Volledige zichtbaarheid bij elke zakelijke opdracht",
-      "Veilig documentbeheer en historische tracking",
-      "Geïntegreerde communicatie met geverifieerde adviseurs",
-      "Real-time monitoring van depot en deadlines"
-    ],
-    "createWorkspaceCta": "Werkruimte maken",
-    "registerQuoteCta": "Registreren voor offerte",
-    "workspaceLabel": "A4 Werkruimte",
-    "auditAssurance": "Audit & Assurance",
-    "activeEngagement": "Actieve opdracht",
-    "teamNotifications": "Team meldingen",
-    "notif1": "Concept jaarrekening geüpload door auditor",
-    "notif1Time": "2 min geleden",
-    "notif2": "Belastingadviseur heeft documenten opgevraagd",
-    "notif2Time": "1 uur geleden",
-    "docCompliance": "Document Compliance",
-    "syncHint": "Alles gesynchroniseerd met de hoofdadviseur.",
-    "onTrack": "Op schema",
-    "actionsPending": "2 acties in afwachting",
-    "pdfName": "BTW_Kwartaal1.pdf",
-    "pendingReview": "Review in afwachting"
-  },
-  "portalFeature": {
-    "featureLabel": "Functie",
-    "features": [
-      {
-        "title": "Boekhouding die al het andere aandrijft",
-        "description": "Uw boekhouding draait continu op de achtergrond. U uploadt documenten — ons team boekt, scant en controle overal alles. Zodra de boekhouding is voltooid, kunnen BTW, belastingen, audit en rapportage soepel verlopen.",
-        "content": [
-          "Maandelijkse boekhoudstatus",
-          "Ontbrekende documenten duidelijk vermeld",
-          "Banken en grootboeken afgestemd",
-          "Klaar voor BTW en Audit"
-        ],
-        "buttonText": "Hoe boekhouding werkt"
-      },
-      {
-        "title": "BTW en Salarisadministratie, periode na periode",
-        "description": "BTW en salarisadministratie draaien op vaste cycli. Elke indiening wordt automatisch gevolgd, voorbereid, ingediend en gearchiveerd. Als er niets verandert, bevestigt u gewoon — en wij regelen de rest.",
-        "content": [
-          "BTW-periodes met vervaldata",
-          "Loonstroken per maand",
-          "Bevestigingen van indiening",
-          "Bevestigingen 'geen wijziging'"
-        ],
-        "buttonText": "BTW & Salarisadministratie in actie"
-      },
-      {
-        "title": "Bedrijfsdiensten met vervaltermijn tracking",
-        "description": "Bedrijfsdiensten zijn niet maandelijks — ze hebben een vervaldatum. Bestuursfuncties, maatschappelijke zetel en secretariaatsdiensten worden gecontroleerd op vervaldatum. Verlengingen worden automatisch geactiveerd — met herinneringen en facturering.",
-        "content": [
-          "Actieve bedrijfsdiensten",
-          "Vervaldata duidelijk in beeld",
-          "Verlengingswaarschuwingen voor deadlines",
-          "Nul gemiste verplichtingen"
-        ],
-        "buttonText": "Bekijk bedrijfsdiensten"
-      }
-    ]
-  },
-  "faqSection": {
-    "badge": "Waarom A4",
-    "title": "Gestructureerde ",
-    "titleHighlight": "Samenwerking",
-    "subtitle": "Krijg duidelijkheid en controle met een uniforme digitale werkruimte die is afgestemd op professionele diensten.",
-    "items": [
-      {
-        "title": "Duidelijkheid",
-        "desc": "Volledige zichtbaarheid van opdrachten, documenten en deadlines in één hub."
-      },
-      {
-        "title": "Structuur",
-        "desc": "Gedefinieerde workflows zorgen ervoor dat professionele diensten consistent worden geleverd."
-      },
-      {
-        "title": "Samenwerking",
-        "desc": "Werk naadloos samen met meerdere adviseurs via één veilig platform."
-      },
-      {
-        "title": "Controle",
-        "desc": "Volg compliance, indieningen en activiteiten via een centraal dashboard."
-      }
-    ],
-    "healthLabel": "Financiële Gezondheid",
-    "growthLabel": "Groei",
-    "equityLabel": "Status van de cap table",
-    "issuedCap": "Uitgegeven Kapitaal",
-    "supportLabel": "Directe Ondersteuning"
+    "badge": "Final Call to Action",
+    "titleLine1": "Speak to a Malta Accounting & Audit Firm ",
+    "titleHighlight": "That Works Differently",
+    "body": "Whether you need annual compliance support, monthly accounting, audit services, or a complete outsourced finance function, our team is ready to help.",
+    "quoteCta": "Book a Consultation",
+    "demoCta": "Contact A4 Services"
   }
 }

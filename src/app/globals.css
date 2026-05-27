@@ -11,8 +11,8 @@
 
   /* Theme colors — monochrome with gray hierarchy */
   --primary-blue: #27272a;
-  --gradient-blue-1: #52525b;
-  --gradient-blue-2: #3f3f46;
+  --gradient-zinc-1: #52525b;
+  --gradient-zinc-2: #3f3f46;
   --text-dark: #000000;
   --purple-logo: #27272a;
   --purple-bg: #27272a;
@@ -31,7 +31,7 @@
   --gradient-container: #18181b;
 
   /* Button and Interactive Colors */
-  --primary-blue-hover: #3f3f46;
+  --primary-zinc-hover: #3f3f46;
   --button-indigo: #27272a;
   --tab-active: #27272a;
   --tab-active-hover: #3f3f46;
@@ -78,7 +78,7 @@
   --form-label: #52525b;
 
   /* Shadows */
-  --primary-blue-shadow: rgba(0, 0, 0, 0.2);
+  --primary-zinc-shadow: rgba(0, 0, 0, 0.2);
 
   /* Neutral (charts, dividers) */
   --neutral-200: #e4e4e7;
@@ -95,8 +95,8 @@
   --color-foreground: var(--foreground);
   --color-primary: var(--primary);
   --color-primary-blue: var(--primary-blue);
-  --color-gradient-blue-1: var(--gradient-blue-1);
-  --color-gradient-blue-2: var(--gradient-blue-2);
+  --color-gradient-zinc-1: var(--gradient-zinc-1);
+  --color-gradient-zinc-2: var(--gradient-zinc-2);
   --color-text-dark: var(--text-dark);
   --color-purple-logo: var(--purple-logo);
   --color-purple-bg: var(--purple-bg);
@@ -108,7 +108,7 @@
   --color-hero-bg-dark: var(--hero-bg-dark);
   --color-hero-glow: var(--hero-glow);
   --color-gradient-container: var(--gradient-container);
-  --color-primary-blue-hover: var(--primary-blue-hover);
+  --color-primary-zinc-hover: var(--primary-zinc-hover);
   --color-button-indigo: var(--button-indigo);
   --color-tab-active: var(--tab-active);
   --color-tab-active-hover: var(--tab-active-hover);
@@ -132,17 +132,17 @@
   --breakpoint-1200: 1200px;
 
   /* Overriding Tailwind blue palette for the monochrome theme (mapped to zinc) */
-  --color-blue-50: #fafafa;
-  --color-blue-100: #f4f4f5;
-  --color-blue-200: #e4e4e7;
-  --color-blue-300: #d4d4d8;
-  --color-blue-400: #a1a1aa;
-  --color-blue-500: #71717a;
-  --color-blue-600: #52525b;
-  --color-blue-700: #3f3f46;
-  --color-blue-800: #27272a;
-  --color-blue-900: #18181b;
-  --color-blue-950: #09090b;
+  --color-zinc-50: #fafafa;
+  --color-zinc-100: #f4f4f5;
+  --color-zinc-200: #e4e4e7;
+  --color-zinc-300: #d4d4d8;
+  --color-zinc-400: #a1a1aa;
+  --color-zinc-500: #71717a;
+  --color-zinc-600: #52525b;
+  --color-zinc-700: #3f3f46;
+  --color-zinc-800: #27272a;
+  --color-zinc-900: #18181b;
+  --color-zinc-950: #09090b;
 
   @keyframes orbit {
     0% {
@@ -217,7 +217,7 @@
 }
 
 .nav-drawer-scrollbar::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, #777777 0%, var(--primary-blue-hover) 100%);
+  background: linear-gradient(180deg, #777777 0%, var(--primary-zinc-hover) 100%);
 }
 
 /* Utility Classes for Background Colors */
@@ -233,8 +233,8 @@
   background-color: var(--primary-blue);
 }
 
-.bg-primary-blue-hover {
-  background-color: var(--primary-blue-hover);
+.bg-primary-zinc-hover {
+  background-color: var(--primary-zinc-hover);
 }
 
 .bg-hero {
@@ -346,7 +346,7 @@
 }
 
 .shadow-primary-blue {
-  box-shadow: 0 0 20px var(--primary-blue-shadow);
+  box-shadow: 0 0 20px var(--primary-zinc-shadow);
 }
 
 /* Quote/process panel gradient (dark blue gradient) */

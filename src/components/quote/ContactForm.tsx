@@ -187,7 +187,7 @@ const ContactForm = () => {
                     whileTap={{ scale: 0.98, y: 0 }}
                     type="submit"
                     disabled={isSubmitting}
-                    className="w-full bg-primary-blue hover:bg-primary-blue-hover text-white font-semibold py-3 px-6 rounded-lg transition-all disabled:opacity-50 disabled:cursor-not-allowed shadow-md hover:shadow-lg"
+                    className="w-full bg-primary-blue hover:bg-primary-zinc-hover text-white font-semibold py-3 px-6 rounded-lg transition-all disabled:opacity-50 disabled:cursor-not-allowed shadow-md hover:shadow-lg"
                   >
                     {isSubmitting ? t("form.submitting") : t("form.submit")}
                   </motion.button>
@@ -278,7 +278,7 @@ const ContactForm = () => {
                     href="https://calendly.com/A4-info/new-meeting"
                     target="_blank"
                     rel="noreferrer"
-                    className="bg-primary-blue hover:bg-primary-blue-hover text-white font-semibold py-4 px-6 rounded-full transition-colors flex items-center justify-center gap-2 shadow-sm hover:shadow-md"
+                    className="bg-primary-blue hover:bg-primary-zinc-hover text-white font-semibold py-4 px-6 rounded-full transition-colors flex items-center justify-center gap-2 shadow-sm hover:shadow-md"
                   >
                     <span>{t("info.cta.button")}</span>
                     <PhoneCall className="w-5 h-5" />
