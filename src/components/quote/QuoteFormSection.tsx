@@ -211,7 +211,7 @@ const QuoteFormSection = () => {
                     <button
                       type="submit"
                       disabled={isSubmitting}
-                      className="w-full inline-flex items-center gap-2 bg-primary-blue hover:bg-primary-blue-hover text-white px-6 py-3 rounded-full transition-all text-[15px] font-medium shadow-primary-blue hover:shadow-[0_6px_40px_var(--primary-blue-shadow)] transform hover:-translate-y-0.5 disabled:opacity-50 disabled:cursor-not-allowed justify-center"
+                      className="w-full inline-flex items-center gap-2 bg-primary-blue hover:bg-primary-zinc-hover text-white px-6 py-3 rounded-full transition-all text-[15px] font-medium shadow-primary-blue hover:shadow-[0_6px_40px_var(--primary-zinc-shadow)] transform hover:-translate-y-0.5 disabled:opacity-50 disabled:cursor-not-allowed justify-center"
                     >
                       {isSubmitting ? "Sending..." : "Send a Quote"}
                       <svg

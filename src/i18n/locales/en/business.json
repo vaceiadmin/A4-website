@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "badge": "Built for businesses · audit-ready in 48 hours",
+    "titleLine1": "Your audit.",
+    "titleHighlight": "Done by AI agents.",
+    "body": "A4 Services gives your business a complete AI-powered audit team — 8 specialist agents that handle planning, risk, fieldwork, compliance and reporting. Transparent, professional, and a fraction of traditional audit cost.",
+    "cta1": "Get your free first audit →",
+    "cta2": "Meet the team",
+    "freePill": "✦ Your first full audit engagement — completely free. No contract.",
+    "stats": {
+      "val1": "10%",
+      "label1": "of audit fee",
+      "val2": "8",
+      "label2": "specialist agents",
+      "val3": "48h",
+      "label3": "avg. turnaround",
+      "val4": "Free",
+      "label4": "first engagement"
+    }
+  },
+  "values": {
+    "c1": {
+      "title": "Built by a licensed audit firm",
+      "desc": "Developed by A4 Services Limited — a licensed audit and accounting practice. Not a tech startup guessing at audit."
+    },
+    "c2": {
+      "title": "100% of your general ledger reviewed",
+      "desc": "Our GL Anomaly Agent tests every single transaction — not a sample. Duplicate entries, unusual journals, late postings all flagged."
+    },
+    "c3": {
+      "title": "Your data stays yours",
+      "desc": "SOC 2 certified infrastructure, GDPR compliant. Your documents and financials are never shared or used to train models."
+    },
+    "c4": {
+      "title": "White-labelled to your firm",
+      "desc": "The client portal, all communications and documents are branded under your accountancy firm. Clients never see A4 Services."
+    }
+  },
+  "agents": {
+    "eyebrow": "Your AI Audit Team",
+    "titleLine1": "Meet the ",
+    "titleHighlight": "8 specialists",
+    "sub": "Each agent owns a precise stage of your audit engagement. Click any agent to learn more."
+  },
+  "how": {
+    "eyebrow": "How It Works",
+    "titleLine1": "One orchestrator. ",
+    "titleHighlight": "Eight specialists.",
+    "sub": "The Orchestrator Agent receives your engagement brief and intelligently dispatches every specialist agent — coordinating the entire audit in real time."
+  },
+  "portal": {
+    "title": "Complete visibility.",
+    "sub": "Your client portal gives you complete oversight of the audit progress, document requests, and final reports.",
+    "f1": "Real-time audit tracking",
+    "f2": "Secure document vault",
+    "f3": "Direct communication",
+    "f4": "Full audit trail"
+  },
+  "pricing": {
+    "titleLine1": "Simple, transparent ",
+    "titleHighlight": "pricing.",
+    "sub": "A fraction of the cost of traditional audit firms. Pay a flat fee per audit.",
+    "basic": {
+      "name": "Standard Audit",
+      "price": "10%",
+      "sub": "of typical firm fee",
+      "desc": "Perfect for growing businesses. A complete, compliant audit without the overhead.",
+      "c1": "Full 8-agent team",
+      "c2": "Compliance guarantee",
+      "c3": "Dedicated client portal",
+      "c4": "48-hour turnaround"
+    },
+    "pro": {
+      "name": "Complex Audit",
+      "price": "Custom",
+      "sub": "For complex structures",
+      "desc": "For groups, consolidated accounts, and complex international structures.",
+      "c1": "Consolidation support",
+      "c2": "Cross-border compliance",
+      "c3": "Human partner review",
+      "c4": "Priority support"
+    }
+  },
+  "cta": {
+    "titleLine1": "Ready for a ",
+    "titleHighlight": "better audit?",
+    "sub": "Set up your free account today and experience a modern, AI-driven audit engagement.",
+    "btn1": "Start your free audit →",
+    "btn2": "Book a consultation"
+  }
+}

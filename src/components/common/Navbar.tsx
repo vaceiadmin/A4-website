@@ -404,6 +404,9 @@ const Navbar = () => {
           { label: t("nav.resource.bookkeeping"), href: "/bookkeeping" },
           { label: t("nav.resource.accountingMalta"), href: "/accounting-malta" },
           { label: t("nav.product.aiReview"), href: "/ai-review" },
+          { label: t("nav.resource.accountingAgents", { defaultValue: "Accounting Agents" }), href: "/accounting" },
+          { label: t("nav.resource.businessAgents", { defaultValue: "Business Agents" }), href: "/business" },
+          { label: t("nav.resource.auditorQuestionnaire", { defaultValue: "Auditor Dashboard" }), href: "/auditor-questionnaire" },
           { label: t("nav.resource.howItWorks"), href: "/how-it-works" },
           { label: t("nav.resource.about"), href: "/about" },
           { label: t("nav.resource.faqs"), href: "/faq" },
@@ -416,6 +419,9 @@ const Navbar = () => {
           { label: t("nav.resource.bookkeeping"), href: "/bookkeeping" },
           { label: t("nav.resource.accountingMalta"), href: "/accounting-malta" },
           { label: t("nav.product.aiReview"), href: "/ai-review" },
+          { label: t("nav.resource.accountingAgents", { defaultValue: "Accounting Agents" }), href: "/accounting" },
+          { label: t("nav.resource.businessAgents", { defaultValue: "Business Agents" }), href: "/business" },
+          { label: t("nav.resource.auditorQuestionnaire", { defaultValue: "Auditor Dashboard" }), href: "/auditor-questionnaire" },
           { label: t("nav.resource.howItWorks"), href: "/how-it-works" },
           { label: t("nav.resource.about"), href: "/about" },
           { label: t("nav.resource.faqs"), href: "/faq" },
@@ -1046,28 +1052,28 @@ const Navbar = () => {
                   <div className="flex items-center gap-4">
                     <a
                       href="#"
-                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-blue-hover transition-colors"
+                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-zinc-hover transition-colors"
                       aria-label="Facebook"
                     >
                       <Facebook className="w-5 h-5" strokeWidth={1.75} aria-hidden />
                     </a>
                     <a
                       href="#"
-                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-blue-hover transition-colors"
+                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-zinc-hover transition-colors"
                       aria-label="Instagram"
                     >
                       <Instagram className="w-5 h-5" strokeWidth={1.75} aria-hidden />
                     </a>
                     <a
                       href="#"
-                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-blue-hover transition-colors"
+                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-zinc-hover transition-colors"
                       aria-label="X (Twitter)"
                     >
                       <X className="w-5 h-5" strokeWidth={1.75} aria-hidden />
                     </a>
                     <a
                       href="#"
-                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-blue-hover transition-colors"
+                      className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-blue text-white hover:bg-primary-zinc-hover transition-colors"
                       aria-label="LinkedIn"
                     >
                       <Linkedin className="w-5 h-5" strokeWidth={1.75} aria-hidden />

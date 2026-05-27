@@ -75,7 +75,7 @@ const HomePage = ({ recentBlogs = [] }: HomePageProps) => {
       <GlobalDeliverySection isDark={false} />
 
       {/* 12. ActiveEU Section (Light) */}
-      {/* <ActiveEUSection isDark={false} /> */}
+      {/* <ActiveEUSection /> */}
 
       {/* 13. Real-Time Control (Dark) */}
       <RealTimeControl isDark={true} />
@@ -84,7 +84,7 @@ const HomePage = ({ recentBlogs = [] }: HomePageProps) => {
       <BeforeAndAfterSection isDark={false} />
 
       {/* 14b. Two ways to start — spotlight card (Dark) */}
-      {/* <TwoWaysToStartSection isDark={true} /> */}
+      <TwoWaysToStartSection isDark={true} />
 
       {/* 15. Conversion Section (Dark) */}
       <ConversionSection isDark={true} />

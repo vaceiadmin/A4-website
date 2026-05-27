@@ -37,10 +37,10 @@ const GetInstantQuoteButton = ({
         href={href || CLIENT_ONBOARDING_URL}
         className={`
           inline-flex items-center gap-2 px-6 py-3 rounded-full transition-all text-[15px] font-medium 
-          ${bgColor ? '' : 'bg-primary-blue hover:bg-primary-blue-hover'}
+          ${bgColor ? '' : 'bg-primary-blue hover:bg-primary-zinc-hover'}
           ${textColor ? '' : 'text-white'}
           ${borderColor ? 'border-2' : ''}
-          ${hasShadow ? 'shadow-[0_4px_30px_var(--primary-blue-shadow)] hover:shadow-[0_6px_40px_var(--primary-blue-shadow)] transform hover:-translate-y-0.5' : 'hover:shadow-md hover:-translate-y-0.5'}
+          ${hasShadow ? 'shadow-[0_4px_30px_var(--primary-zinc-shadow)] hover:shadow-[0_6px_40px_var(--primary-zinc-shadow)] transform hover:-translate-y-0.5' : 'hover:shadow-md hover:-translate-y-0.5'}
           ${className}
         `}
         style={{
@@ -62,8 +62,8 @@ const GetInstantQuoteButton = ({
       <Link
         href={href || CALENDLY_DEMO_URL}
         className={`
-          inline-flex items-center gap-2 bg-primary-blue hover:bg-primary-blue-hover text-white px-6 py-3 rounded-full transition-all text-[15px] font-medium transform hover:-translate-y-0.5
-          ${hasShadow ? 'shadow-[0_4px_30px_var(--primary-blue-shadow)] hover:shadow-[0_6px_40px_var(--primary-blue-shadow)]' : ''}
+          inline-flex items-center gap-2 bg-primary-blue hover:bg-primary-zinc-hover text-white px-6 py-3 rounded-full transition-all text-[15px] font-medium transform hover:-translate-y-0.5
+          ${hasShadow ? 'shadow-[0_4px_30px_var(--primary-zinc-shadow)] hover:shadow-[0_6px_40px_var(--primary-zinc-shadow)]' : ''}
           ${className}
         `}
       >
@@ -79,8 +79,8 @@ const GetInstantQuoteButton = ({
     <LocalizedLink
       href={href || CLIENT_ONBOARDING_URL}
       className={`
-        inline-flex items-center gap-2 bg-primary-blue hover:bg-primary-blue-hover text-white px-6 py-3 rounded-full transition-all text-[15px] font-medium 
-        ${hasShadow ? 'shadow-[0_4px_30px_var(--primary-blue-shadow)] hover:shadow-[0_6px_40px_var(--primary-blue-shadow)] transform hover:-translate-y-0.5' : ''}
+        inline-flex items-center gap-2 bg-primary-blue hover:bg-primary-zinc-hover text-white px-6 py-3 rounded-full transition-all text-[15px] font-medium 
+        ${hasShadow ? 'shadow-[0_4px_30px_var(--primary-zinc-shadow)] hover:shadow-[0_6px_40px_var(--primary-zinc-shadow)] transform hover:-translate-y-0.5' : ''}
         ${className}
       `}
     >

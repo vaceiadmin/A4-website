@@ -144,7 +144,7 @@ const BlogListing: React.FC<BlogListingProps> = ({ blogs }) => {
                   setSearchTerm('');
                   setSelectedTag('');
                 }}
-                className="px-8 py-3 bg-primary-blue text-white rounded-full hover:bg-primary-blue-hover transition-all font-medium font-sans shadow-lg shadow-primary-blue/20"
+                className="px-8 py-3 bg-primary-blue text-white rounded-full hover:bg-primary-zinc-hover transition-all font-medium font-sans shadow-lg shadow-primary-blue/20"
               >
                 {t('clearFilters')}
               </button>

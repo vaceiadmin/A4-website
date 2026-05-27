@@ -127,7 +127,7 @@ const HowItWorksTimeline = ({
                       <motion.div
                         className={`w-4 h-4 rounded-full border-2 bg-section-light ${
                           isCompleted || isActive
-                            ? "shadow-[0_0_0_6px_var(--primary-blue-shadow)]"
+                            ? "shadow-[0_0_0_6px_var(--primary-zinc-shadow)]"
                             : ""
                         }`}
                         animate={

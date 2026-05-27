@@ -1,775 +1,430 @@
 {
   "hero": {
-    "titleLine1": "Le système d’exploitation",
-    "titleLine2": "pour votre back-office.",
-    "titleHighlight": "Tout est pris en charge.",
-    "body": "Nous gérons la création, la comptabilité, l’audit, la fiscalité, le juridique, la paie et la conformité — le tout sur une plateforme structurée, avec une équipe dédiée et une visibilité en temps réel, pour vous concentrer sur la croissance de votre entreprise.",
-    "body2": "",
-    "quoteCta": "Commencer",
-    "demoCta": "Réserver un appel",
-    "benefit1": "Expert dédié",
-    "benefit2": "Une plateforme",
-    "benefit3": "Visibilité en temps réel",
+    "titleLine1": "A4 Services Limited",
+    "titleLine2": "Accounting & Audit Firm in Malta",
+    "titleHighlight": "for Modern Businesses",
+    "body": "A4 Services is a Malta-based firm providing comprehensive accounting, audit, tax, and advisory solutions for modern businesses.",
+    "body2": "We combine financial expertise with a digital portal and automated workflows to keep you compliant, organised, and in control.",
+    "quoteCta": "Book a Consultation",
+    "demoCta": "View Our Services",
+    "benefit1": "Qualified Professionals",
+    "benefit2": "Structured Workflows",
+    "benefit3": "Dedicated Portal",
     "serviceStrip": {
-      "bookkeeping": "Comptabilité",
-      "audit": "Audit",
-      "payroll": "Paie",
-      "incorporation": "Création d’entreprise"
+      "bookkeeping": "Accounting",
+      "audit": "Statutory Audit",
+      "payroll": "Payroll",
+      "incorporation": "Tax & VAT"
     },
     "marquee": [
-      "Création d’entreprise",
-      "Comptabilité",
-      "Audit",
-      "Fiscalité",
-      "Juridique",
-      "Paie",
-      "Conformité",
-      "Réseau mondial",
-      "Support direct"
+      "Accounting",
+      "Statutory Audit",
+      "Tax",
+      "VAT",
+      "Payroll",
+      "Fractional CFO",
+      "Automated Bookkeeping"
     ],
-    "trustStrip": "Une équipe. Une plateforme. Tout est pris en charge.",
+    "trustStrip": "Accounting • Statutory Audit • Tax • VAT • Payroll • Fractional CFO • Automated Bookkeeping",
     "trustPillLabels": [
-      "Une équipe",
-      "Une plateforme",
-      "Tout est pris en charge"
+      "Professional Experts",
+      "Modern Solutions",
+      "Malta Based"
     ]
   },
   "interactiveBlock": {
-    "title": "Créez votre compte en 2 minutes",
-    "companyNameLabel": "Nom de l’entreprise",
-    "countryLabel": "Pays",
-    "servicesLabel": "Services requis",
-    "cta": "Créer votre portail",
-    "secondaryCta": "Parler à notre équipe",
+    "title": "Professional Accounting & Audit Services in Malta",
+    "companyNameLabel": "Company Name",
+    "countryLabel": "Country",
+    "servicesLabel": "Services Needed",
+    "cta": "Book a Consultation",
+    "secondaryCta": "View Our Services",
     "microcopy": [
-      "2 minutes chrono",
-      "Sans engagement",
-      "Devis sous 24 heures"
-    ]
+      "Expert Guidance",
+      "Timely Compliance",
+      "Clear Reporting"
+    ],
+    "typeDemo": {
+      "companyName": "Your Business Ltd",
+      "country": "Malta",
+      "services": "Accounting & Audit"
+    }
   },
   "coreStatement": {
-    "text": "Nous gérons tout ce dont votre entreprise a besoin — de la création à la conformité — partout dans le monde.",
+    "text": "Running a business in Malta requires more than filing accounts and meeting deadlines.",
     "bullets": [
-      "Une équipe dédiée",
-      "Un expert attitré",
-      "Votre portail structuré",
-      "Visibilité complète sur tout"
+      "Accurate financial records",
+      "Timely compliance",
+      "Clear reporting",
+      "A finance team that understands your business"
     ]
   },
   "valueSection": {
-    "title": "Nous ne fournissons pas seulement des services — nous vous donnons le contrôle",
+    "title": "A Malta Accounting & Audit Firm Built Around Your Business",
     "bullets": [
-      "Données financières en temps réel sur votre tableau de bord",
-      "Comptabilité mise à jour en continu",
-      "Visibilité totale sur les workflows d’audit",
-      "Dépôts, jalons et échéances suivis",
-      "Accès direct à votre équipe dédiée",
-      "Planification d’appels à tout moment"
+      "Professional Expertise",
+      "Technology-Driven Workflows",
+      "Dedicated Client Portal",
+      "Clear Communication",
+      "International Reach Through BOKS",
+      "Structured Internal Processes"
     ],
-    "footer": "Vous savez toujours où vous en êtes — sans relancer personne."
+    "footer": "We do not just process numbers. We help businesses understand them, manage them, and use them to grow."
   },
   "keyBenefits": {
-    "title": "Tout pour piloter votre entreprise — sans complexité inutile",
+    "title": "Client Outcomes - What We Help Businesses Achieve",
     "items": [
       {
-        "title": "Suivez votre activité en temps réel",
-        "desc": "Pas d’attente. Pas d’incertitude. Une visibilité totale en permanence."
+        "title": "Cleaner Records",
+        "desc": "Your financial documents, transactions, and reports are kept organised and easier to review."
       },
       {
-        "title": "Restez conforme automatiquement",
-        "desc": "Échéances, déclarations et obligations sont suivies et gérées."
+        "title": "Better Compliance",
+        "desc": "We help you manage accounting, audit, tax, VAT, and payroll obligations more effectively."
       },
       {
-        "title": "Économisez davantage sur l’impôt",
-        "desc": "Des montages structurés et une optimisation continue vous aident à garder plus."
+        "title": "Less Administration",
+        "desc": "Our portal and automated workflows reduce manual document chasing and scattered communication."
       },
       {
-        "title": "Prenez de meilleures décisions",
-        "desc": "Des données claires et l’appui d’experts — quand vous en avez besoin."
+        "title": "More Control",
+        "desc": "You gain visibility over pending items, deadlines, financial performance, and compliance requirements."
       }
     ]
   },
   "positioningLine": {
-    "text": "Vous ne devriez pas avoir besoin de plusieurs prestataires pour gérer une seule entreprise."
+    "text": "Our goal is simple: to help you remain compliant, reduce financial administration, and make better business decisions."
   },
   "whatYouGet": {
-    "title": "Un système piloté — pas seulement des services déconnectés",
-    "badge": "Écosystème numérique",
-    "highlight": "Tout est pris en charge.",
-    "cardBody": "Entièrement intégré à votre espace A4 pour la visibilité et le contrôle.",
-    "cardMeta": "Service modulaire",
+    "title": "Your Accounting, Audit, Tax, VAT, Payroll, and Documents in One Place",
+    "badge": "A4 Client Portal",
+    "highlight": "One central portal.",
+    "cardBody": "A dedicated online portal designed to make financial administration easier, faster, and more organised.",
+    "cardMeta": "Digital Platform",
     "items": [
-      "Équipe dédiée à votre entreprise",
-      "Accompagnement expert en one-to-one",
-      "Votre propre portail pour tout gérer",
-      "Comptabilité interne avec mises à jour en temps réel",
-      "Workflows d’audit avec visibilité totale",
-      "Gestion fiscale et conformité",
-      "Support paie",
-      "Jalons et suivi d’avancement",
-      "Surveillance automatique des échéances",
-      "Chat direct avec votre équipe",
-      "Planification d’appels à tout moment"
+      "Upload invoices, receipts, and audit documents",
+      "View document requests from our team",
+      "Track missing information",
+      "Monitor deadlines and pending tasks",
+      "Access reports and submitted documents",
+      "Communicate with our team",
+      "Store financial documentation in one space",
+      "Manage VAT, audit, tax, and accounting documentation",
+      "Reduce email back-and-forth",
+      "Keep a clear record of submitted information"
     ],
-    "footer": "Vous n’embauchez pas des prestataires séparés — vous faites évoluer la façon dont votre entreprise est pilotée."
+    "footer": "The portal gives clients better visibility, stronger organisation, and a smoother experience."
   },
   "flexibility": {
-    "title": "Utilisez exactement ce dont vous avez besoin",
+    "title": "Bookkeeping Subscription Packages",
     "options": [
-      "Tous les services",
-      "Ou seulement certains"
+      "Essential Bookkeeping",
+      "Growth Finance",
+      "Finance Department"
     ],
-    "advisorsHeadline": "Vous travaillez déjà avec un comptable ou un avocat ?",
-    "advisorsBody": "Invitez vos conseils actuels dans votre portail et centralisez tout au même endroit.",
-    "advisorsNote": "(Disponible dans une option plateforme mensuelle)"
+    "advisorsHeadline": "Monthly Bookkeeping, Powered by Automation",
+    "advisorsBody": "Clients upload documents through the portal, and our systems help process, extract, organise, and match financial information. Our team then reviews, reconciles, and finalises the records.",
+    "advisorsNote": "(Reviewed by Professionals)"
   },
   "processSteps": {
-    "badge": "Comment ça marche",
-    "title": "Simple. Structuré. Rapide.",
+    "badge": "Our Process",
+    "title": "How we work with you",
     "sidebarSteps": [
       {
-        "title": "Créer votre compte",
-        "description": "Votre portail est prêt instantanément"
+        "title": "1. Initial Consultation",
+        "description": "We understand your business, structure, and goals."
       },
       {
-        "title": "Demander des services",
-        "description": "Dites-nous ce dont votre entreprise a besoin"
+        "title": "2. Service Assessment",
+        "description": "We identify the accounting, audit, or tax services you need."
       },
       {
-        "title": "Planifier un appel (si besoin)",
-        "description": "Parlez directement à votre équipe"
+        "title": "3. Portal Setup",
+        "description": "We set up your client portal to manage documents efficiently."
       },
       {
-        "title": "Recevoir votre devis",
-        "description": "Sous 24 heures"
+        "title": "4. Structured Delivery",
+        "description": "Our team manages the agreed services with professional review."
       },
       {
-        "title": "Démarrer et tout suivre",
-        "description": "Nous exécutons — vous gardez la main"
+        "title": "5. Ongoing Support",
+        "description": "We continue supporting your business throughout the year."
       }
     ],
-    "columnTitle": "Étape par étape",
+    "columnTitle": "Step-by-Step",
     "columnHeadingLine1": "Simple.",
-    "columnMid": "Structuré.",
-    "columnHeadingAccent": "Rapide.",
-    "columnBody": "Suivez ces étapes pour basculer la gestion de votre entreprise vers A4.",
-    "back": "Retour",
-    "submitting": "Envoi...",
-    "nextStepFallback": "Étape suivante",
-    "platformPowerLabel": "Puissance de la plateforme",
-    "platformPowerLine1": "Tout passe par une seule plateforme.",
-    "platformPowerLine2": "Visibilité en temps réel pour toute votre équipe.",
-    "registerDirectly": "S’inscrire directement",
-    "subjectLine": "Nouvelle demande de devis service",
+    "columnMid": "Structured.",
+    "columnHeadingAccent": "Effective.",
+    "columnBody": "Follow these steps to engage A4 Services for your business.",
+    "back": "Back",
+    "submitting": "Submitting...",
+    "nextStepFallback": "Next Step",
+    "platformPowerLabel": "A4 Client Portal",
+    "platformPowerLine1": "Everything runs through one platform.",
+    "platformPowerLine2": "Visibility and organisation for your business.",
+    "registerDirectly": "Learn More",
+    "subjectLine": "New Consultation Request",
     "errors": {
-      "fieldRequired": "{{field}} est requis",
-      "invalidEmail": "Adresse e-mail invalide",
-      "phoneRequired": "Le numéro de téléphone est requis",
-      "generic": "Une erreur s’est produite. Veuillez réessayer."
+      "fieldRequired": "{{field}} is required",
+      "invalidEmail": "Invalid email address",
+      "phoneRequired": "Phone number is required",
+      "generic": "Something went wrong. Please try again."
     },
     "success": {
-      "title": "Demande reçue",
-      "body": "Votre expert dédié examine votre demande et vous recontacte rapidement.",
-      "newRequest": "Envoyer une autre demande",
-      "registerNow": "Voir le portail"
+      "title": "Request Received",
+      "body": "Our team will review your request and reach out shortly.",
+      "newRequest": "Submit Another Request",
+      "registerNow": "Visit Website"
     },
     "form": {
       "request": {
-        "title": "Parlez-nous de vous",
-        "subtitle": "Décrivez brièvement vos besoins.",
+        "title": "Tell us about you",
+        "subtitle": "Briefly describe your business needs.",
         "fields": {
           "name": {
-            "label": "Nom complet",
-            "placeholder": "Votre nom"
+            "label": "Full Name",
+            "placeholder": "Your name"
           },
           "email": {
-            "label": "E-mail professionnel",
-            "placeholder": "email@entreprise.com"
+            "label": "Work Email",
+            "placeholder": "email@company.com"
           },
           "message": {
-            "label": "Présentation de l’entreprise",
-            "placeholder": "Décrivez brièvement votre activité..."
+            "label": "Business Overview",
+            "placeholder": "Briefly describe your company operations..."
           }
         },
-        "primaryLabel": "Suivant : services"
+        "primaryLabel": "Next: Services"
       },
       "onboarding": {
-        "title": "Choisir les services",
-        "subtitle": "Quel domaine de votre activité doit être piloté ?",
+        "title": "Select Services",
+        "subtitle": "Which area of your business needs management?",
         "fields": {
           "service": {
-            "label": "Services requis",
-            "placeholder": "Sélectionnez un ou plusieurs..."
+            "label": "Required Services",
+            "placeholder": "Select one or more..."
           },
           "additionalDetails": {
-            "label": "Exigences spécifiques",
-            "placeholder": "Juridictions ou complexité particulières ?"
+            "label": "Specific Requirements",
+            "placeholder": "Any specific jurisdictions or complexity we should know about?"
           }
         },
-        "primaryLabel": "Suivant : contact"
+        "primaryLabel": "Next: Communication"
       },
       "preferences": {
-        "title": "Derniers détails",
-        "subtitle": "Comment souhaitez-vous être contacté ?",
+        "title": "Final Details",
+        "subtitle": "How would you like us to contact you?",
         "fields": {
           "communicationChannel": {
-            "label": "Canal préféré",
-            "placeholder": "E-mail/WhatsApp/Appel"
+            "label": "Preferred Channel",
+            "placeholder": "Email/WhatsApp/Call"
           },
           "updateCadence": {
-            "label": "Fréquence des mises à jour",
-            "placeholder": "Hebdo/Mensuel/Sur demande"
+            "label": "Update Cadence",
+            "placeholder": "Weekly/Monthly/On-demand"
           },
           "phone": {
-            "label": "WhatsApp/Téléphone",
-            "placeholder": "+33..."
+            "label": "WhatsApp/Phone Number",
+            "placeholder": "+1..."
           }
         },
-        "primaryLabel": "Envoyer la demande de devis"
+        "primaryLabel": "Submit Request"
       }
     },
     "communicationOptions": [
-      "E-mail",
+      "Email",
       "WhatsApp",
-      "Appel",
-      "Visio"
+      "Call",
+      "Video Call"
     ],
     "updateOptions": [
-      "Hebdomadaire",
-      "Bihebdomadaire",
-      "Mensuel",
-      "Temps réel"
+      "Weekly",
+      "Monthly",
+      "Quarterly",
+      "Annually"
     ]
   },
   "globalDelivery": {
-    "badge": "Portée mondiale",
-    "title": "Opérez partout — sans complexité",
-    "body": "Tous les services sont délivrés via un réseau mondial de cabinets vérifiés.",
+    "badge": "BOKS International",
+    "title": "Local Expertise. International Reach.",
+    "body": "A4 Services Limited is an independent member of BOKS International. Through this international association, we can support clients who require cross-border professional assistance.",
     "bullets": [
-      "Expertise locale dans chaque pays",
-      "Processus standardisés",
-      "Un système coordonné"
+      "Cross-border professional assistance",
+      "International coordination",
+      "Access to trusted advisors in other jurisdictions"
     ],
-    "footer": "Vous ne gérez pas plusieurs prestataires — nous coordonnons tout."
+    "footer": "Particularly valuable for businesses with international structures or overseas shareholders."
   },
   "realTimeControl": {
-    "title": "Sachez exactement où vous en êtes — en permanence",
-    "subtitle": "Dans votre portail :",
+    "title": "We Combine Professional Advice With Digital Efficiency",
+    "subtitle": "With A4 Services, clients benefit from:",
     "items": [
-      "tableau de bord financier en temps réel",
-      "mises à jour comptables",
-      "avancement de l’audit",
-      "déclarations fiscales et échéances",
-      "suivi de la paie",
-      "gestion documentaire",
-      "demandes de services",
-      "planification d’appels",
-      "communication directe avec votre équipe"
+      "A professional accounting and audit team",
+      "Malta-based expertise",
+      "Dedicated client portal access",
+      "Automated bookkeeping workflows",
+      "Structured document management",
+      "Clear communication",
+      "Technology-supported processes",
+      "Practical business advice",
+      "Support beyond compliance"
     ],
-    "footer": "Tout au même endroit. Aucune confusion."
+    "footer": "Move from reactive finance administration to structured financial management."
   },
   "beforeAfter": {
-    "badge": "Upgrade d’infrastructure",
-    "titleLine1": "De fragmenté à ",
-    "titleHighlight": "entièrement structuré",
-    "subtitle": "Passer de prestataires isolés à un système unifié.",
-    "beforeTitle": "Avant",
-    "afterTitle": "Après",
+    "badge": "Modern Alternative",
+    "titleLine1": "From traditional firms to ",
+    "titleHighlight": "modern accounting",
+    "subtitle": "Many businesses are used to accounting firms that work reactively. A4 Services is built differently.",
+    "beforeTitle": "Traditional Accounting Firm",
+    "afterTitle": "A4 Services",
     "beforeItems": [
-      "plusieurs prestataires",
-      "aucune visibilité",
-      "relances constantes",
-      "échéances manquées"
+      "Manual document collection",
+      "Long email chains",
+      "Limited visibility",
+      "Reactive communication",
+      "Delayed reporting",
+      "Disorganised records"
     ],
     "afterItems": [
-      "une plateforme",
-      "une équipe dédiée",
-      "un expert attitré",
-      "données en temps réel",
-      "tout est suivi"
+      "Dedicated client portal",
+      "Digital document workflows",
+      "Automated bookkeeping options",
+      "Clear deadline tracking",
+      "Professional review",
+      "Faster communication"
     ],
-    "beforeGifAlt": "Frustration avec des prestataires fragmentés",
-    "afterGifAlt": "Réussite avec une plateforme unifiée",
-    "hoverPlayDesktop": "Survoler pour lire",
-    "hoverPlayMobile": "Appuyer pour lire",
-    "footerLine": "Faites évoluer la façon dont votre entreprise est pilotée."
+    "beforeGifAlt": "Traditional Accounting",
+    "afterGifAlt": "A4 Services",
+    "hoverPlayDesktop": "Hover to Play",
+    "hoverPlayMobile": "Tap to Play",
+    "footerLine": "We combine professional expertise with modern systems."
   },
   "twoWaysToStart": {
-    "badge": "Deux façons de commencer",
-    "titleLine1": "Choisissez votre voie —",
-    "titleHighlight": "un seul espace",
-    "subtitle": "Demandez des services sur la marketplace ou invitez vos conseils existants. Les deux parcours restent connectés dans le même portail.",
-    "spotlightBadge": "Aperçu de l’espace",
-    "spotlightTitle": "Invitez vos conseils en quelques clics",
-    "spotlightBody": "Invitations sécurisées, rôles clairs et espace partagé pour documents et mises à jour — pour ne rien perdre entre cabinets.",
+    "badge": "Built for Malta Businesses",
+    "titleLine1": "We support businesses operating in Malta — ",
+    "titleHighlight": "across a wide range of sectors.",
+    "subtitle": "Whether you are launching a new company, managing growth, or preparing for audit, A4 Services can support you.",
+    "spotlightBadge": "Our Clients",
+    "spotlightTitle": "Who we work with",
+    "spotlightBody": "We understand the local compliance environment, reporting obligations, VAT requirements, and practical challenges faced by businesses in Malta.",
     "spotlightBullets": [
-      "Accès par rôle",
-      "Coffre documentaire partagé",
-      "Historique d’activité complet"
+      "Startups & growing companies",
+      "Local & international trading businesses",
+      "Regulated entities & high-net-worth individuals"
     ],
-    "videoAlt": "Invitation d’un conseil dans l’espace A4",
-    "cta": "Ouvrir votre portail"
+    "videoAlt": "Working with A4 Services",
+    "cta": "Speak to our team"
   },
   "conversion": {
-    "title": "Créez votre portail et commencez",
-    "body": "Configurez votre compte, demandez des services et recevez un devis sous 24 heures.",
-    "cta": "Créer votre portail"
+    "title": "When Should You Contact A4 Services?",
+    "body": "You should speak to us if you need an accounting firm in Malta, your company requires a statutory audit, your bookkeeping is behind, or you want better visibility over your business numbers.",
+    "cta": "Book a Consultation"
   },
   "callOption": {
-    "title": "Vous préférez nous parler ?",
-    "body": "Planifiez un appel avec votre équipe à tout moment.",
-    "cta": "Planifier un appel"
+    "title": "Prefer to view our services first?",
+    "body": "Explore our full range of accounting, audit, tax, and advisory services.",
+    "cta": "View Our Services"
   },
   "finalSection": {
-    "title": "Tout ce dont votre entreprise a besoin — géré au même endroit",
-    "body": "De la création à la comptabilité, l’audit, la fiscalité, la paie et la conformité — tout transite par une plateforme avec visibilité totale.",
-    "note": "Utilisez tous les services ou seulement ce dont vous avez besoin.",
-    "finalLine": "Une équipe. Une plateforme. Visibilité en temps réel. Tout est pris en charge."
+    "title": "A4 Services Limited",
+    "body": "Accounting & Audit Firm in Malta helping businesses stay compliant, organised, and financially informed through professional services.",
+    "note": "www.a4.com.mt",
+    "finalLine": "Accounting • Statutory Audit • Tax • VAT • Payroll • Fractional CFO • Automated Bookkeeping"
   },
   "activeEU": {
-    "badge": "Portée internationale",
-    "titleLine1": "Une passerelle structurée ",
-    "titleHighlight": "vers l’Europe.",
-    "body": "A4 offre l’environnement numérique pour les entreprises internationales et les fondateurs qui veulent créer, gérer et développer leurs opérations européennes en toute confiance.",
+    "badge": "Our Services",
+    "titleLine1": "Comprehensive Accounting & ",
+    "titleHighlight": "Audit Solutions",
+    "body": "A4 Services provides organised and reliable accounting, statutory audit, tax, VAT, and payroll support to help businesses maintain clean financial records and meet reporting obligations.",
     "chips": [
-      "27 pays",
-      "API unifiée",
-      "Experts locaux"
+      "Accounting",
+      "Statutory Audit",
+      "Tax & VAT",
+      "Payroll"
     ],
-    "hubAlt": "Hub A4"
+    "hubAlt": "A4 Services"
   },
   "workspaceEntry": {
-    "sectionTitleLine1": "Un espace de travail pour votre entreprise —",
-    "sectionTitleHighlight": "et tous vos services",
-    "sectionBody": "La comptabilité, l’audit, le juridique et la conformité ne devraient pas être éclatés.\n\nA4 centralise tout sur une plateforme structurée — services, documents et échéances au même endroit.\n\nPas d’e-mails interminables. Pas de fichiers éparpillés. Pas d’incertitude.",
-    "activeEntities": "Entités actives",
-    "card1TitleBefore": "Votre entreprise — ",
-    "card1TitleAccent": "parfaitement organisée",
-    "card1Body": "Créez un espace de travail et gérez tout au même endroit.\n\nVos services, documents et conseils sont structurés via une seule plateforme — contrôle total sans complexité.",
-    "card1CoordinationNote": "Tous les services sont coordonnés par A4 et délivrés via un réseau de cabinets de confiance.",
-    "whatYouCanDo": "Ce que vous pouvez faire",
+    "sectionTitleLine1": "Automated Bookkeeping — ",
+    "sectionTitleHighlight": "Reviewed by Professionals",
+    "sectionBody": "A4 Services offers automated bookkeeping subscriptions directly through our client portal.\n\nThis service is designed for businesses that want modern bookkeeping without losing the support of a professional accounting team.",
+    "activeEntities": "Subscription Options",
+    "card1TitleBefore": "Essential ",
+    "card1TitleAccent": "Bookkeeping",
+    "card1Body": "For small businesses that need clean records and basic monthly accounting support.",
+    "card1CoordinationNote": "Includes client portal access, monthly document uploads, and basic reporting.",
+    "whatYouCanDo": "Best for: small businesses, consultants, freelancers",
     "card1Bullets": [
-      "Visibilité complète sur les missions",
-      "Gestion documentaire centralisée",
-      "Suivi des échéances en temps réel"
+      "Basic bookkeeping",
+      "Bank reconciliation",
+      "Invoice processing"
     ],
-    "createWorkspaceCta": "Créer un espace de travail",
-    "oneClickSync": "Synchronisation en un clic",
-    "newFounders": "Nouveaux fondateurs",
-    "card2Title": "Créez votre société et ",
-    "card2TitleAccent": "scalez dès le premier jour.",
-    "card2Body": "Créez votre entreprise et centralisez création, validations, conformité et accompagnement continu dans le même espace que celui utilisé pour la gestion courante.",
-    "startIncorporationCta": "Lancer la création",
-    "bookConsultationCta": "Réserver une consultation",
-    "card1MicroLabel": "Intégration système",
-    "card1MicroAccent": "Espace opérationnel",
-    "card2MicroLabel": "Moteur d’expansion",
-    "card2MicroAccent": "Lancement de projet",
-    "keyCapabilitiesHeading": "Fonctionnalités clés",
-    "builderBadge": "Pack Builder",
-    "builderDescription": "Création complète, mise en place structurelle et conformité — le tout dans un package unifié."
+    "createWorkspaceCta": "View Plans",
+    "oneClickSync": "Professional Review",
+    "newFounders": "Established Businesses",
+    "card2Title": "Finance ",
+    "card2TitleAccent": "Department",
+    "card2Body": "For businesses that want a fully outsourced finance function, including payroll, cash flow reporting, and strategic financial advice.",
+    "startIncorporationCta": "Speak to Our Team",
+    "bookConsultationCta": "Book a Consultation",
+    "card1MicroLabel": "Monthly support",
+    "card1MicroAccent": "Clean records",
+    "card2MicroLabel": "Outsourced finance",
+    "card2MicroAccent": "Strategic advice",
+    "keyCapabilitiesHeading": "Growth Finance",
+    "builderBadge": "Growing companies",
+    "builderDescription": "Everything in Essential, plus VAT support, management reports, and deadline tracking."
   },
   "insightsResources": {
-    "badge": "INSIGHTS & RESSOURCES",
-    "titleLine1": "Des insights pratiques",
-    "titleHighlight": "pour les entreprises modernes",
-    "subtitle": "Vidéos courtes, guides et articles sur la comptabilité, l’audit, la conformité et les opérations — pour rester organisé, informé et prêt à scaler.",
-    "viewAll": "Voir toutes les ressources",
-    "watchVideo": "Voir la vidéo",
-    "readMore": "Lire la suite",
-    "videoModalEyebrow": "Insights A4",
-    "videoModalHint": "Sélectionnez une vidéo",
-    "videoNowPlaying": "Lecture en cours",
-    "videoModalCloseAria": "Fermer la vidéo",
+    "badge": "FAQ",
+    "titleLine1": "Frequently Asked ",
+    "titleHighlight": "Questions",
+    "subtitle": "Find answers about our services, processes, and how we can support your business in Malta.",
+    "viewAll": "View all FAQs",
+    "watchVideo": "Read Answer",
+    "readMore": "Read more",
+    "articleType": "Answer",
+    "noPosts": "No FAQs available.",
+    "videoModalEyebrow": "A4 FAQ",
+    "videoModalHint": "Select a question",
+    "videoNowPlaying": "Viewing Answer",
+    "videoModalCloseAria": "Close answer",
     "videoPlaylist": [
       {
-        "title": "L’entreprise moderne"
+        "title": "Is A4 Services an accounting firm in Malta?"
       },
       {
-        "title": "Comment l’IA améliore réellement l’équilibre vie pro / vie perso"
+        "title": "Do you provide statutory audit services?"
       }
     ],
     "resources": [
       {
-        "type": "Article",
-        "category": "Audit & comptabilité",
-        "title": "Préparer votre entreprise à un audit sans friction",
-        "desc": "Les documents, workflows et calendriers nécessaires pour mener un audit sereinement."
+        "type": "Answer",
+        "category": "General",
+        "title": "Is A4 Services an accounting firm in Malta?",
+        "desc": "Yes. A4 Services Limited is an accounting and audit firm in Malta providing accounting, statutory audit, tax, VAT, payroll, and advisory services."
       },
       {
-        "type": "Vidéo",
-        "category": "Insights",
-        "title": "Deux courtes vidéos A4",
-        "desc": "Ce qui peut se gripper lorsqu’une entreprise mise sur la taille sans les fondations adaptées, et comment l’IA peut soulager concrètement les équipes : choisissez une vidéo dans la playlist ci-dessous."
+        "type": "Answer",
+        "category": "Services",
+        "title": "Do you provide statutory audit services?",
+        "desc": "Yes. We provide statutory audit and assurance services for companies requiring audit support in Malta."
       },
       {
-        "type": "Guide",
-        "category": "Opérations",
-        "title": "La checklist ultime pour faire évoluer vos opérations",
-        "desc": "Vérifiez que votre infrastructure juridique, comptable et opérationnelle est prête à scaler."
+        "type": "Answer",
+        "category": "Services",
+        "title": "Do you offer monthly bookkeeping?",
+        "desc": "Yes. We provide monthly bookkeeping services, including automated bookkeeping subscriptions through our client portal."
       }
     ]
   },
   "footerCta": {
-    "badge": "Upgrade d’infrastructure",
-    "titleLine1": "Arrêtez de jongler entre plusieurs prestataires.",
-    "titleHighlight": "Tout est pris en charge.",
-    "body": "Configurez votre portail aujourd’hui et recevez un devis clair et structuré sous 24 heures.",
-    "quoteCta": "Obtenir un devis",
-    "demoCta": "Réserver une démo"
-  },
-  "heroLeft": {
-    "scrollDown": "Défiler",
-    "title": "What A4 Is",
-    "body": "A4 est un cabinet moderne de comptabilité, d'audit et de services sociétés structuré autour d'une plateforme numérique unique. Nous gérons comptabilité, conformité, corporate et audit de bout en bout grâce à notre technologie pour la clarté, la rapidité et la visibilité. A4 n'est ni un logiciel DIY ni une marketplace. Nous sommes un cabinet professionnel qui fait le travail pour vous, via un portail client sécurisé.",
-    "footerTitle": "Équipes dédiées. Responsabilité claire.",
-    "footerBody": "Chaque client est accompagné par une équipe A4 nommée."
-  },
-  "auditPlatform": {},
-  "inviteAdvisors": {
-    "titleLine1": "Invitez vos conseillers.",
-    "titleHighlight": "Gardez tout au même endroit.",
-    "body": "Vous travaillez déjà avec un comptable, un auditeur ou un avocat ? Amenez-les dans votre espace A4 et gérez les demandes, les documents, les approbations et les échéances dans un environnement structuré.",
-    "bullets": [
-      "Gardez vos relations existantes avec vos conseillers",
-      "Centralisez les documents et les demandes",
-      "Suivez les échéances et les services au même endroit",
-      "Créez un flux de travail plus clair et professionnel pour tous"
-    ],
-    "createWorkspaceCta": "Créer un espace de travail",
-    "gifAlt": "Inviter un conseiller, le conseiller rejoint, espace partagé",
-    "gifPlaceholderTitle": "Emplacement GIF",
-    "gifPlaceholderHint": "Veuillez charger votre GIF ici :",
-    "gifPlaceholderPath": "/public/assets/videos/Invite_Advisor.gif"
-  },
-  "howItWorks": {
-    "badge": "Comment ça marche",
-    "titleLine1": "Simple. Structuré.",
-    "titleHighlight": "Géré.",
-    "subtitle": "",
-    "twoWaysToStart": {
-      "badge": "COMMENCEZ À VOTRE FAÇON",
-      "titleLine1": "Deux manières de ",
-      "titleHighlight": "commencer",
-      "subtitle": "Que vous cherchiez un nouvel expert ou que vous travailliez déjà avec des conseillers de confiance, A4 vous offre un espace structuré pour tout gérer.",
-      "marketplaceBadge": "PLACE DE MARCHÉ",
-      "recommendedBadge": "RECOMMANDÉ",
-      "marketplaceTitle": "Trouvez le bon conseiller",
-      "marketplaceSubtitle": "Soumettez une demande et recevez des propositions structurées de cabinets vérifiés. Comparez les options et choisissez le bon partenaire.",
-      "inviteBadge": "INVITER",
-      "inviteTitle": "Travaillez avec vos conseillers",
-      "inviteSubtitle": "Vous avez déjà des conseillers de confiance ? Amenez-les dans votre espace de travail structuré pour tout gérer au même endroit.",
-      "inviteFlowSteps": [
-        {
-          "title": "Invitez votre conseiller",
-          "desc": "Invitez facilement votre comptable, auditeur ou conseiller actuel à rejoindre votre espace de travail et à rester connecté."
-        },
-        {
-          "title": "Le conseiller rejoint l’espace de travail",
-          "desc": "Votre conseiller rejoint en toute sécurité le profil de votre entreprise et accède aux documents et demandes pertinents."
-        },
-        {
-          "title": "Collaboration centralisée",
-          "desc": "Travaillez ensemble au même endroit — partagez des documents, gérez les demandes et suivez l’avancement sans friction."
-        },
-        {
-          "title": "Gérer et développer la relation",
-          "desc": "Maintenez votre relation existante tout en bénéficiant de processus plus structurés et plus efficaces."
-        }
-      ],
-      "footerCta": "Créer un espace de travail",
-      "footerNote": "Commencez en 2 minutes"
-    }
-  },
-  "servicesSection": {
-    "badge": "Écosystème Professionnel",
-    "titleLine1": "Des services via ",
-    "titleHighlight": "une plateforme connectée",
-    "subtitle": "A4 aide votre entreprise à accéder aux services professionnels via un espace de travail structuré.",
-    "tabServices": "Services",
-    "tabProducts": "Produits",
-    "explorePhase": "Phase d'exploration",
-    "launchDashboard": "Lancer le tableau de bord",
-    "categoryService": "Service",
-    "categoryPlatform": "Plateforme",
-    "defaultSubtitle": "Soutien structuré via une plateforme numérique unique.",
-    "serviceTitles": {
-      "accounting-finance": "Comptabilité & Finance",
-      "audit-assurance": "Audit & Assurance",
-      "corporate-csp-services": "Services aux Entreprises",
-      "advisory-growth": "Services Juridiques",
-      "tax-compliance": "Fiscalité & Conformité"
-    },
-    "serviceSubtitles": {
-      "accounting-finance": "Gestion comptable, flux de trésorerie, gestion documentaire et coordination financière.",
-      "tax-compliance": "Déclarations fiscales, conseils, échéances et suivi réglementaire.",
-      "audit-assurance": "Audits légaux, missions d'assurance, coordination et livraison par étapes.",
-      "corporate-csp-services": "Secrétariat juridique, gouvernance, maintenance statutaire et administration.",
-      "regulated-licensing": "Aide aux demandes de licences, renouvellements et dépôts réglementaires.",
-      "advisory-growth": "Support juridique d'entreprise, contrats, transactions, conseil et structuration.",
-      "vat-services": "Immatriculations TVA, déclarations de TVA et assistance fiscale indirecte.",
-      "payroll-employment": "Administration de la paie, support à l'emploi et déclarations sociales."
-    },
-    "products": [
-      {
-        "title": "Portail Client",
-        "subtitle": "Documents, requêtes et communication sécurisée.",
-        "badge": "En vedette"
-      },
-      {
-        "title": "Portail Audit",
-        "subtitle": "Flux de travail structurés et livraison d'audit."
-      },
-      {
-        "title": "Portail Comptabilité",
-        "subtitle": "Tableau de bord financier en temps réel.",
-        "badge": "Nouveau"
-      }
-    ]
-  },
-  "marketplace": {
-    "badge": "Marché des Propositions",
-    "titleLine1": "Une place de marché ",
-    "titleHighlight": "fondée sur la confiance.",
-    "body": "Envoyez un appel d'offres (RFP) à des cabinets de premier plan. Choisissez parmi des prestataires locaux, régionaux ou internationaux. Le Marché A4 vous donne accès direct à un réseau vérifié.",
-    "registerCta": "S'inscrire pour les Propositions",
-    "gifAlt": "Interface de demande de service",
-    "steps": [
-      {
-        "number": "01",
-        "title": "Demander un Service",
-        "desc": "Sélectionnez le service et donnez les premiers détails via votre espace sécurisé."
-      },
-      {
-        "number": "02",
-        "title": "Coordination A4",
-        "desc": "Nous informons les cabinets partenaires vérifiés et coordonnons le processus d'appel d'offres."
-      },
-      {
-        "number": "03",
-        "title": "Propositions Structurées",
-        "desc": "Recevez des offres standardisées via votre espace, faciles à comparer et évaluer."
-      },
-      {
-        "number": "04",
-        "title": "Choisir & Engager",
-        "desc": "Comparez les options, choisissez l'expert adapté et lancez la mission immédiatement."
-      }
-    ]
-  },
-  "whyA4": {
-    "badge": "L'Avantage A4",
-    "titleLine1": "Structuré. ",
-    "titleHighlight": "Sécurisé. Évolutif.",
-    "subtitle": "A4 est conçu pour l'entreprise moderne. Que vous soyez une startup ou un groupe établi, notre plateforme apporte la structure nécessaire à votre croissance.",
-    "card1Title": "Source Unique de Vérité",
-    "card1Body": "Toutes vos sociétés, vos services, vos documents et conseillers en un seul lieu. Ne cherchez plus dans vos e-mails.",
-    "card2Title": "Cabinets Vérifiés",
-    "card2Body": "Nous ne travaillons qu'avec des cabinets pré-approuvés qui respectent nos standards élevés de livraison et d'expertise.",
-    "qualityLabel": "Qualité Garantie",
-    "cta": "Découvrir A4"
-  },
-  "trust": {
-    "badge": "Sécurité Maximale",
-    "titleLine1": "La confiance des ",
-    "titleHighlight": "entreprises mondiales.",
-    "subtitle": "De l'onboarding à la conformité continue, tout se passe dans un espace sécurisé. Rejoignez le futur de la gestion de services experts.",
-    "largeCardTitleLine1": "Infrastructure Mondiale ",
-    "largeCardTitleHighlight": "Fiable par Nature.",
-    "largeCardBody": "A4 fournit un environnement numérique résilient pour une coordination unifiée, garantissant la continuité de votre activité partout dans le monde.",
-    "multiRegionLabel": "Redondance Multi-Région",
-    "uptimeTitle": "Disponibilité Inégalée",
-    "uptimeBody": "Notre plateforme assure une disponibilité de 99,99%, garantissant que votre espace soit toujours prêt quand vous en avez besoin.",
-    "statusCore": "Systèmes Cœurs",
-    "statusOperational": "OPÉRATIONNEL",
-    "statusDataSync": "Sync de Données",
-    "statusSynchronized": "SYNCHRONISÉ",
-    "features": [
-      {
-        "title": "Chiffrement Bancaire",
-        "desc": "Tous les documents et communications sont protégés par chiffrement AES-256 dans un coffre-fort numérique."
-      },
-      {
-        "title": "Support Entreprise 24/7",
-        "desc": "Notre équipe support est disponible jour et nuit pour vous aider dans la navigation et la coordination."
-      }
-    ],
-    "securityCta": "Voir Sécurité & Conformité",
-    "footerRealTime": "Protection en temps réel",
-    "footerGlobal": "Infrastructure Mondiale"
-  },
-  "companySetup": {
-    "badge": "Incorporation Simplifiée",
-    "titleLine1": "L'incorporation ",
-    "titleHighlight": "en toute simplicité.",
-    "subtitle": "Que vous vous installiez aux Émirats ou ailleurs, A4 offre la structure nécessaire pour lancer et faire croitre votre entreprise.",
-    "col1Title": "Conseils d'Experts",
-    "col1Items": [
-      "Nouvelles constitutions de sociétés",
-      "Siège social et domiciliation",
-      "Secrétariat juridique",
-      "Mise en place & maintenance statutaire"
-    ],
-    "col2Title": "Automatisation Documentaire",
-    "col2Items": [
-      "Visibilité en temps réel sur les dépôts",
-      "Suivi des échéances",
-      "Calendrier de conformité",
-      "Gestion du registre statutaire"
-    ],
-    "col3Title": "Rayonnement Global",
-    "col3Items": [
-      "Gérer les transferts d'actions",
-      "Changements de dirigeants",
-      "Mises à jour de structure",
-      "Support à l'expansion internationale"
-    ],
-    "startIncorporationCta": "Lancer l'incorporation",
-    "bookConsultationCta": "Réserver une consultation"
-  },
-  "complianceDashboard": {
-    "titleLine1": "Restez conforme. ",
-    "titleHighlight": "Gardez une longueur d'avance.",
-    "body": "La conformité n'est pas ponctuelle ; c'est un processus continu. Alertes automatisées, gestion d'entité et mises à jour réglementaires vous informent en temps réel.",
-    "scoreLabel": "Score de Conformité",
-    "onTrack": "En règle",
-    "deadlinesHeading": "Échéances Prochaines",
-    "vatTitle": "Déclaration TVA",
-    "vatDue": "Due dans 7 jours",
-    "vatStatus": "En attente",
-    "annualTitle": "Déclaration Annuelle",
-    "annualDue": "Due dans 20 jours",
-    "annualStatus": "Planifié",
-    "footerNote": "Tout est visible au même endroit – fini les tableurs et les suivis manuels."
-  },
-  "multiCompany": {
-    "badge": "Gestion Multi-Entités",
-    "titleLine1": "Évoluez sans ",
-    "titleHighlight": "la complexité.",
-    "body": "Gérer une entreprise est difficile. En gérer dix ne devrait pas l'être. A4 est bâti pour les fondateurs et groupes gérant plusieurs entités.",
-    "foundersHub": "Hub Fondateurs",
-    "activeLabel": "Actif",
-    "switchLabel": "Changer",
-    "engagementsSummary": "32 missions actives dans le groupe",
-    "highlights": [
-      "Tableau de bord unifié",
-      "Visibilité à l'échelle du groupe",
-      "Changement d'espace instantané",
-      "Coordination standardisée"
-    ],
-    "cta": "Inscrire votre Groupe",
-    "mockCompanies": [
-      {
-        "name": "Atlas Holding Ltd",
-        "type": "Groupe Parent"
-      },
-      {
-        "name": "Nova Logistics SpA",
-        "type": "Filiale"
-      },
-      {
-        "name": "Polaris Tech GmbH",
-        "type": "Succursale"
-      },
-      {
-        "name": "Zenith Services Corp",
-        "type": "Nouvelle Entité"
-      }
-    ]
-  },
-  "platformPower": {
-    "badge": "Intelligence Plateforme",
-    "titleLine1": "Une manière plus intelligente de ",
-    "titleHighlight": "gérer les services aux entreprises.",
-    "body": "A4 offre la structure et la transparence nécessaires pour coordonner plusieurs cabinets, gérer la conformité et faire évoluer vos opérations via une plateforme sécurisée.",
-    "highlights": [
-      "Visibilité totale sur chaque engagement professionnel",
-      "Gestion documentaire sécurisée et suivi historique",
-      "Communication intégrée avec des conseillers vérifiés",
-      "Surveillance en temps réel des dépôts et échéances"
-    ],
-    "createWorkspaceCta": "Créer un espace",
-    "registerQuoteCta": "S'inscrire pour un devis",
-    "workspaceLabel": "Espace A4",
-    "auditAssurance": "Audit & Assurance",
-    "activeEngagement": "Mission active",
-    "teamNotifications": "Notifications d'équipe",
-    "notif1": "Projet d'états financiers chargé par l'auditeur",
-    "notif1Time": "il y a 2 min",
-    "notif2": "Le fiscaliste a demandé des documents",
-    "notif2Time": "il y a 1h",
-    "docCompliance": "Conformité Documentaire",
-    "syncHint": "Tout est synchronisé avec le conseiller principal.",
-    "onTrack": "En règle",
-    "actionsPending": "2 actions en attente",
-    "pdfName": "TVA_Q1.pdf",
-    "pendingReview": "Revue en attente"
-  },
-  "portalFeature": {
-    "featureLabel": "Fonctionnalité",
-    "features": [
-      {
-        "title": "La comptabilité qui alimente tout le reste",
-        "description": "Votre comptabilité tourne en continu en arrière-plan. Vous chargez les documents — notre équipe comptabilise, nettoie et vérifie tout. Une fois la comptabilité terminée, la TVA, la fiscalité, l'audit et le reporting peuvent se dérouler sans accroc.",
-        "content": [
-          "État de la comptabilité mensuelle",
-          "Documents manquants clairement listés",
-          "Rapprochements bancaires effectués",
-          "Prêt pour la TVA et l'Audit"
-        ],
-        "buttonText": "Comment fonctionne la comptabilité"
-      },
-      {
-        "title": "TVA et Paie, période après période",
-        "description": "La TVA et la paie se déroulent sur des cycles fixes. Chaque dépôt est automatiquement suivi, préparé, soumis et archivé. Si rien ne change, confirmez simplement — et nous nous occupons du reste.",
-        "content": [
-          "Périodes de TVA avec échéances",
-          "Bulletins de paie mensuels",
-          "Confirmations de dépôt",
-          "Confirmations 'sans changement'"
-        ],
-        "buttonText": "TVA & Paie en action"
-      },
-      {
-        "title": "Services aux entreprises avec suivi d'échéance",
-        "description": "Les services aux entreprises ne sont pas mensuels — ils ont une date d'expiration. Les mandats, le siège social et le secrétariat sont surveillés par date d'échéance. Les renouvellements sont déclenchés automatiquement — avec rappels et facturation.",
-        "content": [
-          "Services d'entreprise actifs",
-          "Dates d'expiration clairement affichées",
-          "Alertes de renouvellement avant échéance",
-          "Aucune obligation manquée"
-        ],
-        "buttonText": "Voir les services d'entreprise"
-      }
-    ]
-  },
-  "faqSection": {
-    "badge": "Pourquoi A4",
-    "title": "Collaboration ",
-    "titleHighlight": "Structurée",
-    "subtitle": "Accédez à la clarté et au contrôle avec un espace de travail numérique unifié conçu pour les services professionnels.",
-    "items": [
-      {
-        "title": "Clarté",
-        "desc": "Visibilité totale sur les missions, les documents et les échéances dans un hub unique."
-      },
-      {
-        "title": "Structure",
-        "desc": "Des flux de travail définis garantissent que les services professionnels sont fournis de manière cohérente."
-      },
-      {
-        "title": "Collaboration",
-        "desc": "Travaillez sans couture avec plusieurs conseillers via une plateforme sécurisée unique."
-      },
-      {
-        "title": "Contrôle",
-        "desc": "Suivez la conformité, les dépôts et les opérations depuis un tableau de bord central."
-      }
-    ],
-    "healthLabel": "Santé Financière",
-    "growthLabel": "Croissance",
-    "equityLabel": "État de la table de capitalisation",
-    "issuedCap": "Capital Émis",
-    "supportLabel": "Support Direct"
+    "badge": "Final Call to Action",
+    "titleLine1": "Speak to a Malta Accounting & Audit Firm ",
+    "titleHighlight": "That Works Differently",
+    "body": "Whether you need annual compliance support, monthly accounting, audit services, or a complete outsourced finance function, our team is ready to help.",
+    "quoteCta": "Book a Consultation",
+    "demoCta": "Contact A4 Services"
   }
 }
