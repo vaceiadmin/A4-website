@@ -2,7 +2,7 @@
 "use client";
 
 import React from "react";
-import { Button, Eyebrow, Icon, Container, Reveal } from "@/components/a4-landing/Primitives";
+// import { Button, Eyebrow, Icon, Container, Reveal } from "@/components/a4-landing/Primitives";
 
 export function LinkedInGlyph({ size = 18, color = "#fff" }) {
   return (
@@ -13,6 +13,11 @@ export function LinkedInGlyph({ size = 18, color = "#fff" }) {
 }
 
 export function Insights() {
+  // TODO: Link to real insight articles once they are published. 
+  // Hiding section until then to prevent dead links on the homepage.
+  return null;
+
+  /*
   const posts = [
     { cat: "Artificial Intelligence", icon: "cpu", tint: "rgba(73,79,223,.10)", color: "var(--a4-primary)", title: "The AI spending boom: what businesses should learn before investing in AI", excerpt: "As global firms pour billions into AI infrastructure, SMEs face a different question — not whether to adopt AI, but where it creates real value versus overspend." },
     { cat: "Client Communication", icon: "mail-x", tint: "rgba(0,168,126,.10)", color: "var(--a4-accent-teal)", title: "Why email is failing professional services", excerpt: "Email is useful for communication, but it is not built to manage professional service workflows. Inbox-based processes create delays, version confusion and weak accountability." },
@@ -56,4 +61,6 @@ export function Insights() {
       </Container>
     </section>
   );
+  */
 }
+
